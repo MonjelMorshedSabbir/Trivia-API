@@ -1,10 +1,10 @@
 {
-    "Main_S_URl":"Mother URL",
+    "Main_S_URl":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Subjects/",
     "S":[
         {
             "n": "Science",
             "i": "",
-            "fn": ""
+            "fn": "science"
         },
         {
             "n": "Commerce",
