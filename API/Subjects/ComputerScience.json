@@ -1,43 +1,43 @@
 {
-    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Subjects/Commerce/",
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Subjects/ComputerScience/",
     "q":[
         {
-            "n": "Accounting",
+            "n": "Programming",
             "i": "",
             "fn": ""
         },
         {
-            "n": "Economics",
+            "n": "Data Structures",
             "i": "",
             "fn": ""
         },
         {
-            "n": "Business Studies",
+            "n": "Algorithms",
             "i": "",
             "fn": ""
         },
         {
-            "n": "Finance",
+            "n": "Database Management",
             "i": "",
             "fn": ""
         },
         {
-            "n": "Marketing",
+            "n": "Operating Systems",
             "i": "",
             "fn": ""
         },
         {
-            "n": "Entrepreneurship",
+            "n": "Web Development",
             "i": "",
             "fn": ""
         },
         {
-            "n": "Statistics",
+            "n": "Networking",
             "i": "",
             "fn": ""
         },
         {
-            "n": "Business Law",
+            "n": "Artificial Intelligence",
             "i": "",
             "fn": ""
         }        
