@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/ComputerScience/",
+    "q":[
+        {
+            "n": "Programming",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Data Structures",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Algorithms",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Database Management",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Operating Systems",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Web Development",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Networking",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Artificial Intelligence",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}

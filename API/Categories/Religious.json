@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/Religious/",
+    "q":[
+        {
+            "n": "Islamic Studies",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Comparative Religion",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "World Religions",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Biblical Studies",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Hinduism Studies",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Buddhism Studies",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Judaism Studies",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Christian Theology",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/GlobalStudies/",
+    "q":[
+        {
+            "n": "Geography",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "World History",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Cultural Anthropology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Globalization",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "International Development",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Human Geography",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Global Issues",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "International Law",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}

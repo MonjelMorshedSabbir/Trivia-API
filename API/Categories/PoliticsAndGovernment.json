@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/PoliticsAndGovernment/",
+    "q":[
+        {
+            "n": "Political Science",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "International Relations",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Comparative Politics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Public Administration",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Political Theory",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Public Policy",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Global Governance",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Human Rights",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}

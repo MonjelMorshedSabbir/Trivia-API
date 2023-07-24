@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/EnvironmentalStudies/",
+    "q":[
+        {
+            "n": "Environmental Science",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Ecology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Conservation Biology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Sustainability Studies",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Climate Change",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Environmental Policy",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Natural Resource Management",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Environmental Ethics",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}

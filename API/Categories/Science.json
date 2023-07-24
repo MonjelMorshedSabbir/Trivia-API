@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/Science/",
+    "q":[
+        {
+            "n": "Physics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Chemistry",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Biology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Mathematics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Earth Science",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Astronomy",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Environmental Science",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Computer Science",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/SocialSciences/",
+    "q":[
+        {
+            "n": "Sociology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Psychology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Anthropology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Criminology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Social Work",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Political Science",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Economics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Geography",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}

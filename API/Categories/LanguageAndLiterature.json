@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/LanguageAndLiterature/",
+    "q":[
+        {
+            "n": "English Literature",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "World Literature",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Linguistics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Creative Writing",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Comparative Literature",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Poetry",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Prose Fiction",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Drama and Theater",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/HealthAndMedicine/",
+    "q":[
+        {
+            "n": "Anatomy",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Physiology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Medical Sciences",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Nutrition",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Pharmacology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Public Health",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Disease Studies",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Epidemiology",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}

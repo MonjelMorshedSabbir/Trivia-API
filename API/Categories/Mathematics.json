@@ -1,0 +1,46 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/Mathematics/",
+    "q":[
+        {
+            "n": "Algebra",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Geometry",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Calculus",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Probability and Statistics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Trigonometry",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Linear Algebra",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Discrete Mathematics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Differential Equations",
+            "i": "",
+            "fn": ""
+        }
+        
+    ]
+}

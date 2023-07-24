@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/ArtsAndHumanities/",
+    "q":[
+        {
+            "n": "Fine Arts",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "History of Art",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Music",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Film Studies",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Philosophy",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Classical Studies",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Dance",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Literary Theory",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}

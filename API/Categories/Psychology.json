@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/Psychology /",
+    "q":[
+        {
+            "n": "General Psychology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Cognitive Psychology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Social Psychology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Developmental Psychology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Abnormal Psychology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Industrial and Organizational Psychology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Clinical Psychology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Educational Psychology",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}

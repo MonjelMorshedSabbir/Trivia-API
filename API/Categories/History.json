@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/History/",
+    "q":[
+        {
+            "n": "Ancient History",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Medieval History",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Modern History",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "World History",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "European History",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Asian History",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "American History",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "African History",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}

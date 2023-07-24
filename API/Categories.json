@@ -1,5 +1,5 @@
 {
-    "Main_S_URl":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Subjects/",
+    "Main_S_URl":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/",
     "S":[
         {
             "n": "Science",
@@ -9,72 +9,72 @@
         {
             "n": "Commerce",
             "i": "",
-            "fn": ""
+            "fn": "Commerce"
         },
         {
             "n": "Computer Science",
             "i": "",
-            "fn": ""
+            "fn": "ComputerScience"
         },
         {
             "n": "Religious Studies",
             "i": "",
-            "fn": ""
+            "fn": "Religious"
         },
         {
             "n": "Politics and Government",
             "i": "",
-            "fn": ""
+            "fn": "PoliticsAndGovernment"
         },
         {
             "n": "Global Studies",
             "i": "",
-            "fn": ""
+            "fn": "GlobalStudies"
         },
         {
             "n": "History",
             "i": "",
-            "fn": ""
+            "fn": "History"
         },
         {
             "n": "Mathematics",
             "i": "",
-            "fn": ""
+            "fn": "Mathematics"
         },
         {
             "n": "Language and Literature",
             "i": "",
-            "fn": ""
+            "fn": "LanguageAndLiterature"
         },
         {
             "n": "Social Sciences",
             "i": "",
-            "fn": ""
+            "fn": "SocialSciences"
         },
         {
             "n": "Arts and Humanities",
             "i": "",
-            "fn": ""
+            "fn": "ArtsAndHumanities"
         },
         {
             "n": "Environmental Studies",
             "i": "",
-            "fn": ""
+            "fn": "EnvironmentalStudies"
         },
         {
             "n": "Economics",
             "i": "",
-            "fn": ""
+            "fn": "Economics"
         },
         {
             "n": "Psychology",
             "i": "",
-            "fn": ""
+            "fn": "Psychology"
         },
         {
             "n": "Health and Medicine",
             "i": "",
-            "fn": ""
+            "fn": "HealthAnsMedicine"
         }
     ]    
 }

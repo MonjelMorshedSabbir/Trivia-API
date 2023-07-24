@@ -1,0 +1,45 @@
+{
+    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/Economics/",
+    "q":[
+        {
+            "n": "Microeconomics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Macroeconomics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Development Economics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "International Economics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Labor Economics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Public Economics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Environmental Economics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Health Economics",
+            "i": "",
+            "fn": ""
+        }        
+    ]
+}
