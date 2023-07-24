@@ -1,0 +1,1106 @@
+[
+    {
+        "q": "What is the measure of the force acting on an object due to gravity?",
+        "a": "Weight",
+        "b": "Mass",
+        "c": "Density",
+        "d": "Volume",
+        "r": "a"
+    },
+    {
+        "q": "What is the SI unit of electric current?",
+        "a": "Watt",
+        "b": "Ohm",
+        "c": "Volt",
+        "d": "Ampere",
+        "r": "d"
+    },
+    {
+        "q": "The resistance of a conductor is directly proportional to what?",
+        "a": "Temperature",
+        "b": "Length",
+        "c": "Area",
+        "d": "Volume",
+        "r": "c"
+    },
+    {
+        "q": "Which scientist formulated the laws of planetary motion?",
+        "a": "Galileo Galilei",
+        "b": "Isaac Newton",
+        "c": "Johannes Kepler",
+        "d": "Nicolaus Copernicus",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula for the law of conservation of momentum in a closed system?",
+        "a": "p = F/m",
+        "b": "p = mv",
+        "c": "p = m/d",
+        "d": "p = F x v",
+        "r": "b"
+    },
+    {
+        "q": "What type of energy is associated with the motion of an object?",
+        "a": "Potential energy",
+        "b": "Thermal energy",
+        "c": "Kinetic energy",
+        "d": "Mechanical energy",
+        "r": "c"
+    },
+    {
+        "q": "What is the force that opposes the relative motion or tendency of such motion of two surfaces in contact?",
+        "a": "Magnetic force",
+        "b": "Gravitational force",
+        "c": "Centripetal force",
+        "d": "Frictional force",
+        "r": "d"
+    },
+    {
+        "q": "Which scientist is credited with discovering the law of universal gravitation?",
+        "a": "Galileo Galilei",
+        "b": "Albert Einstein",
+        "c": "Johannes Kepler",
+        "d": "Isaac Newton",
+        "r": "d"
+    },
+    {
+        "q": "What is the measure of an object's mass per unit volume?",
+        "a": "Pressure",
+        "b": "Density",
+        "c": "Velocity",
+        "d": "Acceleration",
+        "r": "b"
+    },
+    {
+        "q": "Which law states that the pressure of a gas is inversely proportional to its volume, assuming constant temperature and amount of gas?",
+        "a": "Gay-Lussac's law",
+        "b": "Charles's law",
+        "c": "Boyle's law",
+        "d": "Archimedes' principle",
+        "r": "c"
+    },
+    {
+        "q": "In which direction does the electric current flow?",
+        "a": "From negative to positive",
+        "b": "From positive to negative",
+        "c": "Both directions",
+        "d": "Random direction",
+        "r": "a"
+    },
+    {
+        "q": "Which law states that the force between two charges is directly proportional to the product of their magnitudes and inversely proportional to the square of the distance between them?",
+        "a": "Ampere's law",
+        "b": "Newton's law of gravitation",
+        "c": "Coulomb's law",
+        "d": "Ohm's law",
+        "r": "c"
+    },
+    {
+        "q": "What type of lens converges light rays and can form real images?",
+        "a": "Concave lens",
+        "b": "Diverging lens",
+        "c": "Convex lens",
+        "d": "Biconvex lens",
+        "r": "c"
+    },
+    {
+        "q": "Which instrument is used to measure atmospheric pressure?",
+        "a": "Hygrometer",
+        "b": "Anemometer",
+        "c": "Barometer",
+        "d": "Thermometer",
+        "r": "c"
+    },
+    {
+        "q": "What is the unit of electric power?",
+        "a": "Ohm",
+        "b": "Ampere",
+        "c": "Volt",
+        "d": "Watt",
+        "r": "d"
+    },
+    {
+        "q": "What is the term for the energy possessed by a body due to its motion?",
+        "a": "Mechanical energy",
+        "b": "Potential energy",
+        "c": "Thermal energy",
+        "d": "Chemical energy",
+        "r": "a"
+    },
+    {
+        "q": "Which law states that the pressure of a fixed mass of gas at constant volume is directly proportional to its absolute temperature?",
+        "a": "Boyle's law",
+        "b": "Charles's law",
+        "c": "Gay-Lussac's law",
+        "d": "Avogadro's law",
+        "r": "b"
+    },
+    {
+        "q": "Which color has the highest frequency in the visible light spectrum?",
+        "a": "Red",
+        "b": "Blue",
+        "c": "Green",
+        "d": "Violet",
+        "r": "d"
+    },
+    {
+        "q": "What is the bending of light when it passes from one medium to another with different refractive indices?",
+        "a": "Reflection",
+        "b": "Diffraction",
+        "c": "Dispersion",
+        "d": "Refraction",
+        "r": "d"
+    },
+    {
+        "q": "The velocity of sound in which of the following mediums is maximum?",
+        "a": "Liquids",
+        "b": "Solids",
+        "c": "Gases",
+        "d": "It is the same in all mediums",
+        "r": "a"
+    },
+    {
+        "q": "In which type of mirror, the reflecting surface is curved inwards like the inside of a spoon?",
+        "a": "Convex mirror",
+        "b": "Plane mirror",
+        "c": "Spherical mirror",
+        "d": "Concave mirror",
+        "r": "d"
+    },
+    {
+        "q": "What is the total resistance of a parallel circuit with three resistors of 6 ohms, 8 ohms, and 10 ohms?",
+        "a": "4 ohms",
+        "b": "2.8 ohms",
+        "c": "3.5 ohms",
+        "d": "2.4 ohms",
+        "r": "b"
+    },
+    {
+        "q": "Which scientist is known for the three laws of motion?",
+        "a": "Galileo Galilei",
+        "b": "Isaac Newton",
+        "c": "Albert Einstein",
+        "d": "Nicolaus Copernicus",
+        "r": "b"
+    },
+    {
+        "q": "What is the phenomenon that occurs when a wave encounters an obstacle and bends around it?",
+        "a": "Dispersion",
+        "b": "Diffraction",
+        "c": "Reflection",
+        "d": "Refraction",
+        "r": "b"
+    },
+    {
+        "q": "What type of energy is associated with the position of an object relative to its surroundings?",
+        "a": "Mechanical energy",
+        "b": "Kinetic energy",
+        "c": "Nuclear energy",
+        "d": "Potential energy",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of a vector quantity?",
+        "a": "Mass",
+        "b": "Displacement",
+        "c": "Energy",
+        "d": "Temperature",
+        "r": "b"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of heat and temperature and their relation to energy and work?",
+        "a": "Optics",
+        "b": "Thermodynamics",
+        "c": "Mechanics",
+        "d": "Electromagnetism",
+        "r": "b"
+    },
+    {
+        "q": "What is the change in position of an object with respect to a reference point called?",
+        "a": "Velocity",
+        "b": "Distance",
+        "c": "Displacement",
+        "d": "Speed",
+        "r": "c"
+    },
+    {
+        "q": "What is the rate at which work is done or the amount of energy transferred or converted per unit time?",
+        "a": "Force",
+        "b": "Energy",
+        "c": "Velocity",
+        "d": "Power",
+        "r": "d"
+    },
+    {
+        "q": "In which direction does the electric field point relative to the motion of a positive test charge?",
+        "a": "Toward the test charge",
+        "b": "Away from the test charge",
+        "c": "Perpendicular to the motion",
+        "d": "Parallel to the motion",
+        "r": "a"
+    },
+    {
+        "q": "Which law states that the sum of the currents at a junction in an electrical circuit is equal to the sum of the currents leaving that junction?",
+        "a": "Ohm's law",
+        "b": "Kirchhoff's voltage law",
+        "c": "Ampere's law",
+        "d": "Kirchhoff's current law",
+        "r": "d"
+    },
+    {
+        "q": "What is the measure of the amount of matter in an object?",
+        "a": "Weight",
+        "b": "Volume",
+        "c": "Density",
+        "d": "Mass",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following statements is true about a concave lens?",
+        "a": "It always forms real images",
+        "b": "It can form both real and virtual images",
+        "c": "It always forms virtual images",
+        "d": "It doesn't form any images",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit of electric charge?",
+        "a": "Ampere",
+        "b": "Volt",
+        "c": "Coulomb",
+        "d": "Ohm",
+        "r": "c"
+    },
+    {
+        "q": "Which instrument is used to measure the intensity of sound?",
+        "a": "Voltmeter",
+        "b": "Hygrometer",
+        "c": "Decibel meter",
+        "d": "Ammeter",
+        "r": "c"
+    },
+    {
+        "q": "Which color has the longest wavelength in the visible light spectrum?",
+        "a": "Green",
+        "b": "Blue",
+        "c": "Violet",
+        "d": "Red",
+        "r": "d"
+    },
+    {
+        "q": "What is the resistance of a circuit with a voltage of 120 V and a current of 2 A?",
+        "a": "240 ohms",
+        "b": "100 ohms",
+        "c": "60 ohms",
+        "d": "150 ohms",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of a scalar quantity?",
+        "a": "Displacement",
+        "b": "Acceleration",
+        "c": "Speed",
+        "d": "Force",
+        "r": "c"
+    },
+    {
+        "q": "What is the distance traveled by an object per unit time?",
+        "a": "Displacement",
+        "b": "Acceleration",
+        "c": "Velocity",
+        "d": "Speed",
+        "r": "d"
+    },
+    {
+        "q": "What is the property of a material to return to its original shape after being deformed by an external force?",
+        "a": "Tensile strength",
+        "b": "Viscosity",
+        "c": "Brittleness",
+        "d": "Elasticity",
+        "r": "d"
+    },
+    {
+        "q": "Which law states that the pressure of a gas is directly proportional to its volume if the temperature and amount of gas remain constant?",
+        "a": "Pascal's law",
+        "b": "Charles's law",
+        "c": "Gay-Lussac's law",
+        "d": "Boyle's law",
+        "r": "d"
+    },
+    {
+        "q": "What is the unit of work and energy in the SI system?",
+        "a": "Newton",
+        "b": "Joule",
+        "c": "Pascal",
+        "d": "Watt",
+        "r": "b"
+    },
+    {
+        "q": "Which type of energy is associated with the position of an object above the ground?",
+        "a": "Nuclear energy",
+        "b": "Gravitational potential energy",
+        "c": "Elastic potential energy",
+        "d": "Kinetic energy",
+        "r": "b"
+    },
+    {
+        "q": "What is the phenomenon in which a wave bounces back after striking a surface or boundary?",
+        "a": "Dispersion",
+        "b": "Diffraction",
+        "c": "Refraction",
+        "d": "Reflection",
+        "r": "d"
+    },
+    {
+        "q": "Which scientist is known for the theory of relativity?",
+        "a": "Galileo Galilei",
+        "b": "Isaac Newton",
+        "c": "Johannes Kepler",
+        "d": "Albert Einstein",
+        "r": "d"
+    },
+    {
+        "q": "What is the SI unit of force?",
+        "a": "Ampere",
+        "b": "Pascal",
+        "c": "Joule",
+        "d": "Newton",
+        "r": "d"
+    },
+    {
+        "q": "Which instrument is used to measure the temperature of an object?",
+        "a": "Anemometer",
+        "b": "Barometer",
+        "c": "Thermometer",
+        "d": "Hygrometer",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of an insulator?",
+        "a": "Copper",
+        "b": "Silver",
+        "c": "Aluminum",
+        "d": "Rubber",
+        "r": "d"
+    },
+    {
+        "q": "In which type of mirror, the reflecting surface is curved outwards like the back of a spoon?",
+        "a": "Concave mirror",
+        "b": "Spherical mirror",
+        "c": "Plane mirror",
+        "d": "Convex mirror",
+        "r": "d"
+    },
+    {
+        "q": "What is the change in velocity of an object per unit time?",
+        "a": "Mass",
+        "b": "Speed",
+        "c": "Force",
+        "d": "Acceleration",
+        "r": "d"
+    },
+    {
+        "q": "What is the total resistance of a series circuit with three resistors of 4 ohms, 6 ohms, and 8 ohms?",
+        "a": "5 ohms",
+        "b": "12 ohms",
+        "c": "6 ohms",
+        "d": "18 ohms",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a primary color of light?",
+        "a": "Green",
+        "b": "Red",
+        "c": "Violet",
+        "d": "Blue",
+        "r": "a"
+    },
+    {
+        "q": "What type of lens diverges light rays and can form virtual images?",
+        "a": "Biconvex lens",
+        "b": "Convex lens",
+        "c": "Converging lens",
+        "d": "Concave lens",
+        "r": "d"
+    },
+    {
+        "q": "What is the force that attracts two objects toward each other due to their masses?",
+        "a": "Magnetic force",
+        "b": "Centripetal force",
+        "c": "Gravitational force",
+        "d": "Frictional force",
+        "r": "c"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of the behavior of electric charges at rest?",
+        "a": "Electromagnetism",
+        "b": "Thermodynamics",
+        "c": "Optics",
+        "d": "Electrostatics",
+        "r": "a"
+    },
+    {
+        "q": "What is the measure of the speed of an object in a particular direction?",
+        "a": "Acceleration",
+        "b": "Displacement",
+        "c": "Velocity",
+        "d": "Speed",
+        "r": "c"
+    },
+    {
+        "q": "What is the measure of the force applied to an object due to gravity?",
+        "a": "Mass",
+        "b": "Density",
+        "c": "Volume",
+        "d": "Weight",
+        "r": "d"
+    },
+    {
+        "q": "What is the principle that states that an immersed body is buoyed up by a force equal to the weight of the fluid it displaces?",
+        "a": "Coulomb's principle",
+        "b": "Bernoulli's principle",
+        "c": "Pascal's principle",
+        "d": "Archimedes' principle",
+        "r": "d"
+    },
+    {
+        "q": "What type of energy is associated with the position of an object in a gravitational field?",
+        "a": "Mechanical energy",
+        "b": "Nuclear energy",
+        "c": "Potential energy",
+        "d": "Kinetic energy",
+        "r": "c"
+    },
+    {
+        "q": "What is the distance between two consecutive crests or troughs of a wave?",
+        "a": "Amplitude",
+        "b": "Frequency",
+        "c": "Period",
+        "d": "Wavelength",
+        "r": "d"
+    },
+    {
+        "q": "What is the force that keeps an object moving in a circular path?",
+        "a": "Magnetic force",
+        "b": "Centripetal force",
+        "c": "Frictional force",
+        "d": "Gravitational force",
+        "r": "b"
+    },
+    {
+        "q": "What is the unit of electric potential difference or voltage?",
+        "a": "Ampere",
+        "b": "Ohm",
+        "c": "Coulomb",
+        "d": "Volt",
+        "r": "d"
+    },
+    {
+        "q": "Which law states that the volume of a given mass of gas is directly proportional to its absolute temperature if the pressure remains constant?",
+        "a": "Boyle's law",
+        "b": "Charles's law",
+        "c": "Avogadro's law",
+        "d": "Gay-Lussac's law",
+        "r": "d"
+    },
+    {
+        "q": "What is the bending of waves around an obstacle or through an opening called?",
+        "a": "Dispersion",
+        "b": "Diffraction",
+        "c": "Reflection",
+        "d": "Refraction",
+        "r": "b"
+    },
+    {
+        "q": "What is the rate at which an object covers distance?",
+        "a": "Acceleration",
+        "b": "Displacement",
+        "c": "Velocity",
+        "d": "Speed",
+        "r": "d"
+    },
+    {
+        "q": "What is the energy that an object possesses due to its height above the ground?",
+        "a": "Mechanical energy",
+        "b": "Nuclear energy",
+        "c": "Kinetic energy",
+        "d": "Potential energy",
+        "r": "d"
+    },
+    {
+        "q": "What is the measure of the force applied to an object per unit area?",
+        "a": "Temperature",
+        "b": "Volume",
+        "c": "Density",
+        "d": "Pressure",
+        "r": "d"
+    },
+    {
+        "q": "What is the SI unit of frequency?",
+        "a": "Watt",
+        "b": "Pascal",
+        "c": "Hertz",
+        "d": "Ohm",
+        "r": "c"
+    },
+    {
+        "q": "Which scientist is credited with the discovery of the electron?",
+        "a": "Max Planck",
+        "b": "Ernest Rutherford",
+        "c": "Niels Bohr",
+        "d": "J.J. Thomson",
+        "r": "d"
+    },
+    {
+        "q": "What is the instrument used to measure electric current?",
+        "a": "Voltmeter",
+        "b": "Ammeter",
+        "c": "Barometer",
+        "d": "Hygrometer",
+        "r": "b"
+    },
+    {
+        "q": "What is the unit of electric resistance?",
+        "a": "Ampere",
+        "b": "Volt",
+        "c": "Ohm",
+        "d": "Coulomb",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of a transverse wave?",
+        "a": "Sound wave",
+        "b": "Light wave",
+        "c": "Water wave",
+        "d": "Seismic wave",
+        "r": "c"
+    },
+    {
+        "q": "What is the SI unit of temperature?",
+        "a": "Kelvin",
+        "b": "Celsius",
+        "c": "Fahrenheit",
+        "d": "Rankine",
+        "r": "a"
+    },
+    {
+        "q": "What is the property of a material to resist the flow of electric current?",
+        "a": "Resistance",
+        "b": "Conductance",
+        "c": "Capacitance",
+        "d": "Inductance",
+        "r": "a"
+    },
+    {
+        "q": "Which type of energy is associated with the movement of electric charges?",
+        "a": "Electrical energy",
+        "b": "Mechanical energy",
+        "c": "Chemical energy",
+        "d": "Thermal energy",
+        "r": "a"
+    },
+    {
+        "q": "Which law states that the pressure of a gas is directly proportional to its absolute temperature if the volume remains constant?",
+        "a": "Charles's law",
+        "b": "Boyle's law",
+        "c": "Gay-Lussac's law",
+        "d": "Dalton's law",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which a wave bends as it passes through different media with varying refractive indices?",
+        "a": "Refraction",
+        "b": "Reflection",
+        "c": "Diffraction",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of the behavior of electric charges in motion?",
+        "a": "Electromagnetism",
+        "b": "Electrostatics",
+        "c": "Thermodynamics",
+        "d": "Optics",
+        "r": "a"
+    },
+    {
+        "q": "Which law states that the force experienced by a moving charged particle in a magnetic field is perpendicular to both the field and the velocity of the particle?",
+        "a": "Lorentz force law",
+        "b": "Newton's law of gravitation",
+        "c": "Coulomb's law",
+        "d": "Faraday's law of electromagnetic induction",
+        "r": "a"
+    },
+    {
+        "q": "What type of energy is associated with the position of an object in a magnetic field?",
+        "a": "Magnetic potential energy",
+        "b": "Kinetic energy",
+        "c": "Thermal energy",
+        "d": "Chemical energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the bending of waves as they pass around the edges of an obstacle or through an opening?",
+        "a": "Diffraction",
+        "b": "Dispersion",
+        "c": "Refraction",
+        "d": "Reflection",
+        "r": "a"
+    },
+    {
+        "q": "Which instrument is used to measure electric current?",
+        "a": "Ammeter",
+        "b": "Voltmeter",
+        "c": "Barometer",
+        "d": "Hygrometer",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which a charged object induces a temporary separation of charges in a neutral object?",
+        "a": "Polarization",
+        "b": "Magnetization",
+        "c": "Ionization",
+        "d": "Depolarization",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of the behavior of matter and energy at the atomic and subatomic level?",
+        "a": "Quantum mechanics",
+        "b": "Classical mechanics",
+        "c": "Thermodynamics",
+        "d": "Optics",
+        "r": "a"
+    },
+    {
+        "q": "What is the measure of the average kinetic energy of the particles in a substance?",
+        "a": "Temperature",
+        "b": "Pressure",
+        "c": "Volume",
+        "d": "Density",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit of work and energy in the CGS system?",
+        "a": "Erg",
+        "b": "Joule",
+        "c": "Newton-meter",
+        "d": "Calorie",
+        "r": "a"
+    },
+    {
+        "q": "What is the measure of the force applied to an object to move it a certain distance?",
+        "a": "Work",
+        "b": "Power",
+        "c": "Energy",
+        "d": "Momentum",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a vector quantity?",
+        "a": "Displacement",
+        "b": "Speed",
+        "c": "Mass",
+        "d": "Temperature",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of sound and its behavior?",
+        "a": "Acoustics",
+        "b": "Optics",
+        "c": "Mechanics",
+        "d": "Thermodynamics",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following statements is true about a convex lens?",
+        "a": "It always forms virtual images",
+        "b": "It always forms real images",
+        "c": "It can form both real and virtual images",
+        "d": "It doesn't form any images",
+        "r": "c"
+    },
+    {
+        "q": "Which type of wave is characterized by the vibration of particles parallel to the direction of wave propagation?",
+        "a": "Longitudinal wave",
+        "b": "Transverse wave",
+        "c": "Electromagnetic wave",
+        "d": "Mechanical wave",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit of electric current in the SI system?",
+        "a": "Ampere",
+        "b": "Volt",
+        "c": "Ohm",
+        "d": "Coulomb",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which an object continues its state of motion or rest unless acted upon by an external force?",
+        "a": "Newton's first law of motion",
+        "b": "Newton's second law of motion",
+        "c": "Newton's third law of motion",
+        "d": "Law of conservation of momentum",
+        "r": "a"
+    },
+    {
+        "q": "What is the measure of the amount of work done or energy transferred per unit charge in an electric circuit?",
+        "a": "Electric potential",
+        "b": "Electric power",
+        "c": "Electric resistance",
+        "d": "Electric field",
+        "r": "b"
+    },
+    {
+        "q": "What is the unit of electric potential difference or voltage in the CGS system?",
+        "a": "Statvolt",
+        "b": "Erg",
+        "c": "Ampere",
+        "d": "Coulomb",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of the behavior of light?",
+        "a": "Optics",
+        "b": "Acoustics",
+        "c": "Thermodynamics",
+        "d": "Electromagnetism",
+        "r": "a"
+    },
+    {
+        "q": "What is the bending of light as it passes from one medium to another with different refractive indices?",
+        "a": "Refraction",
+        "b": "Reflection",
+        "c": "Diffraction",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the time taken for one complete oscillation of a pendulum or a wave?",
+        "a": "Period",
+        "b": "Frequency",
+        "c": "Wavelength",
+        "d": "Amplitude",
+        "r": "a"
+    },
+    {
+        "q": "Which law states that the pressure of a gas is directly proportional to its temperature if the volume remains constant?",
+        "a": "Gay-Lussac's law",
+        "b": "Boyle's law",
+        "c": "Charles's law",
+        "d": "Avogadro's law",
+        "r": "a"
+    },
+    {
+        "q": "What is the measure of the total energy of motion in the particles of a substance?",
+        "a": "Thermal energy",
+        "b": "Mechanical energy",
+        "c": "Kinetic energy",
+        "d": "Potential energy",
+        "r": "c"
+    },
+    {
+        "q": "What is the unit of electric charge in the CGS system?",
+        "a": "Statcoulomb",
+        "b": "Erg",
+        "c": "Ampere",
+        "d": "Volt",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which a wave spreads out as it passes through an opening or around an obstacle?",
+        "a": "Diffraction",
+        "b": "Dispersion",
+        "c": "Refraction",
+        "d": "Reflection",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the behavior of matter and energy at extremely low temperatures?",
+        "a": "Cryogenics",
+        "b": "Thermodynamics",
+        "c": "Optics",
+        "d": "Quantum mechanics",
+        "r": "a"
+    },
+    {
+        "q": "What is the measure of the force per unit area applied to an object?",
+        "a": "Pressure",
+        "b": "Temperature",
+        "c": "Volume",
+        "d": "Density",
+        "r": "a"
+    },
+    {
+        "q": "What is the distance between the center of a lens or mirror and its focal point called?",
+        "a": "Focal length",
+        "b": "Wavelength",
+        "c": "Amplitude",
+        "d": "Period",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit of magnetic flux density in the SI system?",
+        "a": "Tesla",
+        "b": "Volt",
+        "c": "Ohm",
+        "d": "Ampere",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the force that opposes the relative motion of two objects in contact?",
+        "a": "Friction",
+        "b": "Gravity",
+        "c": "Tension",
+        "d": "Elasticity",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the behavior of electricity and magnetism?",
+        "a": "Electromagnetism",
+        "b": "Electrostatics",
+        "c": "Thermodynamics",
+        "d": "Optics",
+        "r": "a"
+    },
+    {
+        "q": "What is the bending of light as it passes through a prism or a raindrop, separating it into different colors?",
+        "a": "Dispersion",
+        "b": "Diffraction",
+        "c": "Refraction",
+        "d": "Reflection",
+        "r": "a"
+    },
+    {
+        "q": "What is the measure of the force exerted by a fluid on an object immersed in it?",
+        "a": "Buoyant force",
+        "b": "Tension",
+        "c": "Compression force",
+        "d": "Drag force",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of the behavior of matter at extremely high temperatures and densities?",
+        "a": "Plasma physics",
+        "b": "Quantum mechanics",
+        "c": "Thermodynamics",
+        "d": "Optics",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which a wave's amplitude decreases as it passes through a medium?",
+        "a": "Attenuation",
+        "b": "Amplification",
+        "c": "Absorption",
+        "d": "Diffraction",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the ratio of the speed of light in a vacuum to the speed of light in a medium?",
+        "a": "Refractive index",
+        "b": "Reflective index",
+        "c": "Diffraction index",
+        "d": "Dispersion index",
+        "r": "a"
+    },
+    {
+        "q": "Which law states that the volume of a given mass of gas is directly proportional to its absolute temperature, provided the pressure remains constant?",
+        "a": "Charles's law",
+        "b": "Boyle's law",
+        "c": "Gay-Lussac's law",
+        "d": "Dalton's law",
+        "r": "a"
+    },
+    {
+        "q": "What is the measure of the total kinetic energy of all particles in a substance?",
+        "a": "Thermal energy",
+        "b": "Mechanical energy",
+        "c": "Kinetic energy",
+        "d": "Potential energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit of electric charge in the SI system?",
+        "a": "Coulomb",
+        "b": "Ampere",
+        "c": "Volt",
+        "d": "Ohm",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following statements is true about a concave mirror?",
+        "a": "It always forms virtual images",
+        "b": "It always forms real images",
+        "c": "It can form both real and virtual images",
+        "d": "It doesn't form any images",
+        "r": "c"
+    },
+    {
+        "q": "What is the phenomenon in which a wave reflects back when it encounters a boundary?",
+        "a": "Reflection",
+        "b": "Refraction",
+        "c": "Diffraction",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "What is the rate at which an object's velocity changes over time?",
+        "a": "Acceleration",
+        "b": "Speed",
+        "c": "Force",
+        "d": "Mass",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a scalar quantity?",
+        "a": "Mass",
+        "b": "Force",
+        "c": "Displacement",
+        "d": "Acceleration",
+        "r": "a"
+    },
+    {
+        "q": "What is the distance between the focal point and the mirror or lens called?",
+        "a": "Focal length",
+        "b": "Wavelength",
+        "c": "Amplitude",
+        "d": "Period",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is the correct equation for calculating mechanical advantage in a simple machine?",
+        "a": "Mechanical Advantage = Output force / Input force",
+        "b": "Mechanical Advantage = Input force / Output force",
+        "c": "Mechanical Advantage = Output distance / Input distance",
+        "d": "Mechanical Advantage = Input distance / Output distance",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of electric charges at rest?",
+        "a": "Electrostatics",
+        "b": "Electromagnetism",
+        "c": "Thermodynamics",
+        "d": "Optics",
+        "r": "a"
+    },
+    {
+        "q": "What is the bending of light as it passes from one medium to another with the same refractive index?",
+        "a": "No refraction",
+        "b": "Reflection",
+        "c": "Diffraction",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the measure of the force of gravity on an object?",
+        "a": "Weight",
+        "b": "Mass",
+        "c": "Volume",
+        "d": "Density",
+        "r": "a"
+    },
+    {
+        "q": "Which law states that the force between two point charges is directly proportional to the product of their magnitudes and inversely proportional to the square of the distance between them?",
+        "a": "Coulomb's law",
+        "b": "Newton's law of gravitation",
+        "c": "Ohm's law",
+        "d": "Faraday's law of electromagnetic induction",
+        "r": "a"
+    },
+    {
+        "q": "What is the energy associated with the position of an object in a gravitational field?",
+        "a": "Gravitational potential energy",
+        "b": "Kinetic energy",
+        "c": "Thermal energy",
+        "d": "Chemical energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of sound and its behavior in different mediums?",
+        "a": "Acoustics",
+        "b": "Optics",
+        "c": "Mechanics",
+        "d": "Thermodynamics",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit of pressure in the SI system?",
+        "a": "Pascal",
+        "b": "Newton",
+        "c": "Joule",
+        "d": "Watt",
+        "r": "a"
+    },
+    {
+        "q": "Which scientist is known for the law of universal gravitation?",
+        "a": "Isaac Newton",
+        "b": "Galileo Galilei",
+        "c": "Albert Einstein",
+        "d": "Nicolaus Copernicus",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which a wave's amplitude increases when the frequency of the forcing vibration matches the natural frequency of the object?",
+        "a": "Resonance",
+        "b": "Refraction",
+        "c": "Diffraction",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit of force in the CGS system?",
+        "a": "Dyne",
+        "b": "Newton",
+        "c": "Joule",
+        "d": "Pascal",
+        "r": "a"
+    },
+    {
+        "q": "What is the measure of the force exerted on an object due to gravity?",
+        "a": "Weight",
+        "b": "Mass",
+        "c": "Volume",
+        "d": "Density",
+        "r": "a"
+    },
+    {
+        "q": "Which law states that the pressure of a gas is inversely proportional to its volume if the temperature remains constant?",
+        "a": "Boyle's law",
+        "b": "Charles's law",
+        "c": "Gay-Lussac's law",
+        "d": "Dalton's law",
+        "r": "a"
+    },
+    {
+        "q": "What is the energy associated with an object's position relative to its surroundings?",
+        "a": "Potential energy",
+        "b": "Kinetic energy",
+        "c": "Thermal energy",
+        "d": "Chemical energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the bending of waves as they pass through different media with varying refractive indices?",
+        "a": "Refraction",
+        "b": "Reflection",
+        "c": "Diffraction",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the behavior of electric charges in motion?",
+        "a": "Electromagnetism",
+        "b": "Electrostatics",
+        "c": "Thermodynamics",
+        "d": "Optics",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the behavior of matter and energy at the atomic and subatomic level?",
+        "a": "Quantum mechanics",
+        "b": "Classical mechanics",
+        "c": "Thermodynamics",
+        "d": "Optics",
+        "r": "a"
+    }
+]
