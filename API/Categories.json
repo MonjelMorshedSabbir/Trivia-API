@@ -3,78 +3,78 @@
     "S":[
         {
             "n": "Science",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966962302025769/science.png",
             "fn": "Science"
         },
         {
             "n": "Commerce",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966916173078580/commerce.webp",
             "fn": "Commerce"
         },
         {
             "n": "Computer Science",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966916584128552/computerscience.png",
             "fn": "ComputerScience"
         },
         {
             "n": "Religious Studies",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966962004250687/religious.png",
             "fn": "Religious"
         },
         {
             "n": "Politics and Government",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966963161858158/politics.png",
             "fn": "PoliticsAndGovernment"
         },
         {
             "n": "Global Studies",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966917443960947/globalStudy.png",
             "fn": "GlobalStudies"
         },
         {
             "n": "History",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966917989212221/history.png",
             "fn": "History"
         },
         {
             "n": "Mathematics",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966920308674560/mathematics.png",
             "fn": "Mathematics"
         },
         {
             "n": "Language and Literature",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966918349930516/language.png",
             "fn": "LanguageAndLiterature"
         },
         {
             "n": "Social Sciences",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966962843111475/socialscience.png",
             "fn": "SocialSciences"
         },
         {
             "n": "Arts and Humanities",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966915938209863/artsandhumanities.png",
             "fn": "ArtsAndHumanities"
         },
         {
             "n": "Environmental Studies",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966917154545754/environmental.png",
             "fn": "EnvironmentalStudies"
         },
         {
             "n": "Economics",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966916831596614/economics.png",
             "fn": "Economics"
         },
         {
             "n": "Psychology",
-            "i": "",
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966961752571904/psychology-banner.png",
             "fn": "Psychology"
         },
         {
             "n": "Health and Medicine",
-            "i": "",
-            "fn": "HealthAnsMedicine"
+            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132966917687234601/healthandmedicine.png",
+            "fn": "HealthAndMedicine"
         }
     ]    
 }
