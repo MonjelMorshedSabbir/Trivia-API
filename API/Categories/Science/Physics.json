@@ -1102,5 +1102,261 @@
         "c": "Thermodynamics",
         "d": "Optics",
         "r": "a"
+    },
+    {
+        "q": "What is Newton's first law of motion also known as?",
+        "a": "Law of inertia",
+        "b": "Law of acceleration",
+        "c": "Law of action-reaction",
+        "d": "Law of universal gravitation",
+        "r": "a"
+    },
+    {
+        "q": "According to Newton's second law of motion, what is the relationship between force, mass, and acceleration?",
+        "a": "Force is directly proportional to mass and inversely proportional to acceleration",
+        "b": "Force is directly proportional to acceleration and inversely proportional to mass",
+        "c": "Force is equal to the product of mass and acceleration",
+        "d": "Force is inversely proportional to mass and directly proportional to acceleration",
+        "r": "b"
+    },
+    {
+        "q": "Which law states that every action has an equal and opposite reaction?",
+        "a": "Newton's first law of motion",
+        "b": "Newton's second law of motion",
+        "c": "Newton's third law of motion",
+        "d": "Law of conservation of energy",
+        "r": "c"
+    },
+    {
+        "q": "What is the principle that states an object at rest will remain at rest, and an object in motion will continue in motion with a constant velocity unless acted upon by an external force?",
+        "a": "Newton's first law of motion",
+        "b": "Newton's second law of motion",
+        "c": "Newton's third law of motion",
+        "d": "Law of conservation of momentum",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation proposed by Albert Einstein that relates energy (E) to mass (m) and the speed of light (c)?",
+        "a": "E = mc^2",
+        "b": "E = mv^2",
+        "c": "E = ma^2",
+        "d": "E = mw^2",
+        "r": "a"
+    },
+    {
+        "q": "What is the principle that states the total energy of an isolated system remains constant over time, regardless of internal changes?",
+        "a": "Law of conservation of energy",
+        "b": "Law of conservation of momentum",
+        "c": "Law of conservation of angular momentum",
+        "d": "Law of conservation of electric charge",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which light or other electromagnetic radiation is shifted to a lower frequency as it moves away from an observer?",
+        "a": "Redshift",
+        "b": "Blueshift",
+        "c": "Diffraction",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation proposed by Isaac Newton that relates the force of gravity (F) between two masses (m1 and m2) with the distance (r) between their centers?",
+        "a": "F = (G * m1 * m2) / r^2",
+        "b": "F = G * (m1 * m2) / r^2",
+        "c": "F = G * (m1 * m2) * r^2",
+        "d": "F = (G * m1 * m2) * r^2",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of motion and forces?",
+        "a": "Mechanics",
+        "b": "Optics",
+        "c": "Thermodynamics",
+        "d": "Electromagnetism",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which light or other electromagnetic radiation is shifted to a higher frequency as it moves towards an observer?",
+        "a": "Blueshift",
+        "b": "Redshift",
+        "c": "Diffraction",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation proposed by Albert Einstein that explains the relationship between the curvature of spacetime and the distribution of matter and energy?",
+        "a": "Einstein's field equations",
+        "b": "Newton's law of gravitation",
+        "c": "Ohm's law",
+        "d": "Faraday's law of electromagnetic induction",
+        "r": "a"
+    },
+    {
+        "q": "What is the principle that states the total momentum of a closed system remains constant unless acted upon by an external force?",
+        "a": "Law of conservation of momentum",
+        "b": "Law of conservation of energy",
+        "c": "Law of conservation of angular momentum",
+        "d": "Law of conservation of electric charge",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation that relates force (F) to the change in momentum (Δp) and the time (Δt) over which the force is applied?",
+        "a": "F = Δp / Δt",
+        "b": "F = Δt / Δp",
+        "c": "F = Δp * Δt",
+        "d": "F = Δt * Δp",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of the behavior of electric and magnetic fields and their interaction with matter?",
+        "a": "Electromagnetism",
+        "b": "Optics",
+        "c": "Thermodynamics",
+        "d": "Mechanics",
+        "r": "a"
+    },
+    {
+        "q": "What is the principle that states the total angular momentum of a closed system remains constant unless acted upon by an external torque?",
+        "a": "Law of conservation of angular momentum",
+        "b": "Law of conservation of energy",
+        "c": "Law of conservation of momentum",
+        "d": "Law of conservation of electric charge",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation proposed by Isaac Newton that describes the force (F) required to accelerate an object of mass (m) with an acceleration (a)?",
+        "a": "F = m * a",
+        "b": "F = m / a",
+        "c": "F = m + a",
+        "d": "F = m - a",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of the behavior of heat and its transformation into different forms of energy?",
+        "a": "Thermodynamics",
+        "b": "Optics",
+        "c": "Electromagnetism",
+        "d": "Mechanics",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which light bends as it passes from one medium to another with a different refractive index?",
+        "a": "Refraction",
+        "b": "Reflection",
+        "c": "Diffraction",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation that relates power (P) to work (W) done over time (t)?",
+        "a": "P = W / t",
+        "b": "P = t / W",
+        "c": "P = W * t",
+        "d": "P = t * W",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of the behavior of light and its interactions with matter?",
+        "a": "Optics",
+        "b": "Electromagnetism",
+        "c": "Thermodynamics",
+        "d": "Mechanics",
+        "r": "a"
+    },
+    {
+        "q": "What is the principle that states the total electric charge in an isolated system remains constant over time?",
+        "a": "Law of conservation of electric charge",
+        "b": "Law of conservation of energy",
+        "c": "Law of conservation of momentum",
+        "d": "Law of conservation of angular momentum",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation that relates work (W) to force (F) applied over a displacement (d) in the direction of the force?",
+        "a": "W = F * d",
+        "b": "W = d / F",
+        "c": "W = F / d",
+        "d": "W = d * F",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of the behavior of matter and energy at extremely small scales, including subatomic particles?",
+        "a": "Quantum mechanics",
+        "b": "Optics",
+        "c": "Thermodynamics",
+        "d": "Mechanics",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which light waves scatter and separate into different colors due to interactions with a medium?",
+        "a": "Dispersion",
+        "b": "Diffraction",
+        "c": "Refraction",
+        "d": "Reflection",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation that relates force (F) required to move an object against a frictional force (f) over a displacement (d)?",
+        "a": "F = f * d",
+        "b": "F = d / f",
+        "c": "F = f / d",
+        "d": "F = d * f",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of the behavior of matter and energy at extremely high temperatures and densities?",
+        "a": "Plasma physics",
+        "b": "Quantum mechanics",
+        "c": "Thermodynamics",
+        "d": "Optics",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which light waves spread out as they pass through an opening or around an obstacle?",
+        "a": "Diffraction",
+        "b": "Dispersion",
+        "c": "Refraction",
+        "d": "Reflection",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation that relates the force (F) applied to an object of mass (m) to its acceleration (a)?",
+        "a": "F = m * a",
+        "b": "F = m / a",
+        "c": "F = m + a",
+        "d": "F = m - a",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which light or other waves reflect back from a surface at the same angle it strikes the surface?",
+        "a": "Reflection",
+        "b": "Refraction",
+        "c": "Diffraction",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation that relates the force (F) required to stretch or compress a spring with its spring constant (k) and displacement (x)?",
+        "a": "F = k * x",
+        "b": "F = x / k",
+        "c": "F = k / x",
+        "d": "F = x * k",
+        "r": "a"
+    },
+    {
+        "q": "What is the branch of physics that deals with the study of the behavior of matter and energy at extremely low temperatures?",
+        "a": "Cryogenics",
+        "b": "Thermodynamics",
+        "c": "Optics",
+        "d": "Quantum mechanics",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon in which light or other waves bend as they pass from one medium to another with the same refractive index?",
+        "a": "No refraction",
+        "b": "Reflection",
+        "c": "Diffraction",
+        "d": "Dispersion",
+        "r": "a"
     }
 ]
