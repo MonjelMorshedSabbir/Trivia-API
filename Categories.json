@@ -1,0 +1,80 @@
+{
+    "Main_S_URl":"Mother URL",
+    "S":[
+        {
+            "n": "Science",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Commerce",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Computer Science",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Religious Studies",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Politics and Government",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Global Studies",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "History",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Mathematics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Language and Literature",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Social Sciences",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Arts and Humanities",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Environmental Studies",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Economics",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Psychology",
+            "i": "",
+            "fn": ""
+        },
+        {
+            "n": "Health and Medicine",
+            "i": "",
+            "fn": ""
+        }
+    ]    
+}
