@@ -4,42 +4,42 @@
         {
             "n": "Physics",
             "i": "",
-            "fn": ""
+            "fn": "Physics"
         },
         {
             "n": "Chemistry",
             "i": "",
-            "fn": ""
+            "fn": "Chemistry"
         },
         {
             "n": "Biology",
             "i": "",
-            "fn": ""
+            "fn": "Biology"
         },
         {
             "n": "Mathematics",
             "i": "",
-            "fn": ""
+            "fn": "Mathematics"
         },
         {
             "n": "Earth Science",
             "i": "",
-            "fn": ""
+            "fn": "EarthScience"
         },
         {
             "n": "Astronomy",
             "i": "",
-            "fn": ""
+            "fn": "Astronomy"
         },
         {
             "n": "Environmental Science",
             "i": "",
-            "fn": ""
+            "fn": "EnvironmentalScience"
         },
         {
             "n": "Computer Science",
             "i": "",
-            "fn": ""
+            "fn": "ComputerScience"
         }        
     ]
 }
