@@ -2173,7 +2173,7 @@
         "b": "Mitochondria",
         "c": "Golgi apparatus",
         "d": "Endoplasmic reticulum",
-        "r": ""
+        "r": "a"
     },
     {
         "q": "Which kingdom comprises organisms without nuclei?",
@@ -2766,5 +2766,2693 @@
         "c": "Airborne droplets",
         "d": "Contaminated food and water",
         "r": "a"
+    },
+    {
+        "q": "What is the primary source of energy for living organisms?",
+        "a": "glucose",
+        "b": "oxygen",
+        "c": "water",
+        "d": "carbon dioxide",
+        "r": "a"
+    },
+    {
+        "q": "Which enzyme is responsible for breaking down starch into maltose?",
+        "a": "amylase",
+        "b": "lipase",
+        "c": "pepsin",
+        "d": "trypsin",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the gallbladder?",
+        "a": "Store bile",
+        "b": "Produce insulin",
+        "c": "Break down proteins",
+        "d": "Absorb nutrients",
+        "r": "a"
+    },
+    {
+        "q": "Which nutrient is classified as a micronutrient?",
+        "a": "Iron",
+        "b": "Protein",
+        "c": "Carbohydrate",
+        "d": "Fat",
+        "r": "a"
+    },
+    {
+        "q": "Where does the digestion of protein begin in the human body?",
+        "a": "Stomach",
+        "b": "Mouth",
+        "c": "Small intestine",
+        "d": "Large intestine",
+        "r": "a"
+    },
+    {
+        "q": "Which organ is responsible for producing bile?",
+        "a": "Liver",
+        "b": "Kidney",
+        "c": "Pancreas",
+        "d": "Gallbladder",
+        "r": "a"
+    },
+    {
+        "q": "Which vitamin is fat-soluble?",
+        "a": "Vitamin D",
+        "b": "Vitamin C",
+        "c": "Vitamin B12",
+        "d": "Vitamin B6",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of mucus in the stomach lining?",
+        "a": "Protect from acid",
+        "b": "Absorb nutrients",
+        "c": "Produce enzymes",
+        "d": "Store bile",
+        "r": "a"
+    },
+    {
+        "q": "Which enzyme is present in saliva and helps in the digestion of starch?",
+        "a": "Amylase",
+        "b": "Protease",
+        "c": "Lipase",
+        "d": "Pepsin",
+        "r": "a"
+    },
+    {
+        "q": "Which part of the digestive system is responsible for water absorption?",
+        "a": "Large intestine",
+        "b": "Small intestine",
+        "c": "Stomach",
+        "d": "Esophagus",
+        "r": "a"
+    },
+    {
+        "q": "Which organ releases insulin and glucagon to regulate blood sugar levels?",
+        "a": "Pancreas",
+        "b": "Liver",
+        "c": "Gallbladder",
+        "d": "Spleen",
+        "r": "a"
+    },
+    {
+        "q": "What is the main function of the large intestine?",
+        "a": "Absorb water and electrolytes",
+        "b": "Digest proteins",
+        "c": "Produce bile",
+        "d": "Break down fats",
+        "r": "a"
+    },
+    {
+        "q": "Which substance neutralizes stomach acid in the small intestine?",
+        "a": "Bicarbonate",
+        "b": "Insulin",
+        "c": "Glucagon",
+        "d": "Hydrochloric acid",
+        "r": "a"
+    },
+    {
+        "q": "Which nutrient provides the highest amount of energy per gram?",
+        "a": "Fat",
+        "b": "Protein",
+        "c": "Carbohydrate",
+        "d": "Fiber",
+        "r": "a"
+    },
+    {
+        "q": "Which type of digestion occurs in the mouth?",
+        "a": "Mechanical and chemical digestion",
+        "b": "Chemical digestion",
+        "c": "Absorption",
+        "d": "Elimination",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a fat-soluble vitamin?",
+        "a": "Vitamin C",
+        "b": "Vitamin D",
+        "c": "Vitamin A",
+        "d": "Vitamin E",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the epiglottis during swallowing?",
+        "a": "Prevent food from entering the trachea",
+        "b": "Produce digestive enzymes",
+        "c": "Absorb water",
+        "d": "Regulate stomach acid",
+        "r": "a"
+    },
+    {
+        "q": "Which part of the digestive system is responsible for the production of hydrochloric acid?",
+        "a": "Stomach",
+        "b": "Mouth",
+        "c": "Small intestine",
+        "d": "Liver",
+        "r": "a"
+    },
+    {
+        "q": "Which nutrient is the main component of cell membranes?",
+        "a": "Lipids",
+        "b": "Proteins",
+        "c": "Carbohydrates",
+        "d": "Minerals",
+        "r": "a"
+    },
+    {
+        "q": "Where does the majority of nutrient absorption take place in the digestive system?",
+        "a": "Small intestine",
+        "b": "Stomach",
+        "c": "Large intestine",
+        "d": "Mouth",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of villi in the small intestine?",
+        "a": "Increase surface area for nutrient absorption",
+        "b": "Produce digestive enzymes",
+        "c": "Store bile",
+        "d": "Neutralize stomach acid",
+        "r": "a"
+    },
+    {
+        "q": "Which enzyme is responsible for breaking down fats into fatty acids and glycerol?",
+        "a": "Lipase",
+        "b": "Amylase",
+        "c": "Pepsin",
+        "d": "Trypsin",
+        "r": "a"
+    },
+    {
+        "q": "What is the main function of the esophagus?",
+        "a": "Transport food from mouth to stomach",
+        "b": "Absorb nutrients",
+        "c": "Produce bile",
+        "d": "Break down proteins",
+        "r": "a"
+    },
+    {
+        "q": "Which nutrient is essential for the formation of hemoglobin in red blood cells?",
+        "a": "Iron",
+        "b": "Calcium",
+        "c": "Potassium",
+        "d": "Sodium",
+        "r": "a"
+    },
+    {
+        "q": "Where does protein digestion primarily occur?",
+        "a": "Stomach",
+        "b": "Mouth",
+        "c": "Small intestine",
+        "d": "Large intestine",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the pyloric sphincter in the digestive system?",
+        "a": "Regulate the flow of food from the stomach to the small intestine",
+        "b": "Produce bile",
+        "c": "Absorb nutrients",
+        "d": "Store waste products",
+        "r": "a"
+    },
+    {
+        "q": "Which vitamin is necessary for calcium absorption?",
+        "a": "Vitamin D",
+        "b": "Vitamin C",
+        "c": "Vitamin B12",
+        "d": "Vitamin A",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of peristalsis in the digestive system?",
+        "a": "Propels food through the digestive tract",
+        "b": "Breaks down carbohydrates",
+        "c": "Neutralizes stomach acid",
+        "d": "Produces bile",
+        "r": "a"
+    },
+    {
+        "q": "Which nutrient is the body's main source of energy during short, high-intensity activities?",
+        "a": "Carbohydrates",
+        "b": "Proteins",
+        "c": "Fats",
+        "d": "Vitamins",
+        "r": "a"
+    },
+    {
+        "q": "What is the role of hydrochloric acid in the stomach?",
+        "a": "Break down food and kill bacteria",
+        "b": "Absorb nutrients",
+        "c": "Produce enzymes",
+        "d": "Neutralize stomach acid",
+        "r": "a"
+    },
+    {
+        "q": "Which enzyme is responsible for breaking down proteins into peptides?",
+        "a": "Protease",
+        "b": "Amylase",
+        "c": "Lipase",
+        "d": "Pepsin",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the rectum in the digestive system?",
+        "a": "Store and eliminate feces",
+        "b": "Absorb water",
+        "c": "Produce bile",
+        "d": "Break down fats",
+        "r": "a"
+    },
+    {
+        "q": "Which nutrient is a major component of enzymes in the body?",
+        "a": "Protein",
+        "b": "Carbohydrate",
+        "c": "Fat",
+        "d": "Fiber",
+        "r": "a"
+    },
+    {
+        "q": "Where does the final digestion and absorption of nutrients occur in the digestive system?",
+        "a": "Small intestine",
+        "b": "Stomach",
+        "c": "Large intestine",
+        "d": "Esophagus",
+        "r": "a"
+    },
+    {
+        "q": "Which organ secretes digestive enzymes into the small intestine?",
+        "a": "Pancreas",
+        "b": "Liver",
+        "c": "Gallbladder",
+        "d": "Spleen",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary function of carbohydrates in the body?",
+        "a": "Provide energy",
+        "b": "Build and repair tissues",
+        "c": "Regulate body temperature",
+        "d": "Transport oxygen",
+        "r": "a"
+    },
+    {
+        "q": "Which enzyme is responsible for breaking down lactose into glucose and galactose?",
+        "a": "Lactase",
+        "b": "Maltase",
+        "c": "Sucrase",
+        "d": "Lipase",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the appendix in the human body?",
+        "a": "Unknown, but may play a role in immune function",
+        "b": "Absorb nutrients",
+        "c": "Produce digestive enzymes",
+        "d": "Store bile",
+        "r": "a"
+    },
+    {
+        "q": "Which nutrient is essential for the formation and repair of bones and teeth?",
+        "a": "Calcium",
+        "b": "Iron",
+        "c": "Potassium",
+        "d": "Sodium",
+        "r": "a"
+    },
+    {
+        "q": "Where does the digestion of fats primarily occur in the human body?",
+        "a": "Small intestine",
+        "b": "Stomach",
+        "c": "Mouth",
+        "d": "Large intestine",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the ileocecal valve in the digestive system?",
+        "a": "Regulate the flow of food from the small intestine to the large intestine",
+        "b": "Produce bile",
+        "c": "Absorb nutrients",
+        "d": "Store waste products",
+        "r": "a"
+    },
+    {
+        "q": "Which vitamin is essential for vision and immune function?",
+        "a": "Vitamin A",
+        "b": "Vitamin C",
+        "c": "Vitamin D",
+        "d": "Vitamin B12",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of bile in the digestive system?",
+        "a": "Break down fats",
+        "b": "Absorb nutrients",
+        "c": "Produce enzymes",
+        "d": "Neutralize stomach acid",
+        "r": "a"
+    },
+    {
+        "q": "Which enzyme is responsible for breaking down maltose into glucose?",
+        "a": "Maltase",
+        "b": "Amylase",
+        "c": "Lipase",
+        "d": "Pepsin",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the anus in the digestive system?",
+        "a": "Eliminate feces from the body",
+        "b": "Absorb water",
+        "c": "Produce bile",
+        "d": "Break down proteins",
+        "r": "a"
+    },
+    {
+        "q": "Which nutrient is an essential component of hormones and cell membranes?",
+        "a": "Fat",
+        "b": "Protein",
+        "c": "Carbohydrate",
+        "d": "Fiber",
+        "r": "a"
+    },
+    {
+        "q": "Where does the majority of water absorption occur in the digestive system?",
+        "a": "Large intestine",
+        "b": "Small intestine",
+        "c": "Stomach",
+        "d": "Esophagus",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary function of blood?",
+        "a": "Transports nutrients",
+        "b": "Regulates body temperature",
+        "c": "Carries oxygen to the cells",
+        "d": "Filters waste products",
+        "r": "c"
+    },
+    {
+        "q": "Which blood vessel carries oxygenated blood?",
+        "a": "Pulmonary artery",
+        "b": "Pulmonary vein",
+        "c": "Aorta",
+        "d": "Superior vena cava",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a component of blood?",
+        "a": "Hemoglobin",
+        "b": "Prothrombin",
+        "c": "Lymphocytes",
+        "d": "Bile",
+        "r": "a"
+    },
+    {
+        "q": "What type of blood vessels have valves?",
+        "a": "Veins",
+        "b": "Arteries",
+        "c": "Capillaries",
+        "d": "Lymphatics",
+        "r": "a"
+    },
+    {
+        "q": "The heart pumps oxygenated blood to which part of the body?",
+        "a": "Brain",
+        "b": "Lungs",
+        "c": "Liver",
+        "d": "Kidneys",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a type of blood cell?",
+        "a": "Platelet",
+        "b": "Erythrocyte",
+        "c": "Leukocyte",
+        "d": "Plasma",
+        "r": "d"
+    },
+    {
+        "q": "Blood is classified as which type of tissue?",
+        "a": "Epithelial",
+        "b": "Connective",
+        "c": "Nervous",
+        "d": "Muscular",
+        "r": "b"
+    },
+    {
+        "q": "What is the approximate volume of blood in an average adult human?",
+        "a": "2-3 liters",
+        "b": "4-5 liters",
+        "c": "6-7 liters",
+        "d": "8-9 liters",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is responsible for clotting of blood?",
+        "a": "Erythrocytes",
+        "b": "Platelets",
+        "c": "Plasma",
+        "d": "Leukocytes",
+        "r": "b"
+    },
+    {
+        "q": "Which chamber of the heart receives oxygenated blood?",
+        "a": "Left atrium",
+        "b": "Right atrium",
+        "c": "Left ventricle",
+        "d": "Right ventricle",
+        "r": "a"
+    },
+    {
+        "q": "Blood is pumped out of the heart by which of the following?",
+        "a": "Aorta",
+        "b": "Pulmonary artery",
+        "c": "Pulmonary vein",
+        "d": "Superior vena cava",
+        "r": "a"
+    },
+    {
+        "q": "Which blood vessels have the thinnest walls to allow for gas exchange?",
+        "a": "Veins",
+        "b": "Arteries",
+        "c": "Capillaries",
+        "d": "Lymphatics",
+        "r": "c"
+    },
+    {
+        "q": "What is the protein present in red blood cells that carries oxygen?",
+        "a": "Insulin",
+        "b": "Hemoglobin",
+        "c": "Collagen",
+        "d": "Myoglobin",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following blood types is known as the universal donor?",
+        "a": "A+",
+        "b": "B+",
+        "c": "AB-",
+        "d": "O-",
+        "r": "d"
+    },
+    {
+        "q": "The liquid component of blood is called?",
+        "a": "Lymph",
+        "b": "Plasma",
+        "c": "Serum",
+        "d": "Cytoplasm",
+        "r": "b"
+    },
+    {
+        "q": "The average lifespan of a red blood cell is approximately?",
+        "a": "30 days",
+        "b": "60 days",
+        "c": "90 days",
+        "d": "120 days",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is NOT a major blood vessel connected to the heart?",
+        "a": "Pulmonary vein",
+        "b": "Pulmonary artery",
+        "c": "Aorta",
+        "d": "Jugular vein",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following chambers of the heart is responsible for pumping oxygenated blood to the rest of the body?",
+        "a": "Left atrium",
+        "b": "Right atrium",
+        "c": "Left ventricle",
+        "d": "Right ventricle",
+        "r": "c"
+    },
+    {
+        "q": "Anemia is a condition characterized by a deficiency of what?",
+        "a": "Red blood cells",
+        "b": "White blood cells",
+        "c": "Platelets",
+        "d": "Hemoglobin",
+        "r": "d"
+    },
+    {
+        "q": "What is the average heartbeat per minute in a normal adult?",
+        "a": "40-50",
+        "b": "60-70",
+        "c": "80-90",
+        "d": "100-120",
+        "r": "b"
+    },
+    {
+        "q": "Which blood vessels carry blood back to the heart?",
+        "a": "Veins",
+        "b": "Arteries",
+        "c": "Capillaries",
+        "d": "Lymphatics",
+        "r": "a"
+    },
+    {
+        "q": "The \"lub-dub\" sound of the heartbeat is caused by?",
+        "a": "Blood flow",
+        "b": "Closing of heart valves",
+        "c": "Opening of heart valves",
+        "d": "Contraction of the atria",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is responsible for fighting off infections?",
+        "a": "Red blood cells",
+        "b": "White blood cells",
+        "c": "Platelets",
+        "d": "Plasma",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following blood vessels is responsible for carrying blood to the lungs for oxygenation?",
+        "a": "Pulmonary artery",
+        "b": "Pulmonary vein",
+        "c": "Aorta",
+        "d": "Vena cava",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following blood types is known as the universal recipient?",
+        "a": "A+",
+        "b": "B+",
+        "c": "AB+",
+        "d": "O+",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following chambers of the heart receives deoxygenated blood from the body?",
+        "a": "Left atrium",
+        "b": "Right atrium",
+        "c": "Left ventricle",
+        "d": "Right ventricle",
+        "r": "b"
+    },
+    {
+        "q": "What is the fluid portion of the blood that remains after clotting?",
+        "a": "Lymph",
+        "b": "Plasma",
+        "c": "Serum",
+        "d": "Cytoplasm",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following components of blood is primarily responsible for transporting nutrients, hormones, and waste products?",
+        "a": "Erythrocytes",
+        "b": "Platelets",
+        "c": "Plasma",
+        "d": "Leukocytes",
+        "r": "c"
+    },
+    {
+        "q": "What is the iron-containing pigment found in red blood cells?",
+        "a": "Hemoglobin",
+        "b": "Myoglobin",
+        "c": "Chlorophyll",
+        "d": "Collagen",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following blood types is considered the \"universal donor\" for plasma donations?",
+        "a": "A+",
+        "b": "B+",
+        "c": "AB+",
+        "d": "O+",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following chambers of the heart pumps deoxygenated blood to the lungs?",
+        "a": "Left atrium",
+        "b": "Right atrium",
+        "c": "Left ventricle",
+        "d": "Right ventricle",
+        "r": "c"
+    },
+    {
+        "q": "Which blood cells are responsible for carrying oxygen and carbon dioxide in the blood?",
+        "a": "Erythrocytes",
+        "b": "Leukocytes",
+        "c": "Platelets",
+        "d": "Plasma",
+        "r": "a"
+    },
+    {
+        "q": "Which blood vessel is the largest and carries oxygenated blood away from the heart?",
+        "a": "Pulmonary vein",
+        "b": "Pulmonary artery",
+        "c": "Aorta",
+        "d": "Superior vena cava",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of blood cell formation called?",
+        "a": "Osmosis",
+        "b": "Hemostasis",
+        "c": "Hemolysis",
+        "d": "Hematopoiesis",
+        "r": "d"
+    },
+    {
+        "q": "Which blood type is considered the \"universal donor\" for whole blood donations?",
+        "a": "A-",
+        "b": "B+",
+        "c": "AB+",
+        "d": "O-",
+        "r": "d"
+    },
+    {
+        "q": "The \"Pulse\" is a measurement of what aspect of the circulatory system?",
+        "a": "Blood pressure",
+        "b": "Heart rate",
+        "c": "Blood volume",
+        "d": "Blood viscosity",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following blood cells play a vital role in the immune system?",
+        "a": "Erythrocytes",
+        "b": "Leukocytes",
+        "c": "Platelets",
+        "d": "Plasma",
+        "r": "b"
+    },
+    {
+        "q": "Which blood vessel carries deoxygenated blood?",
+        "a": "Pulmonary artery",
+        "b": "Pulmonary vein",
+        "c": "Aorta",
+        "d": "Vena cava",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following blood types is known as the universal recipient for whole blood donations?",
+        "a": "A-",
+        "b": "B+",
+        "c": "AB+",
+        "d": "O-",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following chambers of the heart pumps oxygenated blood to the body?",
+        "a": "Left atrium",
+        "b": "Right atrium",
+        "c": "Left ventricle",
+        "d": "Right ventricle",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary organ of the respiratory system?",
+        "a": "Lungs",
+        "b": "Liver",
+        "c": "Stomach",
+        "d": "Kidneys",
+        "r": "a"
+    },
+    {
+        "q": "During inhalation, what is the role of the diaphragm?",
+        "a": "Contracts and flattens",
+        "b": "Relaxes and moves up",
+        "c": "Contracts and moves up",
+        "d": "Relaxes and flattens",
+        "r": "a"
+    },
+    {
+        "q": "The exchange of gases between blood and body cells is known as:",
+        "a": "Internal Respiration",
+        "b": "External Respiration",
+        "c": "Cellular Respiration",
+        "d": "Breathing",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is transported by red blood cells in the bloodstream?",
+        "a": "Oxygen",
+        "b": "Carbon Dioxide",
+        "c": "Nitrogen",
+        "d": "Hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the small air sacs in the lungs where gas exchange occurs?",
+        "a": "Bronchi",
+        "b": "Alveoli",
+        "c": "Trachea",
+        "d": "Bronchioles",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is the correct pathway of air during inhalation?",
+        "a": "Trachea, Bronchi, Bronchioles, Alveoli",
+        "b": "Trachea, Bronchioles, Bronchi, Alveoli",
+        "c": "Trachea, Alveoli, Bronchi, Bronchioles",
+        "d": "Trachea, Bronchi, Alveoli, Bronchioles",
+        "r": "d"
+    },
+    {
+        "q": "The process of breathing is also known as:",
+        "a": "Ventilation",
+        "b": "Oxidation",
+        "c": "Fermentation",
+        "d": "Transpiration",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is released as a waste product during cellular respiration?",
+        "a": "Oxygen",
+        "b": "Carbon Dioxide",
+        "c": "Nitrogen",
+        "d": "Hydrogen",
+        "r": "b"
+    },
+    {
+        "q": "The space at the back of the mouth, shared by both the respiratory and digestive systems, is called:",
+        "a": "Larynx",
+        "b": "Epiglottis",
+        "c": "Pharynx",
+        "d": "Trachea",
+        "r": "c"
+    },
+    {
+        "q": "What is the function of the mucus in the respiratory system?",
+        "a": "It warms the air before it enters the lungs",
+        "b": "It filters out dust and other particles",
+        "c": "It produces oxygen",
+        "d": "It provides voice modulation",
+        "r": "b"
+    },
+    {
+        "q": "Which part of the brain controls involuntary breathing?",
+        "a": "Cerebrum",
+        "b": "Medulla Oblongata",
+        "c": "Cerebellum",
+        "d": "Pons",
+        "r": "b"
+    },
+    {
+        "q": "What is the average respiratory rate for adults at rest?",
+        "a": "12-20 breaths per minute",
+        "b": "8-12 breaths per minute",
+        "c": "20-30 breaths per minute",
+        "d": "30-40 breaths per minute",
+        "r": "a"
+    },
+    {
+        "q": "What is the medical term for difficulty breathing?",
+        "a": "Asthma",
+        "b": "Emphysema",
+        "c": "Dyspnea",
+        "d": "Bronchitis",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a respiratory disorder characterized by inflammation of the bronchial tubes?",
+        "a": "Asthma",
+        "b": "Pneumonia",
+        "c": "Tuberculosis",
+        "d": "Bronchitis",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary function of the epiglottis?",
+        "a": "Produces mucus",
+        "b": "Filters the air",
+        "c": "Regulates gas exchange",
+        "d": "Prevents food from entering the airway",
+        "r": "d"
+    },
+    {
+        "q": "Which respiratory structure is commonly known as the \"Adam's apple\"?",
+        "a": "Larynx",
+        "b": "Trachea",
+        "c": "Pharynx",
+        "d": "Epiglottis",
+        "r": "a"
+    },
+    {
+        "q": "What gas is used in the body to release energy from glucose during cellular respiration?",
+        "a": "Oxygen",
+        "b": "Carbon Dioxide",
+        "c": "Nitrogen",
+        "d": "Hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the muscle that separates the chest and abdominal cavities and aids in breathing?",
+        "a": "Intercostal muscles",
+        "b": "Diaphragm",
+        "c": "Abdominal muscles",
+        "d": "Quadriceps muscles",
+        "r": "b"
+    },
+    {
+        "q": "Which part of the respiratory system is also known as the \"throat\"?",
+        "a": "Larynx",
+        "b": "Trachea",
+        "c": "Pharynx",
+        "d": "Epiglottis",
+        "r": "c"
+    },
+    {
+        "q": "During exhalation, what happens to the volume of the chest cavity?",
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Stays the same",
+        "d": "Cannot be determined",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following respiratory disorders is caused by long-term smoking?",
+        "a": "Asthma",
+        "b": "Emphysema",
+        "c": "Pneumonia",
+        "d": "Bronchitis",
+        "r": "b"
+    },
+    {
+        "q": "Which gas is responsible for the acidic nature of carbon dioxide when dissolved in blood?",
+        "a": "Oxygen",
+        "b": "Carbon Dioxide",
+        "c": "Nitrogen",
+        "d": "Hydrogen",
+        "r": "b"
+    },
+    {
+        "q": "What is the role of hemoglobin in the respiratory system?",
+        "a": "Transport oxygen",
+        "b": "Produce mucus",
+        "c": "Filter the air",
+        "d": "Exchange gases in the lungs",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the total amount of air that the lungs can hold?",
+        "a": "Vital capacity",
+        "b": "Tidal volume",
+        "c": "Residual volume",
+        "d": "Total lung capacity",
+        "r": "d"
+    },
+    {
+        "q": "Which respiratory structure branches into smaller tubes called bronchioles?",
+        "a": "Trachea",
+        "b": "Larynx",
+        "c": "Bronchi",
+        "d": "Alveoli",
+        "r": "c"
+    },
+    {
+        "q": "What is the function of surfactant in the alveoli?",
+        "a": "Produces mucus",
+        "b": "Regulates gas exchange",
+        "c": "Facilitates gas exchange",
+        "d": "Filters the air",
+        "r": "c"
+    },
+    {
+        "q": "The respiratory system works closely with which other body system to exchange gases and deliver oxygen to body cells?",
+        "a": "Circulatory system",
+        "b": "Digestive system",
+        "c": "Nervous system",
+        "d": "Skeletal system",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of taking air into the lungs?",
+        "a": "Inhalation",
+        "b": "Exhalation",
+        "c": "Respiration",
+        "d": "Ventilation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a chronic respiratory disease characterized by difficulty exhaling and decreased lung elasticity?",
+        "a": "Asthma",
+        "b": "Emphysema",
+        "c": "Pneumonia",
+        "d": "Bronchitis",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary function of the nervous system?",
+        "a": "Sending electrical signals",
+        "b": "Transporting oxygen in the body",
+        "c": "Producing hormones",
+        "d": "Pumping blood throughout the body",
+        "r": "a"
+    },
+    {
+        "q": "Which part of the neuron is responsible for receiving signals from other neurons?",
+        "a": "Axon",
+        "b": "Dendrite",
+        "c": "Soma",
+        "d": "Nucleus",
+        "r": "b"
+    },
+    {
+        "q": "What is the protective covering that surrounds the axon called?",
+        "a": "Myelin sheath",
+        "b": "Synapse",
+        "c": "Neurotransmitter",
+        "d": "Cerebellum",
+        "r": "a"
+    },
+    {
+        "q": "Which division of the nervous system is responsible for the fight-or-flight response?",
+        "a": "Central nervous system (CNS)",
+        "b": "Peripheral nervous system (PNS)",
+        "c": "Somatic nervous system",
+        "d": "Autonomic nervous system (ANS)",
+        "r": "d"
+    },
+    {
+        "q": "The brainstem is responsible for controlling which vital body functions?",
+        "a": "Thinking and memory",
+        "b": "Breathing and heart rate",
+        "c": "Vision and hearing",
+        "d": "Muscle coordination and balance",
+        "r": "b"
+    },
+    {
+        "q": "What is the gap between two neurons where chemical communication occurs?",
+        "a": "Soma",
+        "b": "Synapse",
+        "c": "Axon",
+        "d": "Dendrite",
+        "r": "b"
+    },
+    {
+        "q": "Which part of the brain is associated with emotions, memory, and decision-making?",
+        "a": "Cerebellum",
+        "b": "Medulla oblongata",
+        "c": "Hypothalamus",
+        "d": "Cerebrum",
+        "r": "d"
+    },
+    {
+        "q": "Which sensory receptor is responsible for detecting light and enabling vision?",
+        "a": "Photoreceptor",
+        "b": "Chemoreceptor",
+        "c": "Thermoreceptor",
+        "d": "Nociceptor",
+        "r": "a"
+    },
+    {
+        "q": "Which lobe of the brain is primarily involved in processing visual information?",
+        "a": "Occipital lobe",
+        "b": "Parietal lobe",
+        "c": "Temporal lobe",
+        "d": "Frontal lobe",
+        "r": "a"
+    },
+    {
+        "q": "Which part of the eye is responsible for controlling the amount of light entering?",
+        "a": "Pupil",
+        "b": "Cornea",
+        "c": "Lens",
+        "d": "Retina",
+        "r": "a"
+    },
+    {
+        "q": "Which part of the ear is responsible for maintaining balance and equilibrium?",
+        "a": "Cochlea",
+        "b": "Tympanic membrane",
+        "c": "Eustachian tube",
+        "d": "Vestibular system",
+        "r": "d"
+    },
+    {
+        "q": "What is the main function of the cochlea in the ear?",
+        "a": "Hearing",
+        "b": "Equilibrium",
+        "c": "Smell",
+        "d": "Taste",
+        "r": "a"
+    },
+    {
+        "q": "Which neurotransmitter is involved in controlling mood and emotions?",
+        "a": "Serotonin",
+        "b": "Dopamine",
+        "c": "Acetylcholine",
+        "d": "GABA",
+        "r": "a"
+    },
+    {
+        "q": "Which part of the brain plays a crucial role in regulating body temperature?",
+        "a": "Thalamus",
+        "b": "Hippocampus",
+        "c": "Hypothalamus",
+        "d": "Amygdala",
+        "r": "c"
+    },
+    {
+        "q": "The autonomic nervous system is divided into two branches: sympathetic and ____.",
+        "a": "Parasympathetic",
+        "b": "Somatic",
+        "c": "Enteric",
+        "d": "Central",
+        "r": "a"
+    },
+    {
+        "q": "Which gland in the brain is often referred to as the \"master gland\"?",
+        "a": "Pituitary gland",
+        "b": "Thyroid gland",
+        "c": "Adrenal gland",
+        "d": "Pineal gland",
+        "r": "a"
+    },
+    {
+        "q": "Which neurotransmitter is associated with pleasure and reward?",
+        "a": "Serotonin",
+        "b": "GABA",
+        "c": "Dopamine",
+        "d": "Glutamate",
+        "r": "c"
+    },
+    {
+        "q": "Which part of the brain is responsible for regulating heartbeat and respiration?",
+        "a": "Cerebellum",
+        "b": "Medulla oblongata",
+        "c": "Cerebrum",
+        "d": "Thalamus",
+        "r": "b"
+    },
+    {
+        "q": "What type of neurons carry information from the brain to the muscles?",
+        "a": "Sensory neurons",
+        "b": "Interneurons",
+        "c": "Motor neurons",
+        "d": "Projection neurons",
+        "r": "c"
+    },
+    {
+        "q": "Which part of the brain is responsible for language comprehension?",
+        "a": "Frontal lobe",
+        "b": "Parietal lobe",
+        "c": "Temporal lobe",
+        "d": "Occipital lobe",
+        "r": "c"
+    },
+    {
+        "q": "The somatic nervous system is responsible for controlling voluntary _____.",
+        "a": "Breathing",
+        "b": "Digestion",
+        "c": "Movements",
+        "d": "Reflexes",
+        "r": "c"
+    },
+    {
+        "q": "Which structure of the eye contains cells responsible for converting light into signals?",
+        "a": "Pupil",
+        "b": "Cornea",
+        "c": "Lens",
+        "d": "Retina",
+        "r": "d"
+    },
+    {
+        "q": "Which part of the ear amplifies sound vibrations before they reach the inner ear?",
+        "a": "Cochlea",
+        "b": "Tympanic membrane",
+        "c": "Eustachian tube",
+        "d": "Ossicles",
+        "r": "d"
+    },
+    {
+        "q": "What is the role of the thalamus in the brain?",
+        "a": "Regulating body temperature",
+        "b": "Relaying sensory and motor signals",
+        "c": "Memory storage",
+        "d": "Controlling emotions",
+        "r": "b"
+    },
+    {
+        "q": "Which division of the nervous system controls voluntary movements?",
+        "a": "Central nervous system (CNS)",
+        "b": "Peripheral nervous system (PNS)",
+        "c": "Somatic nervous system",
+        "d": "Autonomic nervous system (ANS)",
+        "r": "c"
+    },
+    {
+        "q": "What is the function of the myelin sheath in neurons?",
+        "a": "Speed up nerve impulses",
+        "b": "Produce neurotransmitters",
+        "c": "Control body temperature",
+        "d": "Regulate blood pressure",
+        "r": "a"
+    },
+    {
+        "q": "Which part of the brain is responsible for coordinating movement and balance?",
+        "a": "Cerebellum",
+        "b": "Medulla oblongata",
+        "c": "Hypothalamus",
+        "d": "Cerebrum",
+        "r": "a"
+    },
+    {
+        "q": "What type of taste receptors are responsible for detecting sweet flavors?",
+        "a": "Umami receptors",
+        "b": "Bitter receptors",
+        "c": "Sweet receptors",
+        "d": "Sour receptors",
+        "r": "c"
+    },
+    {
+        "q": "Which gland is often referred to as the \"master gland\" because it controls several other endocrine glands?",
+        "a": "Pancreas",
+        "b": "Thyroid",
+        "c": "Pituitary",
+        "d": "Adrenal",
+        "r": "c"
+    },
+    {
+        "q": "What hormone is produced in the pancreas and helps regulate blood sugar levels?",
+        "a": "Estrogen",
+        "b": "Testosterone",
+        "c": "Insulin",
+        "d": "Cortisol",
+        "r": "c"
+    },
+    {
+        "q": "The adrenal glands are located on top of which organ?",
+        "a": "Kidneys",
+        "b": "Liver",
+        "c": "Heart",
+        "d": "Lungs",
+        "r": "a"
+    },
+    {
+        "q": "Which hormone is responsible for the fight-or-flight response in stressful situations?",
+        "a": "Adrenaline",
+        "b": "Serotonin",
+        "c": "Melatonin",
+        "d": "Dopamine",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary function of the thyroid gland?",
+        "a": "Regulation of blood sugar levels",
+        "b": "Production of insulin",
+        "c": "Regulation of body temperature",
+        "d": "Production of thyroid hormones",
+        "r": "d"
+    },
+    {
+        "q": "Which hormone is involved in the sleep-wake cycle and is often called the \"sleep hormone\"?",
+        "a": "Estrogen",
+        "b": "Melatonin",
+        "c": "Testosterone",
+        "d": "Insulin",
+        "r": "b"
+    },
+    {
+        "q": "The endocrine system is a network of glands that produce and secrete what?",
+        "a": "Hormones",
+        "b": "Enzymes",
+        "c": "Antibodies",
+        "d": "Neurotransmitters",
+        "r": "a"
+    },
+    {
+        "q": "Which hormone regulates calcium levels in the blood?",
+        "a": "Insulin",
+        "b": "Estrogen",
+        "c": "Thyroxine",
+        "d": "Parathyroid hormone",
+        "r": "d"
+    },
+    {
+        "q": "What is the function of the thymus gland?",
+        "a": "Regulation of metabolism",
+        "b": "Production of insulin",
+        "c": "Maturation of T-cells",
+        "d": "Regulation of body temperature",
+        "r": "c"
+    },
+    {
+        "q": "Which gland is located just below the Adam's apple in males?",
+        "a": "Thyroid",
+        "b": "Pancreas",
+        "c": "Pituitary",
+        "d": "Testes",
+        "r": "a"
+    },
+    {
+        "q": "The ovaries produce which hormone?",
+        "a": "Estrogen",
+        "b": "Testosterone",
+        "c": "Insulin",
+        "d": "Cortisol",
+        "r": "a"
+    },
+    {
+        "q": "What is the main function of antidiuretic hormone (ADH)?",
+        "a": "Regulation of blood pressure",
+        "b": "Regulation of blood sugar levels",
+        "c": "Regulation of body temperature",
+        "d": "Regulation of water reabsorption in the kidneys",
+        "r": "d"
+    },
+    {
+        "q": "Which hormone plays a crucial role in the development of male sexual characteristics?",
+        "a": "Progesterone",
+        "b": "Estrogen",
+        "c": "Testosterone",
+        "d": "Insulin",
+        "r": "c"
+    },
+    {
+        "q": "Which gland is responsible for the production of melatonin?",
+        "a": "Pancreas",
+        "b": "Thyroid",
+        "c": "Pineal",
+        "d": "Adrenal",
+        "r": "c"
+    },
+    {
+        "q": "Parathyroid hormone is responsible for regulating what in the body?",
+        "a": "Calcium levels",
+        "b": "Blood sugar levels",
+        "c": "Body temperature",
+        "d": "Sodium levels",
+        "r": "a"
+    },
+    {
+        "q": "Which hormone stimulates uterine contractions during childbirth?",
+        "a": "Estrogen",
+        "b": "Progesterone",
+        "c": "Oxytocin",
+        "d": "Testosterone",
+        "r": "c"
+    },
+    {
+        "q": "What is the function of the pineal gland?",
+        "a": "Regulation of metabolism",
+        "b": "Production of insulin",
+        "c": "Production of melatonin",
+        "d": "Regulation of body temperature",
+        "r": "c"
+    },
+    {
+        "q": "Which gland produces cortisol, a hormone involved in the body's stress response?",
+        "a": "Thyroid",
+        "b": "Pancreas",
+        "c": "Adrenal",
+        "d": "Ovaries",
+        "r": "c"
+    },
+    {
+        "q": "Insulin is produced in response to an increase in which substance in the blood?",
+        "a": "Glucose",
+        "b": "Calcium",
+        "c": "Sodium",
+        "d": "Cholesterol",
+        "r": "a"
+    },
+    {
+        "q": "Which hormone is responsible for the development of female sexual characteristics?",
+        "a": "Progesterone",
+        "b": "Estrogen",
+        "c": "Testosterone",
+        "d": "Insulin",
+        "r": "b"
+    },
+    {
+        "q": "What is the function of the hypothalamus in the endocrine system?",
+        "a": "Production of hormones",
+        "b": "Regulation of body temperature",
+        "c": "Communication between the nervous and endocrine systems",
+        "d": "Regulation of blood sugar levels",
+        "r": "d"
+    },
+    {
+        "q": "The adrenal glands produce which hormone in response to stress?",
+        "a": "Estrogen",
+        "b": "Cortisol",
+        "c": "Insulin",
+        "d": "Melatonin",
+        "r": "b"
+    },
+    {
+        "q": "Which hormone is produced in the ovaries and is involved in the menstrual cycle?",
+        "a": "Progesterone",
+        "b": "Estrogen",
+        "c": "Testosterone",
+        "d": "Insulin",
+        "r": "b"
+    },
+    {
+        "q": "What is the function of glucagon?",
+        "a": "Regulation of blood pressure",
+        "b": "Regulation of blood sugar levels",
+        "c": "Regulation of body temperature",
+        "d": "Regulation of water reabsorption in the kidneys",
+        "r": "b"
+    },
+    {
+        "q": "Which gland is responsible for the production of adrenaline?",
+        "a": "Pancreas",
+        "b": "Thyroid",
+        "c": "Pineal",
+        "d": "Adrenal",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary function of the testes?",
+        "a": "Production of estrogen",
+        "b": "Production of insulin",
+        "c": "Production of sperm",
+        "d": "Production of melatonin",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a primary sex organ in males?",
+        "a": "Ovary",
+        "b": "Uterus",
+        "c": "Testis",
+        "d": "Vagina",
+        "r": "c"
+    },
+    {
+        "q": "Spermatozoa are produced in the ___.",
+        "a": "Epididymis",
+        "b": "Seminal Vesicle",
+        "c": "Prostate Gland",
+        "d": "Seminiferous Tubules",
+        "r": "d"
+    },
+    {
+        "q": "Fertilization of an egg by sperm usually occurs in the ___.",
+        "a": "Uterus",
+        "b": "Cervix",
+        "c": "Ovary",
+        "d": "Fallopian Tube",
+        "r": "d"
+    },
+    {
+        "q": "The hormone responsible for secondary sexual characteristics in males is ___.",
+        "a": "Estrogen",
+        "b": "Testosterone",
+        "c": "Progesterone",
+        "d": "Follicle-stimulating Hormone",
+        "r": "b"
+    },
+    {
+        "q": "Which structure connects the ovaries to the uterus?",
+        "a": "Fallopian Tube",
+        "b": "Cervix",
+        "c": "Endometrium",
+        "d": "Vagina",
+        "r": "a"
+    },
+    {
+        "q": "Fertilization of an egg typically occurs in the ___.",
+        "a": "Uterus",
+        "b": "Oviduct",
+        "c": "Vagina",
+        "d": "Cervix",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary female sex hormone?",
+        "a": "Estrogen",
+        "b": "Progesterone",
+        "c": "Testosterone",
+        "d": "Prolactin",
+        "r": "a"
+    },
+    {
+        "q": "Spermatogenesis occurs in the ___.",
+        "a": "Testes",
+        "b": "Epididymis",
+        "c": "Vas Deferens",
+        "d": "Prostate Gland",
+        "r": "a"
+    },
+    {
+        "q": "The release of the egg from the ovary is called ___.",
+        "a": "Ovulation",
+        "b": "Menstruation",
+        "c": "Fertilization",
+        "d": "Implantation",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the prostate gland?",
+        "a": "Production of eggs",
+        "b": "Secretion of testosterone",
+        "c": "Secretion of semen",
+        "d": "Production of estrogen",
+        "r": "c"
+    },
+    {
+        "q": "The placenta is formed from the ___.",
+        "a": "Ovary",
+        "b": "Ovule",
+        "c": "Embryo",
+        "d": "Uterus",
+        "r": "c"
+    },
+    {
+        "q": "Which hormone is responsible for maintaining pregnancy?",
+        "a": "Human Chorionic Gonadotropin (hCG)",
+        "b": "Luteinizing Hormone (LH)",
+        "c": "Follicle-stimulating Hormone (FSH)",
+        "d": "Estrogen",
+        "r": "a"
+    },
+    {
+        "q": "The process of sperm and seminal fluid release from the penis is called ___.",
+        "a": "Menstruation",
+        "b": "Ejaculation",
+        "c": "Fertilization",
+        "d": "Ovulation",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a barrier method of contraception?",
+        "a": "Condom",
+        "b": "Intrauterine Device (IUD)",
+        "c": "Diaphragm",
+        "d": "Birth Control Pills",
+        "r": "d"
+    },
+    {
+        "q": "Which hormone stimulates the development of male secondary sexual characteristics?",
+        "a": "Progesterone",
+        "b": "Follicle-stimulating Hormone (FSH)",
+        "c": "Luteinizing Hormone (LH)",
+        "d": "Testosterone",
+        "r": "d"
+    },
+    {
+        "q": "In females, the gamete is called ___.",
+        "a": "Egg",
+        "b": "Sperm",
+        "c": "Ovule",
+        "d": "Zygote",
+        "r": "a"
+    },
+    {
+        "q": "Sperm cells are produced in the ___.",
+        "a": "Ovaries",
+        "b": "Fallopian Tubes",
+        "c": "Uterus",
+        "d": "Seminiferous Tubules",
+        "r": "d"
+    },
+    {
+        "q": "What is the function of the fallopian tube?",
+        "a": "Produce eggs",
+        "b": "Transport eggs",
+        "c": "Secretion of hormones",
+        "d": "Menstruation",
+        "r": "b"
+    },
+    {
+        "q": "The fusion of the egg and sperm results in the formation of a ___.",
+        "a": "Zygote",
+        "b": "Blastocyst",
+        "c": "Embryo",
+        "d": "Fetus",
+        "r": "a"
+    },
+    {
+        "q": "Which hormone prepares the uterus for pregnancy?",
+        "a": "Progesterone",
+        "b": "Luteinizing Hormone (LH)",
+        "c": "Human Chorionic Gonadotropin (hCG)",
+        "d": "Estrogen",
+        "r": "a"
+    },
+    {
+        "q": "Fertilization of an egg by sperm normally takes place in the ___.",
+        "a": "Uterus",
+        "b": "Fallopian Tube",
+        "c": "Cervix",
+        "d": "Vagina",
+        "r": "b"
+    },
+    {
+        "q": "The release of the mature egg from the ovary is called ___.",
+        "a": "Menstruation",
+        "b": "Ovulation",
+        "c": "Implantation",
+        "d": "Fertilization",
+        "r": "b"
+    },
+    {
+        "q": "Which structure serves as a passage for both sperm and urine in males?",
+        "a": "Vas Deferens",
+        "b": "Urethra",
+        "c": "Epididymis",
+        "d": "Prostate Gland",
+        "r": "b"
+    },
+    {
+        "q": "The corpus luteum is formed from the ___.",
+        "a": "Graafian Follicle",
+        "b": "Ovum",
+        "c": "Endometrium",
+        "d": "Blastocyst",
+        "r": "a"
+    },
+    {
+        "q": "Which hormone is detected in a pregnancy test to confirm pregnancy?",
+        "a": "Human Chorionic Gonadotropin (hCG)",
+        "b": "Progesterone",
+        "c": "Estrogen",
+        "d": "Luteinizing Hormone (LH)",
+        "r": "a"
+    },
+    {
+        "q": "The cervix is a part of which female reproductive organ?",
+        "a": "Vagina",
+        "b": "Ovary",
+        "c": "Uterus",
+        "d": "Fallopian Tube",
+        "r": "c"
+    },
+    {
+        "q": "What is the function of the seminal vesicles?",
+        "a": "Production of eggs",
+        "b": "Secretion of semen",
+        "c": "Secretion of testosterone",
+        "d": "Secretion of estrogen",
+        "r": "b"
+    },
+    {
+        "q": "The fertilized egg undergoes multiple divisions and forms a ball of cells called ___.",
+        "a": "Blastocyst",
+        "b": "Embryo",
+        "c": "Zygote",
+        "d": "Morula",
+        "r": "d"
+    },
+    {
+        "q": "Which hormone is responsible for the thickening of the uterine lining during the menstrual cycle?",
+        "a": "Progesterone",
+        "b": "Estrogen",
+        "c": "Luteinizing Hormone (LH)",
+        "d": "Human Chorionic Gonadotropin (hCG)",
+        "r": "b"
+    },
+    {
+        "q": "The cervix connects the uterus to the ___.",
+        "a": "Fallopian Tubes",
+        "b": "Vagina",
+        "c": "Ovaries",
+        "d": "Urinary Bladder",
+        "r": "b"
+    },
+    {
+        "q": "Which molecule carries genetic information?",
+        "a": "DNA",
+        "b": "RNA",
+        "c": "Protein",
+        "d": "Lipid",
+        "r": "a"
+    },
+    {
+        "q": "The process by which DNA is copied is called:",
+        "a": "Transcription",
+        "b": "Translation",
+        "c": "Replication",
+        "d": "Mutation",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a monogenic disorder?",
+        "a": "Cystic fibrosis",
+        "b": "Sickle cell anemia",
+        "c": "Down syndrome",
+        "d": "Alzheimer's disease",
+        "r": "b"
+    },
+    {
+        "q": "What is the full form of PCR in biotechnology?",
+        "a": "Polymerase Chain Reaction",
+        "b": "Protein Coding Region",
+        "c": "Primary Cellular Reaction",
+        "d": "Peptide Chain Reaction",
+        "r": "a"
+    },
+    {
+        "q": "Gel electrophoresis is used for separating:",
+        "a": "DNA fragments",
+        "b": "Amino acids",
+        "c": "Fatty acids",
+        "d": "Carbohydrates",
+        "r": "a"
+    },
+    {
+        "q": "In genetics, what does the term \"homozygous\" mean?",
+        "a": "Two different alleles for a gene",
+        "b": "Two identical alleles for a gene",
+        "c": "A dominant allele and a recessive allele",
+        "d": "No alleles for a particular gene",
+        "r": "b"
+    },
+    {
+        "q": "The study of heredity is called:",
+        "a": "Genetics",
+        "b": "Biotechnology",
+        "c": "Molecular biology",
+        "d": "Physiology",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the enzyme that cuts DNA at specific recognition sites?",
+        "a": "Helicase",
+        "b": "Ligase",
+        "c": "Restriction endonuclease",
+        "d": "Polymerase",
+        "r": "c"
+    },
+    {
+        "q": "The field of biotechnology deals with:",
+        "a": "Manipulation of living organisms",
+        "b": "Geographical features",
+        "c": "Mathematical equations",
+        "d": "Historical events",
+        "r": "a"
+    },
+    {
+        "q": "Down syndrome is caused by:",
+        "a": "An extra copy of chromosome 21",
+        "b": "A missing copy of chromosome 21",
+        "c": "A mutation in the CFTR gene",
+        "d": "A faulty allele of the BRCA1 gene",
+        "r": "a"
+    },
+    {
+        "q": "What is the genetic material of a virus?",
+        "a": "DNA",
+        "b": "RNA",
+        "c": "Protein",
+        "d": "Carbohydrate",
+        "r": "b"
+    },
+    {
+        "q": "The process of converting mRNA into a protein is called:",
+        "a": "Transcription",
+        "b": "Translation",
+        "c": "Replication",
+        "d": "Transduction",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a sex-linked disorder?",
+        "a": "Hemophilia",
+        "b": "Cystic fibrosis",
+        "c": "Huntington's disease",
+        "d": "Tay-Sachs disease",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of adding a \"poly-A tail\" to mRNA during processing?",
+        "a": "Exporting mRNA from the nucleus",
+        "b": "Enhancing the stability of mRNA",
+        "c": "Activating the ribosomes to translate mRNA",
+        "d": "Preventing mRNA degradation",
+        "r": "b"
+    },
+    {
+        "q": "In gel electrophoresis, smaller DNA fragments move:",
+        "a": "Faster than larger fragments",
+        "b": "Slower than larger fragments",
+        "c": "In the opposite direction of the electric field",
+        "d": "Randomly",
+        "r": "a"
+    },
+    {
+        "q": "A person with blood type AB has which of the following genotypes?",
+        "a": "IAIA",
+        "b": "IAi",
+        "c": "IBIB",
+        "d": "IAIB",
+        "r": "d"
+    },
+    {
+        "q": "Genetic engineering involves:",
+        "a": "Manipulating genes to modify organisms",
+        "b": "Studying genes in plants",
+        "c": "Observing genes in the wild",
+        "d": "Classifying organisms based on DNA",
+        "r": "a"
+    },
+    {
+        "q": "The genetic disorder that leads to the absence of melanin is called:",
+        "a": "Albinism",
+        "b": "Sickle cell anemia",
+        "c": "Cystic fibrosis",
+        "d": "Hemophilia",
+        "r": "a"
+    },
+    {
+        "q": "What is the role of tRNA in translation?",
+        "a": "Carries amino acids to the ribosome",
+        "b": "Acts as a template for mRNA synthesis",
+        "c": "Catalyzes the formation of peptide bonds",
+        "d": "Transcribes DNA to mRNA",
+        "r": "a"
+    },
+    {
+        "q": "The genetic makeup of an organism is referred to as its:",
+        "a": "Phenotype",
+        "b": "Genotype",
+        "c": "Allele composition",
+        "d": "Chromosome structure",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the \"gene of interest\" in genetic engineering?",
+        "a": "To produce a desired protein product",
+        "b": "To provide a marker for genetic testing",
+        "c": "To act as a carrier for DNA sequencing",
+        "d": "To suppress the expression of other genes",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following techniques is used to introduce foreign DNA into plant cells?",
+        "a": "Polymerase Chain Reaction",
+        "b": "Gel electrophoresis",
+        "c": "Agrobacterium-mediated transformation",
+        "d": "Southern blotting",
+        "r": "c"
+    },
+    {
+        "q": "Hemophilia is a genetic disorder that affects:",
+        "a": "Blood clotting factors",
+        "b": "Lung function",
+        "c": "Brain development",
+        "d": "Muscle coordination",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the operator in gene regulation?",
+        "a": "To control the access of RNA polymerase to the promoter",
+        "b": "To splice out introns from mRNA",
+        "c": "To stabilize mRNA in the cytoplasm",
+        "d": "To translate mRNA into a protein",
+        "r": "a"
+    },
+    {
+        "q": "A person with blood type O has which of the following genotypes?",
+        "a": "IAIA",
+        "b": "IAi",
+        "c": "IBIB",
+        "d": "ii",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of a genetically modified organism (GMO)?",
+        "a": "Bt corn",
+        "b": "Organic lettuce",
+        "c": "Wild salmon",
+        "d": "Grass-fed beef",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the process by which homologous chromosomes exchange genetic material?",
+        "a": "Transcription",
+        "b": "Translation",
+        "c": "Crossing over",
+        "d": "Replication",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a genetic disorder caused by a trisomy of chromosome 18?",
+        "a": "Turner syndrome",
+        "b": "Down syndrome",
+        "c": "Edwards syndrome",
+        "d": "Klinefelter syndrome",
+        "r": "c"
+    },
+    {
+        "q": "What is the function of the CRISPR-Cas system in genetic engineering?",
+        "a": "To edit and modify DNA sequences",
+        "b": "To degrade mRNA",
+        "c": "To regulate gene expression",
+        "d": "To repair damaged DNA",
+        "r": "a"
+    },
+    {
+        "q": "The human genome is composed of:",
+        "a": "Two sets of chromosomes",
+        "b": "23 chromosomes",
+        "c": "46 chromosomes",
+        "d": "92 chromosomes",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of the \"primer\" in PCR?",
+        "a": "To initiate DNA replication",
+        "b": "To amplify the DNA of interest",
+        "c": "To terminate transcription",
+        "d": "To degrade DNA in the reaction mixture",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the enzyme responsible for adding nucleotides during DNA replication?",
+        "a": "Helicase",
+        "b": "Ligase",
+        "c": "DNA polymerase I",
+        "d": "DNA polymerase III",
+        "r": "d"
+    },
+    {
+        "q": "In biotechnology, what is the purpose of creating a transgenic organism?",
+        "a": "To express a foreign gene in an organism",
+        "b": "To clone the organism",
+        "c": "To generate mutations in a gene",
+        "d": "To create an organism with no genes",
+        "r": "a"
+    },
+    {
+        "q": "The genetic disorder that results in the production of thick mucus in the lungs is called:",
+        "a": "Albinism",
+        "b": "Sickle cell anemia",
+        "c": "Cystic fibrosis",
+        "d": "Hemophilia",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the process by which ribosomes synthesize proteins using the information in mRNA?",
+        "a": "Transcription",
+        "b": "Translation",
+        "c": "Replication",
+        "d": "Transduction",
+        "r": "b"
+    },
+    {
+        "q": "A person with blood type A has which of the following genotypes?",
+        "a": "IAIA",
+        "b": "IAi",
+        "c": "IBIB",
+        "d": "IAIB",
+        "r": "a"
+    },
+    {
+        "q": "Which term refers to the variety of life forms in a particular habitat or on Earth?",
+        "a": "ecosystem diversity",
+        "b": "species diversity",
+        "c": "genetic diversity",
+        "d": "environmental diversity",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary cause of biodiversity loss globally?",
+        "a": "habitat destruction",
+        "b": "climate change",
+        "c": "invasive species",
+        "d": "pollution",
+        "r": "a"
+    },
+    {
+        "q": "Which type of biodiversity includes the number of different species in a given area?",
+        "a": "genetic diversity",
+        "b": "species diversity",
+        "c": "ecosystem diversity",
+        "d": "biotic diversity",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of an endangered species?",
+        "a": "Lion",
+        "b": "Zebra",
+        "c": "House Sparrow",
+        "d": "Domestic Cat",
+        "r": "c"
+    },
+    {
+        "q": "Which level of biodiversity deals with the genetic variation within a species?",
+        "a": "ecosystem diversity",
+        "b": "genetic diversity",
+        "c": "species diversity",
+        "d": "functional diversity",
+        "r": "b"
+    },
+    {
+        "q": "Which of these is NOT a direct threat to marine biodiversity?",
+        "a": "Overfishing",
+        "b": "Ocean Acidification",
+        "c": "Deforestation",
+        "d": "Coral Bleaching",
+        "r": "c"
+    },
+    {
+        "q": "Which conservation method focuses on preserving the natural habitats of species?",
+        "a": "In situ conservation",
+        "b": "Ex situ conservation",
+        "c": "Captive breeding",
+        "d": "Wildlife trade regulation",
+        "r": "a"
+    },
+    {
+        "q": "What does \"CITES\" stand for in the context of conservation?",
+        "a": "Convention on International Trade in Endangered Species",
+        "b": "Commission on International Terrestrial Ecosystems",
+        "c": "Committee for Invasive Threatened Ecosystems",
+        "d": "Convention on Invasive Threatened Ecosystems",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of artificial selection that benefits humans?",
+        "a": "Dog breeds",
+        "b": "Wildflowers",
+        "c": "Ocean currents",
+        "d": "Natural selection",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a direct value of biodiversity?",
+        "a": "Provision of Food",
+        "b": "Aesthetic value",
+        "c": "Climate change mitigation",
+        "d": "Habitat for wildlife",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is NOT a major factor contributing to the loss of biodiversity?",
+        "a": "Pollution",
+        "b": "Climate change",
+        "c": "Urbanization",
+        "d": "Eco-friendly practices",
+        "r": "d"
+    },
+    {
+        "q": "What is the term for the variety of ecosystems in a given region?",
+        "a": "Habitat diversity",
+        "b": "Ecological diversity",
+        "c": "Landscape diversity",
+        "d": "Topographical diversity",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a keystone species?",
+        "a": "Bee",
+        "b": "Elephant",
+        "c": "Tiger",
+        "d": "Sea Otter",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a human activity that leads to habitat destruction?",
+        "a": "Logging",
+        "b": "Predation",
+        "c": "Reproduction",
+        "d": "Photosynthesis",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a human-driven factor affecting biodiversity loss?",
+        "a": "Acid rain",
+        "b": "Earthquakes",
+        "c": "Volcanic eruptions",
+        "d": "Deforestation",
+        "r": "d"
+    },
+    {
+        "q": "Which conservation approach involves the protection of species in their natural habitats?",
+        "a": "Ex situ conservation",
+        "b": "In situ conservation",
+        "c": "Genetic conservation",
+        "d": "Community-based conservation",
+        "r": "b"
+    },
+    {
+        "q": "What is the main purpose of the Red List maintained by the IUCN?",
+        "a": "Monitor Climate Change Impacts",
+        "b": "Promote Eco-tourism",
+        "c": "Identify Threatened Species",
+        "d": "Research Endemic Species",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of an extinct species?",
+        "a": "Dodo bird",
+        "b": "Snow Leopard",
+        "c": "Bald Eagle",
+        "d": "Kangaroo",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the variety of different ecosystems on Earth?",
+        "a": "Biotic diversity",
+        "b": "Ecological diversity",
+        "c": "Terrestrial diversity",
+        "d": "Ecosystem diversity",
+        "r": "d"
+    },
+    {
+        "q": "What is the key reason behind the decline of many amphibian populations worldwide?",
+        "a": "Climate change",
+        "b": "Habitat destruction",
+        "c": "Overhunting",
+        "d": "Pollution",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of in situ conservation?",
+        "a": "Seed bank",
+        "b": "Botanical garden",
+        "c": "Zoo",
+        "d": "National park",
+        "r": "d"
+    },
+    {
+        "q": "What is the term for the variety of genes within a particular species?",
+        "a": "Ecosystem diversity",
+        "b": "Genetic diversity",
+        "c": "Species diversity",
+        "d": "Biotic diversity",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a measure to conserve biodiversity?",
+        "a": "Protected areas",
+        "b": "Sustainable development",
+        "c": "Species exploitation",
+        "d": "Wildlife corridors",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary goal of the Endangered Species Act (ESA)?",
+        "a": "Provide incentives for private landowners",
+        "b": "List species for human consumption",
+        "c": "Protect and recover endangered species",
+        "d": "Manage invasive species",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is NOT a hotspot for biodiversity?",
+        "a": "Amazon rainforest",
+        "b": "Galapagos Islands",
+        "c": "Sahara Desert",
+        "d": "Coral Triangle",
+        "r": "c"
+    },
+    {
+        "q": "What does the term \"Endemism\" refer to?",
+        "a": "Species with a wide distribution",
+        "b": "Species native to a specific region",
+        "c": "Species with a broad distribution",
+        "d": "Species found worldwide",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of an invasive species?",
+        "a": "Cheetah",
+        "b": "Lionfish",
+        "c": "Gorilla",
+        "d": "Panda",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the number of different species within a specific ecosystem?",
+        "a": "Ecosystem diversity",
+        "b": "Genetic diversity",
+        "c": "Species diversity",
+        "d": "Ecological diversity",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a human activity that contributes to climate change?",
+        "a": "Afforestation",
+        "b": "Urban gardening",
+        "c": "Recycling",
+        "d": "Fossil fuel burning",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a direct threat to biodiversity in marine ecosystems?",
+        "a": "Oil Spills",
+        "b": "Solar Radiation",
+        "c": "Soil Erosion",
+        "d": "Rainwater Harvesting",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a benefit of biodiversity?",
+        "a": "Pest control",
+        "b": "Medicinal resources",
+        "c": "Soil erosion prevention",
+        "d": "Economic value",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of the Seed Vault in Svalbard, Norway?",
+        "a": "Preserve endangered animals",
+        "b": "Store seeds for future use",
+        "c": "House rare plant species",
+        "d": "Provide a habitat for migratory birds",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a critically endangered species?",
+        "a": "Giant Panda",
+        "b": "Gray Wolf",
+        "c": "Bald Eagle",
+        "d": "Black Rhinoceros",
+        "r": "d"
+    },
+    {
+        "q": "What does the term \"Conservation\" mean in the context of biodiversity?",
+        "a": "Preservation of nature",
+        "b": "Exploitation of resources",
+        "c": "Enhancement of climate change",
+        "d": "Manipulation of ecosystems",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a benefit of biodiversity in agriculture?",
+        "a": "Increased pest control",
+        "b": "Improved soil fertility",
+        "c": "Reduced crop varieties",
+        "d": "Enhanced ecosystem resilience",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary cause of the decline in global fish populations?",
+        "a": "Overfishing",
+        "b": "Plastic pollution",
+        "c": "Ocean acidification",
+        "d": "Oil spills",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT an example of an ecosystem service?",
+        "a": "Pollination of crops",
+        "b": "Purification of water",
+        "c": "Climate change regulation",
+        "d": "Carbon sequestration",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the variety of life forms found in different ecosystems?",
+        "a": "Ecosystem diversity",
+        "b": "Genetic diversity",
+        "c": "Species diversity",
+        "d": "Ecological diversity",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a direct threat to biodiversity in terrestrial ecosystems?",
+        "a": "Deforestation",
+        "b": "Coral Bleaching",
+        "c": "Ocean acidification",
+        "d": "Illegal fishing",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a greenhouse gas?",
+        "a": "Carbon dioxide",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of air pollution?",
+        "a": "Vehicle emissions",
+        "b": "Volcanic eruptions",
+        "c": "Industrial waste",
+        "d": "Forest fires",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following contributes to eutrophication?",
+        "a": "Excessive use of fertilizers",
+        "b": "Decreased temperatures",
+        "c": "Limited sunlight",
+        "d": "High biodiversity",
+        "r": "a"
+    },
+    {
+        "q": "What is the main source of CFC emissions?",
+        "a": "Aerosol propellants",
+        "b": "Solar panels",
+        "c": "Wind turbines",
+        "d": "Electric vehicles",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is responsible for ozone depletion?",
+        "a": "Chlorofluorocarbons (CFCs)",
+        "b": "Methane",
+        "c": "Carbon monoxide",
+        "d": "Nitrous oxide",
+        "r": "a"
+    },
+    {
+        "q": "What does deforestation lead to?",
+        "a": "Loss of biodiversity",
+        "b": "Increased rainfall",
+        "c": "Depletion of the ozone layer",
+        "d": "Enhanced carbon sequestration",
+        "r": "a"
+    },
+    {
+        "q": "Which activity contributes to thermal pollution?",
+        "a": "Discharge of heated water",
+        "b": "Planting trees",
+        "c": "Recycling waste",
+        "d": "Using energy-efficient appliances",
+        "r": "a"
+    },
+    {
+        "q": "What is a non-renewable resource?",
+        "a": "Coal",
+        "b": "Solar power",
+        "c": "Wind energy",
+        "d": "Hydroelectricity",
+        "r": "a"
+    },
+    {
+        "q": "What is the major source of water pollution?",
+        "a": "Industrial effluents",
+        "b": "Agricultural runoff",
+        "c": "Natural springs",
+        "d": "Groundwater",
+        "r": "a"
+    },
+    {
+        "q": "Which human activity leads to desertification?",
+        "a": "Overgrazing",
+        "b": "Forest conservation",
+        "c": "Rainwater harvesting",
+        "d": "Organic farming",
+        "r": "a"
+    },
+    {
+        "q": "What is the greenhouse effect?",
+        "a": "Trapping of heat in the atmosphere",
+        "b": "Absorption of harmful UV rays",
+        "c": "Formation of ozone layer",
+        "d": "Depletion of the ozone layer",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of ocean acidification?",
+        "a": "Increased carbon dioxide levels",
+        "b": "Decline in sea surface temperature",
+        "c": "Excessive fishing",
+        "d": "Reduced sunlight exposure",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of point-source pollution?",
+        "a": "Oil spills",
+        "b": "Agricultural runoff",
+        "c": "Deforestation",
+        "d": "Acid rain",
+        "r": "a"
+    },
+    {
+        "q": "What is the effect of acid rain on the environment?",
+        "a": "Soil and water pollution",
+        "b": "Increased biodiversity",
+        "c": "Reduced greenhouse effect",
+        "d": "Enhanced photosynthesis",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is responsible for the \"hole\" in the ozone layer?",
+        "a": "Chlorine monoxide",
+        "b": "Nitrogen dioxide",
+        "c": "Sulfur dioxide",
+        "d": "Methane",
+        "r": "a"
+    },
+    {
+        "q": "What is the main cause of soil erosion?",
+        "a": "Deforestation",
+        "b": "Reduced precipitation",
+        "c": "Use of organic fertilizers",
+        "d": "Planting cover crops",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of renewable energy?",
+        "a": "Solar power",
+        "b": "Fossil fuels",
+        "c": "Natural gas",
+        "d": "Coal",
+        "r": "a"
+    },
+    {
+        "q": "What does the term \"biodiversity\" refer to?",
+        "a": "Variety of life on Earth",
+        "b": "Pollution levels in the atmosphere",
+        "c": "Population density",
+        "d": "Climate change",
+        "r": "a"
+    },
+    {
+        "q": "Which human activity contributes to ocean pollution?",
+        "a": "Plastic waste",
+        "b": "Wind energy",
+        "c": "Geothermal energy",
+        "d": "Nuclear power",
+        "r": "a"
+    },
+    {
+        "q": "What is the impact of plastic on marine life?",
+        "a": "Ingestion and entanglement",
+        "b": "Enhanced photosynthesis",
+        "c": "Decreased UV radiation",
+        "d": "Improved reproductive success",
+        "r": "a"
+    },
+    {
+        "q": "What does the term \"defaunation\" mean?",
+        "a": "Loss of animal species",
+        "b": "Increase in forest cover",
+        "c": "Restoration of damaged ecosystems",
+        "d": "Reduction in greenhouse gases",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a source of indoor air pollution?",
+        "a": "Tobacco smoke",
+        "b": "Forest fires",
+        "c": "Volcanic eruptions",
+        "d": "Greenhouse gases",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of global warming?",
+        "a": "Increased greenhouse gas emissions",
+        "b": "Depletion of the ozone layer",
+        "c": "Deforestation",
+        "d": "Nuclear accidents",
+        "r": "a"
+    },
+    {
+        "q": "Which human activity is a major contributor to greenhouse gases?",
+        "a": "Burning fossil fuels",
+        "b": "Planting trees",
+        "c": "Recycling waste",
+        "d": "Using public transportation",
+        "r": "a"
+    },
+    {
+        "q": "What is the main cause of the hole in the ozone layer?",
+        "a": "Chlorofluorocarbons (CFCs)",
+        "b": "Carbon dioxide",
+        "c": "Methane",
+        "d": "Nitrogen oxides",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is responsible for the greenhouse effect?",
+        "a": "Carbon dioxide",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Water vapor",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of water pollution?",
+        "a": "Agricultural runoff",
+        "b": "Volcanic eruptions",
+        "c": "Industrial emissions",
+        "d": "Solar radiation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following leads to loss of biodiversity?",
+        "a": "Habitat destruction",
+        "b": "Increased reforestation",
+        "c": "Reduction in greenhouse gases",
+        "d": "Enhanced carbon sequestration",
+        "r": "a"
+    },
+    {
+        "q": "What is the main cause of soil degradation?",
+        "a": "Unsustainable agricultural practices",
+        "b": "Decreased population",
+        "c": "Urbanization",
+        "d": "Increased precipitation",
+        "r": "a"
+    },
+    {
+        "q": "Which human activity is a major cause of air pollution?",
+        "a": "Burning fossil fuels",
+        "b": "Forest conservation",
+        "c": "Rainwater harvesting",
+        "d": "Organic farming",
+        "r": "a"
+    },
+    {
+        "q": "What is the impact of eutrophication on aquatic ecosystems?",
+        "a": "Algal blooms",
+        "b": "Increased dissolved oxygen",
+        "c": "Decreased nutrient levels",
+        "d": "Enhanced water clarity",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following contributes to habitat fragmentation?",
+        "a": "Infrastructure development",
+        "b": "Carbon sequestration",
+        "c": "Wind energy",
+        "d": "Recycling waste",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of deforestation?",
+        "a": "Clearing land for agriculture",
+        "b": "Building eco-friendly structures",
+        "c": "Use of renewable energy",
+        "d": "Implementation of recycling programs",
+        "r": "a"
+    },
+    {
+        "q": "What is the major source of water contamination?",
+        "a": "Industrial effluents",
+        "b": "Forest fires",
+        "c": "Geothermal energy",
+        "d": "Nuclear power",
+        "r": "a"
+    },
+    {
+        "q": "Which human activity contributes to desertification?",
+        "a": "Overexploitation of resources",
+        "b": "Planting trees",
+        "c": "Recycling waste",
+        "d": "Using energy-efficient appliances",
+        "r": "a"
+    },
+    {
+        "q": "What does the term \"global footprint\" mean?",
+        "a": "Impact of human activities on Earth",
+        "b": "Increase in forest cover",
+        "c": "Restoration of damaged ecosystems",
+        "d": "Reduction in greenhouse gases",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a consequence of ocean acidification?",
+        "a": "Coral bleaching",
+        "b": "Increased biodiversity",
+        "c": "Enhanced photosynthesis",
+        "d": "Improved shell formation in marine life",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of acid rain?",
+        "a": "Emissions of sulfur dioxide and nitrogen oxides",
+        "b": "Greenhouse gases",
+        "c": "Solar radiation",
+        "d": "Forest fires",
+        "r": "a"
+    },
+    {
+        "q": "Which human activity is a major contributor to soil pollution?",
+        "a": "Agricultural practices",
+        "b": "Wind energy",
+        "c": "Geothermal energy",
+        "d": "Nuclear power",
+        "r": "a"
+    },
+    {
+        "q": "What is the impact of plastic pollution on marine ecosystems?",
+        "a": "Harm to marine organisms",
+        "b": "Improved water quality",
+        "c": "Increased biodiversity",
+        "d": "Decreased sea levels",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary goal of genetic engineering?",
+        "a": "Creating genetically modified organisms (GMOs)",
+        "b": "Developing new biotechnological techniques",
+        "c": "Studying ancient genetics",
+        "d": "Modifying weather patterns",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a genetically modified organism ( GMO)?",
+        "a": "Strawberry",
+        "b": "Wheat",
+        "c": "Banana",
+        "d": "Tomato",
+        "r": "b"
+    },
+    {
+        "q": "What is the function of restriction enzymes in genetic engineering?",
+        "a": "Cut DNA at specific sequences",
+        "b": "Amplify DNA sequences",
+        "c": "Join DNA fragments",
+        "d": "Reverse transcription",
+        "r": "a"
+    },
+    {
+        "q": "What is the role of a plasmid in genetic engineering?",
+        "a": "Carry foreign DNA into a host cell",
+        "b": "Destroy unwanted DNA in a cell",
+        "c": "Produce proteins",
+        "d": "Regulate gene expression",
+        "r": "a"
+    },
+    {
+        "q": "The process of creating multiple copies of a specific DNA sequence is called:",
+        "a": "Translation",
+        "b": "Transcription",
+        "c": "Cloning",
+        "d": "Replication",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a genetically engineered product used in medicine?",
+        "a": "Insulin",
+        "b": "Orange",
+        "c": "Coffee",
+        "d": "Sugar",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of using a vector in genetic engineering?",
+        "a": "Transfer foreign DNA into a host cell",
+        "b": "Repair damaged DNA",
+        "c": "Produce hormones",
+        "d": "Create new genes",
+        "r": "a"
+    },
+    {
+        "q": "Which enzyme is commonly used to make complementary DNA (cDNA) from mRNA?",
+        "a": "DNA polymerase",
+        "b": "RNA polymerase",
+        "c": "Reverse transcriptase",
+        "d": "Ligase",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of a transgenic organism?",
+        "a": "A mouse with genes from a firefly",
+        "b": "A mouse with genes from another mouse",
+        "c": "A mouse with genes from a cat",
+        "d": "A mouse with genes from a tree",
+        "r": "a"
+    },
+    {
+        "q": "What is the significance of the Human Genome Project?",
+        "a": "It mapped the entire human genome",
+        "b": "It cloned the first human",
+        "c": "It developed the CRISPR technology",
+        "d": "It discovered new species",
+        "r": "a"
+    },
+    {
+        "q": "Which biotechnological technique is used to identify individuals based on their DNA?",
+        "a": "Polymerase chain reaction (PCR)",
+        "b": "Gel electrophoresis",
+        "c": "Western blotting",
+        "d": "Microarray analysis",
+        "r": "a"
+    },
+    {
+        "q": "What does GMO stand for in the context of biotechnology?",
+        "a": "Genetically Modified Organism",
+        "b": "Genomic Molecular Organization",
+        "c": "Gene Mapping Overview",
+        "d": "Global Microbial Operation",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the famous sheep that was the first mammal cloned from an adult somatic cell?",
+        "a": "Bella",
+        "b": "Dolly",
+        "c": "Lassie",
+        "d": "Fido",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a potential benefit of genetically modified crops?",
+        "a": "Increased crop yield",
+        "b": "Reduced pesticide use",
+        "c": "Improved taste and texture",
+        "d": "Extended shelf life",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of introducing new genes into an organism called?",
+        "a": "Gene splicing",
+        "b": "Gene therapy",
+        "c": "Gene insertion",
+        "d": "Gene subtraction",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a genetic disorder that can potentially be treated using gene therapy?",
+        "a": "Alzheimer's disease",
+        "b": "Down syndrome",
+        "c": "Cystic fibrosis",
+        "d": "Type 2 diabetes",
+        "r": "c"
+    },
+    {
+        "q": "What is the role of CRISPR-Cas9 in genetic engineering?",
+        "a": "Cut and edit DNA sequences",
+        "b": "Produce hormones",
+        "c": "Synthesize proteins",
+        "d": "Regulate gene expression",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a genetically modified microorganism used in cheese production?",
+        "a": "Escherichia coli",
+        "b": "Lactobacillus acidophilus",
+        "c": "Saccharomyces cerevisiae (yeast)",
+        "d": "Streptococcus thermophilus",
+        "r": "c"
+    },
+    {
+        "q": "Golden rice, a genetically modified crop, is rich in which vitamin?",
+        "a": "Vitamin A",
+        "b": "Vitamin C",
+        "c": "Vitamin D",
+        "d": "Vitamin K",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of somatic gene therapy?",
+        "a": "Modifying the genes in lung cells to treat cystic fibrosis",
+        "b": "Modifying the genes in germline cells to prevent inherited disorders",
+        "c": "Modifying the genes in skin cells to treat burns",
+        "d": "Modifying the genes in liver cells to treat a metabolic disorder",
+        "r": "a"
+    },
+    {
+        "q": "In agriculture, what is the purpose of using Bacillus thuringiensis (Bt) crops?",
+        "a": "To resist drought",
+        "b": "To improve taste and texture",
+        "c": "To resist pests and insects",
+        "d": "To increase yield",
+        "r": "c"
     }
 ]
