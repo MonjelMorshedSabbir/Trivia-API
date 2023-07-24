@@ -1,0 +1,2770 @@
+[
+    {
+        "q": "What is the study of living organisms?",
+        "a": "botany",
+        "b": "zoology",
+        "c": "biology",
+        "d": "ecology",
+        "r": "c"
+    },
+    {
+        "q": "The basic unit of life is:",
+        "a": "cell",
+        "b": "atom",
+        "c": "molecule",
+        "d": "tissue",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a unicellular organism?",
+        "a": "amoeba",
+        "b": "mushroom",
+        "c": "fern",
+        "d": "pine tree",
+        "r": "a"
+    },
+    {
+        "q": "The process by which plants make their own food is called:",
+        "a": "respiration",
+        "b": "photosynthesis",
+        "c": "digestion",
+        "d": "transpiration",
+        "r": "b"
+    },
+    {
+        "q": "Which organelle is known as the \"powerhouse of the cell\"?",
+        "a": "nucleus",
+        "b": "mitochondria",
+        "c": "chloroplast",
+        "d": "endoplasmic reticulum",
+        "r": "b"
+    },
+    {
+        "q": "The genetic material of cells is composed of:",
+        "a": "proteins",
+        "b": "carbohydrates",
+        "c": "lipids",
+        "d": "DNA",
+        "r": "d"
+    },
+    {
+        "q": "Which scientist is known as the \"Father of Modern Biology\"?",
+        "a": "Charles Darwin",
+        "b": "Louis Pasteur",
+        "c": "Gregor Mendel",
+        "d": "Robert Hooke",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a vestigial organ in humans?",
+        "a": "appendix",
+        "b": "liver",
+        "c": "heart",
+        "d": "lungs",
+        "r": "a"
+    },
+    {
+        "q": "The process of maintaining a stable internal environment in an organism is called:",
+        "a": "metabolism",
+        "b": "homeostasis",
+        "c": "osmosis",
+        "d": "reproduction",
+        "r": "b"
+    },
+    {
+        "q": "Which kingdom do humans belong to?",
+        "a": "fungi",
+        "b": "animalia",
+        "c": "protista",
+        "d": "plantae",
+        "r": "b"
+    },
+    {
+        "q": "Which organelle contains enzymes for intracellular digestion?",
+        "a": "lysosome",
+        "b": "Golgi apparatus",
+        "c": "ribosome",
+        "d": "vacuole",
+        "r": "a"
+    },
+    {
+        "q": "The scientific name of humans is:",
+        "a": "Homo sapiens",
+        "b": "Canis lupus",
+        "c": "Felis catus",
+        "d": "Musca domestica",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a renewable energy source?",
+        "a": "coal",
+        "b": "natural gas",
+        "c": "solar energy",
+        "d": "uranium",
+        "r": "c"
+    },
+    {
+        "q": "The process of conversion of nitrogen gas into ammonia is called:",
+        "a": "nitrification",
+        "b": "denitrification",
+        "c": "nitrogen fixation",
+        "d": "nitrogen assimilation",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of a parasitic plant?",
+        "a": "rose",
+        "b": "oak",
+        "c": "dodder",
+        "d": "daisy",
+        "r": "c"
+    },
+    {
+        "q": "The study of the interaction between organisms and their environment is called:",
+        "a": "ecology",
+        "b": "genetics",
+        "c": "evolution",
+        "d": "physiology",
+        "r": "a"
+    },
+    {
+        "q": "The process of cell division in bacteria is called:",
+        "a": "mitosis",
+        "b": "meiosis",
+        "c": "binary fission",
+        "d": "fragmentation",
+        "r": "c"
+    },
+    {
+        "q": "The genetic information of an organism is stored in its:",
+        "a": "ribosomes",
+        "b": "nucleus",
+        "c": "chloroplasts",
+        "d": "mitochondria",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a domain in the three-domain system?",
+        "a": "Archaea",
+        "b": "Bacteria",
+        "c": "Eukarya",
+        "d": "Protista",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of a prokaryotic cell?",
+        "a": "human blood cell",
+        "b": "bacteria",
+        "c": "plant cell",
+        "d": "animal cell",
+        "r": "b"
+    },
+    {
+        "q": "The theory of evolution was proposed by:",
+        "a": "Charles Darwin",
+        "b": "Isaac Newton",
+        "c": "Albert Einstein",
+        "d": "Galileo Galilei",
+        "r": "a"
+    },
+    {
+        "q": "Which molecule carries genetic information in cells?",
+        "a": "RNA",
+        "b": "DNA",
+        "c": "protein",
+        "d": "lipid",
+        "r": "b"
+    },
+    {
+        "q": "The process by which water moves through a plant and evaporates from its aerial parts is called:",
+        "a": "transpiration",
+        "b": "respiration",
+        "c": "photosynthesis",
+        "d": "translocation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a primary producer?",
+        "a": "lion",
+        "b": "grass",
+        "c": "hyena",
+        "d": "vulture",
+        "r": "b"
+    },
+    {
+        "q": "Which type of biomolecules are enzymes primarily composed of?",
+        "a": "carbohydrates",
+        "b": "lipids",
+        "c": "proteins",
+        "d": "nucleic acids",
+        "r": "c"
+    },
+    {
+        "q": "The process of programmed cell death is called:",
+        "a": "apoptosis",
+        "b": "necrosis",
+        "c": "mitosis",
+        "d": "meiosis",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of an abiotic factor in an ecosystem?",
+        "a": "sunlight",
+        "b": "bacteria",
+        "c": "fungi",
+        "d": "plants",
+        "r": "a"
+    },
+    {
+        "q": "Which organelle is responsible for protein synthesis?",
+        "a": "endoplasmic reticulum",
+        "b": "mitochondria",
+        "c": "ribosomes",
+        "d": "Golgi apparatus",
+        "r": "c"
+    },
+    {
+        "q": "The process by which a cell engulfs solid particles is called:",
+        "a": "pinocytosis",
+        "b": "phagocytosis",
+        "c": "exocytosis",
+        "d": "diffusion",
+        "r": "b"
+    },
+    {
+        "q": "The classification system used in biology is called:",
+        "a": "binomial nomenclature",
+        "b": "periodic table",
+        "c": "classification system",
+        "d": "taxonomy",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a decomposer?",
+        "a": "earthworm",
+        "b": "mushroom",
+        "c": "grasshopper",
+        "d": "ant",
+        "r": "b"
+    },
+    {
+        "q": "The cell membrane is mainly composed of:",
+        "a": "proteins",
+        "b": "carbohydrates",
+        "c": "lipids",
+        "d": "nucleic acids",
+        "r": "c"
+    },
+    {
+        "q": "The process of converting light energy into chemical energy during photosynthesis occurs in:",
+        "a": "mitochondria",
+        "b": "chloroplasts",
+        "c": "nucleus",
+        "d": "ribosomes",
+        "r": "b"
+    },
+    {
+        "q": "The first life forms on Earth were most likely:",
+        "a": "plants",
+        "b": "animals",
+        "c": "fungi",
+        "d": "bacteria",
+        "r": "d"
+    },
+    {
+        "q": "The genetic code in DNA is composed of how many nucleotide bases?",
+        "a": "two",
+        "b": "three",
+        "c": "four",
+        "d": "five",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a viral disease in humans?",
+        "a": "influenza",
+        "b": "malaria",
+        "c": "tuberculosis",
+        "d": "cholera",
+        "r": "a"
+    },
+    {
+        "q": "The process of breaking down glucose to release energy in cells is called:",
+        "a": "respiration",
+        "b": "fermentation",
+        "c": "photosynthesis",
+        "d": "digestion",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a characteristic of living organisms?",
+        "a": "growth",
+        "b": "reproduction",
+        "c": "movement",
+        "d": "decay",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a eukaryotic cell?",
+        "a": "bacteria",
+        "b": "yeast",
+        "c": "archaea",
+        "d": "amoeba",
+        "r": "b"
+    },
+    {
+        "q": "The branch of biology that deals with the study of heredity is called:",
+        "a": "genetics",
+        "b": "evolution",
+        "c": "ecology",
+        "d": "physiology",
+        "r": "a"
+    },
+    {
+        "q": "The innermost region of the Earth is called the:",
+        "a": "crust",
+        "b": "mantle",
+        "c": "outer core",
+        "d": "inner core",
+        "r": "d"
+    },
+    {
+        "q": "The organelle responsible for detoxifying harmful substances in the cell is the:",
+        "a": "mitochondria",
+        "b": "endoplasmic reticulum",
+        "c": "lysosome",
+        "d": "peroxisome",
+        "r": "d"
+    },
+    {
+        "q": "The process by which molecules move from an area of higher concentration to an area of lower concentration is called:",
+        "a": "osmosis",
+        "b": "active transport",
+        "c": "diffusion",
+        "d": "endocytosis",
+        "r": "c"
+    },
+    {
+        "q": "The first organisms to colonize an area during primary succession are called:",
+        "a": "pioneers",
+        "b": "climax community",
+        "c": "keystone species",
+        "d": "producers",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a recessive trait in humans?",
+        "a": "attached earlobes",
+        "b": "curly hair",
+        "c": "widows peak",
+        "d": "cleft chin",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a biotic factor in an ecosystem?",
+        "a": "sunlight",
+        "b": "temperature",
+        "c": "plants",
+        "d": "water",
+        "r": "c"
+    },
+    {
+        "q": "The process of converting nitrogen compounds in the soil into nitrogen gas is called:",
+        "a": "denitrification",
+        "b": "nitrification",
+        "c": "nitrogen fixation",
+        "d": "nitrogen assimilation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a specialized cell for storing fat?",
+        "a": "adipocyte",
+        "b": "erythrocyte",
+        "c": "neuron",
+        "d": "chondrocyte",
+        "r": "a"
+    },
+    {
+        "q": "The process by which a cell divides into two daughter cells is called:",
+        "a": "mitosis",
+        "b": "meiosis",
+        "c": "binary fission",
+        "d": "cytokinesis",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a characteristic of all living organisms?",
+        "a": "reproduction",
+        "b": "complexity",
+        "c": "locomotion",
+        "d": "respiration",
+        "r": "a"
+    },
+    {
+        "q": "The group of organisms that can interbreed and produce fertile offspring is called:",
+        "a": "species",
+        "b": "family",
+        "c": "genus",
+        "d": "order",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a plant hormone responsible for cell elongation?",
+        "a": "auxin",
+        "b": "gibberellin",
+        "c": "cytokinin",
+        "d": "abscisic acid",
+        "r": "a"
+    },
+    {
+        "q": "The process of conversion of ammonia into nitrate is called:",
+        "a": "denitrification",
+        "b": "nitrification",
+        "c": "nitrogen fixation",
+        "d": "nitrogen assimilation",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a vertebrate?",
+        "a": "lizard",
+        "b": "butterfly",
+        "c": "spider",
+        "d": "snail",
+        "r": "a"
+    },
+    {
+        "q": "The organelle that contains the genetic material in a prokaryotic cell is called:",
+        "a": "chloroplasts",
+        "b": "ribosomes",
+        "c": "nucleus",
+        "d": "nucleoid",
+        "r": "d"
+    },
+    {
+        "q": "The process of cell division that produces gametes is called:",
+        "a": "mitosis",
+        "b": "meiosis",
+        "c": "binary fission",
+        "d": "fragmentation",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a property of water?",
+        "a": "high density",
+        "b": "universal solvent",
+        "c": "cohesion",
+        "d": "adhesion",
+        "r": "a"
+    },
+    {
+        "q": "The branch of biology that deals with the study of tissues is called:",
+        "a": "histology",
+        "b": "genetics",
+        "c": "ecology",
+        "d": "physiology",
+        "r": "a"
+    },
+    {
+        "q": "The organelle responsible for packaging and distributing proteins in the cell is the:",
+        "a": "mitochondria",
+        "b": "endoplasmic reticulum",
+        "c": "lysosome",
+        "d": "Golgi apparatus",
+        "r": "d"
+    },
+    {
+        "q": "The process of movement of molecules against the concentration gradient with the help of energy is called:",
+        "a": "osmosis",
+        "b": "active transport",
+        "c": "diffusion",
+        "d": "exocytosis",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a pioneer species?",
+        "a": "grass",
+        "b": "shrub",
+        "c": "moss",
+        "d": "oak tree",
+        "r": "c"
+    },
+    {
+        "q": "The genetic makeup of an individual is referred to as its:",
+        "a": "phenotype",
+        "b": "genotype",
+        "c": "inheritance",
+        "d": "mutation",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an abiotic component of an ecosystem?",
+        "a": "bacteria",
+        "b": "sunlight",
+        "c": "fungi",
+        "d": "plants",
+        "r": "b"
+    },
+    {
+        "q": "The process of converting nitrogen gas into ammonia is called:",
+        "a": "nitrification",
+        "b": "denitrification",
+        "c": "nitrogen fixation",
+        "d": "nitrogen assimilation",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a specialized cell for transmitting electrical signals?",
+        "a": "adipocyte",
+        "b": "erythrocyte",
+        "c": "neuron",
+        "d": "chondrocyte",
+        "r": "c"
+    },
+    {
+        "q": "What is the basic unit of life in all living organisms?",
+        "a": "Cell",
+        "b": "Molecule",
+        "c": "Atom",
+        "d": "Tissue",
+        "r": "a"
+    },
+    {
+        "q": "Which organelle is responsible for cellular respiration?",
+        "a": "Mitochondria",
+        "b": "Endoplasmic Reticulum",
+        "c": "Golgi Apparatus",
+        "d": "Nucleus",
+        "r": "a"
+    },
+    {
+        "q": "Which cell organelle contains the cell's genetic material?",
+        "a": "Nucleus",
+        "b": "Ribosome",
+        "c": "Lysosome",
+        "d": "Centriole",
+        "r": "a"
+    },
+    {
+        "q": "Which structure is responsible for protein synthesis in a cell?",
+        "a": "Ribosome",
+        "b": "Chloroplast",
+        "c": "Vacuole",
+        "d": "Cell Wall",
+        "r": "a"
+    },
+    {
+        "q": "What is the main function of the cell membrane?",
+        "a": "Regulating the movement of substances in and out of the cell",
+        "b": "Providing structural support to the cell",
+        "c": "Synthesizing proteins",
+        "d": "Storing genetic material",
+        "r": "a"
+    },
+    {
+        "q": "Which type of cell lacks a true nucleus and membrane-bound organelles?",
+        "a": "Prokaryotic Cell",
+        "b": "Eukaryotic Cell",
+        "c": "Plant Cell",
+        "d": "Animal Cell",
+        "r": "a"
+    },
+    {
+        "q": "Which type of cell organelle is responsible for detoxifying harmful substances?",
+        "a": "Peroxisome",
+        "b": "Lysosome",
+        "c": "Vacuole",
+        "d": "Nucleus",
+        "r": "a"
+    },
+    {
+        "q": "The nucleolus is primarily responsible for what function in the cell?",
+        "a": "Ribosome synthesis",
+        "b": "Lipid synthesis",
+        "c": "ATP production",
+        "d": "DNA replication",
+        "r": "a"
+    },
+    {
+        "q": "Which organelle is responsible for storing water, ions, and waste products in the cell?",
+        "a": "Vacuole",
+        "b": "Lysosome",
+        "c": "Golgi Apparatus",
+        "d": "Centriole",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the Golgi apparatus?",
+        "a": "Modifying, sorting, and packaging proteins for transport",
+        "b": "Producing ATP",
+        "c": "Controlling cell division",
+        "d": "Synthesizing lipids",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a part of the endomembrane system?",
+        "a": "Mitochondria",
+        "b": "Endoplasmic Reticulum",
+        "c": "Golgi Apparatus",
+        "d": "Vacuole",
+        "r": "a"
+    },
+    {
+        "q": "The endoplasmic reticulum can be classified into two types: smooth ER and ___.",
+        "a": "Rough ER",
+        "b": "Golgi Apparatus",
+        "c": "Nucleus",
+        "d": "Lysosome",
+        "r": "a"
+    },
+    {
+        "q": "Which type of endoplasmic reticulum is studded with ribosomes on its surface?",
+        "a": "Rough ER",
+        "b": "Smooth ER",
+        "c": "Golgi Apparatus",
+        "d": "Vacuole",
+        "r": "a"
+    },
+    {
+        "q": "Which cell organelle is responsible for breaking down and recycling cellular waste?",
+        "a": "Lysosome",
+        "b": "Peroxisome",
+        "c": "Nucleus",
+        "d": "Ribosome",
+        "r": "a"
+    },
+    {
+        "q": "What is the main function of the chloroplast in plant cells?",
+        "a": "Photosynthesis",
+        "b": "Cellular respiration",
+        "c": "Lipid synthesis",
+        "d": "Protein synthesis",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the cell wall in plant cells?",
+        "a": "Providing structural support and protection to the cell",
+        "b": "Regulating the movement of substances in and out of the cell",
+        "c": "Storing genetic material",
+        "d": "Facilitating cellular respiration",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT found in animal cells?",
+        "a": "Cell Wall",
+        "b": "Nucleus",
+        "c": "Mitochondria",
+        "d": "Vacuole",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the cytoskeleton in a cell?",
+        "a": "Maintaining cell shape and providing mechanical support",
+        "b": "Controlling cell division",
+        "c": "Storing genetic material",
+        "d": "Facilitating cellular respiration",
+        "r": "a"
+    },
+    {
+        "q": "Which organelle is responsible for packaging and distributing proteins within the cell?",
+        "a": "Golgi Apparatus",
+        "b": "Nucleus",
+        "c": "Lysosome",
+        "d": "Mitochondria",
+        "r": "a"
+    },
+    {
+        "q": "Which structure is responsible for maintaining cell shape and providing mechanical support?",
+        "a": "Cytoskeleton",
+        "b": "Cell Wall",
+        "c": "Cell Membrane",
+        "d": "Nucleus",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a function of the cell membrane?",
+        "a": "Storing genetic material",
+        "b": "Regulating the movement of substances in and out of the cell",
+        "c": "Facilitating cell communication",
+        "d": "Cell recognition",
+        "r": "a"
+    },
+    {
+        "q": "Which type of cell organelle contains enzymes that break down waste materials?",
+        "a": "Lysosome",
+        "b": "Peroxisome",
+        "c": "Vacuole",
+        "d": "Nucleus",
+        "r": "a"
+    },
+    {
+        "q": "Which organelle is responsible for photosynthesis in plant cells?",
+        "a": "Chloroplast",
+        "b": "Mitochondria",
+        "c": "Endoplasmic Reticulum",
+        "d": "Golgi Apparatus",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a membrane-bound organelle?",
+        "a": "Ribosome",
+        "b": "Nucleus",
+        "c": "Endoplasmic Reticulum",
+        "d": "Lysosome",
+        "r": "a"
+    },
+    {
+        "q": "Which structure forms the boundary between the cell and its environment?",
+        "a": "Cell Membrane",
+        "b": "Cell Wall",
+        "c": "Nucleus",
+        "d": "Cytoplasm",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the central vacuole in plant cells?",
+        "a": "Storing water, ions, and waste products",
+        "b": "Synthesizing proteins",
+        "c": "Facilitating cellular respiration",
+        "d": "Controlling cell division",
+        "r": "a"
+    },
+    {
+        "q": "Which organelle is responsible for the synthesis of lipids and detoxification of drugs?",
+        "a": "Smooth Endoplasmic Reticulum",
+        "b": "Rough Endoplasmic Reticulum",
+        "c": "Golgi Apparatus",
+        "d": "Mitochondria",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a component of the cytoskeleton?",
+        "a": "Centriole",
+        "b": "Microtubules",
+        "c": "Microfilaments",
+        "d": "Nucleus",
+        "r": "a"
+    },
+    {
+        "q": "The cell theory states that all living organisms are composed of cells, cells are the basic units of structure and function in organisms, and...",
+        "a": "All cells arise from pre-existing cells",
+        "b": "All cells have a nucleus",
+        "c": "All cells are prokaryotic",
+        "d": "All cells have a cell wall",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a function of the peroxisome in the cell?",
+        "a": "Breakdown of toxic substances",
+        "b": "Protein synthesis",
+        "c": "Lipid synthesis",
+        "d": "Photosynthesis",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the nucleolus?",
+        "a": "Ribosome synthesis",
+        "b": "ATP production",
+        "c": "DNA replication",
+        "d": "Lipid synthesis",
+        "r": "a"
+    },
+    {
+        "q": "Which organelle is responsible for storing and processing genetic information?",
+        "a": "Nucleus",
+        "b": "Ribosome",
+        "c": "Mitochondria",
+        "d": "Golgi Apparatus",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following organelles is involved in cell division?",
+        "a": "Centriole",
+        "b": "Chloroplast",
+        "c": "Peroxisome",
+        "d": "Vacuole",
+        "r": "a"
+    },
+    {
+        "q": "Which structure serves as the control center of the cell and contains the cell's DNA?",
+        "a": "Nucleus",
+        "b": "Cell Wall",
+        "c": "Ribosome",
+        "d": "Chloroplast",
+        "r": "a"
+    },
+    {
+        "q": "Which process ensures genetic diversity?",
+        "a": "Meiosis",
+        "b": "Mitosis",
+        "c": "Binary Fission",
+        "d": "Budding",
+        "r": "a"
+    },
+    {
+        "q": "What is the end result of mitosis?",
+        "a": "Two diploid cells",
+        "b": "Four haploid cells",
+        "c": "Two haploid cells",
+        "d": "Four diploid cells",
+        "r": "a"
+    },
+    {
+        "q": "The diploid number is represented as:",
+        "a": "2n",
+        "b": "n",
+        "c": "4n",
+        "d": "8n",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of mitosis?",
+        "a": "Growth and repair of body cells",
+        "b": "Production of gametes",
+        "c": "Asexual reproduction",
+        "d": "Genetic recombination",
+        "r": "a"
+    },
+    {
+        "q": "The genetic material of a cell is found in:",
+        "a": "Nucleus",
+        "b": "Cytoplasm",
+        "c": "Mitochondria",
+        "d": "Cell membrane",
+        "r": "a"
+    },
+    {
+        "q": "In which phase of mitosis do chromosomes line up at the cell's equator?",
+        "a": "Metaphase",
+        "b": "Anaphase",
+        "c": "Prophase",
+        "d": "Telophase",
+        "r": "a"
+    },
+    {
+        "q": "During which phase of the cell cycle does DNA replication occur?",
+        "a": "S Phase",
+        "b": "G1 Phase",
+        "c": "G2 Phase",
+        "d": "M Phase",
+        "r": "a"
+    },
+    {
+        "q": "How many daughter cells are produced in meiosis?",
+        "a": "Four",
+        "b": "Two",
+        "c": "One",
+        "d": "Three",
+        "r": "a"
+    },
+    {
+        "q": "What type of cell division produces gametes?",
+        "a": "Meiosis",
+        "b": "Mitosis",
+        "c": "Binary Fission",
+        "d": "Budding",
+        "r": "a"
+    },
+    {
+        "q": "What is the product of meiosis in females?",
+        "a": "One egg cell and three polar bodies",
+        "b": "Four sperm cells",
+        "c": "Two egg cells and two polar bodies",
+        "d": "Two egg cells and two polar bodies",
+        "r": "a"
+    },
+    {
+        "q": "Which structure holds the sister chromatids together?",
+        "a": "Centromere",
+        "b": "Chromatin",
+        "c": "Nucleolus",
+        "d": "Nucleus",
+        "r": "a"
+    },
+    {
+        "q": "Which enzyme is responsible for DNA replication?",
+        "a": "DNA polymerase",
+        "b": "RNA polymerase",
+        "c": "Helicase",
+        "d": "Ligase",
+        "r": "a"
+    },
+    {
+        "q": "Cytokinesis in animal cells involves the formation of:",
+        "a": "Cleavage furrow",
+        "b": "Cell plate",
+        "c": "Cell wall",
+        "d": "Contractile vacuole",
+        "r": "a"
+    },
+    {
+        "q": "During which stage of meiosis do homologous chromosomes separate?",
+        "a": "Anaphase I",
+        "b": "Metaphase I",
+        "c": "Telophase I",
+        "d": "Prophase I",
+        "r": "a"
+    },
+    {
+        "q": "Which cell organelle is responsible for organizing microtubules in animal cells?",
+        "a": "Centrosome",
+        "b": "Chloroplast",
+        "c": "Golgi apparatus",
+        "d": "Endoplasmic reticulum",
+        "r": "a"
+    },
+    {
+        "q": "What is the outcome of meiosis in males?",
+        "a": "Four haploid sperm cells",
+        "b": "Two haploid sperm cells",
+        "c": "One haploid sperm cell",
+        "d": "Three haploid sperm cells",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a phase of mitosis?",
+        "a": "Interphase",
+        "b": "Prophase",
+        "c": "Metaphase",
+        "d": "Telophase",
+        "r": "a"
+    },
+    {
+        "q": "What is the end result of meiosis in plants?",
+        "a": "Four haploid cells",
+        "b": "Two haploid cells",
+        "c": "One haploid cell",
+        "d": "Three haploid cells",
+        "r": "a"
+    },
+    {
+        "q": "In which phase of the cell cycle does the cell prepare for mitosis?",
+        "a": "G2 Phase",
+        "b": "G1 Phase",
+        "c": "S Phase",
+        "d": "M Phase",
+        "r": "a"
+    },
+    {
+        "q": "Which organelle is responsible for cell respiration?",
+        "a": "Mitochondria",
+        "b": "Nucleus",
+        "c": "Ribosome",
+        "d": "Lysosome",
+        "r": "a"
+    },
+    {
+        "q": "The production of offspring from a single parent without the involvement of gametes is called:",
+        "a": "Asexual reproduction",
+        "b": "Sexual reproduction",
+        "c": "Binary fission",
+        "d": "Budding",
+        "r": "a"
+    },
+    {
+        "q": "During which phase of meiosis do sister chromatids separate?",
+        "a": "Anaphase II",
+        "b": "Metaphase II",
+        "c": "Telophase II",
+        "d": "Prophase II",
+        "r": "a"
+    },
+    {
+        "q": "The exchange of genetic material between homologous chromosomes is called:",
+        "a": "Crossing over",
+        "b": "Translation",
+        "c": "Transcription",
+        "d": "Replication",
+        "r": "a"
+    },
+    {
+        "q": "What is the end result of binary fission?",
+        "a": "Two identical daughter cells",
+        "b": "Four genetically different daughter cells",
+        "c": "Two genetically different daughter cells",
+        "d": "One genetically different daughter cell",
+        "r": "a"
+    },
+    {
+        "q": "In which phase of mitosis do chromosomes condense and become visible?",
+        "a": "Prophase",
+        "b": "Anaphase",
+        "c": "Metaphase",
+        "d": "Telophase",
+        "r": "a"
+    },
+    {
+        "q": "What is the product of meiosis in males?",
+        "a": "Four haploid sperm cells",
+        "b": "Two haploid sperm cells",
+        "c": "One haploid sperm cell",
+        "d": "Three haploid sperm cells",
+        "r": "a"
+    },
+    {
+        "q": "The chromosomes are pulled towards opposite poles in which phase of mitosis?",
+        "a": "Anaphase",
+        "b": "Metaphase",
+        "c": "Prophase",
+        "d": "Telophase",
+        "r": "a"
+    },
+    {
+        "q": "What is the product of binary fission in bacteria?",
+        "a": "Two identical daughter cells",
+        "b": "Four genetically different daughter cells",
+        "c": "Two genetically different daughter cells",
+        "d": "One genetically different daughter cell",
+        "r": "a"
+    },
+    {
+        "q": "Which structure is responsible for producing ribosomes?",
+        "a": "Nucleolus",
+        "b": "Mitochondria",
+        "c": "Golgi apparatus",
+        "d": "Endoplasmic reticulum",
+        "r": "a"
+    },
+    {
+        "q": "Meiosis leads to the formation of:",
+        "a": "Haploid cells",
+        "b": "Diploid cells",
+        "c": "Polyploid cells",
+        "d": "Aneuploid cells",
+        "r": "a"
+    },
+    {
+        "q": "Which enzyme is responsible for adding nucleotides during DNA replication?",
+        "a": "DNA polymerase I",
+        "b": "DNA polymerase III",
+        "c": "RNA polymerase",
+        "d": "Helicase",
+        "r": "a"
+    },
+    {
+        "q": "What is the product of mitosis in plants?",
+        "a": "Two diploid cells",
+        "b": "Four haploid cells",
+        "c": "Two haploid cells",
+        "d": "Four diploid cells",
+        "r": "a"
+    },
+    {
+        "q": "Which phase of the cell cycle is the longest?",
+        "a": "Interphase",
+        "b": "Prophase",
+        "c": "Metaphase",
+        "d": "Telophase",
+        "r": "a"
+    },
+    {
+        "q": "What is the role of the centrosome in cell division?",
+        "a": "Organize microtubules",
+        "b": "Store genetic information",
+        "c": "Synthesize proteins",
+        "d": "Regulate cell volume",
+        "r": "a"
+    },
+    {
+        "q": "In which phase of meiosis does crossing over occur?",
+        "a": "Prophase I",
+        "b": "Prophase II",
+        "c": "Anaphase I",
+        "d": "Telophase I",
+        "r": "a"
+    },
+    {
+        "q": "Which type of cell division is commonly found in bacteria?",
+        "a": "Binary fission",
+        "b": "Meiosis",
+        "c": "Mitosis",
+        "d": "Budding",
+        "r": "a"
+    },
+    {
+        "q": "How many divisions occur in mitosis?",
+        "a": "One",
+        "b": "Two",
+        "c": "Three",
+        "d": "Four",
+        "r": "a"
+    },
+    {
+        "q": "What is the role of the spindle fibers in mitosis?",
+        "a": "Separate sister chromatids",
+        "b": "Produce ATP",
+        "c": "Form the nuclear envelope",
+        "d": "Synthesize DNA",
+        "r": "a"
+    },
+    {
+        "q": "How many chromosomes are present in a human somatic cell?",
+        "a": "46",
+        "b": "23",
+        "c": "92",
+        "d": "44",
+        "r": "a"
+    },
+    {
+        "q": "What is the end result of meiosis II?",
+        "a": "Four haploid cells",
+        "b": "Two haploid cells",
+        "c": "One haploid cell",
+        "d": "Three haploid cells",
+        "r": "a"
+    },
+    {
+        "q": "Which phase of mitosis follows prophase?",
+        "a": "Metaphase",
+        "b": "Anaphase",
+        "c": "Telophase",
+        "d": "Interphase",
+        "r": "a"
+    },
+    {
+        "q": "What is the product of mitosis in animals?",
+        "a": "Two diploid cells",
+        "b": "Four haploid cells",
+        "c": "Two haploid cells",
+        "d": "Four diploid cells",
+        "r": "a"
+    },
+    {
+        "q": "During which phase of the cell cycle does the cell grow and carry out its normal functions?",
+        "a": "G1 Phase",
+        "b": "G2 Phase",
+        "c": "S Phase",
+        "d": "M Phase",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the chloroplast in plant cells?",
+        "a": "Photosynthesis",
+        "b": "Cellular respiration",
+        "c": "Protein synthesis",
+        "d": "Lipid storage",
+        "r": "a"
+    },
+    {
+        "q": "How many daughter cells are produced in binary fission?",
+        "a": "Two",
+        "b": "Four",
+        "c": "One",
+        "d": "Three",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of meiosis?",
+        "a": "Production of gametes",
+        "b": "Growth and repair of body cells",
+        "c": "Asexual reproduction",
+        "d": "Genetic recombination",
+        "r": "a"
+    },
+    {
+        "q": "During which phase of mitosis do sister chromatids separate?",
+        "a": "Anaphase",
+        "b": "Metaphase",
+        "c": "Prophase",
+        "d": "Telophase",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a product of meiosis?",
+        "a": "Sperm cells",
+        "b": "Egg cells",
+        "c": "Gametes",
+        "d": "Somatic cells",
+        "r": "a"
+    },
+    {
+        "q": "What is the product of binary fission in amoeba?",
+        "a": "Two identical daughter cells",
+        "b": "Four genetically different daughter cells",
+        "c": "Two genetically different daughter cells",
+        "d": "One genetically different daughter cell",
+        "r": "a"
+    },
+    {
+        "q": "Which phase of the cell cycle is characterized by cell growth and DNA replication?",
+        "a": "S Phase",
+        "b": "G1 Phase",
+        "c": "G2 Phase",
+        "d": "M Phase",
+        "r": "a"
+    },
+    {
+        "q": "During which phase of meiosis do homologous chromosomes separate?",
+        "a": "Anaphase I",
+        "b": "Metaphase I",
+        "c": "Telophase I",
+        "d": "Prophase I",
+        "r": "a"
+    },
+    {
+        "q": "What is the basic unit of heredity?",
+        "a": "gene",
+        "b": "chromosome",
+        "c": "allele",
+        "d": "nucleus",
+        "r": "a"
+    },
+    {
+        "q": "Who is known as the \"Father of Genetics\"?",
+        "a": "Gregor Mendel",
+        "b": "Charles Darwin",
+        "c": "Louis Pasteur",
+        "d": "Alexander Fleming",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the genetic makeup of an individual?",
+        "a": "phenotype",
+        "b": "genotype",
+        "c": "allele",
+        "d": "mutation",
+        "r": "b"
+    },
+    {
+        "q": "Which organelle contains the genetic material in eukaryotic cells?",
+        "a": "nucleus",
+        "b": "mitochondria",
+        "c": "chloroplast",
+        "d": "ribosome",
+        "r": "a"
+    },
+    {
+        "q": "Hemophilia is a sex-linked genetic disorder. Which sex chromosome is affected in males with hemophilia?",
+        "a": "X",
+        "b": "Y",
+        "c": "Z",
+        "d": "W",
+        "r": "a"
+    },
+    {
+        "q": "What is the probability of offspring inheriting two recessive alleles if both parents are carriers (heterozygous) for a genetic disorder?",
+        "a": "25%",
+        "b": "50%",
+        "c": "75%",
+        "d": "100%",
+        "r": "b"
+    },
+    {
+        "q": "In humans, what is the sex chromosome composition of a male?",
+        "a": "XX",
+        "b": "YY",
+        "c": "XY",
+        "d": "YX",
+        "r": "c"
+    },
+    {
+        "q": "Which genetic disorder results in the production of abnormal hemoglobin?",
+        "a": "cystic fibrosis",
+        "b": "sickle cell anemia",
+        "c": "Down syndrome",
+        "d": "Huntington's disease",
+        "r": "b"
+    },
+    {
+        "q": "In a Punnett square, what do the letters inside the boxes represent?",
+        "a": "genotypes",
+        "b": "phenotypes",
+        "c": "alleles",
+        "d": "mutations",
+        "r": "a"
+    },
+    {
+        "q": "Which scientist discovered the structure of the DNA double helix?",
+        "a": "Rosalind Franklin",
+        "b": "James Watson",
+        "c": "Francis Crick",
+        "d": "Linus Pauling",
+        "r": "c"
+    },
+    {
+        "q": "What type of inheritance pattern occurs when a phenotype is intermediate between two homozygous phenotypes?",
+        "a": "codominance",
+        "b": "incomplete dominance",
+        "c": "polygenic inheritance",
+        "d": "multiple alleles",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the specific location of a gene on a chromosome?",
+        "a": "trait",
+        "b": "allele",
+        "c": "locus",
+        "d": "mutation",
+        "r": "c"
+    },
+    {
+        "q": "Which genetic disorder is caused by an extra copy of chromosome 21?",
+        "a": "cystic fibrosis",
+        "b": "sickle cell anemia",
+        "c": "Down syndrome",
+        "d": "Huntington's disease",
+        "r": "c"
+    },
+    {
+        "q": "If an organism has two identical alleles for a particular gene, it is said to be ________ for that gene.",
+        "a": "homozygous",
+        "b": "heterozygous",
+        "c": "hybrid",
+        "d": "diploid",
+        "r": "a"
+    },
+    {
+        "q": "What is the probability of rolling a six on a fair six-sided dice?",
+        "a": "1/6",
+        "b": "1/3",
+        "c": "1/2",
+        "d": "1/4",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a mechanism of evolution?",
+        "a": "Natural selection",
+        "b": "Genetic drift",
+        "c": "Mutation",
+        "d": "Artificial selection",
+        "r": "d"
+    },
+    {
+        "q": "What is the process by which individuals with certain heritable traits survive and reproduce at a higher rate?",
+        "a": "Adaptation",
+        "b": "Evolution",
+        "c": "Natural selection",
+        "d": "Genetic variation",
+        "r": "c"
+    },
+    {
+        "q": "The theory of evolution by natural selection was proposed by",
+        "a": "Charles Darwin",
+        "b": "Gregor Mendel",
+        "c": "Alfred Wallace",
+        "d": "Rosalind Franklin",
+        "r": "a"
+    },
+    {
+        "q": "According to Darwin, evolution occurs due to",
+        "a": "Genetic drift",
+        "b": "Artificial selection",
+        "c": "Survival of the fittest",
+        "d": "Inheritance of acquired characteristics",
+        "r": "c"
+    },
+    {
+        "q": "Which scientist is credited with establishing the theory of natural selection independently of Darwin?",
+        "a": "Alfred Wallace",
+        "b": "Thomas Huxley",
+        "c": "Francis Crick",
+        "d": "Louis Pasteur",
+        "r": "a"
+    },
+    {
+        "q": "The idea of inheritance of acquired characteristics was proposed by",
+        "a": "Charles Darwin",
+        "b": "Jean-Baptiste Lamarck",
+        "c": "James Watson",
+        "d": "Gregor Mendel",
+        "r": "b"
+    },
+    {
+        "q": "The frequency of alleles in a population remains constant over generations in",
+        "a": "Genetic drift",
+        "b": "Natural selection",
+        "c": "Hardy-Weinberg equilibrium",
+        "d": "Mutation",
+        "r": "c"
+    },
+    {
+        "q": "The occurrence of two or more clearly different morphs or forms in the same population of a species is known as",
+        "a": "Speciation",
+        "b": "Polymorphism",
+        "c": "Convergent evolution",
+        "d": "Divergent evolution",
+        "r": "b"
+    },
+    {
+        "q": "The wings of birds and the wings of bats are an example of",
+        "a": "Homologous structures",
+        "b": "Analogous structures",
+        "c": "Vestigial structures",
+        "d": "Artificial structures",
+        "r": "b"
+    },
+    {
+        "q": "Which type of selection favors extreme phenotypes over intermediate phenotypes?",
+        "a": "Stabilizing selection",
+        "b": "Directional selection",
+        "c": "Disruptive selection",
+        "d": "Artificial selection",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary source of genetic variation in a population?",
+        "a": "Mutation",
+        "b": "Natural selection",
+        "c": "Genetic drift",
+        "d": "Gene flow",
+        "r": "a"
+    },
+    {
+        "q": "The beak of Darwin's finches is an example of",
+        "a": "Adaptive radiation",
+        "b": "Convergent evolution",
+        "c": "Divergent evolution",
+        "d": "Artificial selection",
+        "r": "a"
+    },
+    {
+        "q": "A group of individuals of the same species living in the same area is called",
+        "a": "Ecosystem",
+        "b": "Community",
+        "c": "Population",
+        "d": "Biosphere",
+        "r": "c"
+    },
+    {
+        "q": "Which process occurs when a few individuals become isolated from a larger population and establish a new population?",
+        "a": "Genetic drift",
+        "b": "Gene flow",
+        "c": "Speciation",
+        "d": "Mutation",
+        "r": "c"
+    },
+    {
+        "q": "The fossil record is an example of",
+        "a": "Direct evidence for evolution",
+        "b": "Indirect evidence for evolution",
+        "c": "Artificial evidence for evolution",
+        "d": "The absence of evolution",
+        "r": "a"
+    },
+    {
+        "q": "Which type of evolution leads to the development of similar structures in distantly related organisms?",
+        "a": "Divergent evolution",
+        "b": "Convergent evolution",
+        "c": "Coevolution",
+        "d": "Artificial evolution",
+        "r": "b"
+    },
+    {
+        "q": "The wing of a bird and the wing of an insect are an example of",
+        "a": "Homologous structures",
+        "b": "Analogous structures",
+        "c": "Vestigial structures",
+        "d": "Artificial structures",
+        "r": "b"
+    },
+    {
+        "q": "Which scientist is known as the \"father of modern genetics\"?",
+        "a": "Alfred Wallace",
+        "b": "Charles Darwin",
+        "c": "Gregor Mendel",
+        "d": "Thomas Huxley",
+        "r": "c"
+    },
+    {
+        "q": "The process by which organisms with certain inherited traits are more likely to survive and reproduce is known as",
+        "a": "Evolution",
+        "b": "Genetic drift",
+        "c": "Natural selection",
+        "d": "Genetic variation",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a vestigial structure in humans?",
+        "a": "Wisdom teeth",
+        "b": "Incisor teeth",
+        "c": "Premolars",
+        "d": "Molars",
+        "r": "a"
+    },
+    {
+        "q": "The evolution of the long neck of giraffes is an example of",
+        "a": "Artificial selection",
+        "b": "Divergent evolution",
+        "c": "Convergent evolution",
+        "d": "Natural selection",
+        "r": "d"
+    },
+    {
+        "q": "Genetic drift has a more significant impact on",
+        "a": "Small populations",
+        "b": "Large populations",
+        "c": "Herbivores",
+        "d": "Carnivores",
+        "r": "a"
+    },
+    {
+        "q": "The forelimbs of whales, bats, and humans are an example of",
+        "a": "Homologous structures",
+        "b": "Analogous structures",
+        "c": "Vestigial structures",
+        "d": "Artificial structures",
+        "r": "b"
+    },
+    {
+        "q": "Which process involves the random change in allele frequencies in a population?",
+        "a": "Natural selection",
+        "b": "Gene flow",
+        "c": "Mutation",
+        "d": "Genetic drift",
+        "r": "d"
+    },
+    {
+        "q": "The process by which new species evolve from existing species is known as",
+        "a": "Adaptation",
+        "b": "Speciation",
+        "c": "Mutation",
+        "d": "Natural selection",
+        "r": "b"
+    },
+    {
+        "q": "Which type of evolution occurs when two species reciprocally affect each other's evolution?",
+        "a": "Divergent evolution",
+        "b": "Convergent evolution",
+        "c": "Coevolution",
+        "d": "Artificial evolution",
+        "r": "c"
+    },
+    {
+        "q": "The theory of natural selection is based on",
+        "a": "Inheritance of acquired characteristics",
+        "b": "Differential survival and reproduction",
+        "c": "Genetic drift",
+        "d": "Artificial selection",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a biotic component?",
+        "a": "Sunlight",
+        "b": "Plants",
+        "c": "Animals",
+        "d": "Bacteria",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary source of energy in most ecosystems?",
+        "a": "Water",
+        "b": "Air",
+        "c": "Sunlight",
+        "d": "Soil",
+        "r": "c"
+    },
+    {
+        "q": "The process by which green plants make their food is called",
+        "a": "Photosynthesis",
+        "b": "Respiration",
+        "c": "Digestion",
+        "d": "Fermentation",
+        "r": "a"
+    },
+    {
+        "q": "Which level of ecological organization includes all other levels?",
+        "a": "Ecosystem",
+        "b": "Biosphere",
+        "c": "Population",
+        "d": "Community",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an abiotic factor?",
+        "a": "Fungi",
+        "b": "Temperature",
+        "c": "Bacteria",
+        "d": "Insects",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a decomposer?",
+        "a": "Lion",
+        "b": "Snake",
+        "c": "Mushroom",
+        "d": "Eagle",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following represents a food chain?",
+        "a": "Grass -> Rabbit -> Fox",
+        "b": "Grass -> Fox -> Rabbit",
+        "c": "Grass -> Deer -> Lion",
+        "d": "Grass -> Lion -> Deer",
+        "r": "a"
+    },
+    {
+        "q": "The place where an organism lives is called",
+        "a": "Habitat",
+        "b": "Ecosystem",
+        "c": "Niche",
+        "d": "Population",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a tertiary consumer?",
+        "a": "Hawk",
+        "b": "Rabbit",
+        "c": "Grasshopper",
+        "d": "Grass",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used to describe the role of an organism in an ecosystem?",
+        "a": "Niche",
+        "b": "Habitat",
+        "c": "Community",
+        "d": "Population",
+        "r": "a"
+    },
+    {
+        "q": "The number of trophic levels in a food chain is limited due to",
+        "a": "Energy loss",
+        "b": "Increase in biomass",
+        "c": "Decrease in predation",
+        "d": "Introduction of new species",
+        "r": "a"
+    },
+    {
+        "q": "The relationship in which one organism benefits, and the other is neither helped nor harmed is called",
+        "a": "Commensalism",
+        "b": "Mutualism",
+        "c": "Parasitism",
+        "d": "Competition",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following best describes a keystone species?",
+        "a": "A species that has no predators",
+        "b": "A species that is the primary producer",
+        "c": "A species that has a small population size",
+        "d": "A species that has a large impact on its ecosystem",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a renewable resource?",
+        "a": "Coal",
+        "b": "Oil",
+        "c": "Natural gas",
+        "d": "Solar energy",
+        "r": "d"
+    },
+    {
+        "q": "The branch of biology that deals with the study of interactions between organisms and their environment is called",
+        "a": "Botany",
+        "b": "Ecology",
+        "c": "Zoology",
+        "d": "Microbiology",
+        "r": "b"
+    },
+    {
+        "q": "Which biome is characterized by extremely low temperatures, little precipitation, and permafrost?",
+        "a": "Tundra",
+        "b": "Desert",
+        "c": "Taiga",
+        "d": "Grassland",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a greenhouse gas?",
+        "a": "Carbon dioxide",
+        "b": "Methane",
+        "c": "Oxygen",
+        "d": "Nitrous oxide",
+        "r": "c"
+    },
+    {
+        "q": "The symbiotic relationship between bees and flowers is an example of",
+        "a": "Mutualism",
+        "b": "Parasitism",
+        "c": "Commensalism",
+        "d": "Competition",
+        "r": "a"
+    },
+    {
+        "q": "The first species to populate an area during primary succession is called",
+        "a": "Pioneer species",
+        "b": "Keystone species",
+        "c": "Endangered species",
+        "d": "Indicator species",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a density-dependent factor?",
+        "a": "Temperature",
+        "b": "Natural disasters",
+        "c": "Predation",
+        "d": "Disease",
+        "r": "d"
+    },
+    {
+        "q": "The trophic level of herbivores is",
+        "a": "Primary consumers",
+        "b": "Secondary consumers",
+        "c": "Tertiary consumers",
+        "d": "Producers",
+        "r": "a"
+    },
+    {
+        "q": "The maximum number of individuals an environment can support for an indefinite period is called",
+        "a": "Carrying capacity",
+        "b": "Limiting factor",
+        "c": "Population density",
+        "d": "Reproductive potential",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a freshwater ecosystem?",
+        "a": "Pond",
+        "b": "Lake",
+        "c": "River",
+        "d": "Estuary",
+        "r": "d"
+    },
+    {
+        "q": "The area where an organism lives and interacts with its biotic and abiotic environment is called",
+        "a": "Biosphere",
+        "b": "Niche",
+        "c": "Habitat",
+        "d": "Community",
+        "r": "c"
+    },
+    {
+        "q": "The process of conversion of ammonia to nitrites and then nitrates is known as",
+        "a": "Nitrification",
+        "b": "Denitrification",
+        "c": "Ammonification",
+        "d": "Nitrogen fixation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a secondary consumer?",
+        "a": "Lion",
+        "b": "Rabbit",
+        "c": "Grass",
+        "d": "Hawk",
+        "r": "a"
+    },
+    {
+        "q": "The total mass of living matter at each trophic level in an ecosystem is called",
+        "a": "Biomass",
+        "b": "Energy flow",
+        "c": "Population density",
+        "d": "Community",
+        "r": "a"
+    },
+    {
+        "q": "The specific role and position that an organism occupies in an ecosystem is known as its",
+        "a": "Niche",
+        "b": "Habitat",
+        "c": "Population",
+        "d": "Community",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a nonrenewable resource?",
+        "a": "Solar energy",
+        "b": "Wind energy",
+        "c": "Coal",
+        "d": "Water",
+        "r": "c"
+    },
+    {
+        "q": "Which biome is characterized by hot and humid conditions, heavy rainfall, and diverse plant and animal species?",
+        "a": "Tropical rainforest",
+        "b": "Desert",
+        "c": "Savanna",
+        "d": "Tundra",
+        "r": "a"
+    },
+    {
+        "q": "The conversion of nitrates back into atmospheric nitrogen is known as",
+        "a": "Nitrogen fixation",
+        "b": "Nitrification",
+        "c": "Denitrification",
+        "d": "Ammonification",
+        "r": "c"
+    },
+    {
+        "q": "The number of individuals of the same species living in a particular area is called",
+        "a": "Population density",
+        "b": "Carrying capacity",
+        "c": "Limiting factor",
+        "d": "Reproductive potential",
+        "r": "a"
+    },
+    {
+        "q": "The region where saltwater and freshwater mix is called",
+        "a": "Estuary",
+        "b": "Tundra",
+        "c": "Desert",
+        "d": "Savanna",
+        "r": "a"
+    },
+    {
+        "q": "The process of burning fossil fuels releases which gas into the atmosphere, contributing to global warming?",
+        "a": "Carbon dioxide",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following best describes parasitism?",
+        "a": "Both organisms benefit",
+        "b": "One organism benefits, the other is harmed",
+        "c": "One organism benefits, the other is unaffected",
+        "d": "Both organisms are unaffected",
+        "r": "b"
+    },
+    {
+        "q": "The process of one-way flow of energy through different trophic levels in an ecosystem is known as",
+        "a": "Biomagnification",
+        "b": "Energy pyramid",
+        "c": "Carbon cycle",
+        "d": "Water cycle",
+        "r": "b"
+    },
+    {
+        "q": "The first level of consumers in a food chain is occupied by",
+        "a": "Primary consumers",
+        "b": "Secondary consumers",
+        "c": "Tertiary consumers",
+        "d": "Producers",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a part of the water cycle?",
+        "a": "Evaporation",
+        "b": "Condensation",
+        "c": "Transpiration",
+        "d": "Precipitation",
+        "r": "c"
+    },
+    {
+        "q": "Which organ is responsible for pumping blood in the body?",
+        "a": "heart",
+        "b": "lungs",
+        "c": "liver",
+        "d": "kidney",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary function of the respiratory system?",
+        "a": "Exchange of gases",
+        "b": "Transport of nutrients",
+        "c": "Digestion of food",
+        "d": "Filtration of blood",
+        "r": "a"
+    },
+    {
+        "q": "Which bone protects the brain in the human body?",
+        "a": "Skull",
+        "b": "Rib cage",
+        "c": "Femur",
+        "d": "Pelvis",
+        "r": "a"
+    },
+    {
+        "q": "What is the largest organ in the human body?",
+        "a": "Skin",
+        "b": "Liver",
+        "c": "Heart",
+        "d": "Lungs",
+        "r": "a"
+    },
+    {
+        "q": "Which type of muscle is voluntary in action?",
+        "a": "Skeletal muscles",
+        "b": "Cardiac muscles",
+        "c": "Smooth muscles",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "Where does the process of digestion primarily begin?",
+        "a": "Mouth",
+        "b": "Stomach",
+        "c": "Small intestine",
+        "d": "Large intestine",
+        "r": "a"
+    },
+    {
+        "q": "Which gland regulates metabolism in the body?",
+        "a": "Thyroid gland",
+        "b": "Adrenal gland",
+        "c": "Pancreas",
+        "d": "Pituitary gland",
+        "r": "a"
+    },
+    {
+        "q": "Which part of the brain controls balance and coordination?",
+        "a": "Cerebellum",
+        "b": "Cerebrum",
+        "c": "Medulla oblongata",
+        "d": "Thalamus",
+        "r": "a"
+    },
+    {
+        "q": "Which blood cells are responsible for oxygen transport?",
+        "a": "Red blood cells",
+        "b": "White blood cells",
+        "c": "Platelets",
+        "d": "Plasma",
+        "r": "a"
+    },
+    {
+        "q": "Which hormone is known as the \"stress hormone\"?",
+        "a": "Cortisol",
+        "b": "Insulin",
+        "c": "Testosterone",
+        "d": "Estrogen",
+        "r": "a"
+    },
+    {
+        "q": "What is the smallest unit of the nervous system?",
+        "a": "Neuron",
+        "b": "Cell",
+        "c": "Tissue",
+        "d": "Organ",
+        "r": "a"
+    },
+    {
+        "q": "Which organ produces insulin in the human body?",
+        "a": "Pancreas",
+        "b": "Liver",
+        "c": "Kidney",
+        "d": "Stomach",
+        "r": "a"
+    },
+    {
+        "q": "Which part of the eye is responsible for vision?",
+        "a": "Retina",
+        "b": "Cornea",
+        "c": "Lens",
+        "d": "Pupil",
+        "r": "a"
+    },
+    {
+        "q": "Which blood vessels carry oxygenated blood to the heart?",
+        "a": "Pulmonary veins",
+        "b": "Pulmonary arteries",
+        "c": "Coronary arteries",
+        "d": "Aorta",
+        "r": "a"
+    },
+    {
+        "q": "Which system is responsible for the production of hormones?",
+        "a": "Endocrine system",
+        "b": "Nervous system",
+        "c": "Digestive system",
+        "d": "Muscular system",
+        "r": "a"
+    },
+    {
+        "q": "Which organ is responsible for filtering blood in the body?",
+        "a": "Kidneys",
+        "b": "Lungs",
+        "c": "Liver",
+        "d": "Heart",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the red blood cells?",
+        "a": "Transport oxygen",
+        "b": "Fight infection",
+        "c": "Clot blood",
+        "d": "Produce hormones",
+        "r": "a"
+    },
+    {
+        "q": "Which part of the brain is responsible for memory?",
+        "a": "Hippocampus",
+        "b": "Hypothalamus",
+        "c": "Amygdala",
+        "d": "Cerebellum",
+        "r": "a"
+    },
+    {
+        "q": "Which system is responsible for voluntary movements?",
+        "a": "Muscular system",
+        "b": "Nervous system",
+        "c": "Endocrine system",
+        "d": "Skeletal system",
+        "r": "a"
+    },
+    {
+        "q": "Which bone is also known as the collarbone?",
+        "a": "Clavicle",
+        "b": "Scapula",
+        "c": "Femur",
+        "d": "Tibia",
+        "r": "a"
+    },
+    {
+        "q": "What is the main function of the small intestine?",
+        "a": "Absorption of nutrients",
+        "b": "Digestion of proteins",
+        "c": "Filtration of blood",
+        "d": "Production of bile",
+        "r": "a"
+    },
+    {
+        "q": "Which hormone is responsible for regulating blood sugar levels?",
+        "a": "Insulin",
+        "b": "Glucagon",
+        "c": "Estrogen",
+        "d": "Testosterone",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the alveoli in the lungs?",
+        "a": "Gas exchange",
+        "b": "Digestion of food",
+        "c": "Filtration of blood",
+        "d": "Pumping of blood",
+        "r": "a"
+    },
+    {
+        "q": "Which part of the brain controls basic bodily functions?",
+        "a": "Brainstem",
+        "b": "Cerebrum",
+        "c": "Cerebellum",
+        "d": "Thalamus",
+        "r": "a"
+    },
+    {
+        "q": "Which blood vessels carry deoxygenated blood to the lungs?",
+        "a": "Pulmonary arteries",
+        "b": "Pulmonary veins",
+        "c": "Coronary arteries",
+        "d": "Aorta",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the endocrine system?",
+        "a": "Regulation of hormones",
+        "b": "Pumping blood",
+        "c": "Digestion of food",
+        "d": "Control of voluntary movements",
+        "r": "a"
+    },
+    {
+        "q": "Which organ stores bile produced by the liver?",
+        "a": "Gallbladder",
+        "b": "Pancreas",
+        "c": "Spleen",
+        "d": "Appendix",
+        "r": "a"
+    },
+    {
+        "q": "What is the main function of roots in a plant?",
+        "a": "Absorption of water and minerals",
+        "b": "Photosynthesis",
+        "c": "Transpiration",
+        "d": "Support and anchorage",
+        "r": "a"
+    },
+    {
+        "q": "Which part of the plant is responsible for the exchange of gases with the atmosphere?",
+        "a": "Leaves",
+        "b": "Stem",
+        "c": "Roots",
+        "d": "Flowers",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary function of the stomata in leaves?",
+        "a": "Regulating water loss",
+        "b": "Providing structural support",
+        "c": "Transporting nutrients",
+        "d": "Producing flowers",
+        "r": "a"
+    },
+    {
+        "q": "The process by which plants convert sunlight into energy is known as:",
+        "a": "Photosynthesis",
+        "b": "Respiration",
+        "c": "Transpiration",
+        "d": "Reproduction",
+        "r": "a"
+    },
+    {
+        "q": "The waxy, waterproof layer that covers the leaves and stems of some plants is called:",
+        "a": "Cuticle",
+        "b": "Stoma",
+        "c": "Epidermis",
+        "d": "Mesophyll",
+        "r": "a"
+    },
+    {
+        "q": "Which type of plant tissue is responsible for transporting water and nutrients throughout the plant?",
+        "a": "Xylem",
+        "b": "Phloem",
+        "c": "Epidermis",
+        "d": "Parenchyma",
+        "r": "a"
+    },
+    {
+        "q": "The region of cell division in a plant root is called:",
+        "a": "Meristem",
+        "b": "Cambium",
+        "c": "Epidermis",
+        "d": "Cortex",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the root cap in plant roots?",
+        "a": "Protection of the root tip",
+        "b": "Absorption of water and minerals",
+        "c": "Photosynthesis",
+        "d": "Gas exchange",
+        "r": "a"
+    },
+    {
+        "q": "The male reproductive part of a flower is called the:",
+        "a": "Stamen",
+        "b": "Pistil",
+        "c": "Sepal",
+        "d": "Petal",
+        "r": "a"
+    },
+    {
+        "q": "The process by which water vapor is released from the aerial parts of a plant is called:",
+        "a": "Transpiration",
+        "b": "Photosynthesis",
+        "c": "Respiration",
+        "d": "Evaporation",
+        "r": "a"
+    },
+    {
+        "q": "Which plant hormone is responsible for promoting cell elongation and growth?",
+        "a": "Auxin",
+        "b": "Gibberellin",
+        "c": "Cytokinin",
+        "d": "Abscisic acid",
+        "r": "a"
+    },
+    {
+        "q": "The waxy substance found in the cell walls of cork tissue is called:",
+        "a": "Suberin",
+        "b": "Cutin",
+        "c": "Starch",
+        "d": "Lignin",
+        "r": "a"
+    },
+    {
+        "q": "Which plant tissue provides mechanical support and protection to the plant?",
+        "a": "Sclerenchyma",
+        "b": "Collenchyma",
+        "c": "Parenchyma",
+        "d": "Xylem",
+        "r": "a"
+    },
+    {
+        "q": "The process by which sugars are transported throughout the plant is known as:",
+        "a": "Translocation",
+        "b": "Transpiration",
+        "c": "Photosynthesis",
+        "d": "Respiration",
+        "r": "a"
+    },
+    {
+        "q": "Which plant cell organelle is responsible for photosynthesis?",
+        "a": "Chloroplasts",
+        "b": "Mitochondria",
+        "c": "Golgi apparatus",
+        "d": "Endoplasmic reticulum",
+        "r": ""
+    },
+    {
+        "q": "Which kingdom comprises organisms without nuclei?",
+        "a": "Bacteria",
+        "b": "Fungi",
+        "c": "Protista",
+        "d": "Plantae",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary characteristic of Kingdom Animalia?",
+        "a": "Autotrophic",
+        "b": "Eukaryotic",
+        "c": "Multicellular",
+        "d": "Prokaryotic",
+        "r": "c"
+    },
+    {
+        "q": "Mosses and liverworts belong to which division of plants?",
+        "a": "Anthocerotophyta",
+        "b": "Bryophyta",
+        "c": "Coniferophyta",
+        "d": "Pteridophyta",
+        "r": "b"
+    },
+    {
+        "q": "Which phylum includes animals with radial symmetry?",
+        "a": "Annelida",
+        "b": "Arthropoda",
+        "c": "Cnidaria",
+        "d": "Mollusca",
+        "r": "c"
+    },
+    {
+        "q": "What is the distinguishing feature of phylum Chordata?",
+        "a": "Bilateral symmetry",
+        "b": "Dorsal nerve cord",
+        "c": "Exoskeleton",
+        "d": "Segmented body",
+        "r": "b"
+    },
+    {
+        "q": "Which class of subphylum Vertebrata includes animals with cartilaginous skeletons?",
+        "a": "Chondrichthyes",
+        "b": "Osteichthyes",
+        "c": "Reptilia",
+        "d": "Amphibia",
+        "r": "a"
+    },
+    {
+        "q": "The process of photosynthesis occurs in which organelle of a plant cell?",
+        "a": "Nucleus",
+        "b": "Chloroplast",
+        "c": "Mitochondria",
+        "d": "Endoplasmic reticulum",
+        "r": "b"
+    },
+    {
+        "q": "Which organism is a producer in the food chain?",
+        "a": "Herbivore",
+        "b": "Carnivore",
+        "c": "Decomposer",
+        "d": "Algae",
+        "r": "d"
+    },
+    {
+        "q": "In which kingdom would you place a multicellular, eukaryotic organism that lacks cell walls?",
+        "a": "Plantae",
+        "b": "Protista",
+        "c": "Fungi",
+        "d": "Animalia",
+        "r": "d"
+    },
+    {
+        "q": "The cell wall of fungi is made up of which polysaccharide?",
+        "a": "Cellulose",
+        "b": "Chitin",
+        "c": "Starch",
+        "d": "Glycogen",
+        "r": "b"
+    },
+    {
+        "q": "The term \"Arachnid\" refers to which class of arthropods?",
+        "a": "Insecta",
+        "b": "Crustacea",
+        "c": "Arachnida",
+        "d": "Myriapoda",
+        "r": "c"
+    },
+    {
+        "q": "What is the smallest unit of classification in taxonomy?",
+        "a": "Kingdom",
+        "b": "Class",
+        "c": "Species",
+        "d": "Order",
+        "r": "c"
+    },
+    {
+        "q": "Mosses and liverworts reproduce using which method?",
+        "a": "Fragmentation",
+        "b": "Spores",
+        "c": "Seeds",
+        "d": "Budding",
+        "r": "b"
+    },
+    {
+        "q": "In which kingdom would you place a prokaryotic organism with a rigid cell wall?",
+        "a": "Animalia",
+        "b": "Plantae",
+        "c": "Fungi",
+        "d": "Monera",
+        "r": "d"
+    },
+    {
+        "q": "Which phylum includes organisms with jointed legs and segmented bodies?",
+        "a": "Annelida",
+        "b": "Arthropoda",
+        "c": "Cnidaria",
+        "d": "Platyhelminthes",
+        "r": "b"
+    },
+    {
+        "q": "The presence of notochord is a characteristic feature of which subphylum?",
+        "a": "Urochordata",
+        "b": "Vertebrata",
+        "c": "Cephalochordata",
+        "d": "Hemichordata",
+        "r": "b"
+    },
+    {
+        "q": "Fishes are classified under which class of subphylum Vertebrata?",
+        "a": "Chondrichthyes",
+        "b": "Osteichthyes",
+        "c": "Reptilia",
+        "d": "Amphibia",
+        "r": "b"
+    },
+    {
+        "q": "The exchange of gases in plants occurs through which structure?",
+        "a": "Stomata",
+        "b": "Root hairs",
+        "c": "Xylem",
+        "d": "Phloem",
+        "r": "a"
+    },
+    {
+        "q": "Which organism is a primary consumer in the food chain?",
+        "a": "Herbivore",
+        "b": "Carnivore",
+        "c": "Producer",
+        "d": "Decomposer",
+        "r": "a"
+    },
+    {
+        "q": "In which kingdom would you place an organism that is unicellular, has a cell wall, and can perform photosynthesis?",
+        "a": "Plantae",
+        "b": "Protista",
+        "c": "Fungi",
+        "d": "Monera",
+        "r": "b"
+    },
+    {
+        "q": "The mycelium is the vegetative body of which organism?",
+        "a": "Algae",
+        "b": "Bryophytes",
+        "c": "Fungi",
+        "d": "Lichens",
+        "r": "c"
+    },
+    {
+        "q": "Spiders and scorpions belong to which class of arachnids?",
+        "a": "Araneae",
+        "b": "Opiliones",
+        "c": "Scorpiones",
+        "d": "Acari",
+        "r": "a"
+    },
+    {
+        "q": "What is the highest level of organization in taxonomy?",
+        "a": "Genus",
+        "b": "Family",
+        "c": "Order",
+        "d": "Kingdom",
+        "r": "d"
+    },
+    {
+        "q": "Which structure helps mosses and liverworts in absorbing water and nutrients?",
+        "a": "Rhizoids",
+        "b": "Roots",
+        "c": "Stomata",
+        "d": "Cuticles",
+        "r": "a"
+    },
+    {
+        "q": "In which kingdom would you place an organism with a prokaryotic cell structure and peptidoglycan in its cell wall?",
+        "a": "Plantae",
+        "b": "Protista",
+        "c": "Fungi",
+        "d": "Monera",
+        "r": "d"
+    },
+    {
+        "q": "Insects belong to which class of arthropods?",
+        "a": "Insecta",
+        "b": "Crustacea",
+        "c": "Arachnida",
+        "d": "Myriapoda",
+        "r": "a"
+    },
+    {
+        "q": "What is the scientific term for a two-part naming system used to identify species?",
+        "a": "Taxonomy",
+        "b": "Classification",
+        "c": "Binomial nomenclature",
+        "d": "Genus",
+        "r": "c"
+    },
+    {
+        "q": "Which phylum includes organisms with a radula?",
+        "a": "Annelida",
+        "b": "Arthropoda",
+        "c": "Cnidaria",
+        "d": "Mollusca",
+        "r": "d"
+    },
+    {
+        "q": "The subphylum Vertebrata is characterized by the presence of what feature during their early development?",
+        "a": "Notochord",
+        "b": "Gills",
+        "c": "Exoskeleton",
+        "d": "Placenta",
+        "r": "a"
+    },
+    {
+        "q": "Birds are classified under which class of subphylum Vertebrata?",
+        "a": "Chondrichthyes",
+        "b": "Osteichthyes",
+        "c": "Reptilia",
+        "d": "Aves",
+        "r": "d"
+    },
+    {
+        "q": "The process of transpiration primarily occurs through which plant part?",
+        "a": "Leaves",
+        "b": "Stem",
+        "c": "Roots",
+        "d": "Flowers",
+        "r": "a"
+    },
+    {
+        "q": "Which organism is a secondary consumer in the food chain?",
+        "a": "Herbivore",
+        "b": "Carnivore",
+        "c": "Producer",
+        "d": "Decomposer",
+        "r": "b"
+    },
+    {
+        "q": "In which kingdom would you place an organism that is multicellular, lacks cell walls, and can perform locomotion?",
+        "a": "Plantae",
+        "b": "Protista",
+        "c": "Fungi",
+        "d": "Animalia",
+        "r": "d"
+    },
+    {
+        "q": "What is the function of the fruiting body in fungi?",
+        "a": "Photosynthesis",
+        "b": "Reproduction",
+        "c": "Absorption",
+        "d": "Locomotion",
+        "r": "b"
+    },
+    {
+        "q": "Centipedes and millipedes belong to which class of arthropods?",
+        "a": "Insecta",
+        "b": "Crustacea",
+        "c": "Arachnida",
+        "d": "Myriapoda",
+        "r": "d"
+    },
+    {
+        "q": "The binomial nomenclature was introduced by which scientist?",
+        "a": "Charles Darwin",
+        "b": "Carolus Linnaeus",
+        "c": "Gregor Mendel",
+        "d": "Louis Pasteur",
+        "r": "b"
+    },
+    {
+        "q": "Which structure is responsible for anchoring mosses and liverworts to substrates?",
+        "a": "Rhizoids",
+        "b": "Roots",
+        "c": "Stomata",
+        "d": "Cuticles",
+        "r": "a"
+    },
+    {
+        "q": "In which kingdom would you place an organism with a eukaryotic cell structure, a cell wall made of cellulose, and can't perform photosynthesis?",
+        "a": "Plantae",
+        "b": "Protista",
+        "c": "Fungi",
+        "d": "Animalia",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a disease caused by a virus?",
+        "a": "Malaria",
+        "b": "Tuberculosis",
+        "c": "Influenza",
+        "d": "Typhoid Fever",
+        "r": "c"
+    },
+    {
+        "q": "Antibiotics are effective against which type of microorganisms?",
+        "a": "Bacteria",
+        "b": "Fungi",
+        "c": "Protozoa",
+        "d": "Virus",
+        "r": "a"
+    },
+    {
+        "q": "Which microorganism causes cholera?",
+        "a": "Vibrio cholerae",
+        "b": "Escherichia coli",
+        "c": "Salmonella typhi",
+        "d": "Staphylococcus aureus",
+        "r": "a"
+    },
+    {
+        "q": "What is the causative agent of the common cold?",
+        "a": "Rhinovirus",
+        "b": "Streptococcus pneumoniae",
+        "c": "Mycobacterium tuberculosis",
+        "d": "Plasmodium falciparum",
+        "r": "a"
+    },
+    {
+        "q": "Which microorganism is responsible for causing dental cavities?",
+        "a": "Streptococcus mutans",
+        "b": "Clostridium botulinum",
+        "c": "Candida albicans",
+        "d": "Aspergillus niger",
+        "r": "a"
+    },
+    {
+        "q": "How does the HIV virus primarily spread from one person to another?",
+        "a": "Sexual contact",
+        "b": "Airborne droplets",
+        "c": "Contaminated food and water",
+        "d": "Mosquito bites",
+        "r": "a"
+    },
+    {
+        "q": "Which disease is caused by the bacterium Yersinia pestis?",
+        "a": "Plague",
+        "b": "Smallpox",
+        "c": "Dengue Fever",
+        "d": "Cholera",
+        "r": "a"
+    },
+    {
+        "q": "What is the main mode of transmission for malaria?",
+        "a": "Mosquito bite",
+        "b": "Contaminated food and water",
+        "c": "Sexual contact",
+        "d": "Airborne droplets",
+        "r": "a"
+    },
+    {
+        "q": "Which microorganism causes tuberculosis?",
+        "a": "Mycobacterium tuberculosis",
+        "b": "Streptococcus pyogenes",
+        "c": "Escherichia coli",
+        "d": "Salmonella enterica",
+        "r": "a"
+    },
+    {
+        "q": "Which disease is caused by the protozoan Plasmodium?",
+        "a": "Malaria",
+        "b": "Cholera",
+        "c": "Typhoid Fever",
+        "d": "Tuberculosis",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a sexually transmitted disease?",
+        "a": "Chlamydia",
+        "b": "Gonorrhea",
+        "c": "Syphilis",
+        "d": "Influenza",
+        "r": "d"
+    },
+    {
+        "q": "Which microorganism is responsible for causing athlete's foot?",
+        "a": "Trichophyton rubrum",
+        "b": "Streptococcus pneumoniae",
+        "c": "Staphylococcus aureus",
+        "d": "Escherichia coli",
+        "r": "a"
+    },
+    {
+        "q": "How is the bacterium Helicobacter pylori related to human health?",
+        "a": "Causes stomach ulcers",
+        "b": "Causes dental cavities",
+        "c": "Transmitted through mosquito bites",
+        "d": "Causes tuberculosis",
+        "r": "a"
+    },
+    {
+        "q": "Which disease is caused by the virus varicella-zoster?",
+        "a": "Chickenpox",
+        "b": "Measles",
+        "c": "Polio",
+        "d": "Hepatitis B",
+        "r": "a"
+    },
+    {
+        "q": "What type of microorganism causes ringworm?",
+        "a": "Fungi",
+        "b": "Bacteria",
+        "c": "Virus",
+        "d": "Protozoa",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following diseases is caused by a prion?",
+        "a": "Creutzfeldt-Jakob disease",
+        "b": "Tuberculosis",
+        "c": "Malaria",
+        "d": "Cholera",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary mode of transmission for the Ebola virus?",
+        "a": "Direct contact with infected blood",
+        "b": "Airborne droplets",
+        "c": "Contaminated food and water",
+        "d": "Mosquito bites",
+        "r": "a"
+    },
+    {
+        "q": "Which microorganism causes the sexually transmitted infection known as gonorrhea?",
+        "a": "Neisseria gonorrhoeae",
+        "b": "Treponema pallidum",
+        "c": "Chlamydia trachomatis",
+        "d": "Streptococcus mutans",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary mode of transmission for the Zika virus?",
+        "a": "Mosquito bites",
+        "b": "Sexual contact",
+        "c": "Airborne droplets",
+        "d": "Contaminated food and water",
+        "r": "a"
+    },
+    {
+        "q": "Which disease is caused by the bacterium Clostridium tetani?",
+        "a": "Tetanus",
+        "b": "Tuberculosis",
+        "c": "Typhoid Fever",
+        "d": "Measles",
+        "r": "a"
+    },
+    {
+        "q": "What type of microorganism causes yeast infections in humans?",
+        "a": "Fungi",
+        "b": "Bacteria",
+        "c": "Virus",
+        "d": "Protozoa",
+        "r": "a"
+    },
+    {
+        "q": "How is the hepatitis B virus primarily transmitted?",
+        "a": "Parenteral contact",
+        "b": "Mosquito bites",
+        "c": "Contaminated food and water",
+        "d": "Sexual contact",
+        "r": "a"
+    },
+    {
+        "q": "Which microorganism is responsible for causing urinary tract infections?",
+        "a": "Escherichia coli",
+        "b": "Staphylococcus aureus",
+        "c": "Streptococcus pneumoniae",
+        "d": "Candida albicans",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary mode of transmission for the yellow fever virus?",
+        "a": "Mosquito bites",
+        "b": "Sexual contact",
+        "c": "Airborne droplets",
+        "d": "Contaminated food and water",
+        "r": "a"
+    },
+    {
+        "q": "Which disease is caused by the protozoan Trypanosoma cruzi?",
+        "a": "Chagas disease",
+        "b": "Tuberculosis",
+        "c": "Typhoid Fever",
+        "d": "Malaria",
+        "r": "a"
+    },
+    {
+        "q": "How is the bacterium Vibrio parahaemolyticus typically transmitted to humans?",
+        "a": "Contaminated seafood",
+        "b": "Mosquito bites",
+        "c": "Sexual contact",
+        "d": "Airborne droplets",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a symptom of HIV/AIDS?",
+        "a": "Jaundice",
+        "b": "Weight loss",
+        "c": "Fatigue",
+        "d": "Recurrent infections",
+        "r": "a"
+    },
+    {
+        "q": "What type of microorganism causes the disease known as \"thrush\"?",
+        "a": "Fungi",
+        "b": "Bacteria",
+        "c": "Virus",
+        "d": "Protozoa",
+        "r": "a"
+    },
+    {
+        "q": "Which disease is caused by the bacterium Mycobacterium leprae?",
+        "a": "Leprosy",
+        "b": "Tuberculosis",
+        "c": "Cholera",
+        "d": "Malaria",
+        "r": "a"
+    },
+    {
+        "q": "How is the hepatitis A virus primarily transmitted?",
+        "a": "Contaminated food and water",
+        "b": "Mosquito bites",
+        "c": "Sexual contact",
+        "d": "Airborne droplets",
+        "r": "a"
+    },
+    {
+        "q": "Which microorganism is responsible for causing pneumonia?",
+        "a": "Streptococcus pneumoniae",
+        "b": "Escherichia coli",
+        "c": "Staphylococcus aureus",
+        "d": "Candida albicans",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary mode of transmission for the Hantavirus?",
+        "a": "Inhalation of contaminated rodent droppings",
+        "b": "Mosquito bites",
+        "c": "Sexual contact",
+        "d": "Contaminated food and water",
+        "r": "a"
+    },
+    {
+        "q": "Which disease is caused by the virus Epstein-Barr virus (EBV)?",
+        "a": "Infectious mononucleosis",
+        "b": "Typhoid Fever",
+        "c": "Malaria",
+        "d": "Cholera",
+        "r": "a"
+    },
+    {
+        "q": "How is the bacterium Escherichia coli (E. coli) often transmitted to humans?",
+        "a": "Contaminated food and water",
+        "b": "Mosquito bites",
+        "c": "Sexual contact",
+        "d": "Airborne droplets",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following diseases is caused by a protozoan?",
+        "a": "Amebiasis",
+        "b": "Tetanus",
+        "c": "Leprosy",
+        "d": "Influenza",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary mode of transmission for the Dengue virus?",
+        "a": "Mosquito bites",
+        "b": "Sexual contact",
+        "c": "Airborne droplets",
+        "d": "Contaminated food and water",
+        "r": "a"
+    }
+]
