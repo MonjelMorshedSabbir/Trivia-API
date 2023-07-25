@@ -1,0 +1,4898 @@
+[
+    {
+        "q": "What is the scientific study of the Earth's atmosphere called?",
+        "a": "meteorology",
+        "b": "geology",
+        "c": "oceanography",
+        "d": "astronomy",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the Earth's atmosphere contains the ozone layer?",
+        "a": "stratosphere",
+        "b": "mesosphere",
+        "c": "troposphere",
+        "d": "exosphere",
+        "r": "a"
+    },
+    {
+        "q": "The lithosphere is composed of which two layers?",
+        "a": "crust and upper mantle",
+        "b": "outer core and inner core",
+        "c": "crust and inner core",
+        "d": "mantle and asthenosphere",
+        "r": "a"
+    },
+    {
+        "q": "What are the three main types of rocks?",
+        "a": "igneous, sedimentary, and metamorphic",
+        "b": "basalt, limestone, and granite",
+        "c": "obsidian, shale, and marble",
+        "d": "peridotite, sandstone, and slate",
+        "r": "a"
+    },
+    {
+        "q": "The theory of plate tectonics states that Earth's outer shell is divided into:",
+        "a": "rigid plates",
+        "b": "a molten layer",
+        "c": "two hemispheres",
+        "d": "four quadrants",
+        "r": "a"
+    },
+    {
+        "q": "The process of converting a liquid into a gas is called:",
+        "a": "evaporation",
+        "b": "condensation",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the Earth contains convection currents that drive plate tectonics?",
+        "a": "mantle",
+        "b": "crust",
+        "c": "outer core",
+        "d": "inner core",
+        "r": "a"
+    },
+    {
+        "q": "The Pacific Ring of Fire is known for:",
+        "a": "frequent earthquakes and volcanic eruptions",
+        "b": "extreme temperatures and droughts",
+        "c": "vast oil reserves and natural gas deposits",
+        "d": "major rainforests and biodiversity",
+        "r": "a"
+    },
+    {
+        "q": "The Hawaiian Islands were formed by:",
+        "a": "a hot spot beneath the Pacific Plate",
+        "b": "a subduction zone",
+        "c": "glacial erosion",
+        "d": "a meteor impact",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of soil being carried away by water or wind called?",
+        "a": "erosion",
+        "b": "deposition",
+        "c": "weathering",
+        "d": "metamorphism",
+        "r": "a"
+    },
+    {
+        "q": "The process by which rocks are broken down into smaller particles is called:",
+        "a": "mechanical weathering",
+        "b": "chemical weathering",
+        "c": "erosion",
+        "d": "deposition",
+        "r": "a"
+    },
+    {
+        "q": "Which type of rock is formed from the cooling and solidification of magma?",
+        "a": "igneous",
+        "b": "sedimentary",
+        "c": "metamorphic",
+        "d": "volcanic",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the Earth's atmosphere is closest to the surface?",
+        "a": "troposphere",
+        "b": "exosphere",
+        "c": "stratosphere",
+        "d": "mesosphere",
+        "r": "a"
+    },
+    {
+        "q": "The process of soil and rock being transported from one location to another is:",
+        "a": "erosion",
+        "b": "weathering",
+        "c": "metamorphism",
+        "d": "deposition",
+        "r": "a"
+    },
+    {
+        "q": "The Appalachian Mountains are an example of which type of mountain formation?",
+        "a": "folded mountains",
+        "b": "volcanic mountains",
+        "c": "fault-block mountains",
+        "d": "dome mountains",
+        "r": "a"
+    },
+    {
+        "q": "What is the name for a sudden and violent shaking of the ground caused by movements in the Earth's crust?",
+        "a": "earthquake",
+        "b": "volcanic eruption",
+        "c": "tsunami",
+        "d": "hurricane",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the Earth's atmosphere is responsible for protecting us from most meteoroids?",
+        "a": "mesosphere",
+        "b": "exosphere",
+        "c": "stratosphere",
+        "d": "troposphere",
+        "r": "a"
+    },
+    {
+        "q": "The San Andreas Fault is an example of what type of plate boundary?",
+        "a": "transform boundary",
+        "b": "convergent boundary",
+        "c": "divergent boundary",
+        "d": "subduction boundary",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a naturally occurring, inorganic solid with a specific chemical composition and a repeating atomic structure?",
+        "a": "mineral",
+        "b": "fossil",
+        "c": "rock",
+        "d": "gemstone",
+        "r": "a"
+    },
+    {
+        "q": "The process of water vapor turning back into liquid water is called:",
+        "a": "condensation",
+        "b": "evaporation",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the Earth's atmosphere is the coldest and contains the coldest clouds?",
+        "a": "mesosphere",
+        "b": "stratosphere",
+        "c": "troposphere",
+        "d": "exosphere",
+        "r": "a"
+    },
+    {
+        "q": "The Grand Canyon was primarily formed by which geological process?",
+        "a": "erosion",
+        "b": "deposition",
+        "c": "metamorphism",
+        "d": "volcanic activity",
+        "r": "a"
+    },
+    {
+        "q": "The process by which sediment settles out of water or wind and accumulates on the Earth's surface is called:",
+        "a": "deposition",
+        "b": "erosion",
+        "c": "weathering",
+        "d": "metamorphism",
+        "r": "a"
+    },
+    {
+        "q": "What type of rock forms from the compaction and cementation of sediment?",
+        "a": "sedimentary",
+        "b": "igneous",
+        "c": "metamorphic",
+        "d": "volcanic",
+        "r": "a"
+    },
+    {
+        "q": "The process by which water changes from a liquid to a gas is called:",
+        "a": "evaporation",
+        "b": "condensation",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "a"
+    },
+    {
+        "q": "The Himalayan mountain range was formed by the collision of which two tectonic plates?",
+        "a": "Indian Plate and Eurasian Plate",
+        "b": "Pacific Plate and Eurasian Plate",
+        "c": "North American Plate and Eurasian Plate",
+        "d": "African Plate and Eurasian Plate",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process by which rocks are physically and chemically broken down by natural processes?",
+        "a": "weathering",
+        "b": "erosion",
+        "c": "metamorphism",
+        "d": "deposition",
+        "r": "a"
+    },
+    {
+        "q": "The Mariana Trench, the deepest part of the ocean, is an example of what feature on the ocean floor?",
+        "a": "trench",
+        "b": "ridge",
+        "c": "seamount",
+        "d": "atoll",
+        "r": "a"
+    },
+    {
+        "q": "The process of one tectonic plate being forced under another is called:",
+        "a": "subduction",
+        "b": "convergence",
+        "c": "divergence",
+        "d": "uplift",
+        "r": "a"
+    },
+    {
+        "q": "What is the name for a naturally occurring, solid mixture of one or more minerals and organic matter?",
+        "a": "rock",
+        "b": "fossil",
+        "c": "gemstone",
+        "d": "mineral",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the Earth's atmosphere contains the ionosphere?",
+        "a": "thermosphere",
+        "b": "exosphere",
+        "c": "mesosphere",
+        "d": "ionosphere",
+        "r": "a"
+    },
+    {
+        "q": "The process of sediments being compacted and cemented together to form solid rock is called:",
+        "a": "lithification",
+        "b": "weathering",
+        "c": "erosion",
+        "d": "metamorphism",
+        "r": "a"
+    },
+    {
+        "q": "The Andes mountain range was formed by which type of tectonic plate boundary?",
+        "a": "convergent boundary",
+        "b": "divergent boundary",
+        "c": "transform boundary",
+        "d": "subduction boundary",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT an example of a fossil fuel?",
+        "a": "wind energy",
+        "b": "coal",
+        "c": "oil",
+        "d": "natural gas",
+        "r": "a"
+    },
+    {
+        "q": "The process of water vapor falling from the atmosphere to the Earth's surface in various forms is called:",
+        "a": "precipitation",
+        "b": "evaporation",
+        "c": "condensation",
+        "d": "transpiration",
+        "r": "a"
+    },
+    {
+        "q": "What is the name for the solid, outermost layer of the Earth?",
+        "a": "crust",
+        "b": "mantle",
+        "c": "outer core",
+        "d": "inner core",
+        "r": "a"
+    },
+    {
+        "q": "The process of one tectonic plate sliding past another is called:",
+        "a": "transform fault",
+        "b": "convergent boundary fault",
+        "c": "divergent boundary fault",
+        "d": "subduction fault",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a sudden and powerful eruption of hot gas, ash, and rocks from a volcano?",
+        "a": "volcanic eruption",
+        "b": "earthquake",
+        "c": "tsunami",
+        "d": "hurricane",
+        "r": "a"
+    },
+    {
+        "q": "The process by which rocks are changed due to heat and pressure is called:",
+        "a": "metamorphism",
+        "b": "weathering",
+        "c": "erosion",
+        "d": "deposition",
+        "r": "a"
+    },
+    {
+        "q": "The process of water being absorbed by plant roots and then released into the atmosphere is called:",
+        "a": "transpiration",
+        "b": "evaporation",
+        "c": "condensation",
+        "d": "precipitation",
+        "r": "a"
+    },
+    {
+        "q": "The theory of plate tectonics is supported by evidence from:",
+        "a": "seafloor spreading",
+        "b": "glacial erosion",
+        "c": "volcanic activity",
+        "d": "wind erosion",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a naturally occurring, solid, inorganic substance with a specific chemical composition?",
+        "a": "mineral",
+        "b": "rock",
+        "c": "fossil",
+        "d": "gemstone",
+        "r": "a"
+    },
+    {
+        "q": "The process of water vapor turning into liquid water on surfaces like leaves or grass is called:",
+        "a": "condensation",
+        "b": "evaporation",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "a"
+    },
+    {
+        "q": "The process by which one tectonic plate moves away from another is called:",
+        "a": "divergence",
+        "b": "convergence",
+        "c": "subduction",
+        "d": "uplift",
+        "r": "a"
+    },
+    {
+        "q": "What is the name for the theory that explains the movement of Earth's lithospheric plates?",
+        "a": "plate tectonics",
+        "b": "continental drift",
+        "c": "rock cycle",
+        "d": "seismic theory",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the Earth's atmosphere is the outermost layer?",
+        "a": "exosphere",
+        "b": "thermosphere",
+        "c": "mesosphere",
+        "d": "stratosphere",
+        "r": "a"
+    },
+    {
+        "q": "The process of rocks and minerals breaking down into smaller particles due to exposure to environmental factors is called:",
+        "a": "weathering",
+        "b": "erosion",
+        "c": "deposition",
+        "d": "metamorphism",
+        "r": "a"
+    },
+    {
+        "q": "What type of rock forms from the cooling and solidification of lava?",
+        "a": "igneous",
+        "b": "sedimentary",
+        "c": "metamorphic",
+        "d": "volcanic",
+        "r": "a"
+    },
+    {
+        "q": "Which type of rock is formed from the compacting and cementing of plant and animal remains?",
+        "a": "sedimentary",
+        "b": "igneous",
+        "c": "metamorphic",
+        "d": "volcanic",
+        "r": "a"
+    },
+    {
+        "q": "The process of water changing from a liquid to a gas is called:",
+        "a": "evaporation",
+        "b": "condensation",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "a"
+    },
+    {
+        "q": "The process of one tectonic plate being forced under another is known as:",
+        "a": "subduction",
+        "b": "convergence",
+        "c": "divergence",
+        "d": "uplift",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a preserved remains or traces of past life found in sedimentary rock?",
+        "a": "fossil",
+        "b": "mineral",
+        "c": "rock",
+        "d": "gemstone",
+        "r": "a"
+    },
+    {
+        "q": "The process by which sediment is laid down in new locations is called:",
+        "a": "deposition",
+        "b": "weathering",
+        "c": "erosion",
+        "d": "metamorphism",
+        "r": "a"
+    },
+    {
+        "q": "Which type of mountain is formed by the collision of tectonic plates?",
+        "a": "fold mountain",
+        "b": "volcanic mountain",
+        "c": "dome mountain",
+        "d": "fault-block mountain",
+        "r": "a"
+    },
+    {
+        "q": "What is the name for a giant wave caused by an underwater earthquake or volcanic eruption?",
+        "a": "tsunami",
+        "b": "hurricane",
+        "c": "earthquake",
+        "d": "volcanic eruption",
+        "r": "a"
+    },
+    {
+        "q": "The process of one tectonic plate sliding past another is known as:",
+        "a": "transform fault",
+        "b": "convergent boundary fault",
+        "c": "divergent boundary fault",
+        "d": "subduction fault",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a naturally occurring, inorganic substance with a specific internal crystal structure?",
+        "a": "mineral",
+        "b": "fossil",
+        "c": "rock",
+        "d": "gemstone",
+        "r": "a"
+    },
+    {
+        "q": "The process of rocks and minerals breaking down into smaller particles due to physical forces is called:",
+        "a": "mechanical weathering",
+        "b": "chemical weathering",
+        "c": "erosion",
+        "d": "deposition",
+        "r": "a"
+    },
+    {
+        "q": "What is the name for the boundary between the Earth's crust and mantle?",
+        "a": "Mohorovičić Discontinuity (Moho)",
+        "b": "Richter Discontinuity",
+        "c": "Gutenberg Discontinuity",
+        "d": "Wilson Discontinuity",
+        "r": "a"
+    },
+    {
+        "q": "The process of rocks being subjected to high temperatures and pressures, causing them to change into different rocks, is called:",
+        "a": "metamorphism",
+        "b": "weathering",
+        "c": "erosion",
+        "d": "deposition",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of water evaporating from the leaves of plants?",
+        "a": "transpiration",
+        "b": "condensation",
+        "c": "precipitation",
+        "d": "evaporation",
+        "r": "a"
+    },
+    {
+        "q": "The theory of continental drift was proposed by:",
+        "a": "Alfred Wegener",
+        "b": "Charles Darwin",
+        "c": "Isaac Newton",
+        "d": "Galileo Galilei",
+        "r": "a"
+    },
+    {
+        "q": "The process of soil being carried away by water or wind is known as:",
+        "a": "erosion",
+        "b": "deposition",
+        "c": "weathering",
+        "d": "metamorphism",
+        "r": "a"
+    },
+    {
+        "q": "The Rocky Mountains were primarily formed by which geological process?",
+        "a": "uplift and folding",
+        "b": "volcanic activity",
+        "c": "erosion",
+        "d": "meteor impact",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a sudden shaking of the ground caused by movements in the Earth's crust?",
+        "a": "earthquake",
+        "b": "volcanic eruption",
+        "c": "tsunami",
+        "d": "hurricane",
+        "r": "a"
+    },
+    {
+        "q": "Which type of rock is formed from the cooling and solidification of magma or lava?",
+        "a": "igneous",
+        "b": "sedimentary",
+        "c": "metamorphic",
+        "d": "volcanic",
+        "r": "a"
+    },
+    {
+        "q": "The process of water vapor turning back into liquid water is known as:",
+        "a": "condensation",
+        "b": "evaporation",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "a"
+    },
+    {
+        "q": "What is the innermost layer of the Earth?",
+        "a": "crust",
+        "b": "mantle",
+        "c": "outer core",
+        "d": "inner core",
+        "r": "d"
+    },
+    {
+        "q": "Which layer of the Earth is composed mainly of iron and nickel?",
+        "a": "crust",
+        "b": "mantle",
+        "c": "outer core",
+        "d": "inner core",
+        "r": "c"
+    },
+    {
+        "q": "Which layer of the Earth is liquid?",
+        "a": "crust",
+        "b": "mantle",
+        "c": "outer core",
+        "d": "inner core",
+        "r": "c"
+    },
+    {
+        "q": "The lithosphere is composed of:",
+        "a": "solid rocks",
+        "b": "molten rocks",
+        "c": "liquid metals",
+        "d": "gases",
+        "r": "a"
+    },
+    {
+        "q": "The thickest layer of the Earth is:",
+        "a": "crust",
+        "b": "mantle",
+        "c": "outer core",
+        "d": "inner core",
+        "r": "b"
+    },
+    {
+        "q": "The layer of the Earth where tectonic plates are located is called:",
+        "a": "crust",
+        "b": "mantle",
+        "c": "outer core",
+        "d": "inner core",
+        "r": "a"
+    },
+    {
+        "q": "The movement of tectonic plates is responsible for:",
+        "a": "earthquakes",
+        "b": "hurricanes",
+        "c": "tornadoes",
+        "d": "tsunamis",
+        "r": "a"
+    },
+    {
+        "q": "What is the process called when tectonic plates move away from each other?",
+        "a": "subduction",
+        "b": "convergence",
+        "c": "divergence",
+        "d": "collision",
+        "r": "c"
+    },
+    {
+        "q": "The process of tectonic plates colliding and causing uplift of landforms is called:",
+        "a": "erosion",
+        "b": "deposition",
+        "c": "weathering",
+        "d": "orogeny",
+        "r": "d"
+    },
+    {
+        "q": "Which type of boundary results in the formation of mountains?",
+        "a": "divergent",
+        "b": "transform",
+        "c": "convergent",
+        "d": "conservative",
+        "r": "c"
+    },
+    {
+        "q": "The boundary where two tectonic plates slide past each other is called:",
+        "a": "divergent",
+        "b": "transform",
+        "c": "convergent",
+        "d": "conservative",
+        "r": "b"
+    },
+    {
+        "q": "Which type of boundary results in the creation of mid-ocean ridges?",
+        "a": "divergent",
+        "b": "transform",
+        "c": "convergent",
+        "d": "conservative",
+        "r": "a"
+    },
+    {
+        "q": "The theory of plate tectonics was proposed by:",
+        "a": "Alfred Wegener",
+        "b": "Isaac Newton",
+        "c": "Charles Darwin",
+        "d": "Marie Curie",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the supercontinent proposed by Alfred Wegener?",
+        "a": "Eurasia",
+        "b": "Gondwana",
+        "c": "Pangaea",
+        "d": "Laurasia",
+        "r": "c"
+    },
+    {
+        "q": "The process by which rocks and soil are broken down into smaller particles is called:",
+        "a": "erosion",
+        "b": "deposition",
+        "c": "weathering",
+        "d": "orogeny",
+        "r": "c"
+    },
+    {
+        "q": "Which type of weathering is caused by changes in temperature?",
+        "a": "mechanical weathering",
+        "b": "chemical weathering",
+        "c": "biological weathering",
+        "d": "physical weathering",
+        "r": "a"
+    },
+    {
+        "q": "The process of soil formation from parent material is called:",
+        "a": "leaching",
+        "b": "humification",
+        "c": "pedogenesis",
+        "d": "evaporation",
+        "r": "c"
+    },
+    {
+        "q": "The organic component of soil is mainly composed of:",
+        "a": "minerals",
+        "b": "air",
+        "c": "water",
+        "d": "dead plant and animal matter",
+        "r": "d"
+    },
+    {
+        "q": "Which layer of the Earth contains the asthenosphere?",
+        "a": "lithosphere",
+        "b": "asthenosphere",
+        "c": "mesosphere",
+        "d": "stratosphere",
+        "r": "b"
+    },
+    {
+        "q": "The lithosphere is broken into large pieces called:",
+        "a": "mountains",
+        "b": "hills",
+        "c": "continents",
+        "d": "tectonic plates",
+        "r": "d"
+    },
+    {
+        "q": "Which type of rock is formed by the cooling and solidification of magma or lava?",
+        "a": "sedimentary",
+        "b": "metamorphic",
+        "c": "igneous",
+        "d": "volcanic",
+        "r": "c"
+    },
+    {
+        "q": "The process of changing sediment into rock is called:",
+        "a": "compaction",
+        "b": "weathering",
+        "c": "erosion",
+        "d": "lithification",
+        "r": "d"
+    },
+    {
+        "q": "Which type of rock is formed from the alteration of existing rock through heat and pressure?",
+        "a": "sedimentary",
+        "b": "metamorphic",
+        "c": "igneous",
+        "d": "volcanic",
+        "r": "b"
+    },
+    {
+        "q": "The layer of the Earth's atmosphere where weather occurs is called the:",
+        "a": "thermosphere",
+        "b": "stratosphere",
+        "c": "troposphere",
+        "d": "mesosphere",
+        "r": "c"
+    },
+    {
+        "q": "The ozone layer is located in the:",
+        "a": "troposphere",
+        "b": "exosphere",
+        "c": "mesosphere",
+        "d": "stratosphere",
+        "r": "d"
+    },
+    {
+        "q": "The Earth's core is mainly composed of which two elements?",
+        "a": "iron and magnesium",
+        "b": "iron and nickel",
+        "c": "silicon and oxygen",
+        "d": "hydrogen and helium",
+        "r": "b"
+    },
+    {
+        "q": "The Earth's crust is primarily composed of:",
+        "a": "granite",
+        "b": "basalt",
+        "c": "limestone",
+        "d": "sandstone",
+        "r": "a"
+    },
+    {
+        "q": "Which type of rock is most abundant in the Earth's crust?",
+        "a": "granite",
+        "b": "basalt",
+        "c": "limestone",
+        "d": "sandstone",
+        "r": "a"
+    },
+    {
+        "q": "The Mohorovičić discontinuity (Moho) separates:",
+        "a": "the crust and mantle",
+        "b": "the mantle and outer core",
+        "c": "the outer core and inner core",
+        "d": "the lithosphere and asthenosphere",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the Earth is responsible for generating the planet's magnetic field?",
+        "a": "crust",
+        "b": "mantle",
+        "c": "outer core",
+        "d": "inner core",
+        "r": "c"
+    },
+    {
+        "q": "The Earth's mantle is mainly composed of:",
+        "a": "iron and nickel",
+        "b": "silica and aluminum",
+        "c": "silicon and oxygen",
+        "d": "magnesium and iron",
+        "r": "c"
+    },
+    {
+        "q": "The lithosphere is divided into how many major tectonic plates?",
+        "a": "4",
+        "b": "7",
+        "c": "12",
+        "d": "15",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the process by which tectonic plates sink into the mantle?",
+        "a": "subduction",
+        "b": "convergence",
+        "c": "divergence",
+        "d": "collision",
+        "r": "a"
+    },
+    {
+        "q": "Which type of boundary results in earthquakes and volcanic eruptions?",
+        "a": "divergent",
+        "b": "transform",
+        "c": "convergent",
+        "d": "conservative",
+        "r": "c"
+    },
+    {
+        "q": "The San Andreas Fault is an example of which type of boundary?",
+        "a": "divergent",
+        "b": "transform",
+        "c": "convergent",
+        "d": "conservative",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the theory that explains the movement of tectonic plates?",
+        "a": "continental drift",
+        "b": "plate tectonics",
+        "c": "mantle convection",
+        "d": "cosmic inflation",
+        "r": "b"
+    },
+    {
+        "q": "The Himalayan mountain range was formed as a result of:",
+        "a": "two continental plates colliding",
+        "b": "a continental plate and an oceanic plate converging",
+        "c": "two oceanic plates colliding",
+        "d": "a divergent boundary",
+        "r": "a"
+    },
+    {
+        "q": "The process of rocks and sediments settling out of water and accumulating in layers is called:",
+        "a": "erosion",
+        "b": "deposition",
+        "c": "weathering",
+        "d": "orogeny",
+        "r": "b"
+    },
+    {
+        "q": "The process of organic material being converted into dark, spongy matter is called:",
+        "a": "leaching",
+        "b": "humification",
+        "c": "pedogenesis",
+        "d": "evaporation",
+        "r": "b"
+    },
+    {
+        "q": "Which layer of the Earth contains the ozone layer?",
+        "a": "lithosphere",
+        "b": "exosphere",
+        "c": "mesosphere",
+        "d": "stratosphere",
+        "r": "d"
+    },
+    {
+        "q": "The thinnest layer of the Earth is:",
+        "a": "crust",
+        "b": "mantle",
+        "c": "outer core",
+        "d": "inner core",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the Earth is responsible for generating the Earth's magnetic field?",
+        "a": "crust",
+        "b": "mantle",
+        "c": "outer core",
+        "d": "inner core",
+        "r": "c"
+    },
+    {
+        "q": "The process of tectonic plates colliding and causing the subduction of one plate beneath another is called:",
+        "a": "erosion",
+        "b": "deposition",
+        "c": "weathering",
+        "d": "orogeny",
+        "r": "d"
+    },
+    {
+        "q": "The process of rocks breaking down into smaller pieces due to the action of wind, water, or ice is called:",
+        "a": "erosion",
+        "b": "deposition",
+        "c": "weathering",
+        "d": "orogeny",
+        "r": "c"
+    },
+    {
+        "q": "The process of soil particles being carried away by water is called:",
+        "a": "leaching",
+        "b": "humification",
+        "c": "pedogenesis",
+        "d": "evaporation",
+        "r": "a"
+    },
+    {
+        "q": "The process of soil particles being carried away by wind is called:",
+        "a": "leaching",
+        "b": "humification",
+        "c": "pedogenesis",
+        "d": "evaporation",
+        "r": "c"
+    },
+    {
+        "q": "The process of soil particles being carried away by ice is called:",
+        "a": "leaching",
+        "b": "humification",
+        "c": "pedogenesis",
+        "d": "evaporation",
+        "r": "d"
+    },
+    {
+        "q": "Which type of rock is formed from the accumulation and cementation of sediments?",
+        "a": "sedimentary",
+        "b": "metamorphic",
+        "c": "igneous",
+        "d": "volcanic",
+        "r": "a"
+    },
+    {
+        "q": "Which type of rock is formed from the alteration of existing rocks through heat and pressure?",
+        "a": "sedimentary",
+        "b": "metamorphic",
+        "c": "igneous",
+        "d": "volcanic",
+        "r": "b"
+    },
+    {
+        "q": "The Earth's mantle is located between the:",
+        "a": "crust and outer core",
+        "b": "outer core and inner core",
+        "c": "lithosphere and asthenosphere",
+        "d": "stratosphere and thermosphere",
+        "r": "a"
+    },
+    {
+        "q": "The process of molten material cooling and solidifying to form rock is called:",
+        "a": "compaction",
+        "b": "weathering",
+        "c": "erosion",
+        "d": "lithification",
+        "r": "d"
+    },
+    {
+        "q": "Which type of rock is formed from the cooling of lava on the Earth's surface?",
+        "a": "sedimentary",
+        "b": "metamorphic",
+        "c": "igneous",
+        "d": "volcanic",
+        "r": "c"
+    },
+    {
+        "q": "The theory of plate tectonics suggests that the Earth's lithosphere is divided into:",
+        "a": "mountains",
+        "b": "hills",
+        "c": "continents",
+        "d": "tectonic plates",
+        "r": "d"
+    },
+    {
+        "q": "The boundary where two tectonic plates move towards each other is called:",
+        "a": "divergent",
+        "b": "transform",
+        "c": "convergent",
+        "d": "conservative",
+        "r": "c"
+    },
+    {
+        "q": "The boundary where two tectonic plates slide past each other horizontally is called:",
+        "a": "divergent",
+        "b": "transform",
+        "c": "convergent",
+        "d": "conservative",
+        "r": "b"
+    },
+    {
+        "q": "Which type of boundary results in the creation of deep ocean trenches?",
+        "a": "divergent",
+        "b": "transform",
+        "c": "convergent",
+        "d": "conservative",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the ancient supercontinent proposed by Alfred Wegener?",
+        "a": "Eurasia",
+        "b": "Gondwana",
+        "c": "Pangaea",
+        "d": "Laurasia",
+        "r": "c"
+    },
+    {
+        "q": "The process of changing rocks through heat and pressure is called:",
+        "a": "compaction",
+        "b": "weathering",
+        "c": "erosion",
+        "d": "lithification",
+        "r": "b"
+    },
+    {
+        "q": "The layer of the Earth's atmosphere where the ozone layer is located is called the:",
+        "a": "thermosphere",
+        "b": "stratosphere",
+        "c": "troposphere",
+        "d": "mesosphere",
+        "r": "b"
+    },
+    {
+        "q": "The Earth's core is mainly composed of:",
+        "a": "iron and magnesium",
+        "b": "iron and nickel",
+        "c": "silicon and oxygen",
+        "d": "hydrogen and helium",
+        "r": "b"
+    },
+    {
+        "q": "What is the outermost layer of the Earth?",
+        "a": "Crust",
+        "b": "Mantle",
+        "c": "Core",
+        "d": "Lithosphere",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the Earth is responsible for plate tectonics?",
+        "a": "Mantle",
+        "b": "Crust",
+        "c": "Outer Core",
+        "d": "Inner Core",
+        "r": "a"
+    },
+    {
+        "q": "The theory of plate tectonics is supported by which evidence?",
+        "a": "Fossil similarities",
+        "b": "Different rock types",
+        "c": "Continental drift",
+        "d": "All of the above",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of one tectonic plate moving under another called?",
+        "a": "Subduction",
+        "b": "Divergence",
+        "c": "Converge",
+        "d": "Seafloor spreading",
+        "r": "a"
+    },
+    {
+        "q": "Which type of plate boundary is responsible for creating new crust?",
+        "a": "Divergent",
+        "b": "Convergent",
+        "c": "Transform",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "What boundary marks the boundary between two tectonic plates moving apart?",
+        "a": "Mid-Atlantic Ridge",
+        "b": "San Andreas Fault",
+        "c": "Himalayan Mountains",
+        "d": "Ring of Fire",
+        "r": "a"
+    },
+    {
+        "q": "What boundary is responsible for the formation of deep ocean trenches?",
+        "a": "Convergent",
+        "b": "Divergent",
+        "c": "Transform",
+        "d": "Continental Drift",
+        "r": "a"
+    },
+    {
+        "q": "Which type of seismic waves arrive at the seismograph first?",
+        "a": "P-waves",
+        "b": "S-waves",
+        "c": "Surface waves",
+        "d": "Love waves",
+        "r": "a"
+    },
+    {
+        "q": "What type of stress occurs at a divergent boundary?",
+        "a": "Tension",
+        "b": "Compression",
+        "c": "Shear",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "What feature is formed when two continental plates converge?",
+        "a": "Fold mountains",
+        "b": "Ocean trench",
+        "c": "Volcanic island arc",
+        "d": "Earthquake",
+        "r": "a"
+    },
+    {
+        "q": "What is the point inside the Earth where the earthquake originates?",
+        "a": "Focus",
+        "b": "Epicenter",
+        "c": "Seismic zone",
+        "d": "Subduction zone",
+        "r": "a"
+    },
+    {
+        "q": "Which type of seismic waves can travel through both solid and liquid layers of the Earth?",
+        "a": "P-waves",
+        "b": "S-waves",
+        "c": "Love waves",
+        "d": "Rayleigh waves",
+        "r": "a"
+    },
+    {
+        "q": "Which boundary is responsible for the formation of the Andes mountains?",
+        "a": "Convergent",
+        "b": "Divergent",
+        "c": "Transform",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The lithosphere is divided into large pieces known as ____.",
+        "a": "Tectonic plates",
+        "b": "Continents",
+        "c": "Oceans",
+        "d": "Crust",
+        "r": "a"
+    },
+    {
+        "q": "What process results in the creation of new oceanic crust?",
+        "a": "Seafloor spreading",
+        "b": "Subduction",
+        "c": "Continental drift",
+        "d": "Folding and faulting",
+        "r": "a"
+    },
+    {
+        "q": "The point on the Earth's surface directly above the earthquake origin is called the ____.",
+        "a": "Epicenter",
+        "b": "Focus",
+        "c": "Fault",
+        "d": "Rift zone",
+        "r": "a"
+    },
+    {
+        "q": "The San Andreas Fault in California is an example of what type of plate boundary?",
+        "a": "Transform",
+        "b": "Convergent",
+        "c": "Divergent",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The movement of tectonic plates is primarily driven by ____.",
+        "a": "Mantle convection",
+        "b": "Wind",
+        "c": "Solar radiation",
+        "d": "Ocean currents",
+        "r": "a"
+    },
+    {
+        "q": "What type of stress occurs at a convergent boundary?",
+        "a": "Compression",
+        "b": "Tension",
+        "c": "Shear",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The theory of plate tectonics explains ____.",
+        "a": "Earth's major geological processes",
+        "b": "Formation of sedimentary rocks",
+        "c": "Formation of minerals",
+        "d": "The water cycle",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary factor that determines magma type?",
+        "a": "temperature",
+        "b": "pressure",
+        "c": "viscosity",
+        "d": "mineral content",
+        "r": "a"
+    },
+    {
+        "q": "Which type of volcano has the broadest, gently sloping sides?",
+        "a": "stratovolcano",
+        "b": "shield volcano",
+        "c": "cinder cone",
+        "d": "composite volcano",
+        "r": "b"
+    },
+    {
+        "q": "Which type of magma has the highest silica content?",
+        "a": "basaltic",
+        "b": "andesitic",
+        "c": "rhyolitic",
+        "d": "ultramafic",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for a large volcanic crater formed by a massive eruption and collapse?",
+        "a": "caldera",
+        "b": "caldera",
+        "c": "caldera",
+        "d": "caldera",
+        "r": "a"
+    },
+    {
+        "q": "What volcanic hazard is a fast-moving, turbulent cloud of hot gas and volcanic ash?",
+        "a": "lava flow",
+        "b": "lahar",
+        "c": "pyroclastic flow",
+        "d": "volcanic bomb",
+        "r": "c"
+    },
+    {
+        "q": "Which type of volcano is also known as a \"stratovolcano\"?",
+        "a": "composite volcano",
+        "b": "shield volcano",
+        "c": "cinder cone",
+        "d": "shield volcano",
+        "r": "a"
+    },
+    {
+        "q": "Which type of volcanic vent emits only gas and no lava?",
+        "a": "fumarole",
+        "b": "crater",
+        "c": "caldera",
+        "d": "geysers",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for solidified lava tubes that form from flowing lava?",
+        "a": "pyroclastic flow",
+        "b": "pillow lava",
+        "c": "tephra",
+        "d": "volcanic glass",
+        "r": "b"
+    },
+    {
+        "q": "Which type of lava has a smooth, ropy texture?",
+        "a": "pahoehoe",
+        "b": "aa",
+        "c": "scoria",
+        "d": "tephra",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a bowl-shaped depression at the top of a volcano?",
+        "a": "caldera",
+        "b": "crater",
+        "c": "vent",
+        "d": "lava dome",
+        "r": "b"
+    },
+    {
+        "q": "What type of volcano is characterized by explosive eruptions and steep slopes?",
+        "a": "shield volcano",
+        "b": "stratovolcano",
+        "c": "cinder cone",
+        "d": "shield volcano",
+        "r": "b"
+    },
+    {
+        "q": "Which type of volcanic hazard is a mixture of water and volcanic ash that flows down from a volcano?",
+        "a": "volcanic bomb",
+        "b": "lahar",
+        "c": "pyroclastic flow",
+        "d": "lava flow",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for volcanic mudflows that occur after a volcanic eruption?",
+        "a": "pyroclastic flow",
+        "b": "caldera",
+        "c": "lahar",
+        "d": "tephra",
+        "r": "c"
+    },
+    {
+        "q": "What type of magma has the lowest silica content?",
+        "a": "basaltic",
+        "b": "andesitic",
+        "c": "rhyolitic",
+        "d": "ultramafic",
+        "r": "a"
+    },
+    {
+        "q": "Which type of volcano is mostly made up of layers of volcanic ash and cinders?",
+        "a": "shield volcano",
+        "b": "stratovolcano",
+        "c": "cinder cone",
+        "d": "composite volcano",
+        "r": "c"
+    },
+    {
+        "q": "What type of volcano is typically the largest in size?",
+        "a": "stratovolcano",
+        "b": "shield volcano",
+        "c": "cinder cone",
+        "d": "composite volcano",
+        "r": "b"
+    },
+    {
+        "q": "What volcanic hazard is a large projectile ejected during an explosive eruption?",
+        "a": "lava flow",
+        "b": "volcanic bomb",
+        "c": "lahar",
+        "d": "pyroclastic flow",
+        "r": "b"
+    },
+    {
+        "q": "Which type of volcanic vent is a steep-walled depression at the summit of a volcano?",
+        "a": "caldera",
+        "b": "crater",
+        "c": "vent",
+        "d": "fumarole",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for fragments of volcanic rock and lava that are blasted into the air during an eruption?",
+        "a": "pyroclastic flow",
+        "b": "pillow lava",
+        "c": "tephra",
+        "d": "volcanic glass",
+        "r": "c"
+    },
+    {
+        "q": "Which type of lava has a rough, jagged texture?",
+        "a": "pahoehoe",
+        "b": "aa",
+        "c": "scoria",
+        "d": "tephra",
+        "r": "b"
+    },
+    {
+        "q": "What type of volcano is characterized by non-explosive eruptions and gently sloping sides?",
+        "a": "shield volcano",
+        "b": "stratovolcano",
+        "c": "cinder cone",
+        "d": "shield volcano",
+        "r": "a"
+    },
+    {
+        "q": "What volcanic feature is a vent located at the summit of a volcano?",
+        "a": "fumarole",
+        "b": "crater",
+        "c": "caldera",
+        "d": "geysers",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the volcanic rock that forms from the rapid cooling of lava?",
+        "a": "tephra",
+        "b": "volcanic glass",
+        "c": "pillow lava",
+        "d": "pyroclastic flow",
+        "r": "b"
+    },
+    {
+        "q": "Which type of magma has the intermediate silica content?",
+        "a": "basaltic",
+        "b": "andesitic",
+        "c": "rhyolitic",
+        "d": "ultramafic",
+        "r": "b"
+    },
+    {
+        "q": "What volcanic hazard is a type of mudflow made up of volcanic ash, water, and other debris?",
+        "a": "lava flow",
+        "b": "lahar",
+        "c": "pyroclastic flow",
+        "d": "volcanic bomb",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for a circular depression or basin surrounding the vent of a volcano?",
+        "a": "caldera",
+        "b": "crater",
+        "c": "vent",
+        "d": "lava dome",
+        "r": "a"
+    },
+    {
+        "q": "What type of volcano is characterized by lava flows with low viscosity?",
+        "a": "shield volcano",
+        "b": "stratovolcano",
+        "c": "cinder cone",
+        "d": "shield volcano",
+        "r": "a"
+    },
+    {
+        "q": "Which type of volcanic vent emits volcanic gases and steam?",
+        "a": "fumarole",
+        "b": "crater",
+        "c": "caldera",
+        "d": "geysers",
+        "r": "a"
+    },
+    {
+        "q": "What volcanic feature is a mound-shaped hill formed by volcanic fragments?",
+        "a": "tephra",
+        "b": "volcanic glass",
+        "c": "pillow lava",
+        "d": "pyroclastic flow",
+        "r": "a"
+    },
+    {
+        "q": "Which type of lava has a vesicular texture?",
+        "a": "pahoehoe",
+        "b": "aa",
+        "c": "scoria",
+        "d": "tephra",
+        "r": "c"
+    },
+    {
+        "q": "What is the process by which rocks break down?",
+        "a": "Chemical Weathering",
+        "b": "Physical Weathering",
+        "c": "Biological Weathering",
+        "d": "Mechanical Weathering",
+        "r": "b"
+    },
+    {
+        "q": "Which type of weathering is caused by plant roots?",
+        "a": "Chemical Weathering",
+        "b": "Physical Weathering",
+        "c": "Biological Weathering",
+        "d": "Mechanical Weathering",
+        "r": "c"
+    },
+    {
+        "q": "The wearing away of rocks by wind, water, or ice is known as:",
+        "a": "Erosion",
+        "b": "Weathering",
+        "c": "Deposition",
+        "d": "Sedimentation",
+        "r": "a"
+    },
+    {
+        "q": "When rocks are broken down into smaller pieces without any chemical change, it is called:",
+        "a": "Mechanical Weathering",
+        "b": "Chemical Weathering",
+        "c": "Physical Weathering",
+        "d": "Biological Weathering",
+        "r": "a"
+    },
+    {
+        "q": "Which type of weathering involves the reaction of minerals with water, air, or acids?",
+        "a": "Chemical Weathering",
+        "b": "Physical Weathering",
+        "c": "Biological Weathering",
+        "d": "Mechanical Weathering",
+        "r": "a"
+    },
+    {
+        "q": "What is the main agent of erosion?",
+        "a": "Wind",
+        "b": "Water",
+        "c": "Ice",
+        "d": "Gravity",
+        "r": "b"
+    },
+    {
+        "q": "Which type of erosion is responsible for the formation of sand dunes in deserts?",
+        "a": "Wind",
+        "b": "Water",
+        "c": "Ice",
+        "d": "Gravity",
+        "r": "a"
+    },
+    {
+        "q": "The process of sediment being dropped and coming to rest is known as:",
+        "a": "Deposition",
+        "b": "Erosion",
+        "c": "Weathering",
+        "d": "Sedimentation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of physical weathering?",
+        "a": "Ice wedging",
+        "b": "Oxidation",
+        "c": "Acid rain",
+        "d": "Plant roots",
+        "r": "a"
+    },
+    {
+        "q": "What is the movement of weathered materials from one location to another?",
+        "a": "Erosion",
+        "b": "Deposition",
+        "c": "Sedimentation",
+        "d": "Weathering",
+        "r": "a"
+    },
+    {
+        "q": "The process of new sediment being laid down on top of old sediment is called:",
+        "a": "Superposition",
+        "b": "Deposition",
+        "c": "Erosion",
+        "d": "Weathering",
+        "r": "b"
+    },
+    {
+        "q": "Which type of weathering is primarily responsible for the formation of caves?",
+        "a": "Chemical Weathering",
+        "b": "Physical Weathering",
+        "c": "Biological Weathering",
+        "d": "Mechanical Weathering",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of chemical weathering?",
+        "a": "Rusting of iron",
+        "b": "Freezing and thawing",
+        "c": "Plant roots",
+        "d": "Abrasion",
+        "r": "a"
+    },
+    {
+        "q": "Which agent of erosion can create valleys and canyons over long periods of time?",
+        "a": "Water",
+        "b": "Wind",
+        "c": "Ice",
+        "d": "Gravity",
+        "r": "a"
+    },
+    {
+        "q": "The process by which eroded materials settle and accumulate in a new location is called:",
+        "a": "Deposition",
+        "b": "Erosion",
+        "c": "Weathering",
+        "d": "Sedimentation",
+        "r": "a"
+    },
+    {
+        "q": "Which type of weathering involves the physical breaking of rocks into smaller pieces?",
+        "a": "Physical Weathering",
+        "b": "Chemical Weathering",
+        "c": "Biological Weathering",
+        "d": "Mechanical Weathering",
+        "r": "a"
+    },
+    {
+        "q": "Which agent of erosion is responsible for the formation of U-shaped valleys?",
+        "a": "Ice",
+        "b": "Water",
+        "c": "Wind",
+        "d": "Gravity",
+        "r": "a"
+    },
+    {
+        "q": "The grinding away of rock by other rock particles carried in water, ice, or wind is called:",
+        "a": "Abrasion",
+        "b": "Oxidation",
+        "c": "Acid rain",
+        "d": "Plant roots",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which rocks are worn down by the action of chemicals?",
+        "a": "Chemical Weathering",
+        "b": "Physical Weathering",
+        "c": "Biological Weathering",
+        "d": "Mechanical Weathering",
+        "r": "a"
+    },
+    {
+        "q": "Which type of weathering is caused by the growth and actions of living organisms?",
+        "a": "Biological Weathering",
+        "b": "Chemical Weathering",
+        "c": "Physical Weathering",
+        "d": "Mechanical Weathering",
+        "r": "a"
+    },
+    {
+        "q": "Which type of weathering is caused by the expansion of freezing water in cracks and crevices of rocks?",
+        "a": "Ice wedging",
+        "b": "Chemical Weathering",
+        "c": "Biological Weathering",
+        "d": "Mechanical Weathering",
+        "r": "a"
+    },
+    {
+        "q": "The process of settling or coming to rest of transported materials is known as:",
+        "a": "Deposition",
+        "b": "Erosion",
+        "c": "Weathering",
+        "d": "Sedimentation",
+        "r": "a"
+    },
+    {
+        "q": "Which type of weathering involves the physical breakdown of rocks due to temperature changes?",
+        "a": "Exfoliation",
+        "b": "Chemical Weathering",
+        "c": "Biological Weathering",
+        "d": "Mechanical Weathering",
+        "r": "a"
+    },
+    {
+        "q": "Which agent of erosion is responsible for the formation of sand dunes along coastlines?",
+        "a": "Wind",
+        "b": "Water",
+        "c": "Ice",
+        "d": "Gravity",
+        "r": "a"
+    },
+    {
+        "q": "Which type of rock is formed from sediments?",
+        "a": "igneous",
+        "b": "metamorphic",
+        "c": "sedimentary",
+        "d": "volcanic",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary agent for the deposition of sediments?",
+        "a": "water",
+        "b": "wind",
+        "c": "ice",
+        "d": "gravity",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of turning sediment into rock?",
+        "a": "weathering",
+        "b": "erosion",
+        "c": "deposition",
+        "d": "lithification",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of a chemical sedimentary rock?",
+        "a": "shale",
+        "b": "conglomerate",
+        "c": "limestone",
+        "d": "sandstone",
+        "r": "c"
+    },
+    {
+        "q": "Which type of sedimentary rock is formed from plant and animal remains?",
+        "a": "shale",
+        "b": "limestone",
+        "c": "sandstone",
+        "d": "conglomerate",
+        "r": "b"
+    },
+    {
+        "q": "Fossils are commonly found in which type of rock?",
+        "a": "igneous",
+        "b": "metamorphic",
+        "c": "sedimentary",
+        "d": "volcanic",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a clastic sedimentary rock?",
+        "a": "limestone",
+        "b": "shale",
+        "c": "rock salt",
+        "d": "coal",
+        "r": "b"
+    },
+    {
+        "q": "What is the process by which sediments are transported by water or wind?",
+        "a": "weathering",
+        "b": "deposition",
+        "c": "compaction",
+        "d": "erosion",
+        "r": "d"
+    },
+    {
+        "q": "Which mineral is most commonly found in limestone?",
+        "a": "quartz",
+        "b": "calcite",
+        "c": "feldspar",
+        "d": "mica",
+        "r": "b"
+    },
+    {
+        "q": "What type of sedimentary rock is formed from compacted and cemented clay particles?",
+        "a": "sandstone",
+        "b": "shale",
+        "c": "conglomerate",
+        "d": "limestone",
+        "r": "b"
+    },
+    {
+        "q": "How are ripple marks formed in sedimentary rocks?",
+        "a": "by volcanic activity",
+        "b": "by glaciers",
+        "c": "by wind",
+        "d": "by water currents",
+        "r": "d"
+    },
+    {
+        "q": "What is the main difference between conglomerate and breccia?",
+        "a": "texture",
+        "b": "color",
+        "c": "grain size",
+        "d": "mineral composition",
+        "r": "a"
+    },
+    {
+        "q": "What is the most common source of energy found in sedimentary rocks?",
+        "a": "coal",
+        "b": "oil",
+        "c": "natural gas",
+        "d": "uranium",
+        "r": "a"
+    },
+    {
+        "q": "Which type of fossil fuel is formed from the remains of ancient plants in swamps?",
+        "a": "coal",
+        "b": "oil",
+        "c": "natural gas",
+        "d": "peat",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary component of natural gas?",
+        "a": "methane",
+        "b": "carbon dioxide",
+        "c": "propane",
+        "d": "ethane",
+        "r": "a"
+    },
+    {
+        "q": "How is petroleum typically extracted from the ground?",
+        "a": "drilling",
+        "b": "quarrying",
+        "c": "blasting",
+        "d": "excavation",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of converting organic materials into petroleum called?",
+        "a": "evaporation",
+        "b": "combustion",
+        "c": "distillation",
+        "d": "maturation",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a non-renewable resource?",
+        "a": "wind energy",
+        "b": "solar energy",
+        "c": "coal",
+        "d": "hydroelectricity",
+        "r": "c"
+    },
+    {
+        "q": "Which fossil fuel is commonly used for heating and electricity generation?",
+        "a": "natural gas",
+        "b": "coal",
+        "c": "oil",
+        "d": "peat",
+        "r": "b"
+    },
+    {
+        "q": "What is the main environmental concern associated with burning fossil fuels?",
+        "a": "deforestation",
+        "b": "acid rain",
+        "c": "ozone depletion",
+        "d": "soil erosion",
+        "r": "b"
+    },
+    {
+        "q": "Which sedimentary rock is commonly used for building and construction?",
+        "a": "shale",
+        "b": "limestone",
+        "c": "sandstone",
+        "d": "conglomerate",
+        "r": "b"
+    },
+    {
+        "q": "How are sedimentary rocks different from igneous rocks?",
+        "a": "formed from cooling magma",
+        "b": "contain fossils",
+        "c": "primarily composed of minerals",
+        "d": "have a crystalline structure",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a biochemical sedimentary rock?",
+        "a": "shale",
+        "b": "limestone",
+        "c": "sandstone",
+        "d": "conglomerate",
+        "r": "b"
+    },
+    {
+        "q": "How are fossil fuels formed?",
+        "a": "compression and heat on organic matter",
+        "b": "cooling of molten lava",
+        "c": "compaction of sediments",
+        "d": "crystallization of minerals",
+        "r": "a"
+    },
+    {
+        "q": "Which type of rock is often used as a reservoir for oil and natural gas?",
+        "a": "shale",
+        "b": "limestone",
+        "c": "sandstone",
+        "d": "conglomerate",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary use of coal obtained from sedimentary rocks?",
+        "a": "electricity generation",
+        "b": "transportation",
+        "c": "jewelry production",
+        "d": "cooking fuel",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of fossilization called?",
+        "a": "carbonization",
+        "b": "petrification",
+        "c": "metamorphism",
+        "d": "fossilization",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a chemical sedimentary rock made of halite (rock salt)?",
+        "a": "shale",
+        "b": "limestone",
+        "c": "rock salt",
+        "d": "coal",
+        "r": "c"
+    },
+    {
+        "q": "How do sedimentary rocks typically form layers?",
+        "a": "through cooling of lava",
+        "b": "through precipitation of minerals",
+        "c": "through deposition of sediments",
+        "d": "through volcanic activity",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary component of coal?",
+        "a": "methane",
+        "b": "calcite",
+        "c": "quartz",
+        "d": "carbon",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an organic sedimentary rock?",
+        "a": "shale",
+        "b": "limestone",
+        "c": "coal",
+        "d": "conglomerate",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of removing salt from seawater to obtain freshwater?",
+        "a": "desalination",
+        "b": "filtration",
+        "c": "condensation",
+        "d": "precipitation",
+        "r": "a"
+    },
+    {
+        "q": "Which type of fossil fuel is often used in stoves and lanterns?",
+        "a": "coal",
+        "b": "natural gas",
+        "c": "oil",
+        "d": "peat",
+        "r": "d"
+    },
+    {
+        "q": "What is the main environmental impact of burning fossil fuels?",
+        "a": "air pollution",
+        "b": "soil erosion",
+        "c": "deforestation",
+        "d": "ozone depletion",
+        "r": "a"
+    },
+    {
+        "q": "Which type of sedimentary rock is formed from the evaporation of water containing dissolved minerals?",
+        "a": "shale",
+        "b": "limestone",
+        "c": "rock salt",
+        "d": "coal",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of converting coal into a more carbon-rich and energy-dense product?",
+        "a": "refining",
+        "b": "distillation",
+        "c": "combustion",
+        "d": "carbonization",
+        "r": "d"
+    },
+    {
+        "q": "Which type of fossil fuel is primarily composed of plankton and algae remains?",
+        "a": "coal",
+        "b": "oil",
+        "c": "natural gas",
+        "d": "peat",
+        "r": "b"
+    },
+    {
+        "q": "How do sedimentary rocks typically form fossils?",
+        "a": "by precipitation of minerals around organic matter",
+        "b": "by volcanic activity",
+        "c": "by cooling of lava",
+        "d": "by pressure and heat",
+        "r": "a"
+    },
+    {
+        "q": "What is the main use of natural gas extracted from sedimentary rocks?",
+        "a": "electricity generation",
+        "b": "transportation",
+        "c": "jewelry production",
+        "d": "cooking fuel",
+        "r": "d"
+    },
+    {
+        "q": "Which type of sedimentary rock is formed from the accumulation of sand grains?",
+        "a": "limestone",
+        "b": "shale",
+        "c": "conglomerate",
+        "d": "sandstone",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary use of natural gas extracted from sedimentary rocks?",
+        "a": "transportation",
+        "b": "electricity generation",
+        "c": "cooking fuel",
+        "d": "jewelry production",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of an inorganic, chemical sedimentary rock?",
+        "a": "shale",
+        "b": "limestone",
+        "c": "rock salt",
+        "d": "coal",
+        "r": "c"
+    },
+    {
+        "q": "How do sedimentary rocks typically form cross-bedding structures?",
+        "a": "through volcanic activity",
+        "b": "through weathering and erosion",
+        "c": "through deposition of sediments",
+        "d": "through folding and faulting",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary component of oil?",
+        "a": "carbon",
+        "b": "methane",
+        "c": "calcite",
+        "d": "quartz",
+        "r": "a"
+    },
+    {
+        "q": "Which type of fossil fuel is formed from marine plant and animal remains?",
+        "a": "coal",
+        "b": "oil",
+        "c": "natural gas",
+        "d": "peat",
+        "r": "b"
+    },
+    {
+        "q": "What is the process by which sedimentary rocks are broken down into smaller particles?",
+        "a": "deposition",
+        "b": "erosion",
+        "c": "compaction",
+        "d": "lithification",
+        "r": "b"
+    },
+    {
+        "q": "Which type of sedimentary rock is formed from the accumulation of clay and silt particles?",
+        "a": "limestone",
+        "b": "shale",
+        "c": "conglomerate",
+        "d": "sandstone",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary use of oil extracted from sedimentary rocks?",
+        "a": "transportation",
+        "b": "electricity generation",
+        "c": "cooking fuel",
+        "d": "jewelry production",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a detrital sedimentary rock?",
+        "a": "shale",
+        "b": "limestone",
+        "c": "sandstone",
+        "d": "conglomerate",
+        "r": "c"
+    },
+    {
+        "q": "How are sedimentary rocks classified?",
+        "a": "by texture and color",
+        "b": "by mineral composition",
+        "c": "by grain size",
+        "d": "by formation process",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary agent of erosion for sedimentary rocks?",
+        "a": "water",
+        "b": "wind",
+        "c": "ice",
+        "d": "gravity",
+        "r": "a"
+    },
+    {
+        "q": "Which type of sedimentary rock is formed from the accumulation of shells and coral fragments?",
+        "a": "limestone",
+        "b": "shale",
+        "c": "conglomerate",
+        "d": "sandstone",
+        "r": "a"
+    },
+    {
+        "q": "What type of rock forms from the",
+        "a": "Igneous Rock",
+        "b": "Sedimentary Rock",
+        "c": "Metamorphic Rock",
+        "d": "None of the above",
+        "r": "c"
+    },
+    {
+        "q": "Which process involves the",
+        "a": "Weathering",
+        "b": "Melting",
+        "c": "Solidification",
+        "d": "Deposition",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following statements",
+        "a": "Igneous rocks are formed from",
+        "b": "Metamorphic rocks are formed from",
+        "c": "Sedimentary rocks are formed from",
+        "d": "All of the above",
+        "r": "c"
+    },
+    {
+        "q": "The rock cycle is a concept that",
+        "a": "Describes the formation of sedimentary rock",
+        "b": "Explains the formation of metamorphic rock",
+        "c": "Shows the relationship between different rock",
+        "d": "None of the above",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary agent of",
+        "a": "Water",
+        "b": "Heat and pressure",
+        "c": "Wind",
+        "d": "Gravity",
+        "r": "b"
+    },
+    {
+        "q": "Foliation is a texture in",
+        "a": "Sedimentary rocks",
+        "b": "Igneous rocks",
+        "c": "Metamorphic rocks",
+        "d": "All of the above",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following processes",
+        "a": "Melting and solidification",
+        "b": "Heat and pressure",
+        "c": "Weathering and erosion",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "Regional and contact metamorphism",
+        "a": "Are both caused by tectonic plate movements",
+        "b": "Only occur in sedimentary rocks",
+        "c": "Have the same degree of metamorphic changes",
+        "d": "Share the same temperature range of formation",
+        "r": "a"
+    },
+    {
+        "q": "The parent rock of marble is",
+        "a": "Sandstone",
+        "b": "Limestone",
+        "c": "Granite",
+        "d": "Shale",
+        "r": "b"
+    },
+    {
+        "q": "Schist is a type of",
+        "a": "Sedimentary rock",
+        "b": "Igneous rock",
+        "c": "Metamorphic rock",
+        "d": "None of the above",
+        "r": "c"
+    },
+    {
+        "q": "Which type of metamorphism occurs",
+        "a": "Near a volcano",
+        "b": "Near a mid-ocean ridge",
+        "c": "Deep within the Earth's crust",
+        "d": "None of the above",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following rocks is a",
+        "a": "Gneiss",
+        "b": "Basalt",
+        "c": "Conglomerate",
+        "d": "Gabbro",
+        "r": "a"
+    },
+    {
+        "q": "Slate is formed from the metamorphism",
+        "a": "Shale",
+        "b": "Granite",
+        "c": "Sandstone",
+        "d": "Limestone",
+        "r": "a"
+    },
+    {
+        "q": "Which mineral is commonly found in",
+        "a": "Quartzite",
+        "b": "Gneiss",
+        "c": "Marble",
+        "d": "All of the above",
+        "r": "c"
+    },
+    {
+        "q": "Hornfels is primarily composed of",
+        "a": "Mica",
+        "b": "Quartz",
+        "c": "Feldspar",
+        "d": "None of the above",
+        "r": "b"
+    },
+    {
+        "q": "What type of metamorphic rock is",
+        "a": "Phyllite",
+        "b": "Obsidian",
+        "c": "Pumice",
+        "d": "Peridotite",
+        "r": "a"
+    },
+    {
+        "q": "Marble is often used in sculptures",
+        "a": "Because of its sedimentary nature",
+        "b": "Because of its unique texture and appearance",
+        "c": "Because of its resistance to weathering",
+        "d": "None of the above",
+        "r": "b"
+    },
+    {
+        "q": "The mineral composition of a rock",
+        "a": "Remains constant during metamorphism",
+        "b": "Changes during metamorphism",
+        "c": "Is determined solely by its parent rock",
+        "d": "None of the above",
+        "r": "b"
+    },
+    {
+        "q": "What type of foliation does slate",
+        "a": "Crenulation",
+        "b": "Schistosity",
+        "c": "Slaty cleavage",
+        "d": "Lineation",
+        "r": "c"
+    },
+    {
+        "q": "Gneiss is formed from the metamorphism",
+        "a": "Granite",
+        "b": "Limestone",
+        "c": "Shale",
+        "d": "Basalt",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following rocks is an",
+        "a": "Quartzite",
+        "b": "Conglomerate",
+        "c": "Slate",
+        "d": "Obsidian",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which rocks",
+        "a": "Crystallization",
+        "b": "Erosion",
+        "c": "Deposition",
+        "d": "Lithification",
+        "r": "d"
+    },
+    {
+        "q": "In the rock cycle, which rock can be",
+        "a": "Gneiss",
+        "b": "Schist",
+        "c": "Phyllite",
+        "d": "All of the above",
+        "r": "d"
+    },
+    {
+        "q": "Which type of metamorphism is",
+        "a": "Hydrothermal",
+        "b": "Regional",
+        "c": "Contact",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The process of changing sediments",
+        "a": "Cementation",
+        "b": "Erosion",
+        "c": "Weathering",
+        "d": "Compaction",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a",
+        "a": "Heat",
+        "b": "Pressure",
+        "c": "Water",
+        "d": "Time",
+        "r": "c"
+    },
+    {
+        "q": "During metamorphism, rocks can",
+        "a": "Melt",
+        "b": "Form crystals",
+        "c": "Only change from sedimentary to igneous",
+        "d": "All of the above",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a naturally occurring, inorganic solid substance with a definite chemical composition?",
+        "a": "quartz",
+        "b": "organic compound",
+        "c": "diamond",
+        "d": "water",
+        "r": "a"
+    },
+    {
+        "q": "What is the basic building block of all minerals?",
+        "a": "molecules",
+        "b": "atoms",
+        "c": "ions",
+        "d": "crystals",
+        "r": "b"
+    },
+    {
+        "q": "Which property of minerals describes how they reflect light from their surface?",
+        "a": "luster",
+        "b": "streak",
+        "c": "hardness",
+        "d": "cleavage",
+        "r": "a"
+    },
+    {
+        "q": "The resistance of a mineral to scratching is known as its:",
+        "a": "cleavage",
+        "b": "fracture",
+        "c": "streak",
+        "d": "hardness",
+        "r": "d"
+    },
+    {
+        "q": "What is the softest mineral on the Mohs scale of hardness?",
+        "a": "talc",
+        "b": "gypsum",
+        "c": "calcite",
+        "d": "fluorite",
+        "r": "a"
+    },
+    {
+        "q": "Which type of mineral breakage produces smooth, flat surfaces?",
+        "a": "cleavage",
+        "b": "hardness",
+        "c": "fracture",
+        "d": "streak",
+        "r": "a"
+    },
+    {
+        "q": "The way light passes through a mineral is known as:",
+        "a": "streak",
+        "b": "luster",
+        "c": "cleavage",
+        "d": "transparency",
+        "r": "d"
+    },
+    {
+        "q": "What is the chemical formula for a diamond?",
+        "a": "C",
+        "b": "O",
+        "c": "H",
+        "d": "Ca",
+        "r": "a"
+    },
+    {
+        "q": "Which mineral is composed of silicon dioxide (SiO2)?",
+        "a": "calcite",
+        "b": "quartz",
+        "c": "feldspar",
+        "d": "mica",
+        "r": "b"
+    },
+    {
+        "q": "What is the most abundant mineral group in the Earth's crust?",
+        "a": "halides",
+        "b": "oxides",
+        "c": "silicates",
+        "d": "sulfates",
+        "r": "c"
+    },
+    {
+        "q": "Which mineral group contains elements like gold, silver, and copper?",
+        "a": "halides",
+        "b": "native elements",
+        "c": "carbonates",
+        "d": "sulfates",
+        "r": "b"
+    },
+    {
+        "q": "Which type of bond forms between atoms when they share electrons?",
+        "a": "ionic",
+        "b": "covalent",
+        "c": "metallic",
+        "d": "van der Waals",
+        "r": "b"
+    },
+    {
+        "q": "What is the phenomenon called when a mineral breaks along planes of weakness with smooth surfaces?",
+        "a": "streak",
+        "b": "fracture",
+        "c": "cleavage",
+        "d": "hardness",
+        "r": "c"
+    },
+    {
+        "q": "The measure of a mineral's resistance to being scratched is called:",
+        "a": "cleavage",
+        "b": "luster",
+        "c": "hardness",
+        "d": "streak",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the color of a mineral in powdered form?",
+        "a": "hardness",
+        "b": "streak",
+        "c": "luster",
+        "d": "cleavage",
+        "r": "b"
+    },
+    {
+        "q": "Which mineral group is composed of carbon and oxygen ions?",
+        "a": "sulfates",
+        "b": "carbonates",
+        "c": "halides",
+        "d": "native elements",
+        "r": "b"
+    },
+    {
+        "q": "What is the hardest mineral on the Mohs scale?",
+        "a": "corundum",
+        "b": "talc",
+        "c": "quartz",
+        "d": "diamond",
+        "r": "d"
+    },
+    {
+        "q": "The process of a mineral crystallizing from a cooling magma or lava is known as:",
+        "a": "solidification",
+        "b": "sedimentation",
+        "c": "crystallization",
+        "d": "weathering",
+        "r": "c"
+    },
+    {
+        "q": "Which mineral group consists of metallic elements bonded together?",
+        "a": "native elements",
+        "b": "sulfates",
+        "c": "carbonates",
+        "d": "silicates",
+        "r": "a"
+    },
+    {
+        "q": "The way a mineral reflects light is known as its:",
+        "a": "transparency",
+        "b": "streak",
+        "c": "cleavage",
+        "d": "luster",
+        "r": "d"
+    },
+    {
+        "q": "What is the common name for hydrated magnesium sulfate mineral?",
+        "a": "gypsum",
+        "b": "halite",
+        "c": "calcite",
+        "d": "pyrite",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the tendency of some minerals to break unevenly along curved or irregular surfaces?",
+        "a": "hardness",
+        "b": "fracture",
+        "c": "cleavage",
+        "d": "streak",
+        "r": "b"
+    },
+    {
+        "q": "Which mineral group is primarily composed of oxygen and a metal?",
+        "a": "native elements",
+        "b": "carbonates",
+        "c": "sulfates",
+        "d": "oxides",
+        "r": "d"
+    },
+    {
+        "q": "Which mineral is commonly used in making glass and ceramics due to its low melting point?",
+        "a": "talc",
+        "b": "feldspar",
+        "c": "quartz",
+        "d": "gypsum",
+        "r": "c"
+    },
+    {
+        "q": "What is the softest mineral on the Mohs scale that can leave a mark on paper?",
+        "a": "talc",
+        "b": "gypsum",
+        "c": "calcite",
+        "d": "fluorite",
+        "r": "a"
+    },
+    {
+        "q": "Which mineral group is composed of halogen elements bonded to metal ions?",
+        "a": "carbonates",
+        "b": "halides",
+        "c": "native elements",
+        "d": "oxides",
+        "r": "b"
+    },
+    {
+        "q": "The splitting of a mineral along planes of weakness is called:",
+        "a": "streak",
+        "b": "cleavage",
+        "c": "fracture",
+        "d": "luster",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of minerals being dissolved in water and transported to new locations?",
+        "a": "weathering",
+        "b": "erosion",
+        "c": "deposition",
+        "d": "precipitation",
+        "r": "b"
+    },
+    {
+        "q": "Which mineral is a common component of rocks like granite and sandstone?",
+        "a": "calcite",
+        "b": "feldspar",
+        "c": "quartz",
+        "d": "talc",
+        "r": "b"
+    },
+    {
+        "q": "What is the most abundant group of minerals in the Earth's crust?",
+        "a": "silicates",
+        "b": "oxides",
+        "c": "halides",
+        "d": "sulfates",
+        "r": "a"
+    },
+    {
+        "q": "Which mineral group includes minerals like halite (rock salt) and fluorite?",
+        "a": "carbonates",
+        "b": "halides",
+        "c": "native elements",
+        "d": "silicates",
+        "r": "b"
+    },
+    {
+        "q": "The color of a mineral in its natural form is known as its:",
+        "a": "streak",
+        "b": "luster",
+        "c": "cleavage",
+        "d": "fracture",
+        "r": "b"
+    },
+    {
+        "q": "What is the chemical formula for halite, also known as rock salt?",
+        "a": "NaCl",
+        "b": "KCl",
+        "c": "CaCl2",
+        "d": "MgCl2",
+        "r": "a"
+    },
+    {
+        "q": "Which mineral group is composed of carbonate ions bonded to metal ions?",
+        "a": "halides",
+        "b": "carbonates",
+        "c": "sulfates",
+        "d": "silicates",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the shape of a mineral crystal with well-defined faces?",
+        "a": "streak",
+        "b": "cleavage",
+        "c": "luster",
+        "d": "crystal form",
+        "r": "d"
+    },
+    {
+        "q": "Which mineral is known for its hardness and is often used in abrasive materials?",
+        "a": "talc",
+        "b": "calcite",
+        "c": "corundum",
+        "d": "gypsum",
+        "r": "c"
+    },
+    {
+        "q": "What is the name for a mineral that contains water molecules in its crystal structure?",
+        "a": "hydrous minerals",
+        "b": "anhydrous minerals",
+        "c": "carbonates",
+        "d": "oxides",
+        "r": "a"
+    },
+    {
+        "q": "The tendency of minerals to break along planes of weakness is known as:",
+        "a": "streak",
+        "b": "cleavage",
+        "c": "fracture",
+        "d": "luster",
+        "r": "b"
+    },
+    {
+        "q": "What is the process by which sediments are compacted and cemented together to form sedimentary rocks?",
+        "a": "erosion",
+        "b": "weathering",
+        "c": "lithification",
+        "d": "solidification",
+        "r": "c"
+    },
+    {
+        "q": "Which mineral group is composed of metal cations bonded to sulfate ions?",
+        "a": "halides",
+        "b": "carbonates",
+        "c": "sulfates",
+        "d": "native elements",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the way a mineral feels to the touch?",
+        "a": "luster",
+        "b": "hardness",
+        "c": "texture",
+        "d": "streak",
+        "r": "c"
+    },
+    {
+        "q": "Which mineral is commonly used in drywall and plaster products?",
+        "a": "quartz",
+        "b": "talc",
+        "c": "gypsum",
+        "d": "feldspar",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of minerals being left behind after the evaporation of water?",
+        "a": "deposition",
+        "b": "crystallization",
+        "c": "precipitation",
+        "d": "weathering",
+        "r": "b"
+    },
+    {
+        "q": "Which mineral group is composed of silicon and oxygen bonded together?",
+        "a": "native elements",
+        "b": "carbonates",
+        "c": "sulfates",
+        "d": "silicates",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary source of water for the water cycle?",
+        "a": "Oceans and seas",
+        "b": "Lakes and rivers",
+        "c": "Groundwater",
+        "d": "Glaciers and ice caps",
+        "r": "a"
+    },
+    {
+        "q": "Which process is responsible for water vapor entering the atmosphere?",
+        "a": "Evaporation",
+        "b": "Condensation",
+        "c": "Precipitation",
+        "d": "Runoff",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of water vapor turning into liquid water droplets?",
+        "a": "Condensation",
+        "b": "Evaporation",
+        "c": "Precipitation",
+        "d": "Transpiration",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which water droplets in clouds combine to form larger droplets?",
+        "a": "Coalescence",
+        "b": "Condensation",
+        "c": "Evaporation",
+        "d": "Precipitation",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary source of energy that drives the water cycle?",
+        "a": "Sun",
+        "b": "Wind",
+        "c": "Gravity",
+        "d": "Earth's core",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of liquid water changing into water vapor?",
+        "a": "Evaporation",
+        "b": "Condensation",
+        "c": "Precipitation",
+        "d": "Transpiration",
+        "r": "a"
+    },
+    {
+        "q": "What happens during the process of transpiration?",
+        "a": "Plants absorb water from the soil",
+        "b": "Water vapor turns into liquid water droplets",
+        "c": "Water evaporates from oceans",
+        "d": "Water vapor enters the atmosphere",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of water falling from the atmosphere to the Earth's surface?",
+        "a": "Precipitation",
+        "b": "Evaporation",
+        "c": "Condensation",
+        "d": "Transpiration",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of point-source pollution in surface water?",
+        "a": "Factory discharge",
+        "b": "Runoff",
+        "c": "Erosion",
+        "d": "Natural decomposition",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the circular movement of water between the atmosphere and Earth's surface?",
+        "a": "Water cycle",
+        "b": "Hydrologic cycle",
+        "c": "Evaporation and condensation",
+        "d": "Runoff and infiltration",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a renewable source of water?",
+        "a": "Groundwater",
+        "b": "Lakes and rivers",
+        "c": "Glaciers",
+        "d": "Oceans and seas",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the process of water seeping into the ground and becoming part of the groundwater?",
+        "a": "Infiltration",
+        "b": "Evaporation",
+        "c": "Condensation",
+        "d": "Transpiration",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary source of water for lakes and rivers?",
+        "a": "Precipitation",
+        "b": "Groundwater",
+        "c": "Glaciers",
+        "d": "Oceans and seas",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the flow of water over Earth's surface?",
+        "a": "Runoff",
+        "b": "Evaporation",
+        "c": "Condensation",
+        "d": "Precipitation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a nonrenewable source of water?",
+        "a": "Fossil water",
+        "b": "Lakes and rivers",
+        "c": "Glaciers",
+        "d": "Oceans and seas",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of water vapor changing into liquid water?",
+        "a": "Condensation",
+        "b": "Evaporation",
+        "c": "Precipitation",
+        "d": "Transpiration",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a form of precipitation?",
+        "a": "Sleet",
+        "b": "Rain",
+        "c": "Snow",
+        "d": "Clouds",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary source of energy for the water cycle?",
+        "a": "Sun",
+        "b": "Wind",
+        "c": "Gravity",
+        "d": "Earth's core",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a type of surface water body?",
+        "a": "Pond",
+        "b": "Aquifer",
+        "c": "Glacier",
+        "d": "Reservoir",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of water vapor leaving plant leaves and entering the atmosphere?",
+        "a": "Transpiration",
+        "b": "Evaporation",
+        "c": "Condensation",
+        "d": "Precipitation",
+        "r": "a"
+    },
+    {
+        "q": "Which process is responsible for the formation of clouds?",
+        "a": "Condensation",
+        "b": "Evaporation",
+        "c": "Precipitation",
+        "d": "Transpiration",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of water falling from clouds in the form of ice pellets?",
+        "a": "Hail",
+        "b": "Snow",
+        "c": "Rain",
+        "d": "Sleet",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a type of point-source pollution in surface water?",
+        "a": "Sewage discharge",
+        "b": "Erosion",
+        "c": "Runoff",
+        "d": "Natural decomposition",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of water changing from a gas to a liquid?",
+        "a": "Condensation",
+        "b": "Evaporation",
+        "c": "Precipitation",
+        "d": "Transpiration",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of water soaking into the soil and becoming groundwater?",
+        "a": "Infiltration",
+        "b": "Evaporation",
+        "c": "Condensation",
+        "d": "Transpiration",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a primary source of water for the water cycle?",
+        "a": "Oceans and seas",
+        "b": "Lakes and rivers",
+        "c": "Groundwater",
+        "d": "Glaciers and ice caps",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the circular movement of water between the Earth's surface and the atmosphere?",
+        "a": "Water cycle",
+        "b": "Hydrologic cycle",
+        "c": "Evaporation and condensation",
+        "d": "Runoff and infiltration",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the flow of water over the surface of the Earth?",
+        "a": "Runoff",
+        "b": "Evaporation",
+        "c": "Condensation",
+        "d": "Precipitation",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary source of groundwater?",
+        "a": "Rainfall",
+        "b": "Melting glaciers",
+        "c": "Ocean tides",
+        "d": "Underground springs",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a type of aquifer?",
+        "a": "Unconfined aquifer",
+        "b": "Surface aquifer",
+        "c": "Ephemeral aquifer",
+        "d": "Inert aquifer",
+        "r": "a"
+    },
+    {
+        "q": "What is the zone of saturation in an aquifer called?",
+        "a": "Water table",
+        "b": "Perched water table",
+        "c": "Capillary fringe",
+        "d": "Unsaturated zone",
+        "r": "a"
+    },
+    {
+        "q": "Which type of well is dug or drilled into an unconfined aquifer?",
+        "a": "Dug well",
+        "b": "Artesian well",
+        "c": "Confined well",
+        "d": "Injection well",
+        "r": "a"
+    },
+    {
+        "q": "What is the geological formation that holds and transmits groundwater?",
+        "a": "Aquifer",
+        "b": "Watershed",
+        "c": "River basin",
+        "d": "Glacier",
+        "r": "a"
+    },
+    {
+        "q": "What is the movement of water from the surface to the subsurface called?",
+        "a": "Infiltration",
+        "b": "Percolation",
+        "c": "Recharge",
+        "d": "Evaporation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a primary factor influencing groundwater storage?",
+        "a": "Porosity",
+        "b": "Surface runoff",
+        "c": "Temperature",
+        "d": "Wind speed",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which groundwater returns to the surface?",
+        "a": "Springs",
+        "b": "Evaporation",
+        "c": "Infiltration",
+        "d": "Transpiration",
+        "r": "a"
+    },
+    {
+        "q": "Which type of aquifer has a layer of impermeable material above it?",
+        "a": "Confined aquifer",
+        "b": "Unconfined aquifer",
+        "c": "Artesian aquifer",
+        "d": "Coastal aquifer",
+        "r": "a"
+    },
+    {
+        "q": "What do we call the ability of a material to transmit water through its pores or fractures?",
+        "a": "Permeability",
+        "b": "Capillarity",
+        "c": "Conduction",
+        "d": "Density",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the upper boundary of the zone of saturation?",
+        "a": "Water table",
+        "b": "Aquifer recharge zone",
+        "c": "Perched water table",
+        "d": "Capillary fringe",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a human activity that can deplete groundwater?",
+        "a": "Overextraction",
+        "b": "Plant transpiration",
+        "c": "Infiltration",
+        "d": "Recharge",
+        "r": "a"
+    },
+    {
+        "q": "What type of well flows without the need for a pump because of the water pressure?",
+        "a": "Artesian well",
+        "b": "Injection well",
+        "c": "Dug well",
+        "d": "Confined well",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for an underground layer of rock or sediment that can store water?",
+        "a": "Aquifer",
+        "b": "Watershed",
+        "c": "Glacier",
+        "d": "River basin",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following processes can purify groundwater naturally?",
+        "a": "Filtration",
+        "b": "Injection",
+        "c": "Overextraction",
+        "d": "Evaporation",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which groundwater is artificially added to an aquifer?",
+        "a": "Recharge",
+        "b": "Discharge",
+        "c": "Infiltration",
+        "d": "Precipitation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following geological formations is likely to have high permeability?",
+        "a": "Gravel deposit",
+        "b": "Clay deposit",
+        "c": "Shale deposit",
+        "d": "Granite deposit",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for an aquifer that is sandwiched between two impermeable layers?",
+        "a": "Confined aquifer",
+        "b": "Unconfined aquifer",
+        "c": "Perched aquifer",
+        "d": "Coastal aquifer",
+        "r": "a"
+    },
+    {
+        "q": "Which type of aquifer is more susceptible to surface contamination?",
+        "a": "Unconfined aquifer",
+        "b": "Confined aquifer",
+        "c": "Artesian aquifer",
+        "d": "Perched aquifer",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which water moves through soil and rocks into the groundwater?",
+        "a": "Infiltration",
+        "b": "Evaporation",
+        "c": "Transpiration",
+        "d": "Precipitation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a measure of the total volume of void spaces in an aquifer?",
+        "a": "Porosity",
+        "b": "Permeability",
+        "c": "Capillarity",
+        "d": "Density",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the boundary between the saturated and unsaturated zones in an aquifer?",
+        "a": "Water table",
+        "b": "Aquifer recharge zone",
+        "c": "Capillary fringe",
+        "d": "Perched water table",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following can be considered a nonrenewable source of groundwater?",
+        "a": "Fossil water",
+        "b": "Rechargeable water",
+        "c": "Rainwater",
+        "d": "Spring water",
+        "r": "a"
+    },
+    {
+        "q": "Which ocean is the largest on Earth?",
+        "a": "atlantic",
+        "b": "indian",
+        "c": "pacific",
+        "d": "arctic",
+        "r": "c"
+    },
+    {
+        "q": "What is the average depth of the oceans?",
+        "a": "2000 meters",
+        "b": "4000 meters",
+        "c": "6000 meters",
+        "d": "8000 meters",
+        "r": "c"
+    },
+    {
+        "q": "What causes ocean tides?",
+        "a": "moon's gravity",
+        "b": "sun's gravity",
+        "c": "earth's rotation",
+        "d": "wind",
+        "r": "a"
+    },
+    {
+        "q": "Which ocean is known as the \"Frozen Ocean\"?",
+        "a": "arctic",
+        "b": "atlantic",
+        "c": "indian",
+        "d": "pacific",
+        "r": "a"
+    },
+    {
+        "q": "What is the salinity of seawater?",
+        "a": "3.50%",
+        "b": "5.50%",
+        "c": "2.50%",
+        "d": "4.50%",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the deepest trench in the ocean?",
+        "a": "Mariana Trench",
+        "b": "Puerto Rico Trench",
+        "c": "Java Trench",
+        "d": "Tonga Trench",
+        "r": "a"
+    },
+    {
+        "q": "The Gulf Stream is an example of what ocean current?",
+        "a": "western boundary current",
+        "b": "eastern boundary current",
+        "c": "transverse current",
+        "d": "deep ocean current",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of converting seawater into freshwater called?",
+        "a": "desalination",
+        "b": "distillation",
+        "c": "filtration",
+        "d": "sedimentation",
+        "r": "a"
+    },
+    {
+        "q": "The Coriolis effect is caused by...",
+        "a": "earth's rotation",
+        "b": "earth's magnetic field",
+        "c": "the moon's gravitational pull",
+        "d": "the sun's radiation",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a large circular ocean current?",
+        "a": "gyre",
+        "b": "tide",
+        "c": "upwelling",
+        "d": "crest",
+        "r": "a"
+    },
+    {
+        "q": "The Great Barrier Reef is located off the coast of which country?",
+        "a": "australia",
+        "b": "brazil",
+        "c": "indonesia",
+        "d": "south africa",
+        "r": "a"
+    },
+    {
+        "q": "What is the most abundant gas dissolved in seawater?",
+        "a": "nitrogen",
+        "b": "oxygen",
+        "c": "carbon dioxide",
+        "d": "argon",
+        "r": "b"
+    },
+    {
+        "q": "El Niño is characterized by...",
+        "a": "warm ocean temperatures",
+        "b": "cold ocean temperatures",
+        "c": "heavy rainfall",
+        "d": "low atmospheric pressure",
+        "r": "a"
+    },
+    {
+        "q": "Which ocean is the saltiest?",
+        "a": "atlantic",
+        "b": "indian",
+        "c": "pacific",
+        "d": "southern",
+        "r": "d"
+    },
+    {
+        "q": "Which instrument is used to measure ocean depth?",
+        "a": "sonar",
+        "b": "thermometer",
+        "c": "barometer",
+        "d": "seismometer",
+        "r": "a"
+    },
+    {
+        "q": "Which zone of the ocean receives the most sunlight?",
+        "a": "euphotic zone",
+        "b": "disphotic zone",
+        "c": "aphotic zone",
+        "d": "twilight zone",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of ocean currents?",
+        "a": "wind",
+        "b": "temperature",
+        "c": "salinity",
+        "d": "gravity",
+        "r": "a"
+    },
+    {
+        "q": "Which type of tides occur when the sun, moon, and earth form a right angle?",
+        "a": "neap tide",
+        "b": "spring tide",
+        "c": "high tide",
+        "d": "low tide",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the ocean do most marine organisms live in?",
+        "a": "epipelagic zone",
+        "b": "mesopelagic zone",
+        "c": "bathypelagic zone",
+        "d": "abyssopelagic zone",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the underwater mountain range that runs through the Atlantic Ocean?",
+        "a": "mid-atlantic ridge",
+        "b": "mid-pacific ridge",
+        "c": "mid-indian ridge",
+        "d": "mid-arctic ridge",
+        "r": "a"
+    },
+    {
+        "q": "What is the most abundant mineral in seawater?",
+        "a": "sodium chloride",
+        "b": "calcium carbonate",
+        "c": "magnesium sulfate",
+        "d": "potassium iodide",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a large, fan-shaped deposit of sediment at the mouth of a river?",
+        "a": "delta",
+        "b": "estuary",
+        "c": "atoll",
+        "d": "abyssal plain",
+        "r": "a"
+    },
+    {
+        "q": "Which type of tide occurs when the sun, moon, and earth are in a straight line?",
+        "a": "spring tide",
+        "b": "neap tide",
+        "c": "high tide",
+        "d": "low tide",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the warm ocean current that flows along the eastern coast of the United States?",
+        "a": "gulf stream",
+        "b": "california current",
+        "c": "canary current",
+        "d": "kuroshio current",
+        "r": "a"
+    },
+    {
+        "q": "The ozone layer is present in which layer of the atmosphere?",
+        "a": "stratosphere",
+        "b": "troposphere",
+        "c": "mesosphere",
+        "d": "thermosphere",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a type of marine ecosystem?",
+        "a": "desert",
+        "b": "coral reef",
+        "c": "kelp forest",
+        "d": "mangrove forest",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which seawater evaporates and forms clouds?",
+        "a": "evaporation",
+        "b": "condensation",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the circular current in the Indian Ocean?",
+        "a": "agulhas current",
+        "b": "brazil current",
+        "c": "canary current",
+        "d": "east australian current",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a method of carbon dioxide absorption in the ocean?",
+        "a": "combustion",
+        "b": "photosynthesis",
+        "c": "dissolution",
+        "d": "biological pump",
+        "r": "a"
+    },
+    {
+        "q": "The Gulf of Mexico was formed by the movement of which tectonic plates?",
+        "a": "north american and caribbean",
+        "b": "pacific and south american",
+        "c": "eurasian and african",
+        "d": "australian and antarctic",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of wave bending as it approaches the shore?",
+        "a": "refraction",
+        "b": "reflection",
+        "c": "diffraction",
+        "d": "interference",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a shallow, submerged ridge of sand or rock formed by waves?",
+        "a": "sandbar",
+        "b": "trench",
+        "c": "seamount",
+        "d": "abyssal hill",
+        "r": "a"
+    },
+    {
+        "q": "What is the name for the narrow, deep channels between islands or leading inland from the ocean?",
+        "a": "fjord",
+        "b": "lagoon",
+        "c": "atoll",
+        "d": "bay",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is responsible for the ocean's acidity?",
+        "a": "carbon dioxide",
+        "b": "nitrogen",
+        "c": "oxygen",
+        "d": "argon",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the process by which icebergs break off from glaciers and fall into the ocean?",
+        "a": "calving",
+        "b": "sublimation",
+        "c": "deposition",
+        "d": "evaporation",
+        "r": "a"
+    },
+    {
+        "q": "The Gulf of California is also known by what name?",
+        "a": "sea of cortez",
+        "b": "bay of bengal",
+        "c": "red sea",
+        "d": "persian gulf",
+        "r": "a"
+    },
+    {
+        "q": "What type of coastline is characterized by a broad, flat area with many lagoons and marshes?",
+        "a": "barrier islands",
+        "b": "submerged coast",
+        "c": "fjord coast",
+        "d": "ria coast",
+        "r": "d"
+    },
+    {
+        "q": "Which layer of the ocean is the coldest and under high pressure?",
+        "a": "abyssopelagic zone",
+        "b": "epipelagic zone",
+        "c": "bathypelagic zone",
+        "d": "mesopelagic zone",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a massive ocean wave caused by underwater earthquakes or volcanic eruptions?",
+        "a": "tsunami",
+        "b": "hurricane",
+        "c": "tidal wave",
+        "d": "storm surge",
+        "r": "a"
+    },
+    {
+        "q": "Which ocean is the deepest in the world?",
+        "a": "pacific",
+        "b": "atlantic",
+        "c": "indian",
+        "d": "arctic",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the ocean current that flows along the western coast of South America?",
+        "a": "peru current",
+        "b": "brazil current",
+        "c": "canary current",
+        "d": "labrador current",
+        "r": "a"
+    },
+    {
+        "q": "What is the most abundant gas in Earth's atmosphere?",
+        "a": "nitrogen",
+        "b": "oxygen",
+        "c": "carbon dioxide",
+        "d": "helium",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary source of energy for Earth's weather?",
+        "a": "geothermal energy",
+        "b": "nuclear energy",
+        "c": "solar energy",
+        "d": "wind energy",
+        "r": "c"
+    },
+    {
+        "q": "Which gas is responsible for the greenhouse effect?",
+        "a": "methane",
+        "b": "nitrogen",
+        "c": "argon",
+        "d": "oxygen",
+        "r": "a"
+    },
+    {
+        "q": "The process by which water vapor turns into liquid water is called:",
+        "a": "evaporation",
+        "b": "condensation",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "b"
+    },
+    {
+        "q": "Which layer of the atmosphere is closest to Earth's surface?",
+        "a": "thermosphere",
+        "b": "troposphere",
+        "c": "mesosphere",
+        "d": "exosphere",
+        "r": "b"
+    },
+    {
+        "q": "Which instrument is used to measure atmospheric pressure?",
+        "a": "hygrometer",
+        "b": "thermometer",
+        "c": "barometer",
+        "d": "anemometer",
+        "r": "c"
+    },
+    {
+        "q": "The process of a gas changing into a liquid is known as:",
+        "a": "condensation",
+        "b": "evaporation",
+        "c": "sublimation",
+        "d": "deposition",
+        "r": "a"
+    },
+    {
+        "q": "What causes wind on Earth?",
+        "a": "Ocean currents",
+        "b": "Sun's gravitational pull",
+        "c": "Earth's rotation",
+        "d": "Cloud formation",
+        "r": "c"
+    },
+    {
+        "q": "The ozone layer is primarily located in which layer of the atmosphere?",
+        "a": "mesosphere",
+        "b": "stratosphere",
+        "c": "thermosphere",
+        "d": "exosphere",
+        "r": "b"
+    },
+    {
+        "q": "What is the name for a huge body of air with uniform temperature and humidity?",
+        "a": "cyclone",
+        "b": "tornado",
+        "c": "front",
+        "d": "air mass",
+        "r": "d"
+    },
+    {
+        "q": "The atmospheric layer where most weather phenomena occur is the:",
+        "a": "thermosphere",
+        "b": "exosphere",
+        "c": "troposphere",
+        "d": "stratosphere",
+        "r": "c"
+    },
+    {
+        "q": "Which weather instrument is used to measure wind direction?",
+        "a": "hygrometer",
+        "b": "anemometer",
+        "c": "barometer",
+        "d": "thermometer",
+        "r": "b"
+    },
+    {
+        "q": "The boundary between two different air masses is called a:",
+        "a": "front",
+        "b": "cyclone",
+        "c": "tornado",
+        "d": "monsoon",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the atmosphere is characterized by increasing temperatures with altitude due to the absorption of UV radiation?",
+        "a": "stratosphere",
+        "b": "thermosphere",
+        "c": "troposphere",
+        "d": "mesosphere",
+        "r": "a"
+    },
+    {
+        "q": "Hurricanes are also known as:",
+        "a": "typhoons",
+        "b": "tornadoes",
+        "c": "cyclones",
+        "d": "blizzards",
+        "r": "a"
+    },
+    {
+        "q": "The process of water changing from a liquid to a gas is called :",
+        "a": "evaporation",
+        "b": "precipitation",
+        "c": "condensation",
+        "d": "sublimation",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the atmosphere contains the ionosphere?",
+        "a": "exosphere",
+        "b": "thermosphere",
+        "c": "stratosphere",
+        "d": "mesosphere",
+        "r": "b"
+    },
+    {
+        "q": "Which front occurs when a warm air mass overtakes a cold air mass?",
+        "a": "cold front",
+        "b": "warm front",
+        "c": "occluded front",
+        "d": "stationary front",
+        "r": "b"
+    },
+    {
+        "q": "The boundary between the troposphere and the stratosphere is called the:",
+        "a": "thermopause",
+        "b": "stratopause",
+        "c": "tropopause",
+        "d": "exopause",
+        "r": "c"
+    },
+    {
+        "q": "The process of heat transfer in the atmosphere through electromagnetic waves is called:",
+        "a": "conduction",
+        "b": "convection",
+        "c": "radiation",
+        "d": "sublimation",
+        "r": "c"
+    },
+    {
+        "q": "What is the average sea-level atmospheric pressure?",
+        "a": "1013.25 hPa",
+        "b": "760 torr",
+        "c": "1 atm",
+        "d": "29.92 inHg",
+        "r": "a"
+    },
+    {
+        "q": "Hail is typically associated with which type of cloud?",
+        "a": "stratus",
+        "b": "cirrus",
+        "c": "cumulonimbus",
+        "d": "cumulus",
+        "r": "c"
+    },
+    {
+        "q": "The instrument used to measure relative humidity is called a:",
+        "a": "anemometer",
+        "b": "hygrometer",
+        "c": "barometer",
+        "d": "thermometer",
+        "r": "b"
+    },
+    {
+        "q": "Which term is used to describe the lifting of air due to temperature differences on the Earth's surface?",
+        "a": "orographic lifting",
+        "b": "frontal lifting",
+        "c": "convergent lifting",
+        "d": "convectional lifting",
+        "r": "d"
+    },
+    {
+        "q": "What causes the seasons on Earth?",
+        "a": "Earth's axial tilt",
+        "b": "Earth's eccentricity",
+        "c": "Earth's magnetic field",
+        "d": "Earth's rotation",
+        "r": "a"
+    },
+    {
+        "q": "The process of changing a gas directly into a solid is known as:",
+        "a": "sublimation",
+        "b": "deposition",
+        "c": "evaporation",
+        "d": "condensation",
+        "r": "a"
+    },
+    {
+        "q": "The boundary between the mesosphere and the thermosphere is called the:",
+        "a": "mesopause",
+        "b": "thermopause",
+        "c": "stratopause",
+        "d": "exopause",
+        "r": "a"
+    },
+    {
+        "q": "Which type of cloud is wispy and feathery in appearance?",
+        "a": "cumulonimbus",
+        "b": "stratus",
+        "c": "cirrus",
+        "d": "cumulus",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the instrument used to measure air pressure?",
+        "a": "barometer",
+        "b": "hygrometer",
+        "c": "thermometer",
+        "d": "anemometer",
+        "r": "a"
+    },
+    {
+        "q": "Fog is an example of which weather phenomenon?",
+        "a": "precipitation",
+        "b": "condensation",
+        "c": "evaporation",
+        "d": "transpiration",
+        "r": "b"
+    },
+    {
+        "q": "The boundary between the troposphere and the mesosphere is called the:",
+        "a": "tropopause",
+        "b": "stratopause",
+        "c": "mesopause",
+        "d": "exopause",
+        "r": "a"
+    },
+    {
+        "q": "Which term is used to describe the warming of Earth's surface due to trapped heat in the atmosphere?",
+        "a": "albedo",
+        "b": "greenhouse effect",
+        "c": "insolation",
+        "d": "isotherm",
+        "r": "b"
+    },
+    {
+        "q": "The process of water vapor turning into ice crystals is called:",
+        "a": "sublimation",
+        "b": "condensation",
+        "c": "deposition",
+        "d": "evaporation",
+        "r": "c"
+    },
+    {
+        "q": "The layer of the atmosphere that contains the northern lights (Aurora Borealis) is the:",
+        "a": "exosphere",
+        "b": "mesosphere",
+        "c": "thermosphere",
+        "d": "stratosphere",
+        "r": "c"
+    },
+    {
+        "q": "What type of cloud is often referred to as a \"thunderhead\"?",
+        "a": "cirrus",
+        "b": "nimbostratus",
+        "c": "cumulonimbus",
+        "d": "altostratus",
+        "r": "c"
+    },
+    {
+        "q": "The instrument used to measure temperature is called a:",
+        "a": "hygrometer",
+        "b": "barometer",
+        "c": "anemometer",
+        "d": "thermometer",
+        "r": "d"
+    },
+    {
+        "q": "What is the process by which air is heated from Earth's surface and rises, creating lower pressure?",
+        "a": "orographic lifting",
+        "b": "frontal lifting",
+        "c": "convergent lifting",
+        "d": "convectional lifting",
+        "r": "d"
+    },
+    {
+        "q": "The tilt of Earth's axis is approximately:",
+        "a": "23.5 degrees",
+        "b": "45 degrees",
+        "c": "66.5 degrees",
+        "d": "90 degrees",
+        "r": "a"
+    },
+    {
+        "q": "The process by which plants release water vapor is called:",
+        "a": "evaporation",
+        "b": "condensation",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "d"
+    },
+    {
+        "q": "Which layer of the atmosphere is the hottest due to the absorption of the Sun's intense radiation?",
+        "a": "stratosphere",
+        "b": "thermosphere",
+        "c": "exosphere",
+        "d": "mesosphere",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary source of energy driving Earth's climate system?",
+        "a": "solar radiation",
+        "b": "geothermal heat",
+        "c": "fossil fuels",
+        "d": "wind energy",
+        "r": "a"
+    },
+    {
+        "q": "The average weather pattern taken over a long time, typically 30 years, is known as:",
+        "a": "climate",
+        "b": "atmosphere",
+        "c": "humidity",
+        "d": "precipitation",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is the primary driver of the greenhouse effect?",
+        "a": "carbon dioxide",
+        "b": "nitrogen",
+        "c": "oxygen",
+        "d": "argon",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the atmosphere contains the ozone layer?",
+        "a": "stratosphere",
+        "b": "troposphere",
+        "c": "mesosphere",
+        "d": "thermosphere",
+        "r": "a"
+    },
+    {
+        "q": "The Coriolis effect is caused by:",
+        "a": "Earth's rotation",
+        "b": "the Moon's gravity",
+        "c": "the Sun's radiation",
+        "d": "Earth's magnetic field",
+        "r": "a"
+    },
+    {
+        "q": "Which atmospheric layer is closest to the Earth's surface?",
+        "a": "troposphere",
+        "b": "stratosphere",
+        "c": "mesosphere",
+        "d": "thermosphere",
+        "r": "a"
+    },
+    {
+        "q": "The greenhouse effect is important for maintaining:",
+        "a": "Earth's temperature regulation",
+        "b": "ocean currents",
+        "c": "volcanic activity",
+        "d": "earthquakes",
+        "r": "a"
+    },
+    {
+        "q": "The process of conversion of a vapor directly into ice is called:",
+        "a": "deposition",
+        "b": "sublimation",
+        "c": "condensation",
+        "d": "evaporation",
+        "r": "b"
+    },
+    {
+        "q": "What is the average salinity of seawater?",
+        "a": "3.50%",
+        "b": "1%",
+        "c": "5%",
+        "d": "10%",
+        "r": "a"
+    },
+    {
+        "q": "The boundary between two air masses with different temperatures is called:",
+        "a": "front",
+        "b": "occluded front",
+        "c": "stationary front",
+        "d": "isobar",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is responsible for causing the 'ozone hole' in the stratosphere?",
+        "a": "chlorofluorocarbons (CFCs)",
+        "b": "methane",
+        "c": "carbon dioxide",
+        "d": "nitrogen oxides",
+        "r": "a"
+    },
+    {
+        "q": "The process by which plants release water vapor into the atmosphere is known as:",
+        "a": "transpiration",
+        "b": "precipitation",
+        "c": "evaporation",
+        "d": "condensation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a greenhouse gas?",
+        "a": "methane",
+        "b": "nitrogen",
+        "c": "oxygen",
+        "d": "argon",
+        "r": "a"
+    },
+    {
+        "q": "The line joining places of equal temperature on a map is called:",
+        "a": "isotherm",
+        "b": "isobar",
+        "c": "contour line",
+        "d": "isochron",
+        "r": "a"
+    },
+    {
+        "q": "The process of the Earth's surface cooling at night is called:",
+        "a": "radiational cooling",
+        "b": "conduction",
+        "c": "convection",
+        "d": "greenhouse effect",
+        "r": "a"
+    },
+    {
+        "q": "What is the most abundant gas in the Earth's atmosphere?",
+        "a": "nitrogen",
+        "b": "oxygen",
+        "c": "carbon dioxide",
+        "d": "argon",
+        "r": "a"
+    },
+    {
+        "q": "The phenomena where Earth's atmosphere traps solar radiation and warms the surface is called:",
+        "a": "greenhouse effect",
+        "b": "ozone depletion",
+        "c": "acid rain",
+        "d": "photosynthesis",
+        "r": "a"
+    },
+    {
+        "q": "What is the average pH of pure water at room temperature?",
+        "a": "7",
+        "b": "5",
+        "c": "10",
+        "d": "12",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a natural greenhouse gas?",
+        "a": "water vapor",
+        "b": "methane",
+        "c": "chlorofluorocarbons (CFCs)",
+        "d": "nitrogen oxides",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the atmosphere contains the ozone layer that protects us from harmful UV radiation?",
+        "a": "stratosphere",
+        "b": "troposphere",
+        "c": "mesosphere",
+        "d": "thermosphere",
+        "r": "a"
+    },
+    {
+        "q": "The uneven heating of the Earth's surface leads to:",
+        "a": "atmospheric pressure differences",
+        "b": "ocean currents",
+        "c": "earthquakes",
+        "d": "volcanic eruptions",
+        "r": "a"
+    },
+    {
+        "q": "Which era is known as the \"Age of Reptiles\"?",
+        "a": "Mesozoic Era",
+        "b": "Cenozoic Era",
+        "c": "Paleozoic Era",
+        "d": "Precambrian Era",
+        "r": "a"
+    },
+    {
+        "q": "What is the most recent era on the geologic time scale?",
+        "a": "Cenozoic Era",
+        "b": "Mesozoic Era",
+        "c": "Paleozoic Era",
+        "d": "Precambrian Era",
+        "r": "a"
+    },
+    {
+        "q": "What type of rocks are formed from cooling lava?",
+        "a": "Igneous rocks",
+        "b": "Sedimentary rocks",
+        "c": "Metamorphic rocks",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The principle of superposition is related to",
+        "a": "Rock deformation",
+        "b": "Fossilization",
+        "c": "Rock layering",
+        "d": "Radioactive decay",
+        "r": "c"
+    },
+    {
+        "q": "Which era follows the Mesozoic Era?",
+        "a": "Cenozoic Era",
+        "b": "Paleozoic Era",
+        "c": "Precambrian Era",
+        "d": "Mesoproterozoic Era",
+        "r": "a"
+    },
+    {
+        "q": "What era are we currently living in?",
+        "a": "Cenozoic Era",
+        "b": "Mesozoic Era",
+        "c": "Paleozoic Era",
+        "d": "Precambrian Era",
+        "r": "a"
+    },
+    {
+        "q": "What is the study of Earth's magnetic field in rocks?",
+        "a": "Paleomagnetism",
+        "b": "Petrology",
+        "c": "Seismology",
+        "d": "Palynology",
+        "r": "a"
+    },
+    {
+        "q": "The principle of original horizontality states that",
+        "a": "Earth's magnetic field changes over time",
+        "b": "Sedimentary rocks are deposited horizontally",
+        "c": "Fossils found in sedimentary rocks are ancient",
+        "d": "All rock layers were originally horizontal",
+        "r": "b"
+    },
+    {
+        "q": "The \"Great Oxidation Event\" led to an increase in",
+        "a": "Oxygen in the atmosphere",
+        "b": "Carbon dioxide in the atmosphere",
+        "c": "Nitrogen in the atmosphere",
+        "d": "Water vapor in the atmosphere",
+        "r": "a"
+    },
+    {
+        "q": "What type of fossil is a trace of an organism's activity?",
+        "a": "Body fossil",
+        "b": "Cast fossil",
+        "c": "Mold fossil",
+        "d": "Trace fossil",
+        "r": "d"
+    },
+    {
+        "q": "The half-life of a radioactive isotope is",
+        "a": "The time it takes for half of the radioactive isotopes to decay",
+        "b": "The time it takes for half of the radioactive isotopes to combine",
+        "c": "The time it takes for half of the radioactive isotopes to solidify",
+        "d": "The time it takes for half of the radioactive isotopes to evaporate",
+        "r": "a"
+    },
+    {
+        "q": "Radiometric dating is used to determine",
+        "a": "The age of sedimentary rocks",
+        "b": "The age of metamorphic rocks",
+        "c": "The age of igneous rocks",
+        "d": "The age of all types of rocks",
+        "r": "c"
+    },
+    {
+        "q": "The principle of cross-cutting relationships states that",
+        "a": "An igneous rock is older than the sedimentary rock it cuts through",
+        "b": "A fault is younger than the rocks it displaces",
+        "c": "Sedimentary rocks are older than the layers they cut through",
+        "d": "Rocks form in layers over time",
+        "r": "b"
+    },
+    {
+        "q": "The eon that covers the largest span of geologic time is",
+        "a": "Hadean Eon",
+        "b": "Archean Eon",
+        "c": "Proterozoic Eon",
+        "d": "Phanerozoic Eon",
+        "r": "d"
+    },
+    {
+        "q": "The Precambrian time spans from",
+        "a": "0 to 541 million years ago",
+        "b": "541 to 252 million years ago",
+        "c": "2.5 billion to 4.6 billion years ago",
+        "d": "4.6 billion years to 3.5 billion years ago",
+        "r": "c"
+    },
+    {
+        "q": "The first life forms on Earth were",
+        "a": "Fish",
+        "b": "Reptiles",
+        "c": "Bacteria",
+        "d": "Mammals",
+        "r": "c"
+    },
+    {
+        "q": "The era that witnessed the emergence of dinosaurs is",
+        "a": "Paleozoic Era",
+        "b": "Mesozoic Era",
+        "c": "Cenozoic Era",
+        "d": "Precambrian Era",
+        "r": "b"
+    },
+    {
+        "q": "The \"Snowball Earth\" hypothesis suggests that",
+        "a": "Earth was once covered in ice and snow",
+        "b": "Dinosaurs lived in cold climates",
+        "c": "Antarctica was once covered in snow",
+        "d": "Humans evolved during the ice age",
+        "r": "a"
+    },
+    {
+        "q": "The principle of faunal succession is used to",
+        "a": "Determine the age of igneous rocks",
+        "b": "Correlate rock layers using index fossils",
+        "c": "Study the distribution of fossils in different rock layers",
+        "d": "Determine the rate of radioactive decay",
+        "r": "b"
+    },
+    {
+        "q": "What era is often called the \"Age of Mammals\"?",
+        "a": "Cenozoic Era",
+        "b": "Mesozoic Era",
+        "c": "Paleozoic Era",
+        "d": "Precambrian Era",
+        "r": "a"
+    },
+    {
+        "q": "What is the smallest unit of geologic time?",
+        "a": "Epoch",
+        "b": "Period",
+        "c": "Era",
+        "d": "Eon",
+        "r": "a"
+    },
+    {
+        "q": "Pangaea was the supercontinent that existed during",
+        "a": "Paleozoic Era",
+        "b": "Mesozoic Era",
+        "c": "Cenozoic Era",
+        "d": "Precambrian Era",
+        "r": "a"
+    },
+    {
+        "q": "The study of tree rings to determine past climates is",
+        "a": "Dendrochronology",
+        "b": "Paleontology",
+        "c": "Stratigraphy",
+        "d": "Taphonomy",
+        "r": "a"
+    },
+    {
+        "q": "The \"Cambrian Explosion\" refers to",
+        "a": "The sudden appearance of dinosaurs",
+        "b": "The rapid diversification of marine life",
+        "c": "The extinction of many plant species",
+        "d": "The formation of the first continents",
+        "r": "b"
+    },
+    {
+        "q": "The \"K-T boundary\" marks the extinction of",
+        "a": "Dinosaurs",
+        "b": "Fish",
+        "c": "Mammals",
+        "d": "Insects",
+        "r": "a"
+    },
+    {
+        "q": "Which eon is the oldest on the geologic time scale?",
+        "a": "Archean Eon",
+        "b": "Hadean Eon",
+        "c": "Proterozoic Eon",
+        "d": "Phanerozoic Eon",
+        "r": "b"
+    },
+    {
+        "q": "Fossils are most likely to form in",
+        "a": "Igneous rocks",
+        "b": "Metamorphic rocks",
+        "c": "Sedimentary rocks",
+        "d": "Magma",
+        "r": "c"
+    },
+    {
+        "q": "What is the name for the idea that continents move over time?",
+        "a": "Plate tectonics",
+        "b": "Continental drift",
+        "c": "Rock cycle",
+        "d": "Weathering",
+        "r": "a"
+    },
+    {
+        "q": "What are fossils?",
+        "a": "Preserved remains of living organisms",
+        "b": "Imprints of ancient plants",
+        "c": "Minerals formed from rocks",
+        "d": "Pieces of meteorites",
+        "r": "a"
+    },
+    {
+        "q": "Which type of fossil is a footprint?",
+        "a": "Body fossil",
+        "b": "Mold fossil",
+        "c": "Trace fossil",
+        "d": "Cast fossil",
+        "r": "c"
+    },
+    {
+        "q": "What is evolution?",
+        "a": "A sudden appearance of new species",
+        "b": "The process of natural selection",
+        "c": "The gradual change in species over time",
+        "d": "The creation of identical species",
+        "r": "c"
+    },
+    {
+        "q": "What does the fossil record show?",
+        "a": "The complete history of life on Earth",
+        "b": "Only the history of extinct species",
+        "c": "An incomplete history of life on Earth",
+        "d": "The history of plants but not animals",
+        "r": "c"
+    },
+    {
+        "q": "What is radiometric dating used for?",
+        "a": "Determining the age of fossils",
+        "b": "Identifying fossilized animals",
+        "c": "Measuring the thickness of rock layers",
+        "d": "Dating ancient human artifacts",
+        "r": "a"
+    },
+    {
+        "q": "Which type of fossil is a petrified tree trunk?",
+        "a": "Body fossil",
+        "b": "Mold fossil",
+        "c": "Trace fossil",
+        "d": "Cast fossil",
+        "r": "a"
+    },
+    {
+        "q": "What is a fossil \"index species\"?",
+        "a": "A species that is easy to find as a fossil",
+        "b": "A species that is extinct",
+        "c": "A species used to determine rock layers",
+        "d": "A species that lived for a short period",
+        "r": "c"
+    },
+    {
+        "q": "Which scientist developed the theory of evolution by natural selection?",
+        "a": "Charles Darwin",
+        "b": "Alfred Wegener",
+        "c": "Nicolaus Copernicus",
+        "d": "Isaac Newton",
+        "r": "a"
+    },
+    {
+        "q": "How do fossils form?",
+        "a": "Freezing of living organisms",
+        "b": "Rapid decay of dead organisms",
+        "c": "Slow decay and mineralization of remains",
+        "d": "Fossils are formed from rocks",
+        "r": "c"
+    },
+    {
+        "q": "Which era followed the Mesozoic Era?",
+        "a": "Paleozoic Era",
+        "b": "Archean Eon",
+        "c": "Cenozoic Era",
+        "d": "Precambrian Era",
+        "r": "c"
+    },
+    {
+        "q": "What is a \"cast fossil\"?",
+        "a": "An impression of a plant or animal",
+        "b": "The preserved remains of a living organism",
+        "c": "Fossilized excrement",
+        "d": "A fossilized mold filled with minerals",
+        "r": "d"
+    },
+    {
+        "q": "What does the \"Geologic Time Scale\" represent?",
+        "a": "The history of human civilization",
+        "b": "The history of dinosaurs",
+        "c": "The history of Earth's geology",
+        "d": "The history of meteorite impacts",
+        "r": "c"
+    },
+    {
+        "q": "Which era is the longest in the Geologic Time Scale?",
+        "a": "Paleozoic Era",
+        "b": "Mesozoic Era",
+        "c": "Cenozoic Era",
+        "d": "Precambrian Era",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary purpose of the fossil record in evolution?",
+        "a": "To show the order of fossil formation",
+        "b": "To provide evidence of extinct organisms",
+        "c": "To demonstrate gradual change in species",
+        "d": "To determine the age of rock formations",
+        "r": "c"
+    },
+    {
+        "q": "Which type of fossil is a preserved leaf?",
+        "a": "Body fossil",
+        "b": "Mold fossil",
+        "c": "Trace fossil",
+        "d": "Cast fossil",
+        "r": "a"
+    },
+    {
+        "q": "What is \"relative dating\" of fossils?",
+        "a": "Determining the age of fossils",
+        "b": "Identifying fossilized animals",
+        "c": "Comparing fossils to known ages",
+        "d": "Dating ancient human artifacts",
+        "r": "c"
+    },
+    {
+        "q": "Which era is known for the appearance of early mammals?",
+        "a": "Paleozoic Era",
+        "b": "Mesozoic Era",
+        "c": "Cenozoic Era",
+        "d": "Precambrian Era",
+        "r": "c"
+    },
+    {
+        "q": "What is a fossil \"assemblage\"?",
+        "a": "A collection of similar body fossils",
+        "b": "A collection of random fossils",
+        "c": "The first fossil discovered in an area",
+        "d": "A fossil with unique characteristics",
+        "r": "a"
+    },
+    {
+        "q": "Who proposed the idea of \"uniformitarianism\"?",
+        "a": "James Hutton",
+        "b": "Georges Cuvier",
+        "c": "Mary Anning",
+        "d": "Nicolaus Steno",
+        "r": "a"
+    },
+    {
+        "q": "What is a \"mold fossil\"?",
+        "a": "The preserved remains of a living organism",
+        "b": "The impression of a plant or animal",
+        "c": "Fossilized excrement",
+        "d": "A fossilized mold filled with minerals",
+        "r": "b"
+    },
+    {
+        "q": "Which eon is the oldest in the Geologic Time Scale?",
+        "a": "Hadean Eon",
+        "b": "Archean Eon",
+        "c": "Proterozoic Eon",
+        "d": "Phanerozoic Eon",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of \"mineralization\" in fossilization?",
+        "a": "Replacement of original materials",
+        "b": "Freezing of living organisms",
+        "c": "Rapid decay of dead organisms",
+        "d": "Slow decay and filling with sediment",
+        "r": "a"
+    },
+    {
+        "q": "Which period is known for the first appearance of dinosaurs?",
+        "a": "Permian Period",
+        "b": "Triassic Period",
+        "c": "Jurassic Period",
+        "d": "Cretaceous Period",
+        "r": "b"
+    },
+    {
+        "q": "What is a fossil \"index fossil\"?",
+        "a": "A species that is easy to find as a fossil",
+        "b": "A species that is extinct",
+        "c": "A species used to determine rock layers",
+        "d": "A species that lived for a short period",
+        "r": "c"
+    },
+    {
+        "q": "Who proposed the theory of \"catastrophism\"?",
+        "a": "James Hutton",
+        "b": "Georges Cuvier",
+        "c": "Mary Anning",
+        "d": "Nicolaus Steno",
+        "r": "b"
+    },
+    {
+        "q": "What is a \"trace fossil\"?",
+        "a": "The preserved remains of a living organism",
+        "b": "The impression of a plant or animal",
+        "c": "Evidence of past animal activity",
+        "d": "A fossilized mold filled with minerals",
+        "r": "c"
+    },
+    {
+        "q": "Which period is known as the \"Age of Reptiles\"?",
+        "a": "Paleozoic Era",
+        "b": "Mesozoic Era",
+        "c": "Cenozoic Era",
+        "d": "Precambrian Era",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of \"permineralization\" in fossilization?",
+        "a": "Replacement of original materials",
+        "b": "Freezing of living organisms",
+        "c": "Rapid decay of dead organisms",
+        "d": "Slow decay and filling with minerals",
+        "r": "d"
+    },
+    {
+        "q": "Which era is known for the appearance of the first fish?",
+        "a": "Paleozoic Era",
+        "b": "Mesozoic Era",
+        "c": "Cenozoic Era",
+        "d": "Precambrian Era",
+        "r": "a"
+    },
+    {
+        "q": "What is a fossil \"biozone\"?",
+        "a": "A zone where fossils are not found",
+        "b": "A zone where only plant fossils are found",
+        "c": "A zone where only animal fossils are found",
+        "d": "A zone characterized by specific fossils",
+        "r": "d"
+    },
+    {
+        "q": "Who proposed the idea of \"gradualism\"?",
+        "a": "James Hutton",
+        "b": "Georges Cuvier",
+        "c": "Mary Anning",
+        "d": "Nicolaus Steno",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary source of energy for most living organisms?",
+        "a": "Sun",
+        "b": "Wind",
+        "c": "Geothermal",
+        "d": "Tidal",
+        "r": "a"
+    },
+    {
+        "q": "Which fossil fuel is formed from ancient marine organisms?",
+        "a": "Oil",
+        "b": "Natural gas",
+        "c": "Coal",
+        "d": "Uranium",
+        "r": "a"
+    },
+    {
+        "q": "The process by which green plants make their own food using sunlight is called:",
+        "a": "Photosynthesis",
+        "b": "Respiration",
+        "c": "Decomposition",
+        "d": "Combustion",
+        "r": "a"
+    },
+    {
+        "q": "Which natural resource is used to produce nuclear energy?",
+        "a": "Uranium",
+        "b": "Coal",
+        "c": "Oil",
+        "d": "Natural gas",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of the greenhouse effect?",
+        "a": "Increased carbon dioxide in the atmosphere",
+        "b": "Deforestation",
+        "c": "Volcanic activity",
+        "d": "Depletion of the ozone layer",
+        "r": "a"
+    },
+    {
+        "q": "Which renewable resource is harnessed to generate electricity using wind turbines?",
+        "a": "Wind energy",
+        "b": "Solar energy",
+        "c": "Geothermal energy",
+        "d": "Hydroelectric energy",
+        "r": "a"
+    },
+    {
+        "q": "Which type of pollution is caused by excessive use of fertilizers and pesticides?",
+        "a": "Water pollution",
+        "b": "Air pollution",
+        "c": "Soil pollution",
+        "d": "Noise pollution",
+        "r": "a"
+    },
+    {
+        "q": "The process of water turning into vapor is called:",
+        "a": "Evaporation",
+        "b": "Condensation",
+        "c": "Precipitation",
+        "d": "Melting",
+        "r": "a"
+    },
+    {
+        "q": "What is the main source of thermal energy for geothermal power plants?",
+        "a": "Earth's internal heat",
+        "b": "Solar energy",
+        "c": "Biomass",
+        "d": "Wind energy",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a consequence of deforestation?",
+        "a": "Soil erosion",
+        "b": "Reduced greenhouse gases",
+        "c": "Increased wildlife habitat",
+        "d": "Enhanced carbon sequestration",
+        "r": "a"
+    },
+    {
+        "q": "Which type of resource is fish in the ocean?",
+        "a": "Renewable",
+        "b": "Non-renewable",
+        "c": "Abiotic",
+        "d": "Inexhaustible",
+        "r": "a"
+    },
+    {
+        "q": "The layer of the atmosphere that absorbs most of the harmful ultraviolet radiation from the sun is the:",
+        "a": "Ozone layer",
+        "b": "Troposphere",
+        "c": "Stratosphere",
+        "d": "Thermosphere",
+        "r": "a"
+    },
+    {
+        "q": "Which human activity is a major contributor to water pollution in many areas?",
+        "a": "Industrial discharge",
+        "b": "Controlled waste disposal",
+        "c": "Renewable energy production",
+        "d": "Reforestation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a non-point source of pollution?",
+        "a": "Agricultural runoff",
+        "b": "Sewage treatment plant",
+        "c": "Industrial smokestack",
+        "d": "Oil spill",
+        "r": "a"
+    },
+    {
+        "q": "The process by which water droplets in clouds combine and become heavy enough to fall as rain is called:",
+        "a": "Coalescence",
+        "b": "Condensation",
+        "c": "Precipitation",
+        "d": "Evaporation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a fossil fuel that is formed from the remains of plants in swamps and marshes?",
+        "a": "Coal",
+        "b": "Oil",
+        "c": "Natural gas",
+        "d": "Uranium",
+        "r": "a"
+    },
+    {
+        "q": "The process of soil particles being carried away by wind or water is called:",
+        "a": "Erosion",
+        "b": "Deposition",
+        "c": "Weathering",
+        "d": "Sedimentation",
+        "r": "a"
+    },
+    {
+        "q": "Which renewable resource is generated from the heat stored in the Earth's crust?",
+        "a": "Geothermal energy",
+        "b": "Biomass",
+        "c": "Solar energy",
+        "d": "Wind energy",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a non-renewable resource?",
+        "a": "Coal",
+        "b": "Wind energy",
+        "c": "Solar energy",
+        "d": "Biomass",
+        "r": "a"
+    },
+    {
+        "q": "What is the main cause of the hole in the ozone layer?",
+        "a": "Chlorofluorocarbons (CFCs)",
+        "b": "Methane",
+        "c": "Nitrous oxide",
+        "d": "Carbon dioxide",
+        "r": "a"
+    },
+    {
+        "q": "Which type of pollution is caused by improper disposal of hazardous waste?",
+        "a": "Soil pollution",
+        "b": "Water pollution",
+        "c": "Air pollution",
+        "d": "Noise pollution",
+        "r": "a"
+    },
+    {
+        "q": "The process of converting saltwater into freshwater is called:",
+        "a": "Desalination",
+        "b": "Filtration",
+        "c": "Distillation",
+        "d": "Evaporation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a renewable resource?",
+        "a": "Biomass",
+        "b": "Natural gas",
+        "c": "Coal",
+        "d": "Uranium",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary source of energy for hurricanes and other tropical storms?",
+        "a": "Warm ocean water",
+        "b": "Solar energy",
+        "c": "Geothermal energy",
+        "d": "Tidal energy",
+        "r": "a"
+    },
+    {
+        "q": "Which fossil fuel is primarily composed of methane?",
+        "a": "Natural gas",
+        "b": "Oil",
+        "c": "Coal",
+        "d": "Uranium",
+        "r": "a"
+    },
+    {
+        "q": "Which process releases oxygen into the atmosphere?",
+        "a": "Photosynthesis",
+        "b": "Respiration",
+        "c": "Decomposition",
+        "d": "Combustion",
+        "r": "a"
+    },
+    {
+        "q": "Which natural resource is used to produce electricity in nuclear power plants?",
+        "a": "Uranium",
+        "b": "Oil",
+        "c": "Natural gas",
+        "d": "Coal",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of global warming?",
+        "a": "Increased greenhouse gases",
+        "b": "Deforestation",
+        "c": "Volcanic activity",
+        "d": "Depletion of the ozone layer",
+        "r": "a"
+    },
+    {
+        "q": "Which renewable resource is used to generate electricity through solar panels?",
+        "a": "Solar energy",
+        "b": "Wind energy",
+        "c": "Geothermal energy",
+        "d": "Hydroelectric energy",
+        "r": "a"
+    },
+    {
+        "q": "Which type of pollution is caused by burning fossil fuels in vehicles and power plants?",
+        "a": "Air pollution",
+        "b": "Water pollution",
+        "c": "Soil pollution",
+        "d": "Noise pollution",
+        "r": "a"
+    },
+    {
+        "q": "The process of liquid water turning into water vapor is called:",
+        "a": "Evaporation",
+        "b": "Condensation",
+        "c": "Precipitation",
+        "d": "Melting",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary source of thermal energy for geothermal power plants?",
+        "a": "Earth's internal heat",
+        "b": "Solar energy",
+        "c": "Biomass",
+        "d": "Wind energy",
+        "r": "a"
+    },
+    {
+        "q": "Which type of resource is coal?",
+        "a": "Non-renewable",
+        "b": "Renewable",
+        "c": "Abiotic",
+        "d": "Inexhaustible",
+        "r": "a"
+    },
+    {
+        "q": "The layer of the atmosphere that protects us from harmful radiation is the:",
+        "a": "Ozone layer",
+        "b": "Troposphere",
+        "c": "Stratosphere",
+        "d": "Thermosphere",
+        "r": "a"
+    },
+    {
+        "q": "What is the study of celestial bodies called?",
+        "a": "astrology",
+        "b": "physics",
+        "c": "astronomy",
+        "d": "chemistry",
+        "r": "c"
+    },
+    {
+        "q": "Which planet is known as the \"Red Planet\"?",
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Mercury",
+        "d": "Jupiter",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the galaxy that contains our solar system?",
+        "a": "Andromeda",
+        "b": "Milky Way",
+        "c": "Whirlpool",
+        "d": "Pinwheel",
+        "r": "b"
+    },
+    {
+        "q": "What is the largest planet in our solar system?",
+        "a": "Saturn",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Uranus",
+        "r": "b"
+    },
+    {
+        "q": "The process by which a star converts hydrogen into helium is called?",
+        "a": "Fusion",
+        "b": "Fission",
+        "c": "Radiation",
+        "d": "Conduction",
+        "r": "a"
+    },
+    {
+        "q": "Which two planets in our solar system are known as \"ice giants\"?",
+        "a": "Uranus & Neptune",
+        "b": "Jupiter & Saturn",
+        "c": "Mars & Venus",
+        "d": "Earth & Mercury",
+        "r": "a"
+    },
+    {
+        "q": "Which famous astronomer was the first to observe the four largest moons of Jupiter?",
+        "a": "Galileo Galilei",
+        "b": "Isaac Newton",
+        "c": "Johannes Kepler",
+        "d": "Nicolaus Copernicus",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the phenomenon that causes a star's light to shift towards the red end of the spectrum?",
+        "a": "Redshift",
+        "b": "Blueshift",
+        "c": "Greenshift",
+        "d": "Yellowshift",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has the most extensive ring system?",
+        "a": "Uranus",
+        "b": "Saturn",
+        "c": "Neptune",
+        "d": "Jupiter",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the largest volcano in our solar system, located on Mars?",
+        "a": "Mount St. Helens",
+        "b": "Olympus Mons",
+        "c": "Mount Everest",
+        "d": "Mount Kilimanjaro",
+        "r": "b"
+    },
+    {
+        "q": "Which space telescope was launched by NASA in 1990 and has provided incredible images of the universe?",
+        "a": "Kepler Space Telescope",
+        "b": "Hubble Space Telescope",
+        "c": "James Webb Space Telescope",
+        "d": "Chandra X-ray Observatory",
+        "r": "b"
+    },
+    {
+        "q": "The dark, flat plains on the Moon's surface are called?",
+        "a": "Ridges",
+        "b": "Highlands",
+        "c": "Craters",
+        "d": "Maria",
+        "r": "d"
+    },
+    {
+        "q": "Which planet is known for its beautiful ring system?",
+        "a": "Saturn",
+        "b": "Mars",
+        "c": "Venus",
+        "d": "Mercury",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the galaxy nearest to the Milky Way?",
+        "a": "Andromeda",
+        "b": "Whirlpool",
+        "c": "Pinwheel",
+        "d": "Sombrero",
+        "r": "a"
+    },
+    {
+        "q": "The process of a gas changing directly into a solid is called?",
+        "a": "Melting",
+        "b": "Condensation",
+        "c": "Evaporation",
+        "d": "Deposition",
+        "r": "d"
+    },
+    {
+        "q": "Which planet has a massive storm known as the \"Great Red Spot\"?",
+        "a": "Jupiter",
+        "b": "Saturn",
+        "c": "Uranus",
+        "d": "Neptune",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the phenomenon where a star collapses under its gravity and explodes?",
+        "a": "Supernova",
+        "b": "Comet",
+        "c": "Asteroid",
+        "d": "Black Hole",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is the closest to the Sun?",
+        "a": "Venus",
+        "b": "Mercury",
+        "c": "Mars",
+        "d": "Earth",
+        "r": "b"
+    },
+    {
+        "q": "The first successful human spaceflight was made by?",
+        "a": "Yuri Gagarin",
+        "b": "Neil Armstrong",
+        "c": "Buzz Aldrin",
+        "d": "Alan Shepard",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the phenomenon that occurs when the Moon comes between the Earth and the Sun?",
+        "a": "Lunar Eclipse",
+        "b": "Solar Eclipse",
+        "c": "Total Eclipse",
+        "d": "Annular Eclipse",
+        "r": "b"
+    },
+    {
+        "q": "The bright star in the night sky, also known as the \"Dog Star,\" is called?",
+        "a": "Sirius",
+        "b": "Betelgeuse",
+        "c": "Polaris",
+        "d": "Vega",
+        "r": "a"
+    },
+    {
+        "q": "What type of galaxy is the most common in the universe?",
+        "a": "Elliptical",
+        "b": "Spiral",
+        "c": "Lenticular",
+        "d": "Irregular",
+        "r": "b"
+    },
+    {
+        "q": "Which planet experiences seasons similar to Earth due to its axial tilt?",
+        "a": "Mars",
+        "b": "Venus",
+        "c": "Mercury",
+        "d": "Uranus",
+        "r": "d"
+    },
+    {
+        "q": "What is the process by which a gas turns into a liquid?",
+        "a": "Evaporation",
+        "b": "Sublimation",
+        "c": "Condensation",
+        "d": "Melting",
+        "r": "c"
+    },
+    {
+        "q": "The highest mountain in the solar system is located on which planet?",
+        "a": "Mars",
+        "b": "Venus",
+        "c": "Earth",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "Which space agency successfully landed the first humans on the Moon in 1969?",
+        "a": "NASA",
+        "b": "ESA",
+        "c": "CNSA",
+        "d": "Roscosmos",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the region between Mars and Jupiter where many asteroids are found?",
+        "a": "Kuiper Belt",
+        "b": "Oort Cloud",
+        "c": "Asteroid Belt",
+        "d": "Hubble Zone",
+        "r": "c"
+    },
+    {
+        "q": "The brightness of stars is measured using what scale?",
+        "a": "Richter Scale",
+        "b": "Kelvin Scale",
+        "c": "Fahrenheit Scale",
+        "d": "Magnitude Scale",
+        "r": "d"
+    },
+    {
+        "q": "Which planet is known for its beautiful system of rings and many moons?",
+        "a": "Jupiter",
+        "b": "Venus",
+        "c": "Uranus",
+        "d": "Saturn",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the force that keeps objects in orbit around the Sun?",
+        "a": "Centrifugal Force",
+        "b": "Gravitational Force",
+        "c": "Magnetic Force",
+        "d": "Frictional Force",
+        "r": "b"
+    },
+    {
+        "q": "The first artificial satellite, launched in 1957, was named?",
+        "a": "Explorer 1",
+        "b": "Sputnik 1",
+        "c": "Voyager 1",
+        "d": "Hubble 1",
+        "r": "b"
+    },
+    {
+        "q": "Which planet is known as the \"Morning Star\" or \"Evening Star\"?",
+        "a": "Mars",
+        "b": "Venus",
+        "c": "Mercury",
+        "d": "Jupiter",
+        "r": "b"
+    },
+    {
+        "q": "The phenomenon of the Sun's rays being scattered by the Earth's atmosphere, causing colorful sunsets, is called?",
+        "a": "Reflection",
+        "b": "Refraction",
+        "c": "Scattering",
+        "d": "Absorption",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the largest moon in our solar system, which orbits Jupiter?",
+        "a": "Titan",
+        "b": "Ganymede",
+        "c": "Europa",
+        "d": "Triton",
+        "r": "b"
+    },
+    {
+        "q": "The process of a liquid changing into a gas is called?",
+        "a": "Freezing",
+        "b": "Melting",
+        "c": "Boiling",
+        "d": "Condensation",
+        "r": "c"
+    },
+    {
+        "q": "Which planet has the most complex and active weather system in our solar system?",
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Jupiter",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the large cloud of gas and dust in space where stars are born?",
+        "a": "Nebula",
+        "b": "Supernova",
+        "c": "Quasar",
+        "d": "Pulsar",
+        "r": "a"
+    },
+    {
+        "q": "The Moon's surface is covered with fine, powdery soil called?",
+        "a": "Regolith",
+        "b": "Mantle",
+        "c": "Lava",
+        "d": "Sediment",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known for its prominent and colorful cloud bands?",
+        "a": "Neptune",
+        "b": "Uranus",
+        "c": "Saturn",
+        "d": "Jupiter",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the spacecraft that carried the first humans to the Moon?",
+        "a": "Apollo",
+        "b": "Orion",
+        "c": "Gemini",
+        "d": "Mercury",
+        "r": "a"
+    },
+    {
+        "q": "The change in the apparent shape of the Moon from night to night is called?",
+        "a": "Orbit",
+        "b": "Phase",
+        "c": "Revolution",
+        "d": "Rotation",
+        "r": "b"
+    },
+    {
+        "q": "The force that pulls objects towards the center of the Earth is called?",
+        "a": "Magnetism",
+        "b": "Gravity",
+        "c": "Inertia",
+        "d": "Friction",
+        "r": "b"
+    }
+]
