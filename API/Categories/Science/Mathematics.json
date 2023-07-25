@@ -1,0 +1,5490 @@
+[
+    {
+        "q": "What is the smallest prime number?",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "r": "b"
+    },
+    {
+        "q": "What is the result of 5 + 7?",
+        "a": "9",
+        "b": "11",
+        "c": "12",
+        "d": "14",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a perfect square?",
+        "a": "16",
+        "b": "25",
+        "c": "30",
+        "d": "42",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of π (pi) to two decimal places?",
+        "a": "3.12",
+        "b": "3.14",
+        "c": "3.16",
+        "d": "3.18",
+        "r": "b"
+    },
+    {
+        "q": "Convert 101011 from binary to decimal.",
+        "a": "43",
+        "b": "45",
+        "c": "53",
+        "d": "57",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a rational number?",
+        "a": "0.3",
+        "b": "1.414",
+        "c": "√2",
+        "d": "-√3",
+        "r": "a"
+    },
+    {
+        "q": "What is the least common multiple of 12 and 18?",
+        "a": "24",
+        "b": "30",
+        "c": "36",
+        "d": "48",
+        "r": "b"
+    },
+    {
+        "q": "Evaluate: (5 × 8) ÷ 4",
+        "a": "10",
+        "b": "13",
+        "c": "15",
+        "d": "20",
+        "r": "c"
+    },
+    {
+        "q": "Which one is an irrational number?",
+        "a": "√9",
+        "b": "√16",
+        "c": "√25",
+        "d": "√32",
+        "r": "d"
+    },
+    {
+        "q": "What is the value of 2² × 3³?",
+        "a": "18",
+        "b": "24",
+        "c": "36",
+        "d": "72",
+        "r": "d"
+    },
+    {
+        "q": "What is the sum of the interior angles of a triangle?",
+        "a": "90",
+        "b": "180",
+        "c": "270",
+        "d": "360",
+        "r": "b"
+    },
+    {
+        "q": "Convert 87 to a Roman numeral.",
+        "a": "LXX",
+        "b": "LXXX",
+        "c": "XC",
+        "d": "XCII",
+        "r": "c"
+    },
+    {
+        "q": "What is the value of 1/5 as a percentage?",
+        "a": "15%",
+        "b": "20%",
+        "c": "25%",
+        "d": "30%",
+        "r": "c"
+    },
+    {
+        "q": "Evaluate: 4² ÷ 2 + 5",
+        "a": "11",
+        "b": "13",
+        "c": "15",
+        "d": "17",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a composite number?",
+        "a": "11",
+        "b": "13",
+        "c": "17",
+        "d": "21",
+        "r": "d"
+    },
+    {
+        "q": "How many prime numbers are there between 10 and 20?",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5",
+        "r": "c"
+    },
+    {
+        "q": "Express 0.75 as a fraction.",
+        "a": "1/4",
+        "b": "2/3",
+        "c": "3/4",
+        "d": "4/5",
+        "r": "c"
+    },
+    {
+        "q": "What is the decimal representation of 3/8?",
+        "a": "0.25",
+        "b": "0.375",
+        "c": "0.5",
+        "d": "0.625",
+        "r": "b"
+    },
+    {
+        "q": "What is the sum of the first six prime numbers?",
+        "a": "22",
+        "b": "24",
+        "c": "28",
+        "d": "30",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following numbers is a multiple of 9?",
+        "a": "27",
+        "b": "36",
+        "c": "45",
+        "d": "54",
+        "r": "d"
+    },
+    {
+        "q": "How many factors does the number 24 have?",
+        "a": "6",
+        "b": "8",
+        "c": "10",
+        "d": "12",
+        "r": "b"
+    },
+    {
+        "q": "What is the place value of 7 in the number 758?",
+        "a": "Tens",
+        "b": "Hundreds",
+        "c": "Thousands",
+        "d": "Units",
+        "r": "b"
+    },
+    {
+        "q": "What is the next prime number after 31?",
+        "a": "33",
+        "b": "37",
+        "c": "39",
+        "d": "41",
+        "r": "b"
+    },
+    {
+        "q": "Evaluate: 2(6 + 4) - 3",
+        "a": "11",
+        "b": "15",
+        "c": "17",
+        "d": "21",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following fractions is equivalent to 2/5?",
+        "a": "4/10",
+        "b": "3/5",
+        "c": "6/10",
+        "d": "8/15",
+        "r": "b"
+    },
+    {
+        "q": "What is the value of 4! (4 factorial)?",
+        "a": "20",
+        "b": "22",
+        "c": "24",
+        "d": "26",
+        "r": "c"
+    },
+    {
+        "q": "Express 0.875 as a fraction in its simplest form.",
+        "a": "7/8",
+        "b": "15/17",
+        "c": "8/9",
+        "d": "5/6",
+        "r": "a"
+    },
+    {
+        "q": "What is the largest two-digit prime number?",
+        "a": "97",
+        "b": "93",
+        "c": "89",
+        "d": "83",
+        "r": "a"
+    },
+    {
+        "q": "Evaluate: √49 ÷ 7",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "r": "c"
+    },
+    {
+        "q": "What is the value of 3³ × 3²?",
+        "a": "27",
+        "b": "54",
+        "c": "81",
+        "d": "108",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a natural number?",
+        "a": "0",
+        "b": "0.5",
+        "c": "1",
+        "d": "1.5",
+        "r": "c"
+    },
+    {
+        "q": "What is the sum of the first 10 natural numbers?",
+        "a": "45",
+        "b": "50",
+        "c": "55",
+        "d": "60",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a prime factor of 18?",
+        "a": "2",
+        "b": "3",
+        "c": "5",
+        "d": "6",
+        "r": "b"
+    },
+    {
+        "q": "Evaluate: 5! ÷ 2!",
+        "a": "15",
+        "b": "60",
+        "c": "120",
+        "d": "240",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a co-prime with 20?",
+        "a": "25",
+        "b": "30",
+        "c": "35",
+        "d": "40",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit digit in 7³?",
+        "a": "1",
+        "b": "3",
+        "c": "5",
+        "d": "7",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a perfect cube?",
+        "a": "27",
+        "b": "32",
+        "c": "36",
+        "d": "40",
+        "r": "a"
+    },
+    {
+        "q": "Find the value of: 2² + 3³",
+        "a": "12",
+        "b": "13",
+        "c": "14",
+        "d": "15",
+        "r": "d"
+    },
+    {
+        "q": "Express 3/5 as a percentage.",
+        "a": "30%",
+        "b": "40%",
+        "c": "50%",
+        "d": "60%",
+        "r": "c"
+    },
+    {
+        "q": "What is the sum of the digits in 543?",
+        "a": "11",
+        "b": "12",
+        "c": "13",
+        "d": "14",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a factor of 28?",
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "7",
+        "r": "d"
+    },
+    {
+        "q": "Evaluate: 12 ÷ (4 + 2)",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "r": "b"
+    },
+    {
+        "q": "What is the smallest three-digit composite number?",
+        "a": "100",
+        "b": "200",
+        "c": "300",
+        "d": "400",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a non-negative integer?",
+        "a": "-1",
+        "b": "0",
+        "c": "1",
+        "d": "2",
+        "r": "b"
+    },
+    {
+        "q": "What is the value of 5 + 7?",
+        "a": "12",
+        "b": "9",
+        "c": "10",
+        "d": "14",
+        "r": "a"
+    },
+    {
+        "q": "Solve: 4 × (6 - 2)",
+        "a": "16",
+        "b": "20",
+        "c": "8",
+        "d": "24",
+        "r": "b"
+    },
+    {
+        "q": "Calculate: 48 ÷ 6",
+        "a": "8",
+        "b": "7",
+        "c": "9",
+        "d": "6",
+        "r": "a"
+    },
+    {
+        "q": "What is the square root of 25?",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "4",
+        "r": "a"
+    },
+    {
+        "q": "Find the value of 3^3",
+        "a": "9",
+        "b": "6",
+        "c": "27",
+        "d": "12",
+        "r": "c"
+    },
+    {
+        "q": "If x = 8 and y = 3, what is x - y?",
+        "a": "5",
+        "b": "1",
+        "c": "11",
+        "d": "4",
+        "r": "a"
+    },
+    {
+        "q": "Simplify: 2 + 3 × 4",
+        "a": "20",
+        "b": "14",
+        "c": "12",
+        "d": "18",
+        "r": "d"
+    },
+    {
+        "q": "Evaluate: (12 - 6) ÷ 2",
+        "a": "6",
+        "b": "3",
+        "c": "4",
+        "d": "2",
+        "r": "b"
+    },
+    {
+        "q": "What is the value of 7²?",
+        "a": "56",
+        "b": "64",
+        "c": "49",
+        "d": "36",
+        "r": "c"
+    },
+    {
+        "q": "Solve: 3 × 5 + 4",
+        "a": "12",
+        "b": "17",
+        "c": "19",
+        "d": "15",
+        "r": "b"
+    },
+    {
+        "q": "Calculate: 25 ÷ 5",
+        "a": "6",
+        "b": "5",
+        "c": "4",
+        "d": "7",
+        "r": "b"
+    },
+    {
+        "q": "Find the value of 2^4",
+        "a": "6",
+        "b": "12",
+        "c": "8",
+        "d": "16",
+        "r": "c"
+    },
+    {
+        "q": "If a = 6 and b = 3, what is a + b?",
+        "a": "9",
+        "b": "8",
+        "c": "7",
+        "d": "10",
+        "r": "a"
+    },
+    {
+        "q": "Simplify: 3 × (8 + 2)",
+        "a": "30",
+        "b": "24",
+        "c": "20",
+        "d": "16",
+        "r": "a"
+    },
+    {
+        "q": "Evaluate: (15 - 9) ÷ 3",
+        "a": "4",
+        "b": "3",
+        "c": "6",
+        "d": "5",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of 6²?",
+        "a": "30",
+        "b": "36",
+        "c": "40",
+        "d": "42",
+        "r": "b"
+    },
+    {
+        "q": "Solve: 4 × 3 + 2",
+        "a": "16",
+        "b": "14",
+        "c": "12",
+        "d": "18",
+        "r": "d"
+    },
+    {
+        "q": "Calculate: 36 ÷ 6",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "4",
+        "r": "b"
+    },
+    {
+        "q": "Find the value of 2^5",
+        "a": "10",
+        "b": "32",
+        "c": "16",
+        "d": "8",
+        "r": "c"
+    },
+    {
+        "q": "If x = 12 and y = 5, what is x - y?",
+        "a": "8",
+        "b": "6",
+        "c": "7",
+        "d": "9",
+        "r": "d"
+    },
+    {
+        "q": "Simplify: 5 + 2 × 3",
+        "a": "11",
+        "b": "13",
+        "c": "9",
+        "d": "7",
+        "r": "b"
+    },
+    {
+        "q": "Evaluate: (18 - 12) ÷ 3",
+        "a": "6",
+        "b": "4",
+        "c": "3",
+        "d": "5",
+        "r": "d"
+    },
+    {
+        "q": "What is the value of 4²?",
+        "a": "14",
+        "b": "12",
+        "c": "16",
+        "d": "18",
+        "r": "c"
+    },
+    {
+        "q": "Solve: 2 × (7 + 5)",
+        "a": "22",
+        "b": "20",
+        "c": "18",
+        "d": "24",
+        "r": "b"
+    },
+    {
+        "q": "Calculate: 64 ÷ 8",
+        "a": "9",
+        "b": "8",
+        "c": "6",
+        "d": "7",
+        "r": "b"
+    },
+    {
+        "q": "Find the value of 3^2",
+        "a": "6",
+        "b": "9",
+        "c": "7",
+        "d": "12",
+        "r": "b"
+    },
+    {
+        "q": "If a = 7 and b = 4, what is a + b?",
+        "a": "10",
+        "b": "12",
+        "c": "11",
+        "d": "9",
+        "r": "c"
+    },
+    {
+        "q": "Simplify: 4 + 5 × 2",
+        "a": "18",
+        "b": "15",
+        "c": "14",
+        "d": "13",
+        "r": "b"
+    },
+    {
+        "q": "Evaluate: (21 - 15) ÷ 3",
+        "a": "6",
+        "b": "7",
+        "c": "4",
+        "d": "5",
+        "r": "d"
+    },
+    {
+        "q": "What is the value of 3²?",
+        "a": "7",
+        "b": "6",
+        "c": "9",
+        "d": "12",
+        "r": "c"
+    },
+    {
+        "q": "Solve: 3 × (4 + 3)",
+        "a": "27",
+        "b": "24",
+        "c": "21",
+        "d": "18",
+        "r": "b"
+    },
+    {
+        "q": "Calculate: 81 ÷ 9",
+        "a": "10",
+        "b": "9",
+        "c": "8",
+        "d": "7",
+        "r": "b"
+    },
+    {
+        "q": "Find the value of 2^3",
+        "a": "4",
+        "b": "6",
+        "c": "8",
+        "d": "10",
+        "r": "a"
+    },
+    {
+        "q": "If x = 15 and y = 9, what is x - y?",
+        "a": "4",
+        "b": "6",
+        "c": "7",
+        "d": "5",
+        "r": "d"
+    },
+    {
+        "q": "Simplify: 2 + 4 × 3",
+        "a": "10",
+        "b": "16",
+        "c": "14",
+        "d": "12",
+        "r": "c"
+    },
+    {
+        "q": "Evaluate: (24 - 18) ÷ 3",
+        "a": "6",
+        "b": "8",
+        "c": "5",
+        "d": "4",
+        "r": "d"
+    },
+    {
+        "q": "What is the value of 2²?",
+        "a": "5",
+        "b": "2",
+        "c": "6",
+        "d": "4",
+        "r": "d"
+    },
+    {
+        "q": "Solve: 3 × (8 + 5)",
+        "a": "33",
+        "b": "27",
+        "c": "24",
+        "d": "26",
+        "r": "b"
+    },
+    {
+        "q": "Calculate: 100 ÷ 10",
+        "a": "10",
+        "b": "9",
+        "c": "11",
+        "d": "8",
+        "r": "a"
+    },
+    {
+        "q": "Find the value of 2^6",
+        "a": "32",
+        "b": "64",
+        "c": "128",
+        "d": "256",
+        "r": "b"
+    },
+    {
+        "q": "If a = 9 and b = 3, what is a + b?",
+        "a": "12",
+        "b": "8",
+        "c": "11",
+        "d": "10",
+        "r": "a"
+    },
+    {
+        "q": "Simplify: 3 + 3 × 5",
+        "a": "30",
+        "b": "15",
+        "c": "18",
+        "d": "20",
+        "r": "d"
+    },
+    {
+        "q": "Evaluate: (27 - 21) ÷ 3",
+        "a": "6",
+        "b": "4",
+        "c": "5",
+        "d": "7",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of 6² ?",
+        "a": "36",
+        "b": "32",
+        "c": "40",
+        "d": "42",
+        "r": "a"
+    },
+    {
+        "q": "Solve: 5 × (3 + 2)",
+        "a": "25",
+        "b": "20",
+        "c": "15",
+        "d": "10",
+        "r": "b"
+    },
+    {
+        "q": "Calculate: 49 ÷ 7",
+        "a": "9",
+        "b": "7",
+        "c": "8",
+        "d": "6",
+        "r": "b"
+    },
+    {
+        "q": "Solve for x: 2x + 5 = 15",
+        "a": "x = 3",
+        "b": "x = 5",
+        "c": "x = 6",
+        "d": "x = 8",
+        "r": "a"
+    },
+    {
+        "q": "Simplify the expression: 3(2x + 4) - 2(5x - 1)",
+        "a": "8x + 10",
+        "b": "6x + 8",
+        "c": "4x + 2",
+        "d": "7x + 12",
+        "r": "b"
+    },
+    {
+        "q": "Find the value of y: 4y + 7 = 31",
+        "a": "y = 6",
+        "b": "y = 5",
+        "c": "y = 8",
+        "d": "y = 9",
+        "r": "a"
+    },
+    {
+        "q": "Which term is missing in the sequence: 2, 4, 6, _, 10",
+        "a": "8",
+        "b": "7",
+        "c": "9",
+        "d": "12",
+        "r": "c"
+    },
+    {
+        "q": "Solve for z: 3z - 10 = 7",
+        "a": "z = 5",
+        "b": "z = 4",
+        "c": "z = 7",
+        "d": "z = 6",
+        "r": "d"
+    },
+    {
+        "q": "Simplify the expression: 2(x + 3) - 3(x - 2)",
+        "a": "5x + 8",
+        "b": "x + 1",
+        "c": "x + 5",
+        "d": "4x - 6",
+        "r": "c"
+    },
+    {
+        "q": "Factorize: x^2 + 7x + 10",
+        "a": "(x + 2)(x + 5)",
+        "b": "(x + 3)(x + 4)",
+        "c": "(x + 5)(x + 2)",
+        "d": "(x + 6)(x + 7)",
+        "r": "a"
+    },
+    {
+        "q": "Solve for y: 3(y - 4) = 15",
+        "a": "y = 7",
+        "b": "y = 8",
+        "c": "y = 6",
+        "d": "y = 9",
+        "r": "b"
+    },
+    {
+        "q": "Simplify: (2x + 3)(4x - 5)",
+        "a": "8x^2 - 10x - 15",
+        "b": "8x^2 + 2x - 15",
+        "c": "8x^2 + 2x + 15",
+        "d": "8x^2 - 2x - 15",
+        "r": "a"
+    },
+    {
+        "q": "Find the value of z: 5z + 12 = 37",
+        "a": "z = 5",
+        "b": "z = 6",
+        "c": "z = 7",
+        "d": "z = 4",
+        "r": "a"
+    },
+    {
+        "q": "Which term is missing in the sequence: 3, 6, 12, _, 48",
+        "a": "24",
+        "b": "20",
+        "c": "18",
+        "d": "36",
+        "r": "c"
+    },
+    {
+        "q": "Solve for x: 4x - 9 = 15",
+        "a": "x = 6",
+        "b": "x = 5",
+        "c": "x = 7",
+        "d": "x = 8",
+        "r": "a"
+    },
+    {
+        "q": "Simplify the expression: 2(x - 5) + 3",
+        "a": "2x - 7",
+        "b": "2x + 5",
+        "c": "2x - 5",
+        "d": "2x + 3",
+        "r": "c"
+    },
+    {
+        "q": "Factorize: x^2 - 6x + 9",
+        "a": "(x - 3)^2",
+        "b": "(x + 3)^2",
+        "c": "(x + 3)(x - 3)",
+        "d": "(x - 2)(x + 2)",
+        "r": "a"
+    },
+    {
+        "q": "Solve for y: 2(3y + 5) = 26",
+        "a": "y = 3",
+        "b": "y = 4",
+        "c": "y = 2",
+        "d": "y = 5",
+        "r": "b"
+    },
+    {
+        "q": "Simplify: (3x + 4)(2x - 3)",
+        "a": "6x^2 - 5x - 12",
+        "b": "6x^2 - 5x + 12",
+        "c": "6x^2 + 5x - 12",
+        "d": "6x^2 + 5x + 12",
+        "r": "a"
+    },
+    {
+        "q": "Find the value of z: 6z - 8 = 28",
+        "a": "z = 6",
+        "b": "z = 7",
+        "c": "z = 5",
+        "d": "z = 8",
+        "r": "a"
+    },
+    {
+        "q": "Which term is missing in the sequence: 5, 10, 15, _, 25",
+        "a": "20",
+        "b": "18",
+        "c": "22",
+        "d": "16",
+        "r": "d"
+    },
+    {
+        "q": "Solve for x: 3x + 7 = 16",
+        "a": "x = 3",
+        "b": "x = 4",
+        "c": "x = 5",
+        "d": "x = 6",
+        "r": "a"
+    },
+    {
+        "q": "Simplify the expression: 4(x - 3) + 2",
+        "a": "4x - 6",
+        "b": "4x + 2",
+        "c": "4x - 2",
+        "d": "4x + 6",
+        "r": "b"
+    },
+    {
+        "q": "Factorize: x^2 - 8x + 16",
+        "a": "(x - 4)^2",
+        "b": "(x + 4)^2",
+        "c": "(x + 4)(x - 4)",
+        "d": "(x + 2)(x - 2)",
+        "r": "a"
+    },
+    {
+        "q": "Solve for y: 5(y - 2) = 25",
+        "a": "y = 4",
+        "b": "y = 5",
+        "c": "y = 3",
+        "d": "y = 6",
+        "r": "b"
+    },
+    {
+        "q": "Simplify: (x + 3)(x - 3)",
+        "a": "x^2 - 9",
+        "b": "x^2 + 9",
+        "c": "x^2 - 6",
+        "d": "x^2 + 6",
+        "r": "a"
+    },
+    {
+        "q": "Find the value of z: 2z + 5 = 17",
+        "a": "z = 6",
+        "b": "z = 7",
+        "c": "z = 8",
+        "d": "z = 5",
+        "r": "d"
+    },
+    {
+        "q": "Which term is missing in the sequence: 4, 8, 16, _, 64",
+        "a": "32",
+        "b": "28",
+        "c": "24",
+        "d": "48",
+        "r": "c"
+    },
+    {
+        "q": "Solve for x: 5x - 12 = 18",
+        "a": "x = 6",
+        "b": "x = 5",
+        "c": "x = 7",
+        "d": "x = 8",
+        "r": "b"
+    },
+    {
+        "q": "Simplify the expression: 3(x - 4) + 2",
+        "a": "3x - 10",
+        "b": "3x + 2",
+        "c": "3x - 2",
+        "d": "3x + 10",
+        "r": "c"
+    },
+    {
+        "q": "Factorize: x^2 - 10x + 25",
+        "a": "(x - 5)^2",
+        "b": "(x + 5)^2",
+        "c": "(x + 5)(x - 5)",
+        "d": "(x + 2)(x - 2)",
+        "r": "a"
+    },
+    {
+        "q": "Solve for y: 4(y + 2) = 28",
+        "a": "y = 6",
+        "b": "y = 5",
+        "c": "y = 7",
+        "d": "y = 8",
+        "r": "a"
+    },
+    {
+        "q": "Simplify: (2x + 5)(3x - 4)",
+        "a": "6x^2 - 7x - 20",
+        "b": "6x^2 - 7x + 20",
+        "c": "6x^2 + 7x - 20",
+        "d": "6x^2 + 7x + 20",
+        "r": "a"
+    },
+    {
+        "q": "Find the value of z: 3z + 8 = 23",
+        "a": "z = 5",
+        "b": "z = 6",
+        "c": "z = 4",
+        "d": "z = 7",
+        "r": "b"
+    },
+    {
+        "q": "Which term is missing in the sequence: 6, 12, 24, _, 96",
+        "a": "48",
+        "b": "44",
+        "c": "36",
+        "d": "60",
+        "r": "c"
+    },
+    {
+        "q": "Solve for x: 2x - 5 = 7",
+        "a": "x = 6",
+        "b": "x = 5",
+        "c": "x = 4",
+        "d": "x = 8",
+        "r": "a"
+    },
+    {
+        "q": "Simplify the expression: 5(x - 2) + 3",
+        "a": "5x - 7",
+        "b": "5x + 3",
+        "c": "5x - 3",
+        "d": "5x + 7",
+        "r": "d"
+    },
+    {
+        "q": "Factorize: x^2 - 12x + 36",
+        "a": "(x - 6)^2",
+        "b": "(x + 6)^2",
+        "c": "(x + 6)(x - 6)",
+        "d": "(x + 2)(x - 2)",
+        "r": "a"
+    },
+    {
+        "q": "Solve for y: 2(y + 3) = 20",
+        "a": "y = 7",
+        "b": "y = 5",
+        "c": "y = 6",
+        "d": "y = 8",
+        "r": "b"
+    },
+    {
+        "q": "Simplify: (x + 4)(x - 4)",
+        "a": "x^2 - 16",
+        "b": "x^2 + 16",
+        "c": "x^2 - 8",
+        "d": "x^2 + 8",
+        "r": "a"
+    },
+    {
+        "q": "Find the value of z: 4z - 7 = 17",
+        "a": "z = 4",
+        "b": "z = 5",
+        "c": "z = 6",
+        "d": "z = 3",
+        "r": "b"
+    },
+    {
+        "q": "Which term is missing in the sequence: 7, 14, 21, _, 35",
+        "a": "28",
+        "b": "24",
+        "c": "32",
+        "d": "18",
+        "r": "a"
+    },
+    {
+        "q": "Solve for x: 3x + 8 = 20",
+        "a": "x = 4",
+        "b": "x = 5",
+        "c": "x = 6",
+        "d": "x = 7",
+        "r": "a"
+    },
+    {
+        "q": "Simplify the expression: 2(x - 6) + 4",
+        "a": "2x - 8",
+        "b": "2x - 4",
+        "c": "2x + 4",
+        "d": "2x + 8",
+        "r": "d"
+    },
+    {
+        "q": "Factorize: x^2 - 14x + 49",
+        "a": "(x - 7)^2",
+        "b": "(x + 7)^2",
+        "c": "(x + 7)(x - 7)",
+        "d": "(x + 2)(x - 2)",
+        "r": "a"
+    },
+    {
+        "q": "Solve for y: 4(y - 3) = 16",
+        "a": "y = 4",
+        "b": "y = 5",
+        "c": "y = 6",
+        "d": "y = 7",
+        "r": "b"
+    },
+    {
+        "q": "Simplify: (3x + 2)(2x - 3)",
+        "a": "6x^2 - 5x - 6",
+        "b": "6x^2 - 5x + 6",
+        "c": "6x^2 + 5x - 6",
+        "d": "6x^2 + 5x + 6",
+        "r": "a"
+    },
+    {
+        "q": "Find the value of z: 3z + 6 = 24",
+        "a": "z = 6",
+        "b": "z = 7",
+        "c": "z = 5",
+        "d": "z = 8",
+        "r": "a"
+    },
+    {
+        "q": "Which term is missing in the sequence: 8, 16, 32, _, 128",
+        "a": "64",
+        "b": "56",
+        "c": "48",
+        "d": "72",
+        "r": "c"
+    },
+    {
+        "q": "Simplify the expression: 3(x - 5) + 2",
+        "a": "3x - 7",
+        "b": "3x + 2",
+        "c": "3x - 2",
+        "d": "3x + 7",
+        "r": "c"
+    },
+    {
+        "q": "Factorize: x^2 - 9x + 20",
+        "a": "(x - 4)(x - 5)",
+        "b": "(x + 4)(x + 5)",
+        "c": "(x + 5)(x - 4)",
+        "d": "(x + 2)(x - 2)",
+        "r": "a"
+    },
+    {
+        "q": "Solve for y: 5(y + 1) = 30",
+        "a": "y = 4",
+        "b": "y = 5",
+        "c": "y = 6",
+        "d": "y = 7",
+        "r": "b"
+    },
+    {
+        "q": "What is the sum of all interior angles in a triangle?",
+        "a": "90°",
+        "b": "180°",
+        "c": "270°",
+        "d": "360°",
+        "r": "b"
+    },
+    {
+        "q": "Which type of triangle has all sides of equal length?",
+        "a": "Scalene",
+        "b": "Equilateral",
+        "c": "Isosceles",
+        "d": "Right-angled",
+        "r": "b"
+    },
+    {
+        "q": "What is the measure of each interior angle of a square?",
+        "a": "60°",
+        "b": "90°",
+        "c": "120°",
+        "d": "180°",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following shapes has no vertices?",
+        "a": "Circle",
+        "b": "Square",
+        "c": "Triangle",
+        "d": "Pentagon",
+        "r": "a"
+    },
+    {
+        "q": "How many degrees are in one full revolution?",
+        "a": "180°",
+        "b": "270°",
+        "c": "360°",
+        "d": "720°",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of a three-dimensional figure with six rectangular faces?",
+        "a": "Pyramid",
+        "b": "Sphere",
+        "c": "Cone",
+        "d": "Cuboid",
+        "r": "d"
+    },
+    {
+        "q": "What type of angle is greater than 90 degrees but less than 180 degrees?",
+        "a": "Acute",
+        "b": "Obtuse",
+        "c": "Right",
+        "d": "Straight",
+        "r": "b"
+    },
+    {
+        "q": "Which type of quadrilateral has all sides of equal length and all angles as right angles?",
+        "a": "Rectangle",
+        "b": "Rhombus",
+        "c": "Parallelogram",
+        "d": "Square",
+        "r": "d"
+    },
+    {
+        "q": "How many sides does a heptagon have?",
+        "a": "6",
+        "b": "7",
+        "c": "8",
+        "d": "10",
+        "r": "b"
+    },
+    {
+        "q": "If two angles are complementary, their sum is equal to:",
+        "a": "45°",
+        "b": "90°",
+        "c": "180°",
+        "d": "360°",
+        "r": "b"
+    },
+    {
+        "q": "What is the sum of all exterior angles in any polygon?",
+        "a": "90°",
+        "b": "180°",
+        "c": "270°",
+        "d": "360°",
+        "r": "d"
+    },
+    {
+        "q": "Which type of triangle has one angle greater than 90 degrees?",
+        "a": "Equilateral",
+        "b": "Isosceles",
+        "c": "Acute",
+        "d": "Obtuse",
+        "r": "d"
+    },
+    {
+        "q": "What is the sum of the interior angles in a pentagon?",
+        "a": "180°",
+        "b": "360°",
+        "c": "540°",
+        "d": "720°",
+        "r": "b"
+    },
+    {
+        "q": "A polygon with six sides is called a:",
+        "a": "Hexagon",
+        "b": "Octagon",
+        "c": "Pentagon",
+        "d": "Heptagon",
+        "r": "a"
+    },
+    {
+        "q": "What is the area of a rectangle with length 8 cm and width 5 cm?",
+        "a": "13 cm²",
+        "b": "35 cm²",
+        "c": "40 cm²",
+        "d": "48 cm²",
+        "r": "c"
+    },
+    {
+        "q": "How many parallel sides does a trapezoid have?",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "r": "b"
+    },
+    {
+        "q": "The sum of the angles of a quadrilateral is:",
+        "a": "90°",
+        "b": "180°",
+        "c": "270°",
+        "d": "360°",
+        "r": "d"
+    },
+    {
+        "q": "What type of angle is exactly 90 degrees?",
+        "a": "Acute",
+        "b": "Right",
+        "c": "Obtuse",
+        "d": "Straight",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following shapes has one curved surface and two circular bases?",
+        "a": "Sphere",
+        "b": "Cylinder",
+        "c": "Cone",
+        "d": "Pyramid",
+        "r": "b"
+    },
+    {
+        "q": "How many edges does a cube have?",
+        "a": "6",
+        "b": "8",
+        "c": "12",
+        "d": "24",
+        "r": "c"
+    },
+    {
+        "q": "What is the sum of the angles in an isosceles triangle?",
+        "a": "90°",
+        "b": "180°",
+        "c": "270°",
+        "d": "360°",
+        "r": "b"
+    },
+    {
+        "q": "A polygon with eight sides is called a:",
+        "a": "Octagon",
+        "b": "Hexagon",
+        "c": "Heptagon",
+        "d": "Nonagon",
+        "r": "a"
+    },
+    {
+        "q": "Which type of angle is greater than 180 degrees?",
+        "a": "Acute",
+        "b": "Right",
+        "c": "Obtuse",
+        "d": "Reflex",
+        "r": "d"
+    },
+    {
+        "q": "The longest side of a right-angled triangle is called:",
+        "a": "Hypotenuse",
+        "b": "Adjacent side",
+        "c": "Opposite side",
+        "d": "Diagonal",
+        "r": "a"
+    },
+    {
+        "q": "How many faces does a pyramid have?",
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6",
+        "r": "b"
+    },
+    {
+        "q": "What is the area of a circle with a radius of 5 cm?",
+        "a": "10π cm²",
+        "b": "15π cm²",
+        "c": "20π cm²",
+        "d": "25π cm²",
+        "r": "d"
+    },
+    {
+        "q": "What is the sum of the interior angles in a hexagon?",
+        "a": "180°",
+        "b": "360°",
+        "c": "540°",
+        "d": "720°",
+        "r": "b"
+    },
+    {
+        "q": "Which type of quadrilateral has exactly one pair of parallel sides?",
+        "a": "Square",
+        "b": "Rectangle",
+        "c": "Rhombus",
+        "d": "Trapezoid",
+        "r": "d"
+    },
+    {
+        "q": "How many sides does a decagon have?",
+        "a": "8",
+        "b": "10",
+        "c": "12",
+        "d": "15",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of a three-dimensional figure with a curved surface and a circular base?",
+        "a": "Pyramid",
+        "b": "Sphere",
+        "c": "Cone",
+        "d": "Cuboid",
+        "r": "c"
+    },
+    {
+        "q": "What is the measure of each interior angle of a regular pentagon?",
+        "a": "60°",
+        "b": "90°",
+        "c": "108°",
+        "d": "144°",
+        "r": "d"
+    },
+    {
+        "q": "Which type of angle is less than 90 degrees?",
+        "a": "Acute",
+        "b": "Right",
+        "c": "Obtuse",
+        "d": "Straight",
+        "r": "a"
+    },
+    {
+        "q": "The formula to find the perimeter of a rectangle is:",
+        "a": "P = 2 × (length + width)",
+        "b": "P = 2 × length + width",
+        "c": "P = length × width",
+        "d": "P = length + width",
+        "r": "a"
+    },
+    {
+        "q": "How many diagonals does a hexagon have?",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5",
+        "r": "c"
+    },
+    {
+        "q": "What is the sum of the angles in an equilateral triangle?",
+        "a": "90°",
+        "b": "180°",
+        "c": "270°",
+        "d": "360°",
+        "r": "b"
+    },
+    {
+        "q": "A polygon with five sides is called a:",
+        "a": "Hexagon",
+        "b": "Octagon",
+        "c": "Pentagon",
+        "d": "Heptagon",
+        "r": "c"
+    },
+    {
+        "q": "Which type of angle is exactly 180 degrees?",
+        "a": "Acute",
+        "b": "Right",
+        "c": "Obtuse",
+        "d": "Straight",
+        "r": "d"
+    },
+    {
+        "q": "The shortest side of a right-angled triangle is called:",
+        "a": "Hypotenuse",
+        "b": "Adjacent side",
+        "c": "Opposite side",
+        "d": "Diagonal",
+        "r": "c"
+    },
+    {
+        "q": "What is the volume of a cube with side length 4 cm?",
+        "a": "8 cm³",
+        "b": "16 cm³",
+        "c": "32 cm³",
+        "d": "64 cm³",
+        "r": "b"
+    },
+    {
+        "q": "What is the area of a triangle with base 12 cm and height 8 cm?",
+        "a": "48 cm²",
+        "b": "60 cm²",
+        "c": "72 cm²",
+        "d": "96 cm²",
+        "r": "a"
+    },
+    {
+        "q": "Which type of quadrilateral has opposite sides parallel and equal length, but all angles are not right angles?",
+        "a": "Square",
+        "b": "Rectangle",
+        "c": "Rhombus",
+        "d": "Trapezoid",
+        "r": "c"
+    },
+    {
+        "q": "How many sides does a nonagon have?",
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "10",
+        "r": "c"
+    },
+    {
+        "q": "What is the sine of angle A in a right triangle if the opposite side is 4 and the hypotenuse is 5?",
+        "a": "2/5",
+        "b": "3/5",
+        "c": "4/5",
+        "d": "1/5",
+        "r": "b"
+    },
+    {
+        "q": "If secθ = 5/3, what is the value of cosθ?",
+        "a": "3/5",
+        "b": "5/3",
+        "c": "4/3",
+        "d": "3/4",
+        "r": "c"
+    },
+    {
+        "q": "Given that sinα = 0.8, what is the value of cosα?",
+        "a": "0.6",
+        "b": "0.8",
+        "c": "0.4",
+        "d": "0.3",
+        "r": "a"
+    },
+    {
+        "q": "If tanθ = 4/3, find the value of cotθ.",
+        "a": "3/4",
+        "b": "4/3",
+        "c": "1/4",
+        "d": "3/5",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of sin(π/3)?",
+        "a": "√2/2",
+        "b": "1/2",
+        "c": "√3/2",
+        "d": "1/√2",
+        "r": "c"
+    },
+    {
+        "q": "If cosθ = 12/13, what is the value of secθ?",
+        "a": "13/12",
+        "b": "12/13",
+        "c": "5/12",
+        "d": "1/√5",
+        "r": "a"
+    },
+    {
+        "q": "Find the value of tan(π/4).",
+        "a": "1",
+        "b": "2",
+        "c": "√3/3",
+        "d": "√2/2",
+        "r": "a"
+    },
+    {
+        "q": "If sinθ = 3/5, what is the value of cscθ?",
+        "a": "5/3",
+        "b": "1/5",
+        "c": "3/4",
+        "d": "5/4",
+        "r": "a"
+    },
+    {
+        "q": "Given that cotα = 5/4, find the value of tanα.",
+        "a": "4/5",
+        "b": "5/4",
+        "c": "3/5",
+        "d": "4/3",
+        "r": "d"
+    },
+    {
+        "q": "What is the value of cos(π/6)?",
+        "a": "√2/2",
+        "b": "√3/2",
+        "c": "√3/3",
+        "d": "1/2",
+        "r": "d"
+    },
+    {
+        "q": "If tanθ = 24/7, what is the value of sinθ?",
+        "a": "24/25",
+        "b": "7/24",
+        "c": "7/25",
+        "d": "24/25",
+        "r": "c"
+    },
+    {
+        "q": "Find the value of cot(π/3).",
+        "a": "1",
+        "b": "√3/3",
+        "c": "√2/2",
+        "d": "√3",
+        "r": "b"
+    },
+    {
+        "q": "If cscθ = 5/4, what is the value of sinθ?",
+        "a": "5/4",
+        "b": "4/5",
+        "c": "3/5",
+        "d": "4/3",
+        "r": "b"
+    },
+    {
+        "q": "What is the value of tan(π/2)?",
+        "a": "1",
+        "b": "0",
+        "c": "∞",
+        "d": "-∞",
+        "r": "c"
+    },
+    {
+        "q": "If secθ = 10/7, what is the value of cosθ?",
+        "a": "7/10",
+        "b": "10/7",
+        "c": "1/7",
+        "d": "1/10",
+        "r": "a"
+    },
+    {
+        "q": "Given that cotα = 24/7, find the value of tanα.",
+        "a": "7/24",
+        "b": "24/7",
+        "c": "3/5",
+        "d": "4/3",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of sin(0)?",
+        "a": "1",
+        "b": "0",
+        "c": "-1",
+        "d": "0.5",
+        "r": "b"
+    },
+    {
+        "q": "If sinθ = 5/13, what is the value of cscθ?",
+        "a": "5/13",
+        "b": "13/5",
+        "c": "1/5",
+        "d": "13/12",
+        "r": "b"
+    },
+    {
+        "q": "Find the value of cos(π/2).",
+        "a": "0",
+        "b": "1",
+        "c": "-1",
+        "d": "1/2",
+        "r": "a"
+    },
+    {
+        "q": "If tanθ = 3/4, what is the value of sinθ?",
+        "a": "3/5",
+        "b": "4/3",
+        "c": "5/3",
+        "d": "3/√5",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of tan(0)?",
+        "a": "0",
+        "b": "1",
+        "c": "-1",
+        "d": "1/2",
+        "r": "a"
+    },
+    {
+        "q": "If secθ = 2, what is the value of cosθ?",
+        "a": "2",
+        "b": "1",
+        "c": "1/2",
+        "d": "-2",
+        "r": "a"
+    },
+    {
+        "q": "Given that cotα = 4/3, find the value of tanα.",
+        "a": "4/3",
+        "b": "3/4",
+        "c": "3/5",
+        "d": "4/5",
+        "r": "a"
+    },
+    {
+        "q": "Find the value of sin(π/4).",
+        "a": "1/√2",
+        "b": "√3/2",
+        "c": "√2/2",
+        "d": "1",
+        "r": "a"
+    },
+    {
+        "q": "If cscθ = 3/5, what is the value of sinθ?",
+        "a": "5/3",
+        "b": "3/5",
+        "c": "4/5",
+        "d": "1/5",
+        "r": "b"
+    },
+    {
+        "q": "What is the value of cos(0)?",
+        "a": "1",
+        "b": "0",
+        "c": "-1",
+        "d": "1/2",
+        "r": "a"
+    },
+    {
+        "q": "What is the mean of the following data set: 5, 8, 10, 12, 15?",
+        "a": "8",
+        "b": "10",
+        "c": "12",
+        "d": "7",
+        "r": "b"
+    },
+    {
+        "q": "In a set of data, which measure is affected by outliers the most?",
+        "a": "Mean",
+        "b": "Median",
+        "c": "Mode",
+        "d": "Range",
+        "r": "a"
+    },
+    {
+        "q": "The number of goals scored by a football team in its last 10 matches are: 2, 3, 1, 4, 2, 3, 0, 1, 3, 2. What is the mode?",
+        "a": "2",
+        "b": "3",
+        "c": "1",
+        "d": "4",
+        "r": "b"
+    },
+    {
+        "q": "The sum of the deviations of individual data points from the mean is always",
+        "a": "Zero",
+        "b": "One",
+        "c": "A positive number",
+        "d": "A negative number",
+        "r": "a"
+    },
+    {
+        "q": "If the variance of a data set is 25, what is the standard deviation?",
+        "a": "5",
+        "b": "10",
+        "c": "15",
+        "d": "25",
+        "r": "a"
+    },
+    {
+        "q": "The middle value in an ordered list of data is called the",
+        "a": "Mean",
+        "b": "Median",
+        "c": "Mode",
+        "d": "Range",
+        "r": "b"
+    },
+    {
+        "q": "The difference between the highest and lowest values in a data set is called",
+        "a": "Mean",
+        "b": "Median",
+        "c": "Mode",
+        "d": "Range",
+        "r": "d"
+    },
+    {
+        "q": "The average of 5 numbers is 20. If one number is excluded, the average becomes 18. What is the excluded number?",
+        "a": "15",
+        "b": "18",
+        "c": "20",
+        "d": "25",
+        "r": "a"
+    },
+    {
+        "q": "In a frequency distribution, the sum of all the frequencies is equal to",
+        "a": "Mean",
+        "b": "Median",
+        "c": "Mode",
+        "d": "Total number of data points",
+        "r": "d"
+    },
+    {
+        "q": "A set of data has a mode of 8 and a median of 10. What is the smallest possible value of the mean?",
+        "a": "8",
+        "b": "9",
+        "c": "10",
+        "d": "11",
+        "r": "c"
+    },
+    {
+        "q": "The number of hours of study of a group of students in a week is: 5, 6, 7, 8, 10, 12, 15. Find the median.",
+        "a": "7",
+        "b": "8",
+        "c": "10",
+        "d": "11",
+        "r": "b"
+    },
+    {
+        "q": "The probability of getting a head in a single toss of a fair coin is:",
+        "a": "0",
+        "b": "0.5",
+        "c": "1",
+        "d": "-1",
+        "r": "b"
+    },
+    {
+        "q": "In a frequency distribution, the value that appears most frequently is called the",
+        "a": "Mean",
+        "b": "Median",
+        "c": "Mode",
+        "d": "Range",
+        "r": "c"
+    },
+    {
+        "q": "The interquartile range (IQR) is a measure of",
+        "a": "Variability",
+        "b": "Central tendency",
+        "c": "Probability",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "A fair six-sided die is rolled. What is the probability of rolling an odd number?",
+        "a": "1/2",
+        "b": "1/3",
+        "c": "1/4",
+        "d": "1/6",
+        "r": "a"
+    },
+    {
+        "q": "The formula for the standard deviation of a sample is similar to the formula for the population standard deviation, but with a small modification. What is that modification?",
+        "a": "Dividing by n-1 instead of n",
+        "b": "Dividing by n instead of n-1",
+        "c": "Adding 1 to the result",
+        "d": "Subtracting 1 from the result",
+        "r": "a"
+    },
+    {
+        "q": "The range of the data set: 12, 7, 3, 18, 10 is",
+        "a": "15",
+        "b": "18",
+        "c": "12",
+        "d": "5",
+        "r": "b"
+    },
+    {
+        "q": "In a grouped frequency distribution, the midpoint of a class interval is calculated as",
+        "a": "The sum of the lower and upper limits divided by 2",
+        "b": "The difference between the upper and lower limits divided by 2",
+        "c": "The product of the upper and lower limits divided by 2",
+        "d": "The median of the class interval",
+        "r": "a"
+    },
+    {
+        "q": "The data set: 5, 7, 3, 10, 8, 6, 7, 9, 4, 5, 8, 10, 6, 5, 7, 9, 4, 6, 8, 5, 6, 7, 4 has a mode of",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8",
+        "r": "c"
+    },
+    {
+        "q": "The data set: 8, 10, 12, 14, 16, 18, 20 has a median of",
+        "a": "12",
+        "b": "14",
+        "c": "15",
+        "d": "16",
+        "r": "d"
+    },
+    {
+        "q": "In a frequency distribution, the value that separates the highest 25% of the data from the rest is called",
+        "a": "Mean",
+        "b": "Median",
+        "c": "Mode",
+        "d": "Third quartile",
+        "r": "d"
+    },
+    {
+        "q": "If the correlation coefficient between two variables is -0.9, it indicates",
+        "a": "A strong positive relationship",
+        "b": "A strong negative relationship",
+        "c": "A weak positive relationship",
+        "d": "No relationship",
+        "r": "b"
+    },
+    {
+        "q": "The data set: 5, 6, 7, 8, 10, 12, 15 has a mean of",
+        "a": "8",
+        "b": "9",
+        "c": "10",
+        "d": "11",
+        "r": "a"
+    },
+    {
+        "q": "A set of data has a mode of 10 and a mean of 12. What is the smallest possible value of the median?",
+        "a": "10",
+        "b": "11",
+        "c": "12",
+        "d": "13",
+        "r": "b"
+    },
+    {
+        "q": "In a grouped frequency distribution, the class width is calculated as",
+        "a": "The sum of the lower and upper limits of a class interval",
+        "b": "The difference between the upper and lower limits of a class interval",
+        "c": "The product of the upper and lower limits of a class interval",
+        "d": "The difference between the lower limit of the first class and the upper limit of the last class",
+        "r": "b"
+    },
+    {
+        "q": "The sum of the probabilities of all possible outcomes in an event is always equal to",
+        "a": "1",
+        "b": "0",
+        "c": "2",
+        "d": "-1",
+        "r": "a"
+    },
+    {
+        "q": "The data set: 5, 6, 7, 8, 10, 12, 15 has a mode of",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8",
+        "r": "c"
+    },
+    {
+        "q": "The probability of rolling a number greater than 4 on a fair six-sided die is:",
+        "a": "1/2",
+        "b": "1/3",
+        "c": "1/4",
+        "d": "1/6",
+        "r": "c"
+    },
+    {
+        "q": "In a frequency distribution, the value that separates the lowest 25% of the data from the rest is called",
+        "a": "Mean",
+        "b": "Median",
+        "c": "Mode",
+        "d": "First quartile",
+        "r": "d"
+    },
+    {
+        "q": "A set of data has a median of 12 and a mean of 10. What is the largest possible value of the mode?",
+        "a": "10",
+        "b": "11",
+        "c": "12",
+        "d": "13",
+        "r": "a"
+    },
+    {
+        "q": "The probability of drawing a spade from a standard deck of 52 cards is:",
+        "a": "1/4",
+        "b": "1/13",
+        "c": "1/26",
+        "d": "1/52",
+        "r": "d"
+    },
+    {
+        "q": "What is the definition of probability?",
+        "a": "The likelihood of an event occurring",
+        "b": "The number of favorable outcomes",
+        "c": "The ratio of wins to total attempts",
+        "d": "The reciprocal of odds",
+        "r": "a"
+    },
+    {
+        "q": "In a standard deck of cards, how many suits are there?",
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6",
+        "r": "b"
+    },
+    {
+        "q": "A six-sided fair die is rolled. What is the probability of rolling an odd number?",
+        "a": "1/6",
+        "b": "1/3",
+        "c": "1/2",
+        "d": "2/3",
+        "r": "a"
+    },
+    {
+        "q": "What is the sum of probabilities of all possible outcomes in an experiment?",
+        "a": "1",
+        "b": "0",
+        "c": "2",
+        "d": "0.5",
+        "r": "a"
+    },
+    {
+        "q": "Two dice are rolled simultaneously. What is the probability of getting a sum of 7?",
+        "a": "1/12",
+        "b": "1/6",
+        "c": "1/3",
+        "d": "1/4",
+        "r": "b"
+    },
+    {
+        "q": "If two events are mutually exclusive, what is the probability of both occurring?",
+        "a": "0",
+        "b": "1/2",
+        "c": "1",
+        "d": "1/4",
+        "r": "a"
+    },
+    {
+        "q": "In a bag, there are 5 red balls and 3 blue balls. What is the probability of drawing a blue ball?",
+        "a": "5/8",
+        "b": "3/5",
+        "c": "3/8",
+        "d": "5/3",
+        "r": "c"
+    },
+    {
+        "q": "A fair coin is flipped 3 times. What is the probability of getting all heads?",
+        "a": "1/4",
+        "b": "1/8",
+        "c": "1/2",
+        "d": "1/6",
+        "r": "b"
+    },
+    {
+        "q": "If P(A) = 0.4 and P(B) = 0.6, what is P(A ∩ B)?",
+        "a": "0.2",
+        "b": "0.24",
+        "c": "0.6",
+        "d": "0.34",
+        "r": "d"
+    },
+    {
+        "q": "What is the probability of getting at least one tail when flipping a coin twice?",
+        "a": "1/2",
+        "b": "3/4",
+        "c": "1",
+        "d": "1/4",
+        "r": "b"
+    },
+    {
+        "q": "A bag contains 6 red marbles and 4 blue marbles. What is the probability of drawing a red marble?",
+        "a": "6/10",
+        "b": "4/10",
+        "c": "3/5",
+        "d": "2/5",
+        "r": "a"
+    },
+    {
+        "q": "If two events are independent, what is the probability of both occurring?",
+        "a": "1",
+        "b": "0",
+        "c": "1/2",
+        "d": "1/4",
+        "r": "c"
+    },
+    {
+        "q": "In a group of 20 students, 12 like pizza and 8 like burgers. What is the probability of a student chosen randomly likes pizza?",
+        "a": "12/20",
+        "b": "8/20",
+        "c": "1/2",
+        "d": "5/3",
+        "r": "a"
+    },
+    {
+        "q": "A fair six-sided die is rolled. What is the probability of rolling a number less than 5?",
+        "a": "1/3",
+        "b": "1/4",
+        "c": "2/3",
+        "d": "2/6",
+        "r": "a"
+    },
+    {
+        "q": "If P(A) = 0.3 and P(B) = 0.5, what is P(A ∪ B)?",
+        "a": "0.8",
+        "b": "0.2",
+        "c": "0.4",
+        "d": "0.6",
+        "r": "a"
+    },
+    {
+        "q": "A bag contains 5 red balls and 5 blue balls. What is the probability of drawing a blue ball?",
+        "a": "1/2",
+        "b": "5/10",
+        "c": "2/5",
+        "d": "1",
+        "r": "b"
+    },
+    {
+        "q": "Two dice are rolled. What is the probability of getting a sum greater than 10?",
+        "a": "1/12",
+        "b": "1/6",
+        "c": "1/3",
+        "d": "1/4",
+        "r": "d"
+    },
+    {
+        "q": "If P(A) = 0.25 and P(B) = 0.75, what is P(A",
+        "a": "B)?",
+        "b": "0.1875",
+        "c": "0.25",
+        "d": "0.75",
+        "r": "1"
+    },
+    {
+        "q": "In a deck of cards, what is the probability of drawing a face card (J, Q, K)?",
+        "a": "1/13",
+        "b": "1/4",
+        "c": "1/3",
+        "d": "3/13",
+        "r": "c"
+    },
+    {
+        "q": "A bag contains 4 red marbles and 6 blue marbles. What is the probability of drawing a red marble?",
+        "a": "2/5",
+        "b": "4/10",
+        "c": "40%",
+        "d": "0.4",
+        "r": "a"
+    },
+    {
+        "q": "If two events are mutually exclusive, what is the probability of either occurring?",
+        "a": "0",
+        "b": "1",
+        "c": "1/2",
+        "d": "1/4",
+        "r": "c"
+    },
+    {
+        "q": "In a group of 30 students, 18 like ice cream and 12 like cake. What is the probability of a student chosen randomly likes cake?",
+        "a": "2/5",
+        "b": "12/30",
+        "c": "40%",
+        "d": "0.4",
+        "r": "b"
+    },
+    {
+        "q": "A fair six-sided die is rolled. What is the probability of rolling a number greater than 3?",
+        "a": "2/3",
+        "b": "2/6",
+        "c": "1/2",
+        "d": "1/3",
+        "r": "a"
+    },
+    {
+        "q": "If P(A) = 0.2 and P(B) = 0.6, what is P(A ∩ B)?",
+        "a": "0.12",
+        "b": "0.3",
+        "c": "0.4",
+        "d": "0.32",
+        "r": "c"
+    },
+    {
+        "q": "In a bag, there are 7 red balls and 5 blue balls. What is the probability of drawing a blue ball?",
+        "a": "5/12",
+        "b": "7/12",
+        "c": "12/5",
+        "d": "1/5",
+        "r": "b"
+    },
+    {
+        "q": "Two dice are rolled. What is the probability of getting a sum less than or equal to 5?",
+        "a": "1/12",
+        "b": "1/6",
+        "c": "1/3",
+        "d": "1/4",
+        "r": "d"
+    },
+    {
+        "q": "If P(A) = 0.35 and P(B) = 0.45, what is P(A ∪ B)?",
+        "a": "0.9",
+        "b": "0.2",
+        "c": "0.4",
+        "d": "0.8",
+        "r": "d"
+    },
+    {
+        "q": "A bag contains 8 red marbles and 2 blue marbles. What is the probability of drawing a red marble?",
+        "a": "4/10",
+        "b": "2/10",
+        "c": "1/5",
+        "d": "0.2",
+        "r": "c"
+    },
+    {
+        "q": "If two events are independent, what is the probability of either occurring?",
+        "a": "1",
+        "b": "0",
+        "c": "1/2",
+        "d": "1/4",
+        "r": "a"
+    },
+    {
+        "q": "In a group of 25 students, 15 like chocolate and 10 like vanilla. What is the probability of a student chosen randomly likes vanilla?",
+        "a": "3/5",
+        "b": "10/25",
+        "c": "2/5",
+        "d": "40%",
+        "r": "a"
+    },
+    {
+        "q": "What is the derivative of 2x?",
+        "a": "2",
+        "b": "2x",
+        "c": "x^2",
+        "d": "1",
+        "r": "b"
+    },
+    {
+        "q": "The limit of (x^2 - 4) / (x - 2) as x approaches 2 is:",
+        "a": "4",
+        "b": "2",
+        "c": "1",
+        "d": "0",
+        "r": "c"
+    },
+    {
+        "q": "Find the integral of 3x^2 with respect to x",
+        "a": "x^3",
+        "b": "3x^2",
+        "c": "x^3 + C",
+        "d": "3x^2 + C",
+        "r": "c"
+    },
+    {
+        "q": "If f(x) = sin(x), what is f'(x)?",
+        "a": "cos(x)",
+        "b": "tan(x)",
+        "c": "sec(x)",
+        "d": "cot(x)",
+        "r": "a"
+    },
+    {
+        "q": "The area under a curve is found using:",
+        "a": "Derivative",
+        "b": "Integral",
+        "c": "Tangent",
+        "d": "Slope",
+        "r": "b"
+    },
+    {
+        "q": "What is the limit of (e^x - 1) / x as x approaches 0?",
+        "a": "e",
+        "b": "1",
+        "c": "0",
+        "d": "Infinity",
+        "r": "b"
+    },
+    {
+        "q": "Find the derivative of ln(x)",
+        "a": "1/x",
+        "b": "x",
+        "c": "e^x",
+        "d": "0",
+        "r": "a"
+    },
+    {
+        "q": "The Fundamental Theorem of Calculus relates differentiation and:",
+        "a": "Integration",
+        "b": "Addition",
+        "c": "Subtraction",
+        "d": "Multiplication",
+        "r": "a"
+    },
+    {
+        "q": "If a function is continuous but not differentiable at a point, it has a:",
+        "a": "Hole",
+        "b": "Vertical asymptote",
+        "c": "Horizontal asymptote",
+        "d": "Cusp",
+        "r": "a"
+    },
+    {
+        "q": "The slope of a curve at a specific point is given by:",
+        "a": "Integral",
+        "b": "Derivative",
+        "c": "Limit",
+        "d": "Tangent",
+        "r": "b"
+    },
+    {
+        "q": "Find the second derivative of y = 3x^2 - 6x + 2",
+        "a": "6x - 6",
+        "b": "6x - 6",
+        "c": "6x",
+        "d": "6",
+        "r": "a"
+    },
+    {
+        "q": "The derivative of a constant is always equal to:",
+        "a": "0",
+        "b": "1",
+        "c": "The constant itself",
+        "d": "Infinity",
+        "r": "a"
+    },
+    {
+        "q": "What is the integral of (2/x) with respect to x?",
+        "a": "ln(x) + C",
+        "b": "2 ln(x) + C",
+        "c": "2/x + C",
+        "d": "2x + C",
+        "r": "a"
+    },
+    {
+        "q": "If f(x) = 3x^4, what is f''(x)?",
+        "a": "36x^2",
+        "b": "12x^2",
+        "c": "9x^3",
+        "d": "12x^3",
+        "r": "a"
+    },
+    {
+        "q": "What is the derivative of e^(3x) with respect to x?",
+        "a": "3e^(3x)",
+        "b": "e^(3x)",
+        "c": "9e^(2x)",
+        "d": "3e^(2x)",
+        "r": "b"
+    },
+    {
+        "q": "The process of finding the derivative of a function is called:",
+        "a": "Integration",
+        "b": "Differentiation",
+        "c": "Summation",
+        "d": "Multiplication",
+        "r": "b"
+    },
+    {
+        "q": "If a function is even, it satisfies the condition:",
+        "a": "f(x) = -f(x)",
+        "b": "f(-x) = f(x)",
+        "c": "f'(x) = 0",
+        "d": "f(0) = 0",
+        "r": "b"
+    },
+    {
+        "q": "Find the integral of cos(x) with respect to x",
+        "a": "sin(x) + C",
+        "b": "cos(x) + C",
+        "c": "-sin(x) + C",
+        "d": "-cos(x) + C",
+        "r": "a"
+    },
+    {
+        "q": "The area under the curve is calculated using:",
+        "a": "Definite integral",
+        "b": "Antiderivative",
+        "c": "Tangent line",
+        "d": "Derivative",
+        "r": "a"
+    },
+    {
+        "q": "If f(x) = x^3 - 4x^2 + 2x - 5, what is f'(x)?",
+        "a": "3x^2 - 4x + 2",
+        "b": "2x^3 - 8x + 2",
+        "c": "3x^2 - 4x + 2",
+        "d": "3x^2 - 8x + 2",
+        "r": "d"
+    },
+    {
+        "q": "The slope of a function at a specific point is given by:",
+        "a": "Integral",
+        "b": "Derivative",
+        "c": "Limit",
+        "d": "Secant",
+        "r": "b"
+    },
+    {
+        "q": "If a function is continuous and differentiable on an open interval, it is also:",
+        "a": "Continuous",
+        "b": "Differentiable",
+        "c": "Continuous and Differentiable",
+        "d": "Discontinuous",
+        "r": "c"
+    },
+    {
+        "q": "Find the derivative of tan(x)",
+        "a": "sec^2(x)",
+        "b": "cot(x)",
+        "c": "cos(x)",
+        "d": "sin(x)",
+        "r": "a"
+    },
+    {
+        "q": "The antiderivative of 5x^4 with respect to x is:",
+        "a": "x^5 + C",
+        "b": "4x^5 + C",
+        "c": "5x^3 + C",
+        "d": "5x^5 + C",
+        "r": "d"
+    },
+    {
+        "q": "The process of finding the integral of a function is called:",
+        "a": "Differentiation",
+        "b": "Integration",
+        "c": "Summation",
+        "d": "Multiplication",
+        "r": "b"
+    },
+    {
+        "q": "If a function is odd, it satisfies the condition:",
+        "a": "f(x) = -f(x)",
+        "b": "f(-x) = f(x)",
+        "c": "f'(x) = 0",
+        "d": "f(0) = 0",
+        "r": "a"
+    },
+    {
+        "q": "Find the integral of e^(2x) with respect to x",
+        "a": "2e^(2x) + C",
+        "b": "e^(2x) + C",
+        "c": "2e^(2x) + C",
+        "d": "e^(2x) + C",
+        "r": "b"
+    },
+    {
+        "q": "The process of finding the area under a curve is called:",
+        "a": "Differentiation",
+        "b": "Integration",
+        "c": "Summation",
+        "d": "Derivation",
+        "r": "b"
+    },
+    {
+        "q": "If f(x) = 4x^5 - 2x^3 + 7x - 3, what is f'(x)?",
+        "a": "20x^4 - 6x^2 + 7",
+        "b": "20x^4 - 6x^2 + 7",
+        "c": "20x^4 - 6x^2 + 7",
+        "d": "20x^4 - 6x^2 + 7",
+        "r": "a"
+    },
+    {
+        "q": "The slope of a tangent line to a curve at a specific point is given by:",
+        "a": "Integral",
+        "b": "Derivative",
+        "c": "Limit",
+        "d": "Secant",
+        "r": "b"
+    },
+    {
+        "q": "If a function is continuous but not differentiable on a closed interval, it has a:",
+        "a": "Hole",
+        "b": "Vertical asymptote",
+        "c": "Horizontal asymptote",
+        "d": "Corner",
+        "r": "d"
+    },
+    {
+        "q": "Find the derivative of cot(x)",
+        "a": "-csc^2(x)",
+        "b": "-cot(x)",
+        "c": "csc^2(x)",
+        "d": "-cos^2(x)",
+        "r": "a"
+    },
+    {
+        "q": "The antiderivative of (1/x) with respect to x is:",
+        "a": "ln(x) + C",
+        "b": "x + C",
+        "c": "x^2 + C",
+        "d": "1/x + C",
+        "r": "a"
+    },
+    {
+        "q": "The process of finding the area between two curves is called:",
+        "a": "Differentiation",
+        "b": "Integration",
+        "c": "Summation",
+        "d": "Derivation",
+        "r": "b"
+    },
+    {
+        "q": "Solve for x: 3x + 5 = 14",
+        "a": "x = 9",
+        "b": "x = 3",
+        "c": "x = 4",
+        "d": "x = 7",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a linear equation ?",
+        "a": "2x^2 + 3 = 11",
+        "b": "4x + 2y = 10",
+        "c": "5 + 2y = 7x",
+        "d": "2 + 3y^2 = 8",
+        "r": "b"
+    },
+    {
+        "q": "Find the value of y: 2y - 7 = 3",
+        "a": "y = 5",
+        "b": "y = 6",
+        "c": "y = 8",
+        "d": "y = 10",
+        "r": "a"
+    },
+    {
+        "q": "Solve the equation for x: 4(x + 3) = 32",
+        "a": "x = 6",
+        "b": "x = 8",
+        "c": "x = 5",
+        "d": "x = 9",
+        "r": "a"
+    },
+    {
+        "q": "Which of these is a solution to the equation 2x - 1 = 5?",
+        "a": "x = 6",
+        "b": "x = 3",
+        "c": "x = 4",
+        "d": "x = 2",
+        "r": "d"
+    },
+    {
+        "q": "The sum of two consecutive odd integers is 44. Find the integers.",
+        "a": "19 and 23",
+        "b": "20 and 22",
+        "c": "18 and 24",
+        "d": "21 and 23",
+        "r": "b"
+    },
+    {
+        "q": "Solve for x: 7x - 4 = 3x + 10",
+        "a": "x = 7",
+        "b": "x = 5",
+        "c": "x = 6",
+        "d": "x = 8",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following equations is NOT linear?",
+        "a": "3x - 2y = 5",
+        "b": "2x^2 + 3y = 7",
+        "c": "x + 5 = 2y",
+        "d": "4x - 6y = 12",
+        "r": "b"
+    },
+    {
+        "q": "Find the value of y: 3(y - 2) = 6",
+        "a": "y = 3",
+        "b": "y = 4",
+        "c": "y = 5",
+        "d": "y = 2",
+        "r": "d"
+    },
+    {
+        "q": "Solve the equation for x: 2x + 7 = 17",
+        "a": "x = 7",
+        "b": "x = 5",
+        "c": "x = 6",
+        "d": "x = 8",
+        "r": "c"
+    },
+    {
+        "q": "The sum of two consecutive even integers is 54. Find the integers.",
+        "a": "26 and 28",
+        "b": "22 and 24",
+        "c": "28 and 30",
+        "d": "30 and 32",
+        "r": "a"
+    },
+    {
+        "q": "Solve for x: 5(x - 3) = 2(x + 4)",
+        "a": "x = 12",
+        "b": "x = 7",
+        "c": "x = 10",
+        "d": "x = 9",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a linear equation in two variables?",
+        "a": "3x + 2y^2 = 8",
+        "b": "4x - 5y = 12",
+        "c": "x^2 + y^2 = 25",
+        "d": "2x - 3y = 6",
+        "r": "d"
+    },
+    {
+        "q": "Find the value of y: 4(y + 1) = 12",
+        "a": "y = 4",
+        "b": "y = 2",
+        "c": "y = 3",
+        "d": "y = 5",
+        "r": "c"
+    },
+    {
+        "q": "Solve the equation for x: 3x - 5 = 7",
+        "a": "x = 2",
+        "b": "x = 5",
+        "c": "x = 6",
+        "d": "x = 4",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following equations represents a vertical line?",
+        "a": "y = 4x - 3",
+        "b": "2x + 3y = 9",
+        "c": "x - y = 0",
+        "d": "3x + 2y = 6",
+        "r": "c"
+    },
+    {
+        "q": "Find the value of y: 6(y - 2) = 24",
+        "a": "y = 8",
+        "b": "y = 6",
+        "c": "y = 5",
+        "d": "y = 7",
+        "r": "b"
+    },
+    {
+        "q": "Solve for x: 2(x + 5) = 3(x - 2)",
+        "a": "x = 11",
+        "b": "x = 8",
+        "c": "x = 9",
+        "d": "x = 7",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a linear equation?",
+        "a": "3x^2 + 5y = 10",
+        "b": "2x - 4y = 8",
+        "c": "4x + y^2 = 7",
+        "d": "6x + 2y = 12",
+        "r": "b"
+    },
+    {
+        "q": "Find the value of y: 5(y + 3) = 10",
+        "a": "y = 1",
+        "b": "y = 2",
+        "c": "y = 3",
+        "d": "y = 4",
+        "r": "a"
+    },
+    {
+        "q": "Solve the equation for x: 4x - 8 = 12",
+        "a": "x = 6",
+        "b": "x = 4",
+        "c": "x = 5",
+        "d": "x = 7",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a solution to the equation 3x + 2 = 11?",
+        "a": "x = 4",
+        "b": "x = 3",
+        "c": "x = 2",
+        "d": "x = 5",
+        "r": "c"
+    },
+    {
+        "q": "The sum of two consecutive odd integers is 50. Find the integers.",
+        "a": "24 and 26",
+        "b": "22 and 24",
+        "c": "25 and 27",
+        "d": "21 and 23",
+        "r": "a"
+    },
+    {
+        "q": "Solve for x: 6x - 3 = 2x + 15",
+        "a": "x = 5",
+        "b": "x = 6",
+        "c": "x = 7",
+        "d": "x = 4",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following equations is NOT linear ?",
+        "a": "2x + 3y = 9",
+        "b": "x^2 - y = 5",
+        "c": "3x + y = 6",
+        "d": "4x - 2y = 8",
+        "r": "b"
+    },
+    {
+        "q": "What is the general form of a quadratic equation?",
+        "a": "ax + b = 0",
+        "b": "ax^2 + bx + c = 0",
+        "c": "x^2 + bx + c = 0",
+        "d": "ax^2 + bx = c",
+        "r": "b"
+    },
+    {
+        "q": "The solutions to the quadratic equation ax^2 + bx + c = 0 are called:",
+        "a": "Coefficients",
+        "b": "Variables",
+        "c": "Constants",
+        "d": "Roots",
+        "r": "d"
+    },
+    {
+        "q": "What is the discriminant of a quadratic equation ax^2 + bx + c = 0?",
+        "a": "b^2 - 4ac",
+        "b": "b^2 + 4ac",
+        "c": "2ab",
+        "d": "b - 4ac",
+        "r": "a"
+    },
+    {
+        "q": "For the quadratic equation 2x^2 - 5x + 2 = 0, what are its roots?",
+        "a": "-2 and -1/2",
+        "b": "1/2 and 2",
+        "c": "1 and 2",
+        "d": "-1 and -2",
+        "r": "a"
+    },
+    {
+        "q": "The sum of the roots of a quadratic equation is given by:",
+        "a": "-b",
+        "b": "a",
+        "c": "b",
+        "d": "c",
+        "r": "c"
+    },
+    {
+        "q": "The product of the roots of a quadratic equation is given by:",
+        "a": "c/a",
+        "b": "-c/a",
+        "c": "a/c",
+        "d": "-a/c",
+        "r": "a"
+    },
+    {
+        "q": "If a quadratic equation has one real root, then the value of its discriminant is:",
+        "a": "0",
+        "b": "1",
+        "c": "-1",
+        "d": "2",
+        "r": "a"
+    },
+    {
+        "q": "If the discriminant of a quadratic equation is negative, the roots are:",
+        "a": "Real and equal",
+        "b": "Real and distinct",
+        "c": "Imaginary",
+        "d": "Zero",
+        "r": "c"
+    },
+    {
+        "q": "What type of roots does the quadratic equation 3x^2 - 6x + 3 = 0 have?",
+        "a": "Real and equal",
+        "b": "Imaginary",
+        "c": "Real and distinct",
+        "d": "Complex",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula to find the roots of a quadratic equation ax^2 + bx + c = 0?",
+        "a": "x = (-b ± √(b^2 - 4ac)) / (2a)",
+        "b": "x = (-b ∓ √(b^2 + 4ac)) / (2a)",
+        "c": "x = (-b ± √(b^2 + 4ac)) / (2a)",
+        "d": "x = (-b ∓ √(b^2 - 4ac)) / (2a)",
+        "r": "a"
+    },
+    {
+        "q": "The roots of the quadratic equation x^2 + 3x + 2 = 0 are:",
+        "a": "-1 and -2",
+        "b": "1 and 2",
+        "c": "-1 and 2",
+        "d": "-2 and -3",
+        "r": "a"
+    },
+    {
+        "q": "If the discriminant of a quadratic equation is zero, the roots are:",
+        "a": "Imaginary",
+        "b": "Real and equal",
+        "c": "Real and distinct",
+        "d": "Complex",
+        "r": "b"
+    },
+    {
+        "q": "The value of 'a' for the quadratic equation 5x^2 - 9x + 4 = 0 is:",
+        "a": "5",
+        "b": "-9",
+        "c": "4",
+        "d": "-5",
+        "r": "a"
+    },
+    {
+        "q": "What is the other root of the quadratic equation 2x^2 - 7x + 6 = 0 if one root is 2?",
+        "a": "3",
+        "b": "-3",
+        "c": "6",
+        "d": "-6",
+        "r": "a"
+    },
+    {
+        "q": "The roots of the quadratic equation 4x^2 - 16 = 0 are:",
+        "a": "4 and -4",
+        "b": "-4 and 4",
+        "c": "2 and -2",
+        "d": "-2 and 2",
+        "r": "b"
+    },
+    {
+        "q": "What are the roots of the quadratic equation x^2 + 5x + 6 = 0?",
+        "a": "-3 and -2",
+        "b": "-1 and -6",
+        "c": "2 and 3",
+        "d": "-2 and 3",
+        "r": "a"
+    },
+    {
+        "q": "If the roots of a quadratic equation are complex, then the discriminant is:",
+        "a": "Negative",
+        "b": "Positive",
+        "c": "Zero",
+        "d": "Imaginary",
+        "r": "c"
+    },
+    {
+        "q": "The roots of the quadratic equation 3x^2 + 7x + 2 = 0 are:",
+        "a": "-1 and -2",
+        "b": "1 and 2",
+        "c": "-1 and -7",
+        "d": "-2 and -7",
+        "r": "b"
+    },
+    {
+        "q": "What is the value of 'b' for the quadratic equation 2x^2 + 4x - 3 = 0?",
+        "a": "2",
+        "b": "4",
+        "c": "-3",
+        "d": "-2",
+        "r": "b"
+    },
+    {
+        "q": "The sum of the squares of the roots of a quadratic equation is:",
+        "a": "(b^2 - 2ac) / a",
+        "b": "(a^2 + b^2) / c",
+        "c": "(a^2 - 2bc) / c",
+        "d": "(b^2 - 2ac) / c",
+        "r": "c"
+    },
+    {
+        "q": "What are the roots of the quadratic equation 2x^2 - 9x + 4 = 0?",
+        "a": "1/2 and 4",
+        "b": "2 and -2",
+        "c": "1/4 and -8",
+        "d": "-1/2 and -4",
+        "r": "a"
+    },
+    {
+        "q": "The roots of the quadratic equation x^2 - 10x + 25 = 0 are:",
+        "a": "5 and 5",
+        "b": "5 and -5",
+        "c": "10 and -10",
+        "d": "25 and -25",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of 'c' for the quadratic equation 4x^2 + 8x - 10 = 0?",
+        "a": "4",
+        "b": "8",
+        "c": "-10",
+        "d": "10",
+        "r": "d"
+    },
+    {
+        "q": "The roots of the quadratic equation 6x^2 - 11x + 4 = 0 are:",
+        "a": "1/2 and 3/4",
+        "b": "2 and -2",
+        "c": "4 and -4",
+        "d": "-1/6 and 2/3",
+        "r": "a"
+    },
+    {
+        "q": "If a quadratic equation has two equal real roots, the value of its discriminant is:",
+        "a": "0",
+        "b": "1",
+        "c": "-1",
+        "d": "2",
+        "r": "a"
+    },
+    {
+        "q": "The roots of the quadratic equation x^2 - 8x + 16 = 0 are:",
+        "a": "4 and -4",
+        "b": "8 and -8",
+        "c": "4 and 4",
+        "d": "8 and 8",
+        "r": "a"
+    },
+    {
+        "q": "What are the roots of the quadratic equation 3x^2 - 10x + 7 = 0?",
+        "a": "1 and 7",
+        "b": "1/3 and -7",
+        "c": "1/3 and 7",
+        "d": "-1 and -7",
+        "r": "c"
+    },
+    {
+        "q": "The sum of the roots of a quadratic equation is also known as:",
+        "a": "Discriminant",
+        "b": "Coefficient",
+        "c": "Constant",
+        "d": "Vertex",
+        "r": "c"
+    },
+    {
+        "q": "The roots of the quadratic equation 2x^2 - 3x + 1 = 0 are:",
+        "a": "1 and 1/2",
+        "b": "1 and -1",
+        "c": "1 and -1/2",
+        "d": "3/2 and -1",
+        "r": "a"
+    },
+    {
+        "q": "The roots of the quadratic equation x^2 - 3x + 2 = 0 are:",
+        "a": "1 and 2",
+        "b": "3 and -2",
+        "c": "-1 and -2",
+        "d": "2 and 3",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of 'a' for the quadratic equation 9x^2 - 6x + 1 = 0?",
+        "a": "9",
+        "b": "-6",
+        "c": "1",
+        "d": "-9",
+        "r": "a"
+    },
+    {
+        "q": "The roots of the quadratic equation 3x^2 - 4x - 4 = 0 are:",
+        "a": "-1 and -4/3",
+        "b": "1 and -1",
+        "c": "2 and -2",
+        "d": "-2 and -1/3",
+        "r": "a"
+    },
+    {
+        "q": "If the roots of a quadratic equation are rational, then the discriminant is:",
+        "a": "Rational",
+        "b": "Irrational",
+        "c": "Positive",
+        "d": "Negative",
+        "r": "c"
+    },
+    {
+        "q": "The roots of the quadratic equation x^2 - 5x + 6 = 0 are:",
+        "a": "2 and 3",
+        "b": "-3 and -2",
+        "c": "1 and 6",
+        "d": "5 and -5",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of 'b' for the quadratic equation 4x^2 + 5x - 1 = 0?",
+        "a": "4",
+        "b": "5",
+        "c": "-1",
+        "d": "-5",
+        "r": "b"
+    },
+    {
+        "q": "What is the value of 5^3?",
+        "a": "125",
+        "b": "64",
+        "c": "243",
+        "d": "216",
+        "r": "a"
+    },
+    {
+        "q": "Simplify 2^5 × 2^3.",
+        "a": "32",
+        "b": "25",
+        "c": "256",
+        "d": "64",
+        "r": "d"
+    },
+    {
+        "q": "What is the value of (-3)^4?",
+        "a": "9",
+        "b": "-81",
+        "c": "81",
+        "d": "-27",
+        "r": "c"
+    },
+    {
+        "q": "Evaluate 10^0.",
+        "a": "1",
+        "b": "10",
+        "c": "0",
+        "d": "100",
+        "r": "a"
+    },
+    {
+        "q": "If 2^a = 32, what is the value of 'a'?",
+        "a": "5",
+        "b": "3",
+        "c": "6",
+        "d": "8",
+        "r": "a"
+    },
+    {
+        "q": "What is the simplified value of 4^3 ÷ 4^2?",
+        "a": "16",
+        "b": "8",
+        "c": "1",
+        "d": "64",
+        "r": "c"
+    },
+    {
+        "q": "If 3^x = 27, find the value of 'x'.",
+        "a": "5",
+        "b": "3",
+        "c": "1",
+        "d": "4",
+        "r": "b"
+    },
+    {
+        "q": "What is the value of 9^0?",
+        "a": "1",
+        "b": "0",
+        "c": "9",
+        "d": "-1",
+        "r": "a"
+    },
+    {
+        "q": "Evaluate (-2)^4.",
+        "a": "8",
+        "b": "-16",
+        "c": "16",
+        "d": "-8",
+        "r": "c"
+    },
+    {
+        "q": "What is the simplified form of 5^2 × 5^(-3)?",
+        "a": "25",
+        "b": "125",
+        "c": "1/5",
+        "d": "1/125",
+        "r": "c"
+    },
+    {
+        "q": "If 7^a = 49, find the value of 'a'.",
+        "a": "2",
+        "b": "3",
+        "c": "7",
+        "d": "4",
+        "r": "a"
+    },
+    {
+        "q": "Evaluate 0.2^2.",
+        "a": "0.4",
+        "b": "0.02",
+        "c": "0.04",
+        "d": "0.2",
+        "r": "c"
+    },
+    {
+        "q": "What is the value of 2^(-3)?",
+        "a": "8",
+        "b": "-8",
+        "c": "1/8",
+        "d": "-1/8",
+        "r": "c"
+    },
+    {
+        "q": "Simplify 12^0.",
+        "a": "0",
+        "b": "1",
+        "c": "12",
+        "d": "144",
+        "r": "b"
+    },
+    {
+        "q": "If 4^x = 1/64, find the value of 'x'.",
+        "a": "-3",
+        "b": "-2",
+        "c": "3",
+        "d": "2",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of 1^10?",
+        "a": "10",
+        "b": "1",
+        "c": "0",
+        "d": "11",
+        "r": "b"
+    },
+    {
+        "q": "Evaluate (-5)^2.",
+        "a": "25",
+        "b": "-25",
+        "c": "10",
+        "d": "-10",
+        "r": "a"
+    },
+    {
+        "q": "What is the simplified form of 8^3 ÷ 8^(-2)?",
+        "a": "1",
+        "b": "8",
+        "c": "64",
+        "d": "512",
+        "r": "c"
+    },
+    {
+        "q": "If 6^a = 216, find the value of 'a'.",
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6",
+        "r": "a"
+    },
+    {
+        "q": "Evaluate 0.5^(-2).",
+        "a": "4",
+        "b": "2",
+        "c": "0.04",
+        "d": "0.25",
+        "r": "c"
+    },
+    {
+        "q": "What is the value of 3^4?",
+        "a": "81",
+        "b": "27",
+        "c": "12",
+        "d": "64",
+        "r": "a"
+    },
+    {
+        "q": "Simplify 2^(-4) × 2^(-2).",
+        "a": "1/16",
+        "b": "16",
+        "c": "1/4",
+        "d": "4",
+        "r": "a"
+    },
+    {
+        "q": "If 10^x = 0.01, find the value of 'x'.",
+        "a": "-2",
+        "b": "-1",
+        "c": "2",
+        "d": "1",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of 0^5?",
+        "a": "0",
+        "b": "1",
+        "c": "5",
+        "d": "-1",
+        "r": "a"
+    },
+    {
+        "q": "Evaluate (-3)^3.",
+        "a": "9",
+        "b": "-27",
+        "c": "3",
+        "d": "-9",
+        "r": "b"
+    },
+    {
+        "q": "What is the simplified form of 9^4 ÷ 9^2?",
+        "a": "81",
+        "b": "27",
+        "c": "3",
+        "d": "729",
+        "r": "a"
+    },
+    {
+        "q": "If 5^a = 1/125, find the value of 'a'.",
+        "a": "-3",
+        "b": "-1",
+        "c": "3",
+        "d": "1",
+        "r": "a"
+    },
+    {
+        "q": "Evaluate 0.1^3.",
+        "a": "0.01",
+        "b": "0.001",
+        "c": "0.1",
+        "d": "0.03",
+        "r": "d"
+    },
+    {
+        "q": "What is the value of 6^0?",
+        "a": "0",
+        "b": "1",
+        "c": "6",
+        "d": "36",
+        "r": "b"
+    },
+    {
+        "q": "Simplify 2^3 × 2^(-1).",
+        "a": "2",
+        "b": "4",
+        "c": "1/2",
+        "d": "8",
+        "r": "b"
+    },
+    {
+        "q": "If 8^x = 64, find the value of 'x'.",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "6",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of 1^(-2)?",
+        "a": "1",
+        "b": "-1",
+        "c": "2",
+        "d": "0",
+        "r": "a"
+    },
+    {
+        "q": "Evaluate (-4)^2.",
+        "a": "8",
+        "b": "16",
+        "c": "4",
+        "d": "-16",
+        "r": "c"
+    },
+    {
+        "q": "What is the simplified form of 3^5 ÷ 3^(-2)?",
+        "a": "1",
+        "b": "27",
+        "c": "9",
+        "d": "81",
+        "r": "b"
+    },
+    {
+        "q": "If 2^a = 0.125, find the value of 'a'.",
+        "a": "-3",
+        "b": "-1",
+        "c": "3",
+        "d": "1",
+        "r": "a"
+    },
+    {
+        "q": "Evaluate 0.2^(-3).",
+        "a": "25",
+        "b": "125",
+        "c": "0.008",
+        "d": "0.5",
+        "r": "c"
+    },
+    {
+        "q": "What is the value of 4^(-2)?",
+        "a": "1/8",
+        "b": "1/16",
+        "c": "-1/4",
+        "d": "16",
+        "r": "b"
+    },
+    {
+        "q": "Simplify 5^0.",
+        "a": "0",
+        "b": "1",
+        "c": "5",
+        "d": "25",
+        "r": "b"
+    },
+    {
+        "q": "If 3^x = 1/81, find the value of 'x'.",
+        "a": "-4",
+        "b": "-2",
+        "c": "4",
+        "d": "2",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of (-2)^5?",
+        "a": "-32",
+        "b": "-25",
+        "c": "32",
+        "d": "-2",
+        "r": "a"
+    },
+    {
+        "q": "Evaluate 1^(-3).",
+        "a": "1",
+        "b": "3",
+        "c": "0",
+        "d": "-1",
+        "r": "d"
+    },
+    {
+        "q": "What is the simplified form of 6^2 ÷ 6^(-1)?",
+        "a": "12",
+        "b": "36",
+        "c": "6",
+        "d": "216",
+        "r": "c"
+    },
+    {
+        "q": "If a:b = 3:5, what is b:a?",
+        "a": "3:5",
+        "b": "5:3",
+        "c": "08:15",
+        "d": "15:8",
+        "r": "b"
+    },
+    {
+        "q": "If 4 men can build a wall in 6 days, how many men are needed to build the same wall in 3 days?",
+        "a": "8",
+        "b": "12",
+        "c": "6",
+        "d": "16",
+        "r": "c"
+    },
+    {
+        "q": "The ratio of boys to girls in a class is 2:3. If there are 24 girls, how many boys are there?",
+        "a": "12",
+        "b": "18",
+        "c": "36",
+        "d": "48",
+        "r": "a"
+    },
+    {
+        "q": "If 15 pens cost $75, what will be the cost of 9 pens?",
+        "a": "$27",
+        "b": "$54",
+        "c": "$45",
+        "d": "$61",
+        "r": "b"
+    },
+    {
+        "q": "The ratio of lengths of two similar triangles is 3:5. If the perimeter of the first triangle is 24 cm, what is the perimeter of the second triangle?",
+        "a": "40 cm",
+        "b": "36 cm",
+        "c": "30 cm",
+        "d": "48 cm",
+        "r": "d"
+    },
+    {
+        "q": "The ages of Tom and Jerry are in the ratio 5:3. If the sum of their ages is 64 years, what is Jerry's age?",
+        "a": "27 years",
+        "b": "32 years",
+        "c": "36 years",
+        "d": "18 years",
+        "r": "a"
+    },
+    {
+        "q": "A recipe calls for 2 cups of flour and 1 cup of sugar. If you want to make half of the recipe, how much sugar should you use?",
+        "a": "1/2 cup",
+        "b": "1 cup",
+        "c": "1/4 cup",
+        "d": "2 cups",
+        "r": "b"
+    },
+    {
+        "q": "The ratio of boys to girls in a school is 4:5. If there are 1800 girls, how many boys are there?",
+        "a": "2000",
+        "b": "1600",
+        "c": "2250",
+        "d": "1440",
+        "r": "a"
+    },
+    {
+        "q": "A car covers a distance of 180 miles in 3 hours. At the same speed, how many miles will it cover in 5 hours?",
+        "a": "250 miles",
+        "b": "270 miles",
+        "c": "200 miles",
+        "d": "300 miles",
+        "r": "c"
+    },
+    {
+        "q": "If 6 books cost $90, what will be the cost of 10 books?",
+        "a": "$120",
+        "b": "$100",
+        "c": "$150",
+        "d": "$80",
+        "r": "a"
+    },
+    {
+        "q": "The ratio of boys to girls in a class is 7:4. If there are 28 girls, how many boys are there?",
+        "a": "49",
+        "b": "63",
+        "c": "35",
+        "d": "56",
+        "r": "a"
+    },
+    {
+        "q": "A train travels 240 miles in 4 hours. How many miles will it travel in 8 hours at the same speed?",
+        "a": "480 miles",
+        "b": "520 miles",
+        "c": "400 miles",
+        "d": "560 miles",
+        "r": "a"
+    },
+    {
+        "q": "If 2 gallons of paint cover an area of 240 square feet, how many gallons of paint are needed for an area of 360 square feet?",
+        "a": "2.5 gallons",
+        "b": "3 gallons",
+        "c": "2.25 gallons",
+        "d": "3.5 gallons",
+        "r": "a"
+    },
+    {
+        "q": "The ratio of the salaries of John and Sam is 5:3. If Sam earns $900, what is John's salary?",
+        "a": "$1500",
+        "b": "$800",
+        "c": "$1200",
+        "d": "$1000",
+        "r": "c"
+    },
+    {
+        "q": "A recipe requires 4 cups of milk and 2 cups of sugar. If you want to make one-third of the recipe, how much sugar should you use?",
+        "a": "1/3 cup",
+        "b": "1 cup",
+        "c": "2/3 cup",
+        "d": "1/2 cup",
+        "r": "b"
+    },
+    {
+        "q": "In a school election, the ratio of votes received by two candidates was 7:5. If there were 240 total votes, how many votes did the winning candidate receive?",
+        "a": "140 votes",
+        "b": "120 votes",
+        "c": "80 votes",
+        "d": "100 votes",
+        "r": "a"
+    },
+    {
+        "q": "The ratio of boys to girls in a class is 3:2. If there are 24 boys, how many girls are there?",
+        "a": "16",
+        "b": "18",
+        "c": "32",
+        "d": "36",
+        "r": "c"
+    },
+    {
+        "q": "A tank can be filled by two pipes A and B in 12 hours and 16 hours, respectively. If both pipes are opened together, how long will it take to fill the tank?",
+        "a": "6 hours",
+        "b": "7 hours",
+        "c": "5 hours",
+        "d": "8 hours",
+        "r": "b"
+    },
+    {
+        "q": "The ratio of the ages of a father and his son is 5:1. If the sum of their ages is 54 years, what is the age of the father?",
+        "a": "45 years",
+        "b": "40 years",
+        "c": "35 years",
+        "d": "50 years",
+        "r": "a"
+    },
+    {
+        "q": "If a car travels 320 miles in 8 hours, how long will it take to travel 640 miles at the same speed?",
+        "a": "16 hours",
+        "b": "18 hours",
+        "c": "20 hours",
+        "d": "14 hours",
+        "r": "a"
+    },
+    {
+        "q": "A recipe requires 2 cups of flour and 1 cup of sugar. If you want to make one-fourth of the recipe, how much flour should you use?",
+        "a": "1/4 cup",
+        "b": "1/2 cup",
+        "c": "1 cup",
+        "d": "1/8 cup",
+        "r": "d"
+    },
+    {
+        "q": "The ratio of the ages of Sara and Jessica is 3:4. If Jessica is 28 years old, what is Sara's age?",
+        "a": "18 years",
+        "b": "21 years",
+        "c": "24 years",
+        "d": "30 years",
+        "r": "b"
+    },
+    {
+        "q": "A contractor can build a wall in 12 days. How many contractors are needed to build the wall in 4 days?",
+        "a": "3 contractors",
+        "b": "4 contractors",
+        "c": "2 contractors",
+        "d": "5 contractors",
+        "r": "c"
+    },
+    {
+        "q": "The ratio of the weights of two boxes is 2:5. If the first box weighs 20 kg, what is the weight of the second box?",
+        "a": "35 kg",
+        "b": "40 kg",
+        "c": "45 kg",
+        "d": "25 kg",
+        "r": "c"
+    },
+    {
+        "q": "A train travels 150 miles in 3 hours. How many miles will it travel in 5 hours at the same speed?",
+        "a": "200 miles",
+        "b": "250 miles",
+        "c": "300 miles",
+        "d": "180 miles",
+        "r": "a"
+    },
+    {
+        "q": "If a car covers a distance of 280 miles in 4 hours, how many hours will it take to cover 420 miles at the same speed?",
+        "a": "6 hours",
+        "b": "7 hours",
+        "c": "5 hours",
+        "d": "8 hours",
+        "r": "b"
+    },
+    {
+        "q": "The ratio of boys to girls in a class is 5:3. If there are 15 girls, how many boys are there?",
+        "a": "25",
+        "b": "20",
+        "c": "30",
+        "d": "18",
+        "r": "c"
+    },
+    {
+        "q": "The cost of 8 pens is $48. What will be the cost of 20 pens?",
+        "a": "$80",
+        "b": "$100",
+        "c": "$120",
+        "d": "$60",
+        "r": "d"
+    },
+    {
+        "q": "What is 25% of 200?",
+        "a": "25",
+        "b": "50",
+        "c": "75",
+        "d": "100",
+        "r": "b"
+    },
+    {
+        "q": "If the price of a product increases by 20% and then decreases by 10%, what is the net percentage change?",
+        "a": "8% increase",
+        "b": "8% decrease",
+        "c": "10% increase",
+        "d": "10% decrease",
+        "r": "a"
+    },
+    {
+        "q": "Express 3/5 as a percentage",
+        "a": "30%",
+        "b": "50%",
+        "c": "60%",
+        "d": "75%",
+        "r": "b"
+    },
+    {
+        "q": "If a shirt originally cost $40 and is now on sale for $32, what is the percentage discount?",
+        "a": "15%",
+        "b": "20%",
+        "c": "25%",
+        "d": "30%",
+        "r": "d"
+    },
+    {
+        "q": "If an item is sold at a 12.5% loss and was sold for $220, what was the original price?",
+        "a": "$240",
+        "b": "$250",
+        "c": "$260",
+        "d": "$270",
+        "r": "c"
+    },
+    {
+        "q": "What is 40% of 1500?",
+        "a": "400",
+        "b": "600",
+        "c": "800",
+        "d": "1000",
+        "r": "c"
+    },
+    {
+        "q": "If the population of a town increased from 10,000 to 12,000, what is the percentage increase?",
+        "a": "10%",
+        "b": "12%",
+        "c": "15%",
+        "d": "20%",
+        "r": "d"
+    },
+    {
+        "q": "A bookstore sold 80 out of 100 books. What percentage of books did they sell?",
+        "a": "60%",
+        "b": "70%",
+        "c": "80%",
+        "d": "90%",
+        "r": "c"
+    },
+    {
+        "q": "If the original price of a smartphone is $800 and it is currently being sold for $680, what is the percentage decrease?",
+        "a": "10%",
+        "b": "15%",
+        "c": "20%",
+        "d": "25%",
+        "r": "a"
+    },
+    {
+        "q": "Convert 15% into a decimal.",
+        "a": "0.015",
+        "b": "0.15",
+        "c": "0.0015",
+        "d": "0.001",
+        "r": "b"
+    },
+    {
+        "q": "If 25% of a number is 75, what is the number?",
+        "a": "200",
+        "b": "225",
+        "c": "250",
+        "d": "275",
+        "r": "d"
+    },
+    {
+        "q": "If the price of a product is increased from $50 to $60, what is the percentage increase?",
+        "a": "10%",
+        "b": "12%",
+        "c": "15%",
+        "d": "20%",
+        "r": "d"
+    },
+    {
+        "q": "What is 30% of 5000?",
+        "a": "1200",
+        "b": "1500",
+        "c": "1800",
+        "d": "2000",
+        "r": "a"
+    },
+    {
+        "q": "If the original price of a car is $25,000 and it is being sold for $22,500, what is the percentage discount?",
+        "a": "5%",
+        "b": "8%",
+        "c": "10%",
+        "d": "12%",
+        "r": "c"
+    },
+    {
+        "q": "Express 7/8 as a percentage.",
+        "a": "70%",
+        "b": "75%",
+        "c": "80%",
+        "d": "87.50%",
+        "r": "d"
+    },
+    {
+        "q": "If the price of a product decreased by 15%, what percentage increase is required to return to the original price?",
+        "a": "12.50%",
+        "b": "15%",
+        "c": "17.65%",
+        "d": "20%",
+        "r": "c"
+    },
+    {
+        "q": "The price of a shirt increased from $20 to $25. What is the percentage increase?",
+        "a": "20%",
+        "b": "22.50%",
+        "c": "25%",
+        "d": "30%",
+        "r": "b"
+    },
+    {
+        "q": "If a store originally had 200 hats in stock but sold 25% of them, how many hats are left?",
+        "a": "100",
+        "b": "125",
+        "c": "150",
+        "d": "175",
+        "r": "b"
+    },
+    {
+        "q": "A student scored 75 out of 100 on a test. What percentage did the student score?",
+        "a": "60%",
+        "b": "70%",
+        "c": "75%",
+        "d": "80%",
+        "r": "c"
+    },
+    {
+        "q": "The price of a phone decreased from $600 to $480. What is the percentage decrease?",
+        "a": "15%",
+        "b": "20%",
+        "c": "25%",
+        "d": "30%",
+        "r": "d"
+    },
+    {
+        "q": "If a company's profits increased from $50,000 to $60,000, what is the percentage increase in profits?",
+        "a": "10%",
+        "b": "12%",
+        "c": "15%",
+        "d": "20%",
+        "r": "c"
+    },
+    {
+        "q": "Express 5/6 as a percentage.",
+        "a": "55%",
+        "b": "60%",
+        "c": "65%",
+        "d": "83.33%",
+        "r": "b"
+    },
+    {
+        "q": "If the original price of a laptop is $800 and it is being sold at a 20% discount, what is the sale price?",
+        "a": "$640",
+        "b": "$680",
+        "c": "$720",
+        "d": "$760",
+        "r": "a"
+    },
+    {
+        "q": "If the value of a car increased from $15,000 to $18,000, what is the percentage increase?",
+        "a": "15%",
+        "b": "18%",
+        "c": "20%",
+        "d": "25%",
+        "r": "c"
+    },
+    {
+        "q": "What is 15% of 400?",
+        "a": "40",
+        "b": "60",
+        "c": "80",
+        "d": "100",
+        "r": "c"
+    },
+    {
+        "q": "If the population of a city decreased from 1 million to 800,000, what is the percentage decrease?",
+        "a": "10%",
+        "b": "15%",
+        "c": "20%",
+        "d": "25%",
+        "r": "b"
+    },
+    {
+        "q": "A company increased its workforce from 500 employees to 600 employees. What is the percentage increase?",
+        "a": "10%",
+        "b": "15%",
+        "c": "20%",
+        "d": "25%",
+        "r": "a"
+    },
+    {
+        "q": "Convert 2.5% into a fraction.",
+        "a": "1/25",
+        "b": "1/20",
+        "c": "1/30",
+        "d": "1/40",
+        "r": "a"
+    },
+    {
+        "q": "If 30% of a number is 120, what is the number?",
+        "a": "300",
+        "b": "360",
+        "c": "400",
+        "d": "450",
+        "r": "b"
+    },
+    {
+        "q": "If the price of a product is reduced by 25%, what percentage increase is required to return to the original price?",
+        "a": "20%",
+        "b": "25%",
+        "c": "30%",
+        "d": "33.33%",
+        "r": "a"
+    },
+    {
+        "q": "The value of a house increased from $250,000 to $275,000. What is the percentage increase?",
+        "a": "8%",
+        "b": "10%",
+        "c": "12%",
+        "d": "15%",
+        "r": "c"
+    },
+    {
+        "q": "If a student scored 72 marks out of 90 in an exam, what percentage did the student score?",
+        "a": "70%",
+        "b": "75%",
+        "c": "80%",
+        "d": "85%",
+        "r": "b"
+    },
+    {
+        "q": "What is 12.5% of 800?",
+        "a": "80",
+        "b": "100",
+        "c": "120",
+        "d": "160",
+        "r": "c"
+    },
+    {
+        "q": "If the original price of a watch is $120 and it is being sold at a 25% discount, what is the sale price?",
+        "a": "$80",
+        "b": "$90",
+        "c": "$100",
+        "d": "$110",
+        "r": "a"
+    },
+    {
+        "q": "If the value of a stock decreased from $50 to $40, what is the percentage decrease?",
+        "a": "10%",
+        "b": "15%",
+        "c": "20%",
+        "d": "25%",
+        "r": "a"
+    },
+    {
+        "q": "Express 3/4 as a percentage.",
+        "a": "25%",
+        "b": "50%",
+        "c": "75%",
+        "d": "100%",
+        "r": "c"
+    },
+    {
+        "q": "If the price of a product is increased by 10% and then decreased by 5%, what is the net percentage change?",
+        "a": "5% increase",
+        "b": "5% decrease",
+        "c": "10% increase",
+        "d": "10% decrease",
+        "r": "a"
+    },
+    {
+        "q": "The price of a shirt decreased from $30 to $24. What is the percentage decrease?",
+        "a": "10%",
+        "b": "15%",
+        "c": "20%",
+        "d": "25%",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula to find the area of a rectangle?",
+        "a": "Length × Width",
+        "b": "Diagonal × Side",
+        "c": "2 × (Length + Width)",
+        "d": "(Length + Width) ÷ 2",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following shapes has no vertices ?",
+        "a": "Circle",
+        "b": "Triangle",
+        "c": "Square",
+        "d": "Pentagon",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for the volume of a cube?",
+        "a": "Side × Side × Side",
+        "b": "Side × Side × 2",
+        "c": "Side × Side ÷ 2",
+        "d": "Side + Side + Side",
+        "r": "a"
+    },
+    {
+        "q": "The perimeter of a square is 40 units. What is its side length?",
+        "a": "8 units",
+        "b": "10 units",
+        "c": "20 units",
+        "d": "25 units",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula for finding the circumference of a circle?",
+        "a": "π × Diameter",
+        "b": "π × Radius",
+        "c": "2 × π × Diameter",
+        "d": "2 × π × Radius",
+        "r": "b"
+    },
+    {
+        "q": "If a rectangle has a length of 8 units and a width of 6 units, what is its area?",
+        "a": "14 square units",
+        "b": "42 square units",
+        "c": "48 square units",
+        "d": "54 square units",
+        "r": "c"
+    },
+    {
+        "q": "What is the surface area of a cube with a side length of 5 units?",
+        "a": "20 square units",
+        "b": "25 square units",
+        "c": "50 square units",
+        "d": "100 square units",
+        "r": "d"
+    },
+    {
+        "q": "How many degrees are in a right angle?",
+        "a": "45 degrees",
+        "b": "90 degrees",
+        "c": "180 degrees",
+        "d": "360 degrees",
+        "r": "b"
+    },
+    {
+        "q": "The length of one side of a square is 12 cm. What is its area?",
+        "a": "24 square cm",
+        "b": "48 square cm",
+        "c": "144 square cm",
+        "d": "288 square cm",
+        "r": "c"
+    },
+    {
+        "q": "A rectangular field is 20 meters long and 10 meters wide. What is the area of the field?",
+        "a": "150 square meters",
+        "b": "200 square meters",
+        "c": "300 square meters",
+        "d": "400 square meters",
+        "r": "d"
+    },
+    {
+        "q": "The area of a circle is 154 square units. What is its radius?",
+        "a": "7 units",
+        "b": "8 units",
+        "c": "11 units",
+        "d": "14 units",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following shapes has the most sides?",
+        "a": "Hexagon",
+        "b": "Octagon",
+        "c": "Nonagon",
+        "d": "Decagon",
+        "r": "d"
+    },
+    {
+        "q": "What is the volume of a rectangular prism with length 6 units, width 4 units, and height 3 units?",
+        "a": "36 cubic units",
+        "b": "48 cubic units",
+        "c": "72 cubic units",
+        "d": "144 cubic units",
+        "r": "a"
+    },
+    {
+        "q": "The perimeter of a regular pentagon is 35 units. What is the length of one side?",
+        "a": "5 units",
+        "b": "7 units",
+        "c": "8 units",
+        "d": "9 units",
+        "r": "b"
+    },
+    {
+        "q": "How many edges does a cylinder have?",
+        "a": "2",
+        "b": "4",
+        "c": "6",
+        "d": "8",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula for finding the area of a triangle?",
+        "a": "Base × Height",
+        "b": "Length × Width",
+        "c": "Side × Side",
+        "d": "π × Radius^2",
+        "r": "a"
+    },
+    {
+        "q": "A square has an area of 36 square units. What is its side length?",
+        "a": "6 units",
+        "b": "9 units",
+        "c": "12 units",
+        "d": "18 units",
+        "r": "a"
+    },
+    {
+        "q": "What is the volume of a sphere with a radius of 5 units?",
+        "a": "100π cubic units",
+        "b": "125π cubic units",
+        "c": "250π cubic units",
+        "d": "500π cubic units",
+        "r": "b"
+    },
+    {
+        "q": "The perimeter of a rectangle is 30 cm. If its length is 10 cm, what is its width?",
+        "a": "2 cm",
+        "b": "5 cm",
+        "c": "7.5 cm",
+        "d": "10 cm",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following shapes has exactly two parallel sides?",
+        "a": "Rectangle",
+        "b": "Rhombus",
+        "c": "Trapezium",
+        "d": "Square",
+        "r": "c"
+    },
+    {
+        "q": "The circumference of a circle is 44 cm. What is its diameter?",
+        "a": "7 cm",
+        "b": "11 cm",
+        "c": "14 cm",
+        "d": "22 cm",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula for finding the volume of a pyramid?",
+        "a": "(Base Area × Height) ÷ 3",
+        "b": "Base Area × Height",
+        "c": "(Base Area × Height) ÷ 2",
+        "d": "(Base Area × Height) × 2",
+        "r": "a"
+    },
+    {
+        "q": "The area of a triangle is 30 square units. If the base is 6 units, what is the height?",
+        "a": "3 units",
+        "b": "5 units",
+        "c": "6 units",
+        "d": "10 units",
+        "r": "c"
+    },
+    {
+        "q": "What is the volume of a cylinder with a height of 10 units and a radius of 4 units?",
+        "a": "40π cubic units",
+        "b": "80π cubic units",
+        "c": "100π cubic units",
+        "d": "160π cubic units",
+        "r": "d"
+    },
+    {
+        "q": "How many faces does a triangular prism have?",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula for finding the area of a trapezium?",
+        "a": "(Sum of parallel sides × Height) ÷ 2",
+        "b": "Base × Height",
+        "c": "(Sum of all sides) ÷ 4",
+        "d": "(Sum of all sides) × 2",
+        "r": "a"
+    },
+    {
+        "q": "The area of a circle is 314 square units. What is its radius?",
+        "a": "7 units",
+        "b": "8 units",
+        "c": "10 units",
+        "d": "14 units",
+        "r": "c"
+    },
+    {
+        "q": "What is the surface area of a cylinder with a height of 6 units and a radius of 3 units?",
+        "a": "36π square units",
+        "b": "54π square units",
+        "c": "72π square units",
+        "d": "108π square units",
+        "r": "b"
+    },
+    {
+        "q": "The perimeter of a regular hexagon is 42 units. What is the length of one side?",
+        "a": "5 units",
+        "b": "6 units",
+        "c": "7 units",
+        "d": "8 units",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following shapes has the greatest surface area?",
+        "a": "Cube",
+        "b": "Sphere",
+        "c": "Cylinder",
+        "d": "Cone",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula for finding the volume of a cone?",
+        "a": "(Base Area × Height) ÷ 3",
+        "b": "Base Area × Height",
+        "c": "(Base Area × Height) ÷ 2",
+        "d": "(Base Area × Height) × 2",
+        "r": "a"
+    },
+    {
+        "q": "The volume of a cube is 64 cubic units. What is the length of one side?",
+        "a": "2 units",
+        "b": "4 units",
+        "c": "6 units",
+        "d": "8 units",
+        "r": "b"
+    },
+    {
+        "q": "What is the perimeter of an equilateral triangle with each side measuring 9 units?",
+        "a": "9 units",
+        "b": "18 units",
+        "c": "24 units",
+        "d": "27 units",
+        "r": "c"
+    },
+    {
+        "q": "The area of a square is 169 square units. What is its side length?",
+        "a": "11 units",
+        "b": "13 units",
+        "c": "26 units",
+        "d": "169 units",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation of the x-axis?",
+        "a": "y = 0",
+        "b": "x = 0",
+        "c": "y = 1",
+        "d": "x = 1",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation of the y-axis?",
+        "a": "x = 0",
+        "b": "y = 0",
+        "c": "x = 1",
+        "d": "y = 1",
+        "r": "b"
+    },
+    {
+        "q": "The coordinates of the origin are?",
+        "a": "(1,1)",
+        "b": "(0,0)",
+        "c": "(0,1)",
+        "d": "(1,0)",
+        "r": "b"
+    },
+    {
+        "q": "What are the coordinates of point A(3,7)?",
+        "a": "(7,3)",
+        "b": "(3,7)",
+        "c": "(7,0)",
+        "d": "(0,7)",
+        "r": "b"
+    },
+    {
+        "q": "Find the distance between points (4,5) and (1,2)",
+        "a": "√12",
+        "b": "√9",
+        "c": "√13",
+        "d": "√8",
+        "r": "c"
+    },
+    {
+        "q": "The midpoint of the line segment (4,3) and (1,6) is?",
+        "a": "(2.5, 4.5)",
+        "b": "(4.5, 2.5)",
+        "c": "(3.5, 4.5)",
+        "d": "(2.5, 3.5)",
+        "r": "a"
+    },
+    {
+        "q": "What is the slope of the line passing through (2,3) and (4,5)?",
+        "a": "2/3",
+        "b": "3/2",
+        "c": "1/2",
+        "d": "2",
+        "r": "a"
+    },
+    {
+        "q": "The line passing through (3,5) and (6,10) is?",
+        "a": "y = 2x + 1",
+        "b": "y = 3x + 1",
+        "c": "y = 5x + 3",
+        "d": "y = 4x + 2",
+        "r": "d"
+    },
+    {
+        "q": "The equation of the vertical line passing through (4,0) is?",
+        "a": "x = 0",
+        "b": "x = 4",
+        "c": "y = 0",
+        "d": "y = 4",
+        "r": "b"
+    },
+    {
+        "q": "What is the equation of the horizontal line passing through (-3,7)?",
+        "a": "y = 7",
+        "b": "y = -3",
+        "c": "x = 7",
+        "d": "x = -3",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following points lies on the y-axis?",
+        "a": "(0,5)",
+        "b": "(5,0)",
+        "c": "(0,0)",
+        "d": "(1,1)",
+        "r": "a"
+    },
+    {
+        "q": "The x-coordinate of a point is 6 and lies on the y-axis. What is the y-coordinate?",
+        "a": "0",
+        "b": "6",
+        "c": "1",
+        "d": "-6",
+        "r": "a"
+    },
+    {
+        "q": "What is the slope of a vertical line?",
+        "a": "1",
+        "b": "0",
+        "c": "Undefined",
+        "d": "∞",
+        "r": "c"
+    },
+    {
+        "q": "Find the slope of the line passing through (-1,3) and (2,-5)",
+        "a": "-2",
+        "b": "-4",
+        "c": "4",
+        "d": "2",
+        "r": "a"
+    },
+    {
+        "q": "The area of a triangle with vertices at (0,0), (3,0), and (0,5) is?",
+        "a": "15/2",
+        "b": "7/2",
+        "c": "5/2",
+        "d": "9/2",
+        "r": "a"
+    },
+    {
+        "q": "The distance between the points (0,0) and (4,3) is?",
+        "a": "5",
+        "b": "4",
+        "c": "3",
+        "d": "7",
+        "r": "c"
+    },
+    {
+        "q": "What is the equation of the circle with center (2,3) and radius 5?",
+        "a": "(x-2)^2 + (y-3)^2 = 5",
+        "b": "(x+2)^2 + (y+3)^2 = 25",
+        "c": "(x-2)^2 + (y-3)^2 = 25",
+        "d": "(x+2)^2 + (y+3)^2 = 5",
+        "r": "a"
+    },
+    {
+        "q": "Find the coordinates of the point which divides the line segment joining (-2,4) and (4,8) internally in the ratio 2:3.",
+        "a": "(0,6)",
+        "b": "(2,6)",
+        "c": "(4,8)",
+        "d": "(1,5)",
+        "r": "b"
+    },
+    {
+        "q": "The x-coordinate of the midpoint of a line segment is the average of the x-coordinates of its?",
+        "a": "Endpoints",
+        "b": "X-intercepts",
+        "c": "Y-intercepts",
+        "d": "Y-coordinates",
+        "r": "a"
+    },
+    {
+        "q": "What are the coordinates of the point of intersection of the lines x - y = 4 and 2x + y = 7?",
+        "a": "(2,6)",
+        "b": "(3,7)",
+        "c": "(1,5)",
+        "d": "(4,0)",
+        "r": "c"
+    },
+    {
+        "q": "The distance of a point from the origin is called its?",
+        "a": "Magnitude",
+        "b": "Length",
+        "c": "Distance",
+        "d": "Radius",
+        "r": "c"
+    },
+    {
+        "q": "What is the distance between the points (3,4) and (3,7)?",
+        "a": "4",
+        "b": "3",
+        "c": "5",
+        "d": "7",
+        "r": "b"
+    },
+    {
+        "q": "If the coordinates of two points are (a,b) and (c,d), then the distance between them is given by?",
+        "a": "√(a-c)^2 + (b-d)^2",
+        "b": "√(a+c)^2 + (b+d)^2",
+        "c": "√(a+b)^2 + (c+d)^2",
+        "d": "√(a-c)^2 + (d-b)^2",
+        "r": "a"
+    },
+    {
+        "q": "What is the slope of the line parallel to the x-axis?",
+        "a": "1",
+        "b": "-1",
+        "c": "0",
+        "d": "Undefined",
+        "r": "c"
+    },
+    {
+        "q": "Find the area of the quadrilateral with vertices (0,0), (1,2), (3,3), and (2,1).",
+        "a": "3.5",
+        "b": "2",
+        "c": "3",
+        "d": "1",
+        "r": "d"
+    },
+    {
+        "q": "The coordinates of a point on the x-axis are?",
+        "a": "(0,0)",
+        "b": "(1,0)",
+        "c": "(0,1)",
+        "d": "(1,1)",
+        "r": "b"
+    },
+    {
+        "q": "The y-coordinate of the midpoint of a line segment is the average of the y-coordinates of its?",
+        "a": "Endpoints",
+        "b": "X-intercepts",
+        "c": "Y-intercepts",
+        "d": "Y-coordinates",
+        "r": "a"
+    },
+    {
+        "q": "Find the slope of the line perpendicular to y = 2x + 3.",
+        "a": "1/2",
+        "b": "2",
+        "c": "-1/2",
+        "d": "-2",
+        "r": "c"
+    },
+    {
+        "q": "What is the slope of a horizontal line?",
+        "a": "1",
+        "b": "0",
+        "c": "Undefined",
+        "d": "∞",
+        "r": "b"
+    },
+    {
+        "q": "The line passing through (0,0) and (2,3) is?",
+        "a": "y = 2x",
+        "b": "y = 3x",
+        "c": "y = x",
+        "d": "y = x + 2",
+        "r": "d"
+    },
+    {
+        "q": "Find the distance between the points (5,6) and (9,8)",
+        "a": "√20",
+        "b": "√10",
+        "c": "√18",
+        "d": "√16",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following represents an empty set?",
+        "a": "{}",
+        "b": "{0}",
+        "c": "{1, 2, 3}",
+        "d": "{∅}",
+        "r": "a"
+    },
+    {
+        "q": "The set {2, 4, 6, 8} is an example of a...",
+        "a": "Finite set",
+        "b": "Infinite set",
+        "c": "Equal set",
+        "d": "Singleton set",
+        "r": "a"
+    },
+    {
+        "q": "In set theory, a universal set is denoted by...",
+        "a": "U",
+        "b": "E",
+        "c": "S",
+        "d": "∪",
+        "r": "a"
+    },
+    {
+        "q": "What is the cardinality of the set {apple, orange}?",
+        "a": "1",
+        "b": "2",
+        "c": "0",
+        "d": "Infinite",
+        "r": "b"
+    },
+    {
+        "q": "A set containing no elements is called...",
+        "a": "Power set",
+        "b": "Singleton set",
+        "c": "Null set",
+        "d": "Universal set",
+        "r": "c"
+    },
+    {
+        "q": "The set of whole numbers is an example of...",
+        "a": "Finite set",
+        "b": "Infinite set",
+        "c": "Equal set",
+        "d": "Singleton set",
+        "r": "b"
+    },
+    {
+        "q": "The set {1, 2, 3} is a subset of which set?",
+        "a": "{2, 3, 4}",
+        "b": "{1, 2, 3, 4}",
+        "c": "{1, 2}",
+        "d": "{4, 5}",
+        "r": "b"
+    },
+    {
+        "q": "What is the complement of set A, denoted by A'?",
+        "a": "All elements in the universe",
+        "b": "All elements in set A",
+        "c": "No elements in set A",
+        "d": "Some elements in set A",
+        "r": "a"
+    },
+    {
+        "q": "The union of two sets A and B is denoted by...",
+        "a": "A ∩ B",
+        "b": "A ∪ B",
+        "c": "A - B",
+        "d": "A ⊂ B",
+        "r": "b"
+    },
+    {
+        "q": "The intersection of two sets A and B is denoted by...",
+        "a": "A ∪ B",
+        "b": "A - B",
+        "c": "A ⊂ B",
+        "d": "A ∩ B",
+        "r": "d"
+    },
+    {
+        "q": "The set {0, 1, 2, 3} is an example of a...",
+        "a": "Infinite set",
+        "b": "Finite set",
+        "c": "Equal set",
+        "d": "Singleton set",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a proper subset?",
+        "a": "{1, 2, 3}",
+        "b": "{1, 2, 3}",
+        "c": "{1, 2, 3, 4}",
+        "d": "{2, 3}",
+        "r": "d"
+    },
+    {
+        "q": "The set {a, e, i, o, u} represents...",
+        "a": "Vowels",
+        "b": "Consonants",
+        "c": "Integers",
+        "d": "Prime numbers",
+        "r": "a"
+    },
+    {
+        "q": "If set A = {1, 2, 3} and set B = {3, 4, 5}, then what is A ∩ B?",
+        "a": "{3}",
+        "b": "{1, 2, 3, 4, 5}",
+        "c": "{1, 2}",
+        "d": "{4, 5}",
+        "r": "a"
+    },
+    {
+        "q": "The set {1, 3, 5, 7, 9} is an example of...",
+        "a": "Finite set",
+        "b": "Infinite set",
+        "c": "Equal set",
+        "d": "Singleton set",
+        "r": "b"
+    },
+    {
+        "q": "If A and B are disjoint sets, their intersection is...",
+        "a": "A",
+        "b": "B",
+        "c": "∅",
+        "d": "A ∪ B",
+        "r": "c"
+    },
+    {
+        "q": "A set that contains all the elements of set A and additional elements is called...",
+        "a": "Subset",
+        "b": "Superset",
+        "c": "Power set",
+        "d": "Union set",
+        "r": "b"
+    },
+    {
+        "q": "If set A = {1, 2, 3} and set B = {2, 3, 4}, then what is A ∪ B?",
+        "a": "{1, 2, 3}",
+        "b": "{1, 2, 3, 4}",
+        "c": "{2, 3}",
+        "d": "{3, 4}",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following sets is equal to its complement?",
+        "a": "{1, 2, 3}",
+        "b": "{2, 4, 6}",
+        "c": "{0, 1, 2}",
+        "d": "{1, 3, 5}",
+        "r": "c"
+    },
+    {
+        "q": "If A is a proper subset of B, then...",
+        "a": "A is equal to B",
+        "b": "B is a proper subset of A",
+        "c": "B is equal to A",
+        "d": "B is a superset of A",
+        "r": "c"
+    },
+    {
+        "q": "The set {1, 2, 3, 4} is an example of...",
+        "a": "Infinite set",
+        "b": "Finite set",
+        "c": "Equal set",
+        "d": "Singleton set",
+        "r": "b"
+    },
+    {
+        "q": "A relation is said to be reflexive if...",
+        "a": "It relates all elements in A",
+        "b": "It relates no elements in A",
+        "c": "It relates every element to itself",
+        "d": "It relates some elements in A",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a universal set?",
+        "a": "{1, 2, 3}",
+        "b": "{0}",
+        "c": "{1, 2, 3, 4}",
+        "d": "{∅}",
+        "r": "c"
+    },
+    {
+        "q": "If set A = {1, 2, 3} and set B = {3, 4, 5}, then what is A - B?",
+        "a": "{1, 2}",
+        "b": "{1, 2, 3}",
+        "c": "{2, 3, 4, 5}",
+        "d": "{3}",
+        "r": "a"
+    },
+    {
+        "q": "The set {a, b, c, d} represents...",
+        "a": "Odd numbers",
+        "b": "Consonants",
+        "c": "Integers",
+        "d": "Vowels",
+        "r": "b"
+    },
+    {
+        "q": "The power set of a set with 'n' elements contains...",
+        "a": "n elements",
+        "b": "2^n elements",
+        "c": "n + 1 elements",
+        "d": "(n - 1) elements",
+        "r": "b"
+    },
+    {
+        "q": "A relation is said to be symmetric if...",
+        "a": "(a, b) ∈ R => (b, a) ∈ R",
+        "b": "(a, b) ∉ R => (b, a) ∉ R",
+        "c": "(a, b) ∈ R => (b, a) ∉ R",
+        "d": "(a, b) ∉ R => (b, a) ∈ R",
+        "r": "a"
+    },
+    {
+        "q": "The set {2, 3, 5, 7, 11} is an example of...",
+        "a": "Finite set",
+        "b": "Infinite set",
+        "c": "Equal set",
+        "d": "Singleton set",
+        "r": "a"
+    },
+    {
+        "q": "In a set of natural numbers, the least element is...",
+        "a": "0",
+        "b": "1",
+        "c": "10",
+        "d": "∅",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a type of function?",
+        "a": "Polynomial function",
+        "b": "Quadratic function",
+        "c": "Exponential function",
+        "d": "Logarithmic function",
+        "r": "d"
+    },
+    {
+        "q": "Given f(x) = 3x + 2, find f(4).",
+        "a": "18",
+        "b": "10",
+        "c": "14",
+        "d": "12",
+        "r": "a"
+    },
+    {
+        "q": "If f(x) = x^2 + 3x + 2, what is f(-2)?",
+        "a": "-6",
+        "b": "2",
+        "c": "0",
+        "d": "-2",
+        "r": "d"
+    },
+    {
+        "q": "The inverse of a function undoes the operation of the...",
+        "a": "Product",
+        "b": "Subtraction",
+        "c": "Division",
+        "d": "Addition",
+        "r": "c"
+    },
+    {
+        "q": "If g(x) = 2x + 3 and h(x) = x^2 - 1, find (g ∘ h)(2).",
+        "a": "9",
+        "b": "14",
+        "c": "7",
+        "d": "5",
+        "r": "c"
+    },
+    {
+        "q": "The notation used to represent the composition of two f...",
+        "a": "(f ∘ g)(x)",
+        "b": "f(x)/g(x)",
+        "c": "f(x) * g(x)",
+        "d": "f(x) + g(x)",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following statements about the vertical li...",
+        "a": "A vertical line intersects the graph of a function at ...",
+        "b": "A vertical line intersects the graph of a function at ...",
+        "c": "A vertical line can intersect the graph of a function ...",
+        "d": "A vertical line intersects the graph of a function at ...",
+        "r": "b"
+    },
+    {
+        "q": "What is the range of the function f(x) = 2x^2 - 3x + 4?",
+        "a": "Real numbers",
+        "b": "Negative real numbers",
+        "c": "Positive real numbers",
+        "d": "Non-negative real numbers",
+        "r": "a"
+    },
+    {
+        "q": "If f(x) = 2x + 1 and g(x) = x^2, find (f ∘ g)(3).",
+        "a": "8",
+        "b": "15",
+        "c": "14",
+        "d": "7",
+        "r": "b"
+    },
+    {
+        "q": "If f(x) = 3x + 2 and g(x) = 2x - 1, find (f ∘ g)(x).",
+        "a": "6x + 1",
+        "b": "6x - 1",
+        "c": "6x + 2",
+        "d": "6x - 2",
+        "r": "b"
+    },
+    {
+        "q": "What is the domain of the function f(x) = √(x - 2)?",
+        "a": "All real numbers",
+        "b": "All real numbers except 2",
+        "c": "All real numbers greater than 2",
+        "d": "All real numbers less than 2",
+        "r": "c"
+    },
+    {
+        "q": "If f(x) = 2x - 3 and f(a) = 7, find the value of a.",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8",
+        "r": "b"
+    },
+    {
+        "q": "A function f(x) is said to be even if:",
+        "a": "f(x) = -f(-x)",
+        "b": "f(x) = f(-x)",
+        "c": "f(-x) = 1/f(x)",
+        "d": "f(-x) = -f(x)",
+        "r": "b"
+    },
+    {
+        "q": "A function f(x) is said to be odd if:",
+        "a": "f(x) = -f(-x)",
+        "b": "f(x) = f(-x)",
+        "c": "f(-x) = 1/f(x)",
+        "d": "f(-x) = -f(x)",
+        "r": "a"
+    },
+    {
+        "q": "If f(x) = 2x - 1 and g(x) = x^2 + 3x, find f(g(2)).",
+        "a": "13",
+        "b": "15",
+        "c": "21",
+        "d": "17",
+        "r": "a"
+    },
+    {
+        "q": "The concept of a function was first introduced by:",
+        "a": "Isaac Newton",
+        "b": "Euclid",
+        "c": "Pythagoras",
+        "d": "Leonhard Euler",
+        "r": "d"
+    },
+    {
+        "q": "If f(x) = x^2 - 3 and g(x) = 2x + 1, find (g ∘ f)(x).",
+        "a": "2x^2 - 5",
+        "b": "x^2 + 2x - 2",
+        "c": "2x^2 - 2x - 5",
+        "d": "2x^2 + 2x - 2",
+        "r": "c"
+    },
+    {
+        "q": "If f(x) = 2x + 3 and g(x) = 3x - 1, find (g ∘ f)(2).",
+        "a": "8",
+        "b": "9",
+        "c": "10",
+        "d": "11",
+        "r": "c"
+    },
+    {
+        "q": "The set of all possible output values of a function is ...",
+        "a": "Domain",
+        "b": "Range",
+        "c": "Codomain",
+        "d": "Image",
+        "r": "b"
+    },
+    {
+        "q": "If f(x) = x^2 - 2x + 1, find f(0).",
+        "a": "0",
+        "b": "1",
+        "c": "-1",
+        "d": "2",
+        "r": "b"
+    },
+    {
+        "q": "If f(x) = 2x^2 + 3x + 1, find f(-1).",
+        "a": "2",
+        "b": "6",
+        "c": "4",
+        "d": "0",
+        "r": "a"
+    },
+    {
+        "q": "A function f(x) is said to be onto if:",
+        "a": "It is a one-to-one function",
+        "b": "It is a constant function",
+        "c": "Every element in the codomain has a pre-image in the d...",
+        "d": "It is an even function",
+        "r": "c"
+    },
+    {
+        "q": "If f(x) = 3x + 1 and g(x) = x^2, find (g ∘ f)(x).",
+        "a": "9x + 1",
+        "b": "3x^2 + 1",
+        "c": "9x^2 + 3x + 1",
+        "d": "3x^2 + 3x + 1",
+        "r": "d"
+    },
+    {
+        "q": "The function f(x) = 2x - 1 is:",
+        "a": "One-to-one",
+        "b": "Constant",
+        "c": "Onto",
+        "d": "Neither one-to-one nor onto",
+        "r": "a"
+    },
+    {
+        "q": "The function f(x) = 4 is:",
+        "a": "One-to-one",
+        "b": "Constant",
+        "c": "Onto",
+        "d": "Neither one-to-one nor onto",
+        "r": "b"
+    },
+    {
+        "q": "What is the order of the matrix [2 4; 5 7]?",
+        "a": "[2 4]",
+        "b": "[4 7]",
+        "c": "[2 5]",
+        "d": "[5 7]",
+        "r": "a"
+    },
+    {
+        "q": "Which operation is NOT applicable to matrices?",
+        "a": "Addition",
+        "b": "Subtraction",
+        "c": "Multiplication",
+        "d": "Division",
+        "r": "d"
+    },
+    {
+        "q": "The determinant of a 2x2 matrix is calculated by...",
+        "a": "ad - bc",
+        "b": "ac - bd",
+        "c": "ab - cd",
+        "d": "bc - ad",
+        "r": "a"
+    },
+    {
+        "q": "What is the result of the matrix multiplication:",
+        "a": "[9 14]",
+        "b": "[14 9]",
+        "c": "[9 9]",
+        "d": "[5 7]",
+        "r": "a"
+    },
+    {
+        "q": "What is the identity matrix of order 3x3?",
+        "a": "[1 0 0; 0 1 0; 0 0 1]",
+        "b": "[0 1 0; 1 0 0; 0 0 1]",
+        "c": "[1 1 1; 1 1 1; 1 1 1]",
+        "d": "[1 0 1; 0 1 0; 1 0 1]",
+        "r": "a"
+    },
+    {
+        "q": "If A is a square matrix, A^T represents...",
+        "a": "Transpose of A",
+        "b": "Inverse of A",
+        "c": "Adjoint of A",
+        "d": "Submatrix of A",
+        "r": "a"
+    },
+    {
+        "q": "The sum of the diagonal elements of a matrix is...",
+        "a": "Trace",
+        "b": "Determinant",
+        "c": "Rank",
+        "d": "Inverse",
+        "r": "a"
+    },
+    {
+        "q": "If the determinant of a matrix is 0, it is called..",
+        "a": "Invertible",
+        "b": "Non-singular",
+        "c": "Singular",
+        "d": "Non-invertible",
+        "r": "c"
+    },
+    {
+        "q": "Which property holds for the multiplication of matrices?",
+        "a": "Commutative property",
+        "b": "Associative property",
+        "c": "Distributive property",
+        "d": "Identity property",
+        "r": "b"
+    },
+    {
+        "q": "The number of elementary row operations is...",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5",
+        "r": "d"
+    },
+    {
+        "q": "The transpose of the transpose of a matrix is...",
+        "a": "The original matrix",
+        "b": "A zero matrix",
+        "c": "An identity matrix",
+        "d": "A singular matrix",
+        "r": "a"
+    },
+    {
+        "q": "The scalar multiplication of a matrix is...",
+        "a": "Multiplying each element by the scalar",
+        "b": "Multiplying each row by the scalar",
+        "c": "Multiplying each column by the scalar",
+        "d": "Adding the scalar to each element",
+        "r": "a"
+    },
+    {
+        "q": "What is the adjoint of a matrix?",
+        "a": "The transpose of the matrix",
+        "b": "The inverse of the matrix",
+        "c": "The sum of the diagonal elements",
+        "d": "The determinant of the matrix",
+        "r": "a"
+    },
+    {
+        "q": "The determinant of a triangular matrix is equal to?",
+        "a": "The product of its diagonal elements",
+        "b": "The sum of its diagonal elements",
+        "c": "The difference of its diagonal elements",
+        "d": "The quotient of its diagonal elements",
+        "r": "a"
+    },
+    {
+        "q": "A matrix with only one row is called...",
+        "a": "Row matrix",
+        "b": "Column matrix",
+        "c": "Diagonal matrix",
+        "d": "Scalar matrix",
+        "r": "a"
+    },
+    {
+        "q": "A square matrix with all its diagonal elements as 1, and all other elements as 0 is called...",
+        "a": "Identity matrix",
+        "b": "Diagonal matrix",
+        "c": "Scalar matrix",
+        "d": "Null matrix",
+        "r": "a"
+    },
+    {
+        "q": "Which operation is used to find the inverse of a matrix?",
+        "a": "Adjoint",
+        "b": "Transpose",
+        "c": "Determinant",
+        "d": "Scalar multiplication",
+        "r": "a"
+    },
+    {
+        "q": "If the determinant of a matrix is non-zero, it is called...",
+        "a": "Invertible",
+        "b": "Non-singular",
+        "c": "Singular",
+        "d": "Non-invertible",
+        "r": "b"
+    },
+    {
+        "q": "What is the product of the matrix [2 4 6] with its transpose?",
+        "a": "[56]",
+        "b": "[56 36 12]",
+        "c": "[56 36 10]",
+        "d": "[2 4 6]",
+        "r": "b"
+    },
+    {
+        "q": "The determinant of the zero matrix is...",
+        "a": "0",
+        "b": "1",
+        "c": "-1",
+        "d": "Undefined",
+        "r": "a"
+    },
+    {
+        "q": "What is the next term in the sequence: 2, 4, 6, 8, ...?",
+        "a": "10",
+        "b": "12",
+        "c": "9",
+        "d": "11",
+        "r": "b"
+    },
+    {
+        "q": "Which term of the arithmetic series 5, 8, 11, 14, ... is 35?",
+        "a": "25",
+        "b": "28",
+        "c": "30",
+        "d": "32",
+        "r": "b"
+    },
+    {
+        "q": "Find the sum of the first 10 terms of the arithmetic series: 3, 6, 9, 12, ...",
+        "a": "50",
+        "b": "60",
+        "c": "55",
+        "d": "45",
+        "r": "a"
+    },
+    {
+        "q": "What is the common difference of the arithmetic sequence: 12, 15, 18, 21, ...?",
+        "a": "3",
+        "b": "2",
+        "c": "4",
+        "d": "5",
+        "r": "a"
+    },
+    {
+        "q": "Determine the general term of the arithmetic sequence: 7, 14, 21, 28, ...",
+        "a": "n",
+        "b": "6n",
+        "c": "7n",
+        "d": "5n",
+        "r": "d"
+    },
+    {
+        "q": "Find the sum of the first 15 terms of the arithmetic series: 2, 6, 10, 14, ...",
+        "a": "105",
+        "b": "120",
+        "c": "110",
+        "d": "100",
+        "r": "b"
+    },
+    {
+        "q": "What is the next term in the sequence: 3, 9, 27, 81, ...?",
+        "a": "162",
+        "b": "243",
+        "c": "90",
+        "d": "135",
+        "r": "a"
+    },
+    {
+        "q": "Determine the general term of the geometric sequence: 2, 6, 18, 54, ...",
+        "a": "n",
+        "b": "3^n",
+        "c": "2^n",
+        "d": "4^n",
+        "r": "b"
+    },
+    {
+        "q": "Find the sum of the first 8 terms of the geometric series: 5, 10, 20, 40, ...",
+        "a": "128",
+        "b": "126",
+        "c": "125",
+        "d": "120",
+        "r": "c"
+    },
+    {
+        "q": "What is the common ratio of the geometric sequence: 1, 4, 16, 64, ...?",
+        "a": "4",
+        "b": "2",
+        "c": "3",
+        "d": "5",
+        "r": "a"
+    },
+    {
+        "q": "Determine the general term of the geometric sequence: 2, 5, 12, 29, ...",
+        "a": "n",
+        "b": "n^2",
+        "c": "3n",
+        "d": "2n",
+        "r": "d"
+    },
+    {
+        "q": "Find the sum of the first 12 terms of the geometric series: 3, 9, 27, 81, ...",
+        "a": "1971",
+        "b": "2047",
+        "c": "1890",
+        "d": "1962",
+        "r": "a"
+    },
+    {
+        "q": "What is the next term in the sequence: 1, 4, 9, 16, ...?",
+        "a": "25",
+        "b": "20",
+        "c": "24",
+        "d": "21",
+        "r": "c"
+    },
+    {
+        "q": "Determine the general term of the quadratic sequence: 2, 6, 12, 20, ...",
+        "a": "n^2",
+        "b": "n^2 + 1",
+        "c": "n^2 - 1",
+        "d": "2n^2",
+        "r": "d"
+    },
+    {
+        "q": "Find the sum of the first 7 terms of the quadratic series: 3, 8, 15, 24, ...",
+        "a": "244",
+        "b": "205",
+        "c": "189",
+        "d": "218",
+        "r": "a"
+    },
+    {
+        "q": "What is the common difference of the quadratic sequence: 3, 9, 17, 27, ...?",
+        "a": "8",
+        "b": "7",
+        "c": "6",
+        "d": "5",
+        "r": "b"
+    },
+    {
+        "q": "Determine the general term of the quadratic sequence: 2, 8, 18, 32, ...",
+        "a": "n",
+        "b": "2n^2 + 1",
+        "c": "n^2 + 1",
+        "d": "n^2 + 2",
+        "r": "a"
+    },
+    {
+        "q": "Find the sum of the first 6 terms of the quadratic series: 2, 7, 14, 23, ...",
+        "a": "102",
+        "b": "97",
+        "c": "92",
+        "d": "87",
+        "r": "c"
+    },
+    {
+        "q": "What is the next term in the sequence: 1, 6, 15, 28, ...?",
+        "a": "45",
+        "b": "40",
+        "c": "48",
+        "d": "52",
+        "r": "a"
+    },
+    {
+        "q": "Determine the general term of the cubic sequence: 1, 8, 27, 64, ...",
+        "a": "n",
+        "b": "n^2",
+        "c": "n^3",
+        "d": "n^4",
+        "r": "c"
+    },
+    {
+        "q": "Find the sum of the first 5 terms of the cubic series: 2, 10, 28, 60, ...",
+        "a": "344",
+        "b": "304",
+        "c": "280",
+        "d": "312",
+        "r": "d"
+    },
+    {
+        "q": "What is the common difference of the cubic sequence: 9, 35, 81, 147, ...?",
+        "a": "28",
+        "b": "18",
+        "c": "22",
+        "d": "24",
+        "r": "b"
+    },
+    {
+        "q": "Determine the general term of the cubic sequence: 3, 15, 39, 75, ...",
+        "a": "n",
+        "b": "2n^3",
+        "c": "n^3 + 2",
+        "d": "n^3 - 2",
+        "r": "d"
+    },
+    {
+        "q": "Find the sum of the first 4 terms of the cubic series: 5, 17, 37, 65, ...",
+        "a": "500",
+        "b": "452",
+        "c": "470",
+        "d": "490",
+        "r": "c"
+    },
+    {
+        "q": "What is the next term in the sequence: 2, 5, 10, 17, ...?",
+        "a": "28",
+        "b": "24",
+        "c": "26",
+        "d": "30",
+        "r": "d"
+    },
+    {
+        "q": "Determine the general term of the alternating sequence: 1, -3, 5, -7, ...",
+        "a": "(-1)^n * (n + 1)",
+        "b": "(-1)^n * n",
+        "c": "(-1)^n * (n - 1)",
+        "d": "(-1)^n * (n + 2)",
+        "r": "a"
+    },
+    {
+        "q": "Find the sum of the first 9 terms of the alternating series: 4, -6, 8, -10, ...",
+        "a": "10",
+        "b": "12",
+        "c": "8",
+        "d": "6",
+        "r": "c"
+    },
+    {
+        "q": "What is the common difference of the alternating sequence: 7, -14, 21, -28, ...?",
+        "a": "-14",
+        "b": "-7",
+        "c": "14",
+        "d": "21",
+        "r": "b"
+    },
+    {
+        "q": "Determine the general term of the alternating sequence: 2, -6, 12, -20, ...",
+        "a": "(-1)^n * n",
+        "b": "(-1)^n * (2n + 1)",
+        "c": "(-1)^n * (n + 1)",
+        "d": "(-1)^n * (n - 1)",
+        "r": "b"
+    },
+    {
+        "q": "Find the sum of the first 10 terms of the alternating series: 3, -9, 27, -81, ...",
+        "a": "242",
+        "b": "225",
+        "c": "216",
+        "d": "243",
+        "r": "d"
+    },
+    {
+        "q": "What is the next term in the sequence: 2, 4, 8, 16, ...?",
+        "a": "30",
+        "b": "24",
+        "c": "32",
+        "d": "28",
+        "r": "c"
+    },
+    {
+        "q": "Determine the general term of the Fibonacci sequence: 1, 1, 2, 3, 5, ...",
+        "a": "n",
+        "b": "n + 1",
+        "c": "F(n-1) + F(n-2)",
+        "d": "F(n-1) - F(n-2)",
+        "r": "c"
+    },
+    {
+        "q": "Find the sum of the first 8 terms of the Fibonacci series: 1, 1, 2, 3, 5, ...",
+        "a": "13",
+        "b": "21",
+        "c": "19",
+        "d": "11",
+        "r": "b"
+    },
+    {
+        "q": "What is the common difference of the Fibonacci sequence: 3, 5, 8, 13, ...?",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5",
+        "r": "d"
+    },
+    {
+        "q": "Determine the general term of the Fibonacci sequence: 1, 3, 7, 15, ...",
+        "a": "F(n-1) + 2",
+        "b": "F(n-1) - 1",
+        "c": "F(n-1) + n",
+        "d": "F(n-1) - n",
+        "r": "a"
+    },
+    {
+        "q": "Find the sum of the first 6 terms of the Fibonacci series: 2, 3, 5, 8, 13, ...",
+        "a": "34",
+        "b": "31",
+        "c": "29",
+        "d": "26",
+        "r": "d"
+    },
+    {
+        "q": "What is the magnitude of the vector (3, 4)?",
+        "a": "5",
+        "b": "3",
+        "c": "4",
+        "d": "√7",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a unit vector?",
+        "a": "(2, 2)",
+        "b": "(0, 1)",
+        "c": "(1, 0)",
+        "d": "(0, 0)",
+        "r": "b"
+    },
+    {
+        "q": "The dot product of two perpendicular vectors is always _______.",
+        "a": "0",
+        "b": "1",
+        "c": "-1",
+        "d": "2",
+        "r": "a"
+    },
+    {
+        "q": "The cross product of two parallel vectors is always _______.",
+        "a": "zero",
+        "b": "a scalar",
+        "c": "a vector",
+        "d": "undefined",
+        "r": "a"
+    },
+    {
+        "q": "If two vectors are orthogonal, their dot product is _______.",
+        "a": "1",
+        "b": "-1",
+        "c": "0",
+        "d": "2",
+        "r": "c"
+    },
+    {
+        "q": "Which operation is used to combine two vectors?",
+        "a": "Multiplication",
+        "b": "Subtraction",
+        "c": "Division",
+        "d": "Addition",
+        "r": "d"
+    },
+    {
+        "q": "The vector that has both magnitude and direction is called _______.",
+        "a": "scalar",
+        "b": "unit vector",
+        "c": "vector",
+        "d": "point",
+        "r": "c"
+    },
+    {
+        "q": "If two vectors are equal, then their _______ are equal.",
+        "a": "Magnitudes",
+        "b": "Magnitudes and directions",
+        "c": "Directions",
+        "d": "Magnitude and opposite direction",
+        "r": "b"
+    },
+    {
+        "q": "The component form of a vector is given by _______.",
+        "a": "Magnitude and direction",
+        "b": "Magnitude and angle",
+        "c": "Length and direction",
+        "d": "Length and angle",
+        "r": "d"
+    },
+    {
+        "q": "The cross product of two vectors is also known as _______.",
+        "a": "Dot product",
+        "b": "Scalar product",
+        "c": "Vector product",
+        "d": "Magnitude product",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a collinear vector with vector (4, 7)?",
+        "a": "(-2, -3)",
+        "b": "(2, 4)",
+        "c": "(1, 1)",
+        "d": "(0, 0)",
+        "r": "a"
+    },
+    {
+        "q": "If vectors A and B are parallel, then their cross product is _______.",
+        "a": "A",
+        "b": "B",
+        "c": "-A",
+        "d": "Zero",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a unit vector in the direction of the vector (5, 12)?",
+        "a": "(1, 1)",
+        "b": "(5, 12)",
+        "c": "(0, 1)",
+        "d": "(5, 5)",
+        "r": "c"
+    },
+    {
+        "q": "The cross product of two vectors is always perpendicular to _______.",
+        "a": "Both vectors",
+        "b": "The first vector",
+        "c": "The second vector",
+        "d": "Their sum",
+        "r": "a"
+    },
+    {
+        "q": "The cross product of two vectors is commutative. True or False?",
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "Cannot determine",
+        "d": "Not applicable",
+        "r": "b"
+    },
+    {
+        "q": "The cross product of two vectors is distributive over vector addition. True or False?",
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "Cannot determine",
+        "d": "Not applicable",
+        "r": "a"
+    },
+    {
+        "q": "The unit vector in the direction of vector (3, 1) is _______.",
+        "a": "(1, 3)",
+        "b": "(3, 1)",
+        "c": "(1, 1)",
+        "d": "(0, 0)",
+        "r": "c"
+    },
+    {
+        "q": "The direction cosines of a vector are _______.",
+        "a": "Equal",
+        "b": "Proportional",
+        "c": "The same",
+        "d": "Ratios",
+        "r": "d"
+    },
+    {
+        "q": "If the angle between two vectors is 180 degrees, then their dot product is _______.",
+        "a": "-1",
+        "b": "0",
+        "c": "1",
+        "d": "2",
+        "r": "a"
+    },
+    {
+        "q": "The cross product of two vectors is associative. True or False?",
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "Cannot determine",
+        "d": "Not applicable",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a scalar quantity?",
+        "a": "Distance",
+        "b": "Speed",
+        "c": "Displacement",
+        "d": "Force",
+        "r": "d"
+    },
+    {
+        "q": "The cross product of two vectors is distributive over scalar multiplication. True or False?",
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "Cannot determine",
+        "d": "Not applicable",
+        "r": "a"
+    },
+    {
+        "q": "The cross product of two vectors is equal to zero when they are _______.",
+        "a": "Parallel",
+        "b": "Perpendicular",
+        "c": "Collinear",
+        "d": "Equal",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a scalar quantity?",
+        "a": "Work",
+        "b": "Acceleration",
+        "c": "Velocity",
+        "d": "Displacement",
+        "r": "a"
+    },
+    {
+        "q": "The cross product of two vectors is equal to _______ times the product of their magnitudes.",
+        "a": "Sum",
+        "b": "Difference",
+        "c": "Twice",
+        "d": "Half",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a unit vector in the direction of the x-axis?",
+        "a": "(1, 1)",
+        "b": "(0, 1)",
+        "c": "(1, 0)",
+        "d": "(0, 0)",
+        "r": "c"
+    },
+    {
+        "q": "The cross product of two vectors is distributive over vector subtraction. True or False?",
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "Cannot determine",
+        "d": "Not applicable",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a zero vector?",
+        "a": "(1, 1)",
+        "b": "(0, 1)",
+        "c": "(0, 0)",
+        "d": "(1, 0)",
+        "r": "c"
+    },
+    {
+        "q": "If the angle between two vectors is 90 degrees, then their dot product is _______.",
+        "a": "-1",
+        "b": "0",
+        "c": "1",
+        "d": "2",
+        "r": "b"
+    },
+    {
+        "q": "The cross product of two vectors is equal to _______.",
+        "a": "A plus B",
+        "b": "A multiplied by B",
+        "c": "A divided by B",
+        "d": "A minus B",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a position vector?",
+        "a": "(5, 2)",
+        "b": "(0, 0)",
+        "c": "(1, 1)",
+        "d": "(2, 2)",
+        "r": "a"
+    },
+    {
+        "q": "If vectors A and B are orthogonal, then their dot product is _______.",
+        "a": "1",
+        "b": "-1",
+        "c": "0",
+        "d": "2",
+        "r": "c"
+    },
+    {
+        "q": "The cross product of two vectors is equal to the area of the parallelogram formed by them. True or False?",
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "Cannot determine",
+        "d": "Not applicable",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a vector quantity?",
+        "a": "Speed",
+        "b": "Acceleration",
+        "c": "Displacement",
+        "d": "Force",
+        "r": "a"
+    },
+    {
+        "q": "The cross product of two vectors is equal to _______ times the product of the sine of the angle between them.",
+        "a": "Sum",
+        "b": "Difference",
+        "c": "Twice",
+        "d": "Half",
+        "r": "c"
+    },
+    {
+        "q": "If vector A is multiplied by -1, the direction of the resulting vector is _______.",
+        "a": "Opposite to A",
+        "b": "Perpendicular to A",
+        "c": "Same as A",
+        "d": "Cannot determine",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a unit vector?",
+        "a": "(0, 1)",
+        "b": "(1, 0)",
+        "c": "(1, 1)",
+        "d": "(1, 2)",
+        "r": "d"
+    },
+    {
+        "q": "If vectors A and B are parallel, then their dot product is _______.",
+        "a": "A",
+        "b": "B",
+        "c": "-A",
+        "d": "Zero",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a vector quantity?",
+        "a": "Mass",
+        "b": "Speed",
+        "c": "Displacement",
+        "d": "Time",
+        "r": "c"
+    },
+    {
+        "q": "If the angle between two vectors is 0 degrees, then their dot product is _______.",
+        "a": "-1",
+        "b": "0",
+        "c": "1",
+        "d": "2",
+        "r": "c"
+    },
+    {
+        "q": "If the magnitude of vector A is doubled, its direction _______.",
+        "a": "Remains the same",
+        "b": "Changes",
+        "c": "Becomes zero",
+        "d": "Cannot determine",
+        "r": "a"
+    }
+]
