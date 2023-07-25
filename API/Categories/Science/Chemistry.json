@@ -1,0 +1,4738 @@
+[
+    {
+        "q": "What is the smallest unit of matter?",
+        "a": "Atom",
+        "b": "Molecule",
+        "c": "Cell",
+        "d": "Particle",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a chemical element?",
+        "a": "Water",
+        "b": "Oxygen",
+        "c": "Sand",
+        "d": "Glass",
+        "r": "b"
+    },
+    {
+        "q": "The atomic number represents the number of",
+        "a": "Protons",
+        "b": "Electrons",
+        "c": "Neutrons",
+        "d": "Nucleons",
+        "r": "a"
+    },
+    {
+        "q": "What is the symbol for the element Sodium?",
+        "a": "Sa",
+        "b": "Sd",
+        "c": "So",
+        "d": "Na",
+        "r": "d"
+    },
+    {
+        "q": "A substance made up of only one type of atom is called",
+        "a": "Molecule",
+        "b": "Compound",
+        "c": "Element",
+        "d": "Solution",
+        "r": "c"
+    },
+    {
+        "q": "Which subatomic particle has a negative charge?",
+        "a": "Neutron",
+        "b": "Proton",
+        "c": "Electron",
+        "d": "Photon",
+        "r": "c"
+    },
+    {
+        "q": "The atomic mass of an element is determined by the number of",
+        "a": "Neutrons",
+        "b": "Protons",
+        "c": "Electrons",
+        "d": "Isotopes",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a noble gas?",
+        "a": "Helium",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "What is the chemical formula for water?",
+        "a": "H2O",
+        "b": "CO2",
+        "c": "N2O",
+        "d": "H2SO4",
+        "r": "a"
+    },
+    {
+        "q": "The process of gaining electrons is called",
+        "a": "Oxidation",
+        "b": "Reduction",
+        "c": "Ionization",
+        "d": "Sublimation",
+        "r": "b"
+    },
+    {
+        "q": "Which state of matter has a definite volume but no definite shape?",
+        "a": "Liquid",
+        "b": "Solid",
+        "c": "Gas",
+        "d": "Plasma",
+        "r": "a"
+    },
+    {
+        "q": "The vertical columns on the periodic table are called",
+        "a": "Groups",
+        "b": "Periods",
+        "c": "Families",
+        "d": "Blocks",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for calculating density?",
+        "a": "D = m/V",
+        "b": "D = V/m",
+        "c": "D = m + V",
+        "d": "D = m x V",
+        "r": "a"
+    },
+    {
+        "q": "Which type of chemical bond involves the sharing of electrons?",
+        "a": "Ionic",
+        "b": "Covalent",
+        "c": "Metallic",
+        "d": "Hydrogen",
+        "r": "b"
+    },
+    {
+        "q": "The most abundant gas in Earth's atmosphere is",
+        "a": "Nitrogen",
+        "b": "Oxygen",
+        "c": "Carbon dioxide",
+        "d": "Argon",
+        "r": "a"
+    },
+    {
+        "q": "What is the chemical symbol for Gold?",
+        "a": "Go",
+        "b": "Gu",
+        "c": "Au",
+        "d": "Ag",
+        "r": "c"
+    },
+    {
+        "q": "The process of a liquid changing into a gas is called",
+        "a": "Melting",
+        "b": "Freezing",
+        "c": "Evaporation",
+        "d": "Condensation",
+        "r": "c"
+    },
+    {
+        "q": "What is the main component of natural gas?",
+        "a": "Methane",
+        "b": "Ethane",
+        "c": "Butane",
+        "d": "Propane",
+        "r": "a"
+    },
+    {
+        "q": "The particles in a solid are packed closely together in a regular",
+        "a": "Pattern",
+        "b": "Array",
+        "c": "Crystal",
+        "d": "Structure",
+        "r": "c"
+    },
+    {
+        "q": "The SI unit for temperature is",
+        "a": "Kelvin",
+        "b": "Celsius",
+        "c": "Fahrenheit",
+        "d": "Rankine",
+        "r": "a"
+    },
+    {
+        "q": "What is the chemical formula for methane?",
+        "a": "CH4",
+        "b": "CO2",
+        "c": "H2O",
+        "d": "NH3",
+        "r": "a"
+    },
+    {
+        "q": "The atomic number of carbon is",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a heterogeneous mixture?",
+        "a": "Air",
+        "b": "Saltwater",
+        "c": "Milk",
+        "d": "Granite",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of a gas changing directly into a solid?",
+        "a": "Sublimation",
+        "b": "Condensation",
+        "c": "Vaporization",
+        "d": "Deposition",
+        "r": "d"
+    },
+    {
+        "q": "The nucleus of an atom is composed of",
+        "a": "Protons and neutrons",
+        "b": "Electrons and protons",
+        "c": "Protons and electrons",
+        "d": "Neutrons and electrons",
+        "r": "a"
+    },
+    {
+        "q": "The chemical symbol for Iron is",
+        "a": "Ir",
+        "b": "Fe",
+        "c": "Io",
+        "d": "In",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a greenhouse gas?",
+        "a": "Carbon dioxide",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Helium",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for the area of a rectangle?",
+        "a": "A = lw",
+        "b": "A = lh",
+        "c": "A = bh",
+        "d": "A = lw + lh",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a chemical change?",
+        "a": "Boiling water",
+        "b": "Burning wood",
+        "c": "Cutting paper",
+        "d": "Melting ice",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula for the speed of an object?",
+        "a": "Speed = distance/time",
+        "b": "Speed = time/distance",
+        "c": "Speed = force/mass",
+        "d": "Speed = mass/force",
+        "r": "a"
+    },
+    {
+        "q": "The process of a gas changing into a liquid is called",
+        "a": "Condensation",
+        "b": "Vaporization",
+        "c": "Sublimation",
+        "d": "Evaporation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a halogen?",
+        "a": "Sodium",
+        "b": "Chlorine",
+        "c": "Calcium",
+        "d": "Magnesium",
+        "r": "b"
+    },
+    {
+        "q": "What is the chemical formula for carbon dioxide?",
+        "a": "CO2",
+        "b": "H2O",
+        "c": "CH4",
+        "d": "O2",
+        "r": "a"
+    },
+    {
+        "q": "An atom that gains electrons becomes",
+        "a": "Positively charged",
+        "b": "Neutral",
+        "c": "Negatively charged",
+        "d": "Ionized",
+        "r": "c"
+    },
+    {
+        "q": "The pH scale measures the acidity or",
+        "a": "Viscosity",
+        "b": "Density",
+        "c": "Volume",
+        "d": "Concentration",
+        "r": "d"
+    },
+    {
+        "q": "What is the chemical symbol for Silver?",
+        "a": "Ag",
+        "b": "Si",
+        "c": "S",
+        "d": "Au",
+        "r": "a"
+    },
+    {
+        "q": "The process of a liquid changing into a solid is called",
+        "a": "Evaporation",
+        "b": "Freezing",
+        "c": "Melting",
+        "d": "Condensation",
+        "r": "b"
+    },
+    {
+        "q": "What is the smallest unit of an element?",
+        "a": "atom",
+        "b": "electron",
+        "c": "molecule",
+        "d": "proton",
+        "r": "a"
+    },
+    {
+        "q": "Which state of matter has a definite shape and volume?",
+        "a": "solid",
+        "b": "liquid",
+        "c": "gas",
+        "d": "plasma",
+        "r": "a"
+    },
+    {
+        "q": "What is the boiling point of water at sea level?",
+        "a": "100°C",
+        "b": "0°C",
+        "c": "25°C",
+        "d": "50°C",
+        "r": "a"
+    },
+    {
+        "q": "Which subatomic particle has a positive charge?",
+        "a": "proton",
+        "b": "electron",
+        "c": "neutron",
+        "d": "quark",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of a gas turning into a liquid called?",
+        "a": "condensation",
+        "b": "evaporation",
+        "c": "sublimation",
+        "d": "deposition",
+        "r": "a"
+    },
+    {
+        "q": "Which type of mixture has a uniform composition throughout?",
+        "a": "homogeneous mixture",
+        "b": "heterogeneous mixture",
+        "c": "compound",
+        "d": "element",
+        "r": "a"
+    },
+    {
+        "q": "What is the atomic number of carbon?",
+        "a": "6",
+        "b": "8",
+        "c": "12",
+        "d": "14",
+        "r": "a"
+    },
+    {
+        "q": "What is the SI unit of mass?",
+        "a": "kilogram",
+        "b": "gram",
+        "c": "pound",
+        "d": "liter",
+        "r": "a"
+    },
+    {
+        "q": "Which type of bond involves the sharing of electrons between atoms?",
+        "a": "covalent bond",
+        "b": "ionic bond",
+        "c": "metallic bond",
+        "d": "hydrogen bond",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for the compound sodium chloride (table salt)?",
+        "a": "NaCl",
+        "b": "NaHCO3",
+        "c": "NaOH",
+        "d": "Na2CO3",
+        "r": "a"
+    },
+    {
+        "q": "Which state of matter has neither a definite shape nor a definite volume?",
+        "a": "gas",
+        "b": "solid",
+        "c": "liquid",
+        "d": "plasma",
+        "r": "a"
+    },
+    {
+        "q": "What is the chemical symbol for oxygen?",
+        "a": "O",
+        "b": "Ox",
+        "c": "Oc",
+        "d": "Om",
+        "r": "a"
+    },
+    {
+        "q": "What is the mass number of an atom?",
+        "a": "sum of protons and neutrons",
+        "b": "number of protons",
+        "c": "number of neutrons",
+        "d": "number of electrons",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of a liquid turning into a gas called?",
+        "a": "evaporation",
+        "b": "condensation",
+        "c": "sublimation",
+        "d": "freezing",
+        "r": "a"
+    },
+    {
+        "q": "Which subatomic particle has a negative charge ?",
+        "a": "electron",
+        "b": "proton",
+        "c": "neutron",
+        "d": "muon",
+        "r": "a"
+    },
+    {
+        "q": "What is the chemical symbol for helium?",
+        "a": "He",
+        "b": "H",
+        "c": "Hee",
+        "d": "Hl",
+        "r": "a"
+    },
+    {
+        "q": "What is the state of matter in which particles have the most energy and are the most spread out?",
+        "a": "plasma",
+        "b": "gas",
+        "c": "liquid",
+        "d": "solid",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for the compound carbon dioxide?",
+        "a": "CO2",
+        "b": "CO",
+        "c": "COO",
+        "d": "C2O",
+        "r": "a"
+    },
+    {
+        "q": "What is the freezing point of water at sea level?",
+        "a": "0°C",
+        "b": "100°C",
+        "c": "25°C",
+        "d": "-25°C",
+        "r": "a"
+    },
+    {
+        "q": "What is the mass number of an atom with 6 protons and 7 neutrons?",
+        "a": "13",
+        "b": "6",
+        "c": "7",
+        "d": "12",
+        "r": "a"
+    },
+    {
+        "q": "What is the SI unit of temperature?",
+        "a": "Kelvin",
+        "b": "Celsius",
+        "c": "Fahrenheit",
+        "d": "Joule",
+        "r": "a"
+    },
+    {
+        "q": "Which type of bond involves the transfer of electrons from one atom to another?",
+        "a": "ionic bond",
+        "b": "covalent bond",
+        "c": "metallic bond",
+        "d": "hydrogen bond",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for the compound water?",
+        "a": "H2O",
+        "b": "CO2",
+        "c": "O2",
+        "d": "CH4",
+        "r": "a"
+    },
+    {
+        "q": "Which state of matter has a definite shape but no definite volume?",
+        "a": "solid",
+        "b": "liquid",
+        "c": "gas",
+        "d": "plasma",
+        "r": "a"
+    },
+    {
+        "q": "What is the chemical symbol for carbon?",
+        "a": "C",
+        "b": "Ca",
+        "c": "Co",
+        "d": "Cr",
+        "r": "a"
+    },
+    {
+        "q": "What is the atomic number of oxygen?",
+        "a": "8",
+        "b": "6",
+        "c": "16",
+        "d": "12",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of a solid turning directly into a gas without becoming a liquid first?",
+        "a": "sublimation",
+        "b": "evaporation",
+        "c": "condensation",
+        "d": "melting",
+        "r": "a"
+    },
+    {
+        "q": "What is the state of matter in which particles have the least energy and are closest together?",
+        "a": "solid",
+        "b": "liquid",
+        "c": "gas",
+        "d": "plasma",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for the compound methane?",
+        "a": "CH4",
+        "b": "CO2",
+        "c": "H2O",
+        "d": "NH3",
+        "r": "a"
+    },
+    {
+        "q": "What is the boiling point of water in Fahrenheit?",
+        "a": "212°F",
+        "b": "32°F",
+        "c": "100°F",
+        "d": "50°F",
+        "r": "a"
+    },
+    {
+        "q": "What is the mass number of an atom with 17 protons and 18 neutrons?",
+        "a": "35",
+        "b": "17",
+        "c": "18",
+        "d": "34",
+        "r": "a"
+    },
+    {
+        "q": "What is the SI unit of volume?",
+        "a": "cubic meter",
+        "b": "liter",
+        "c": "gallon",
+        "d": "kilogram",
+        "r": "a"
+    },
+    {
+        "q": "Which type of bond is formed between a metal and a non-metal?",
+        "a": "ionic bond",
+        "b": "covalent bond",
+        "c": "metallic bond",
+        "d": "hydrogen bond",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for the compound carbon monoxide?",
+        "a": "CO",
+        "b": "CO2",
+        "c": "C2O",
+        "d": "CH4",
+        "r": "a"
+    },
+    {
+        "q": "Which state of matter has a definite volume but takes the shape of its container?",
+        "a": "liquid",
+        "b": "solid",
+        "c": "gas",
+        "d": "plasma",
+        "r": "a"
+    },
+    {
+        "q": "What is the chemical symbol for hydrogen?",
+        "a": "H",
+        "b": "Hy",
+        "c": "He",
+        "d": "Hg",
+        "r": "a"
+    },
+    {
+        "q": "What is the atomic number of sodium?",
+        "a": "11",
+        "b": "12",
+        "c": "23",
+        "d": "8",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of a gas turning directly into a solid without becoming a liquid first?",
+        "a": "deposition",
+        "b": "evaporation",
+        "c": "sublimation",
+        "d": "freezing",
+        "r": "a"
+    },
+    {
+        "q": "What is the state of matter in which particles have enough energy to break free from each other?",
+        "a": "gas",
+        "b": "solid",
+        "c": "liquid",
+        "d": "plasma",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for the compound carbon tetrachloride?",
+        "a": "CCl4",
+        "b": "CO2",
+        "c": "CH4",
+        "d": "CO",
+        "r": "a"
+    },
+    {
+        "q": "What is the melting point of iron in Celsius?",
+        "a": "1535°C",
+        "b": "0°C",
+        "c": "100°C",
+        "d": "660°C",
+        "r": "a"
+    },
+    {
+        "q": "What is the mass number of an atom with 26 protons and 30 neutrons?",
+        "a": "56",
+        "b": "26",
+        "c": "30",
+        "d": "56",
+        "r": "a"
+    },
+    {
+        "q": "What is the SI unit of time?",
+        "a": "second",
+        "b": "hour",
+        "c": "day",
+        "d": "minute",
+        "r": "a"
+    },
+    {
+        "q": "Which type of bond is formed between two non-metals?",
+        "a": "covalent bond",
+        "b": "ionic bond",
+        "c": "metallic bond",
+        "d": "hydrogen bond",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for the compound ammonia?",
+        "a": "NH3",
+        "b": "H2O",
+        "c": "CO2",
+        "d": "N2O",
+        "r": "a"
+    },
+    {
+        "q": "Which state of matter is characterized by having a definite shape and volume?",
+        "a": "solid",
+        "b": "liquid",
+        "c": "gas",
+        "d": "plasma",
+        "r": "a"
+    },
+    {
+        "q": "What is the chemical symbol for nitrogen?",
+        "a": "N",
+        "b": "Ni",
+        "c": "Na",
+        "d": "Ng",
+        "r": "a"
+    },
+    {
+        "q": "What is the atomic number of chlorine?",
+        "a": "17",
+        "b": "16",
+        "c": "35",
+        "d": "18",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of a liquid turning directly into a gas at the surface, even below its boiling point?",
+        "a": "evaporation",
+        "b": "condensation",
+        "c": "sublimation",
+        "d": "boiling",
+        "r": "a"
+    },
+    {
+        "q": "What is the state of matter in which particles have enough energy to move freely but still stay close together?",
+        "a": "liquid",
+        "b": "gas",
+        "c": "solid",
+        "d": "plasma",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for the compound sulfuric acid?",
+        "a": "H2SO4",
+        "b": "H2O",
+        "c": "SO4",
+        "d": "HCl",
+        "r": "a"
+    },
+    {
+        "q": "What is the boiling point of ethanol (alcohol) in Fahrenheit?",
+        "a": "173.1°F",
+        "b": "212°F",
+        "c": "100°F",
+        "d": "0°F",
+        "r": "a"
+    },
+    {
+        "q": "What is the mass number of an atom with 8 protons and 9 neutrons?",
+        "a": "17",
+        "b": "8",
+        "c": "9",
+        "d": "16",
+        "r": "a"
+    },
+    {
+        "q": "What is the SI unit of length?",
+        "a": "meter",
+        "b": "kilogram",
+        "c": "mile",
+        "d": "inch",
+        "r": "a"
+    },
+    {
+        "q": "Which type of bond is formed between two water molecules?",
+        "a": "hydrogen bond",
+        "b": "covalent bond",
+        "c": "ionic bond",
+        "d": "metallic bond",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for the compound carbonic acid (found in carbonated drinks)?",
+        "a": "H2CO3",
+        "b": "CO2",
+        "c": "CH4",
+        "d": "H2O",
+        "r": "a"
+    },
+    {
+        "q": "Which state of matter is considered the most energetic and least dense?",
+        "a": "plasma",
+        "b": "solid",
+        "c": "liquid",
+        "d": "gas",
+        "r": "a"
+    },
+    {
+        "q": "What subatomic particle has a positive charge?",
+        "a": "Proton",
+        "b": "Neutron",
+        "c": "Electron",
+        "d": "Nucleus",
+        "r": "a"
+    },
+    {
+        "q": "Who proposed the plum pudding model of the atom?",
+        "a": "J.J. Thomson",
+        "b": "Ernest Rutherford",
+        "c": "Niels Bohr",
+        "d": "Democritus",
+        "r": "a"
+    },
+    {
+        "q": "The atomic number of an element is equal to the number of:",
+        "a": "Protons",
+        "b": "Neutrons",
+        "c": "Electrons",
+        "d": "Quarks",
+        "r": "a"
+    },
+    {
+        "q": "What is the charge of a neutron?",
+        "a": "Neutral",
+        "b": "Positive",
+        "c": "Negative",
+        "d": "It varies",
+        "r": "a"
+    },
+    {
+        "q": "The mass number of an atom is equal to the number of:",
+        "a": "Protons + Neutrons",
+        "b": "Protons + Electrons",
+        "c": "Electrons + Neutrons",
+        "d": "Protons + Electrons + Neutrons",
+        "r": "a"
+    },
+    {
+        "q": "The number of electrons in a neutral atom is equal to the number of:",
+        "a": "Protons",
+        "b": "Neutrons",
+        "c": "Quarks",
+        "d": "Electrons",
+        "r": "d"
+    },
+    {
+        "q": "Who proposed the planetary model of the atom?",
+        "a": "Niels Bohr",
+        "b": "J.J. Thomson",
+        "c": "Ernest Rutherford",
+        "d": "Democritus",
+        "r": "a"
+    },
+    {
+        "q": "What is the total number of electrons that can occupy the p subshell?",
+        "a": "6",
+        "b": "2",
+        "c": "8",
+        "d": "10",
+        "r": "c"
+    },
+    {
+        "q": "The atomic mass of an atom is primarily determined by the number of:",
+        "a": "Protons and Neutrons",
+        "b": "Electrons",
+        "c": "Neutrons",
+        "d": "Quarks",
+        "r": "a"
+    },
+    {
+        "q": "What is the maximum number of electrons that can be accommodated in the d subshell?",
+        "a": "10",
+        "b": "6",
+        "c": "14",
+        "d": "8",
+        "r": "a"
+    },
+    {
+        "q": "Who proposed the nuclear model of the atom?",
+        "a": "Ernest Rutherford",
+        "b": "J.J. Thomson",
+        "c": "Niels Bohr",
+        "d": "Democritus",
+        "r": "a"
+    },
+    {
+        "q": "The mass number of an atom is equal to the sum of:",
+        "a": "Protons and Neutrons",
+        "b": "Electrons and Neutrons",
+        "c": "Protons and Electrons",
+        "d": "Protons and Electrons and Neutrons",
+        "r": "a"
+    },
+    {
+        "q": "The Bohr model of the atom is based on the quantization of:",
+        "a": "Electron energy levels",
+        "b": "Electron charge",
+        "c": "Atomic mass",
+        "d": "Atomic number",
+        "r": "a"
+    },
+    {
+        "q": "What is the charge of an alpha particle?",
+        "a": "2",
+        "b": "1",
+        "c": "-2",
+        "d": "-1",
+        "r": "a"
+    },
+    {
+        "q": "The maximum number of electrons that can be accommodated in the s subshell is:",
+        "a": "2",
+        "b": "6",
+        "c": "8",
+        "d": "10",
+        "r": "a"
+    },
+    {
+        "q": "Who is credited with the discovery of the electron?",
+        "a": "J.J. Thomson",
+        "b": "Ernest Rutherford",
+        "c": "Niels Bohr",
+        "d": "Democritus",
+        "r": "a"
+    },
+    {
+        "q": "What is the charge of a proton?",
+        "a": "1",
+        "b": "-1",
+        "c": "0",
+        "d": "2",
+        "r": "a"
+    },
+    {
+        "q": "The number of protons in an atom determines its:",
+        "a": "Atomic number",
+        "b": "Atomic mass",
+        "c": "Mass number",
+        "d": "Number of electrons",
+        "r": "a"
+    },
+    {
+        "q": "Who proposed the concept of an indivisible atom?",
+        "a": "Democritus",
+        "b": "J.J. Thomson",
+        "c": "Ernest Rutherford",
+        "d": "Niels Bohr",
+        "r": "a"
+    },
+    {
+        "q": "What is the total number of electrons that can occupy the d subshell?",
+        "a": "10",
+        "b": "6",
+        "c": "14",
+        "d": "8",
+        "r": "a"
+    },
+    {
+        "q": "The atomic number represents the number of:",
+        "a": "Protons",
+        "b": "Electrons",
+        "c": "Neutrons",
+        "d": "Protons + Neutrons",
+        "r": "a"
+    },
+    {
+        "q": "Who proposed the quantum mechanical model of the atom?",
+        "a": "Erwin Schrödinger",
+        "b": "Niels Bohr",
+        "c": "J.J. Thomson",
+        "d": "Democritus",
+        "r": "a"
+    },
+    {
+        "q": "What is the charge of a gamma ray photon?",
+        "a": "0",
+        "b": "1",
+        "c": "-1",
+        "d": "It varies",
+        "r": "a"
+    },
+    {
+        "q": "The number of neutrons in an atom can be calculated by subtracting the atomic number from the:",
+        "a": "Mass number",
+        "b": "Atomic mass",
+        "c": "Number of electrons",
+        "d": "Charge of the atom",
+        "r": "a"
+    },
+    {
+        "q": "Who discovered the neutron?",
+        "a": "James Chadwick",
+        "b": "Ernest Rutherford",
+        "c": "Niels Bohr",
+        "d": "Democritus",
+        "r": "a"
+    },
+    {
+        "q": "What is the maximum number of electrons that can be accommodated in the f subshell?",
+        "a": "14",
+        "b": "2",
+        "c": "6",
+        "d": "8",
+        "r": "a"
+    },
+    {
+        "q": "The nucleus of an atom is composed of:",
+        "a": "Protons and Neutrons",
+        "b": "Electrons and Neutrons",
+        "c": "Protons and Electrons",
+        "d": "Electrons and Protons and Neutrons",
+        "r": "a"
+    },
+    {
+        "q": "Who proposed the wave model of the electron?",
+        "a": "Louis de Broglie",
+        "b": "Niels Bohr",
+        "c": "J.J. Thomson",
+        "d": "Democritus",
+        "r": "a"
+    },
+    {
+        "q": "What is the charge of a beta particle?",
+        "a": "-1",
+        "b": "0",
+        "c": "1",
+        "d": "-2",
+        "r": "a"
+    },
+    {
+        "q": "The quantum mechanical model describes the behavior of:",
+        "a": "Electrons",
+        "b": "Protons",
+        "c": "Neutrons",
+        "d": "Nucleus",
+        "r": "a"
+    },
+    {
+        "q": "The maximum number of electrons that can be accommodated in the p subshell is:",
+        "a": "6",
+        "b": "2",
+        "c": "8",
+        "d": "10",
+        "r": "c"
+    },
+    {
+        "q": "Who is known as the \"Father of Modern Chemistry\"?",
+        "a": "Antoine Lavoisier",
+        "b": "Ernest Rutherford",
+        "c": "Niels Bohr",
+        "d": "Democritus",
+        "r": "a"
+    },
+    {
+        "q": "What is the total number of electrons that can occupy the f subshell?",
+        "a": "14",
+        "b": "2",
+        "c": "6",
+        "d": "8",
+        "r": "a"
+    },
+    {
+        "q": "The concept of isotopes is based on atoms having the same number of:",
+        "a": "Protons but different Neutrons",
+        "b": "Electrons but different Neutrons",
+        "c": "Electrons but different Protons",
+        "d": "Protons and Neutrons",
+        "r": "a"
+    },
+    {
+        "q": "Who proposed the concept of energy levels or shells in an atom?",
+        "a": "Niels Bohr",
+        "b": "J.J. Thomson",
+        "c": "Ernest Rutherford",
+        "d": "Democritus",
+        "r": "a"
+    },
+    {
+        "q": "What is the charge of an electron?",
+        "a": "-1",
+        "b": "1",
+        "c": "0",
+        "d": "-2",
+        "r": "a"
+    },
+    {
+        "q": "Who was the first to propose the concept of an \"electron cloud\"?",
+        "a": "Erwin Schrödinger",
+        "b": "Niels Bohr",
+        "c": "J.J. Thomson",
+        "d": "Democritus",
+        "r": "a"
+    },
+    {
+        "q": "What is the charge of an x-ray photon?",
+        "a": "0",
+        "b": "1",
+        "c": "-1",
+        "d": "It varies",
+        "r": "a"
+    },
+    {
+        "q": "Which subatomic particle has the least mass?",
+        "a": "Electron",
+        "b": "Proton",
+        "c": "Neutron",
+        "d": "Nucleus",
+        "r": "a"
+    },
+    {
+        "q": "Which element has the symbol \"Na\"?",
+        "a": "Sodium",
+        "b": "Nickel",
+        "c": "Nitrogen",
+        "d": "Neon",
+        "r": "a"
+    },
+    {
+        "q": "The periodic table is arranged in order of...",
+        "a": "Atomic Mass",
+        "b": "Atomic Number",
+        "c": "Number of Electrons",
+        "d": "Number of Neutrons",
+        "r": "b"
+    },
+    {
+        "q": "What is the symbol of Silver?",
+        "a": "Si",
+        "b": "Sr",
+        "c": "Ag",
+        "d": "Au",
+        "r": "c"
+    },
+    {
+        "q": "Which group of elements is known as alkaline earth metals?",
+        "a": "Group 1 (IA)",
+        "b": "Group 2 (IIA)",
+        "c": "Group 17 (VIIA)",
+        "d": "Group 18 (VIIIA)",
+        "r": "b"
+    },
+    {
+        "q": "The modern periodic table is arranged based on...",
+        "a": "Increasing Atomic Number",
+        "b": "Decreasing Atomic Mass",
+        "c": "Alphabetical Order",
+        "d": "Density",
+        "r": "a"
+    },
+    {
+        "q": "Chlorine belongs to which group in the periodic table?",
+        "a": "Group 7 (VIIA)",
+        "b": "Group 8 (VIIIA)",
+        "c": "Group 17 (VIIA)",
+        "d": "Group 2 (IIA)",
+        "r": "a"
+    },
+    {
+        "q": "Which element has the highest electronegativity value?",
+        "a": "Fluorine",
+        "b": "Carbon",
+        "c": "Oxygen",
+        "d": "Lithium",
+        "r": "a"
+    },
+    {
+        "q": "The first ionization energy...",
+        "a": "Increases across periods and decreases down groups",
+        "b": "Decreases across periods and increases down groups",
+        "c": "Increases across periods and increases down groups",
+        "d": "Decreases across periods and decreases down groups",
+        "r": "b"
+    },
+    {
+        "q": "The horizontal rows in the periodic table are called...",
+        "a": "Groups",
+        "b": "Periods",
+        "c": "Families",
+        "d": "Elements",
+        "r": "b"
+    },
+    {
+        "q": "The element found in all organic compounds is...",
+        "a": "Oxygen",
+        "b": "Carbon",
+        "c": "Hydrogen",
+        "d": "Nitrogen",
+        "r": "b"
+    },
+    {
+        "q": "Which element is a noble gas?",
+        "a": "Nitrogen",
+        "b": "Neon",
+        "c": "Sodium",
+        "d": "Sulfur",
+        "r": "b"
+    },
+    {
+        "q": "The atomic number represents...",
+        "a": "The number of protons in the nucleus",
+        "b": "The number of neutrons in the nucleus",
+        "c": "The number of electrons in the nucleus",
+        "d": "The number of protons and neutrons in the nucleus",
+        "r": "a"
+    },
+    {
+        "q": "What is the period number of sodium?",
+        "a": "2",
+        "b": "3",
+        "c": "1",
+        "d": "4",
+        "r": "c"
+    },
+    {
+        "q": "Which element is a metalloid?",
+        "a": "Sodium",
+        "b": "Phosphorus",
+        "c": "Silicon",
+        "d": "Chlorine",
+        "r": "c"
+    },
+    {
+        "q": "The number of elements in the modern periodic table is...",
+        "a": "118",
+        "b": "92",
+        "c": "101",
+        "d": "63",
+        "r": "a"
+    },
+    {
+        "q": "What is the most abundant gas in the Earth's atmosphere?",
+        "a": "Oxygen",
+        "b": "Nitrogen",
+        "c": "Hydrogen",
+        "d": "Carbon Dioxide",
+        "r": "b"
+    },
+    {
+        "q": "The vertical columns in the periodic table are called...",
+        "a": "Periods",
+        "b": "Groups",
+        "c": "Blocks",
+        "d": "Families",
+        "r": "b"
+    },
+    {
+        "q": "Which element has the lowest electronegativity value?",
+        "a": "Fluorine",
+        "b": "Lithium",
+        "c": "Oxygen",
+        "d": "Francium",
+        "r": "d"
+    },
+    {
+        "q": "The elements in the same group have...",
+        "a": "Similar chemical properties",
+        "b": "Different atomic numbers",
+        "c": "The same atomic mass",
+        "d": "The same number of protons",
+        "r": "a"
+    },
+    {
+        "q": "Which element is a halogen?",
+        "a": "Chlorine",
+        "b": "Sodium",
+        "c": "Iron",
+        "d": "Zinc",
+        "r": "a"
+    },
+    {
+        "q": "The electron configuration of an element is...",
+        "a": "The arrangement of protons, neutrons, and electrons",
+        "b": "The arrangement of protons and neutrons",
+        "c": "The arrangement of electrons only",
+        "d": "The arrangement of valence electrons",
+        "r": "c"
+    },
+    {
+        "q": "Which element has the highest ionization energy?",
+        "a": "Sodium",
+        "b": "Fluorine",
+        "c": "Potassium",
+        "d": "Oxygen",
+        "r": "b"
+    },
+    {
+        "q": "The size of atoms tends to...",
+        "a": "Increase across periods and decrease down groups",
+        "b": "Increase down groups and decrease across periods",
+        "c": "Decrease across periods and increase down groups",
+        "d": "Stay the same across periods and down groups",
+        "r": "a"
+    },
+    {
+        "q": "What is the period number of chlorine?",
+        "a": "2",
+        "b": "3",
+        "c": "1",
+        "d": "4",
+        "r": "a"
+    },
+    {
+        "q": "Which element is a transition metal?",
+        "a": "Gold",
+        "b": "Silicon",
+        "c": "Phosphorus",
+        "d": "Hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "The mass number of an element is equal to...",
+        "a": "The number of protons in the nucleus plus the number of neutrons",
+        "b": "The number of neutrons in the nucleus",
+        "c": "The number of protons in the nucleus",
+        "d": "The number of electrons in the nucleus",
+        "r": "a"
+    },
+    {
+        "q": "The element with atomic number 1 is...",
+        "a": "Helium",
+        "b": "Hydrogen",
+        "c": "Neon",
+        "d": "Oxygen",
+        "r": "b"
+    },
+    {
+        "q": "Which element is an alkali metal?",
+        "a": "Potassium",
+        "b": "Chlorine",
+        "c": "Calcium",
+        "d": "Sulfur",
+        "r": "a"
+    },
+    {
+        "q": "The atomic radius of an element tends to...",
+        "a": "Decrease across periods and increase down groups",
+        "b": "Increase across periods and decrease down groups",
+        "c": "Increase across periods and increase down groups",
+        "d": "Stay the same across periods and down groups",
+        "r": "b"
+    },
+    {
+        "q": "What is the period number of oxygen?",
+        "a": "2",
+        "b": "3",
+        "c": "1",
+        "d": "4",
+        "r": "c"
+    },
+    {
+        "q": "Which element is a nonmetal?",
+        "a": "Oxygen",
+        "b": "Sodium",
+        "c": "Potassium",
+        "d": "Iron",
+        "r": "a"
+    },
+    {
+        "q": "The most reactive metals are found in...",
+        "a": "Group 1 (IA)",
+        "b": "Group 7 (VIIA)",
+        "c": "Group 18 (VIIIA)",
+        "d": "Group 2 (IIA)",
+        "r": "a"
+    },
+    {
+        "q": "The main group elements are found in...",
+        "a": "The \"d\" block of the periodic table",
+        "b": "The \"p\" block of the periodic table",
+        "c": "The \"s\" block of the periodic table",
+        "d": "The \"f\" block of the periodic table",
+        "r": "b"
+    },
+    {
+        "q": "What is the chemical symbol for potassium?",
+        "a": "P",
+        "b": "K",
+        "c": "Po",
+        "d": "Pt",
+        "r": "b"
+    },
+    {
+        "q": "Which element has the lowest ionization energy?",
+        "a": "Potassium",
+        "b": "Fluorine",
+        "c": "Sodium",
+        "d": "Oxygen",
+        "r": "d"
+    },
+    {
+        "q": "The trend of increasing atomic size is observed...",
+        "a": "From top to bottom in a group (down a group)",
+        "b": "From left to right in a period (across a period)",
+        "c": "From bottom to top in a group (up a group)",
+        "d": "From right to left in a period (back across a period",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a type of chemical bond formed by the transfer of electrons from one atom to another?",
+        "a": "covalent",
+        "b": "ionic",
+        "c": "metallic",
+        "d": "hydrogen",
+        "r": "b"
+    },
+    {
+        "q": "In an ionic bond, electrons are transferred from the _______ to the _______.",
+        "a": "non-metal to metal",
+        "b": "metal to non-metal",
+        "c": "non-metal to non-metal",
+        "d": "metal to metal",
+        "r": "b"
+    },
+    {
+        "q": "The force of attraction that holds two atoms together is known as a(n) _______.",
+        "a": "bond",
+        "b": "ion",
+        "c": "isotope",
+        "d": "molecule",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following bonds is the strongest?",
+        "a": "covalent",
+        "b": "ionic",
+        "c": "metallic",
+        "d": "hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "The octet rule states that atoms tend to gain, lose, or share electrons in order to achieve _________.",
+        "a": "a full outer electron shell",
+        "b": "a half-filled electron shell",
+        "c": "a full inner electron shell",
+        "d": "a half-filled inner electron shell",
+        "r": "a"
+    },
+    {
+        "q": "The chemical symbol for sodium is ________.",
+        "a": "S",
+        "b": "Se",
+        "c": "So",
+        "d": "Na",
+        "r": "d"
+    },
+    {
+        "q": "What is the chemical formula for magnesium chloride?",
+        "a": "MgCl",
+        "b": "MgCl2",
+        "c": "Mg2Cl",
+        "d": "MgCl3",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following elements is most likely to form a -1 anion?",
+        "a": "Oxygen",
+        "b": "Nitrogen",
+        "c": "Hydrogen",
+        "d": "Fluorine",
+        "r": "a"
+    },
+    {
+        "q": "A cation is formed when an atom _________.",
+        "a": "gains electrons",
+        "b": "loses electrons",
+        "c": "shares electrons",
+        "d": "does not change its electrons",
+        "r": "b"
+    },
+    {
+        "q": "Which type of chemical bond involves the sharing of electrons between atoms?",
+        "a": "covalent",
+        "b": "ionic",
+        "c": "metallic",
+        "d": "hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "The bond between hydrogen and oxygen in a water molecule is an example of a(n) ________ bond.",
+        "a": "ionic",
+        "b": "covalent",
+        "c": "metallic",
+        "d": "hydrogen",
+        "r": "b"
+    },
+    {
+        "q": "What is the charge of a chloride ion (Cl-)?",
+        "a": "-2",
+        "b": "-1",
+        "c": "1",
+        "d": "0",
+        "r": "b"
+    },
+    {
+        "q": "The Lewis dot structure represents _________.",
+        "a": "the 3D structure of a molecule",
+        "b": "the valence electrons of an atom",
+        "c": "the isotopes of an element",
+        "d": "the arrangement of atoms in a molecule",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following elements is known to readily form anions with a -2 charge?",
+        "a": "Calcium",
+        "b": "Oxygen",
+        "c": "Sodium",
+        "d": "Hydrogen",
+        "r": "b"
+    },
+    {
+        "q": "Which type of chemical bond is formed between two atoms of the same element?",
+        "a": "covalent",
+        "b": "ionic",
+        "c": "metallic",
+        "d": "hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "What is the name for the type of chemical bond that involves the sharing of electron pairs between atoms?",
+        "a": "ionic",
+        "b": "covalent",
+        "c": "metallic",
+        "d": "hydrogen",
+        "r": "b"
+    },
+    {
+        "q": "The chemical formula for carbon dioxide is _________.",
+        "a": "CO",
+        "b": "CO2",
+        "c": "C2O",
+        "d": "CO3",
+        "r": "b"
+    },
+    {
+        "q": "The electrons involved in the formation of a chemical bond are called _________.",
+        "a": "valence electrons",
+        "b": "core electrons",
+        "c": "proton",
+        "d": "neutron",
+        "r": "a"
+    },
+    {
+        "q": "What is the name given to a bond formed when two atoms share a pair of electrons unequally?",
+        "a": "nonpolar covalent",
+        "b": "polar covalent",
+        "c": "ionic",
+        "d": "hydrogen",
+        "r": "b"
+    },
+    {
+        "q": "The type of bond formed between sodium and chlorine in sodium chloride (NaCl) is a(n) ________ bond.",
+        "a": "ionic",
+        "b": "covalent",
+        "c": "metallic",
+        "d": "hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following elements is NOT likely to form a covalent bond with hydrogen?",
+        "a": "Oxygen",
+        "b": "Chlorine",
+        "c": "Carbon",
+        "d": "Sodium",
+        "r": "d"
+    },
+    {
+        "q": "A covalent bond is formed when atoms _________.",
+        "a": "gain electrons",
+        "b": "lose electrons",
+        "c": "share electrons",
+        "d": "transfer electrons",
+        "r": "c"
+    },
+    {
+        "q": "The chemical symbol for potassium is ________.",
+        "a": "P",
+        "b": "Pt",
+        "c": "K",
+        "d": "Po",
+        "r": "c"
+    },
+    {
+        "q": "What is the name for a bond formed between a metal and a non-metal?",
+        "a": "covalent",
+        "b": "ionic",
+        "c": "metallic",
+        "d": "hydrogen",
+        "r": "b"
+    },
+    {
+        "q": "When atoms share electrons equally, the bond formed is called a ________ covalent bond.",
+        "a": "nonpolar",
+        "b": "polar",
+        "c": "ionic",
+        "d": "hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "The type of bond formed between two atoms of the same element is a ________ bond.",
+        "a": "covalent",
+        "b": "ionic",
+        "c": "metallic",
+        "d": "hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "What is the charge of a calcium ion (Ca2+)?",
+        "a": "-2",
+        "b": "-1",
+        "c": "2",
+        "d": "0",
+        "r": "c"
+    },
+    {
+        "q": "The electron dot structure for sulfur (S) contains ________ dots.",
+        "a": "4",
+        "b": "2",
+        "c": "6",
+        "d": "8",
+        "r": "d"
+    },
+    {
+        "q": "In a covalent bond, how many electrons are shared between two atoms?",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "r": "b"
+    },
+    {
+        "q": "The type of bond that occurs between a metal and a non-metal is called a(n) ________ bond.",
+        "a": "ionic",
+        "b": "covalent",
+        "c": "metallic",
+        "d": "hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following elements is most likely to form a +2 cation?",
+        "a": "Oxygen",
+        "b": "Nitrogen",
+        "c": "Calcium",
+        "d": "Fluorine",
+        "r": "c"
+    },
+    {
+        "q": "When an atom gains an electron, it becomes a(n) _________.",
+        "a": "anion",
+        "b": "cation",
+        "c": "isotope",
+        "d": "neutral atom",
+        "r": "a"
+    },
+    {
+        "q": "The chemical formula for hydrochloric acid is _________.",
+        "a": "HCl",
+        "b": "H2SO4",
+        "c": "HNO3",
+        "d": "NaOH",
+        "r": "a"
+    },
+    {
+        "q": "What is the name given to a bond formed between two atoms that share electrons equally?",
+        "a": "nonpolar covalent",
+        "b": "polar covalent",
+        "c": "ionic",
+        "d": "hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "The type of bond that occurs between two atoms of different elements is called a(n) ________ bond.",
+        "a": "ionic",
+        "b": "covalent",
+        "c": "metallic",
+        "d": "hydrogen",
+        "r": "b"
+    },
+    {
+        "q": "What is the charge of a nitride ion (N3-)?",
+        "a": "-1",
+        "b": "-2",
+        "c": "1",
+        "d": "0",
+        "r": "b"
+    },
+    {
+        "q": "The electron dot structure for chlorine (Cl) contains ________ dots.",
+        "a": "4",
+        "b": "2",
+        "c": "6",
+        "d": "8",
+        "r": "c"
+    },
+    {
+        "q": "What is the name for the bond formed between an atom of hydrogen and an atom of oxygen in a water molecule?",
+        "a": "ionic",
+        "b": "covalent",
+        "c": "metallic",
+        "d": "hydrogen",
+        "r": "b"
+    },
+    {
+        "q": "How many covalent bonds does carbon typically form?",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "r": "d"
+    },
+    {
+        "q": "Which gas is produced during photosynthesis?",
+        "a": "co2",
+        "b": "o2",
+        "c": "h2o",
+        "d": "n2",
+        "r": "b"
+    },
+    {
+        "q": "What is the product of the reaction: HCl + NaOH -> ?",
+        "a": "nacl",
+        "b": "hocl",
+        "c": "h2o",
+        "d": "nah",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of a redox reaction?",
+        "a": "rusting of iron",
+        "b": "dissolving salt in water",
+        "c": "boiling water to steam",
+        "d": "melting ice",
+        "r": "a"
+    },
+    {
+        "q": "The reaction 2H2 + O2 -> 2H2O is an example of a:",
+        "a": "combination reaction",
+        "b": "decomposition reaction",
+        "c": "displacement reaction",
+        "d": "displacement reaction",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a product of the reaction: CaCO3 -> CaO + CO2?",
+        "a": "cao",
+        "b": "ca2o",
+        "c": "ca2o3",
+        "d": "cao2",
+        "r": "a"
+    },
+    {
+        "q": "The process of respiration involves the reaction of glucose and ______ to produce energy.",
+        "a": "oxygen",
+        "b": "carbon dioxide",
+        "c": "water",
+        "d": "nitrogen",
+        "r": "a"
+    },
+    {
+        "q": "What is the chemical formula for hydrochloric acid?",
+        "a": "hcl",
+        "b": "h2cl",
+        "c": "hco3",
+        "d": "chl",
+        "r": "a"
+    },
+    {
+        "q": "In the chemical reaction: 2K + 2H2O -> 2KOH + H2, what is reduced?",
+        "a": "h2o",
+        "b": "k",
+        "c": "h2",
+        "d": "koh",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a type of chemical reaction?",
+        "a": "multiplication reaction",
+        "b": "combustion reaction",
+        "c": "precipitation reaction",
+        "d": "displacement reaction",
+        "r": "a"
+    },
+    {
+        "q": "The reaction: C6H12O6 + 6O2 -> 6CO2 + 6H2O represents:",
+        "a": "combustion reaction",
+        "b": "displacement reaction",
+        "c": "decomposition reaction",
+        "d": "combination reaction",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is responsible for the greenhouse effect?",
+        "a": "co2",
+        "b": "n2o",
+        "c": "ch4",
+        "d": "o2",
+        "r": "a"
+    },
+    {
+        "q": "What type of chemical reaction occurs when an acid reacts with a base to form salt and water?",
+        "a": "neutralization reaction",
+        "b": "combustion reaction",
+        "c": "displacement reaction",
+        "d": "combination reaction",
+        "r": "a"
+    },
+    {
+        "q": "The reaction: N2 + 3H2 -> 2NH3 represents:",
+        "a": "combination reaction",
+        "b": "combustion reaction",
+        "c": "decomposition reaction",
+        "d": "displacement reaction",
+        "r": "d"
+    },
+    {
+        "q": "What is the product of the reaction: 2Na + Cl2 -> ?",
+        "a": "nacl",
+        "b": "na2cl2",
+        "c": "na2cl",
+        "d": "nacl2",
+        "r": "a"
+    },
+    {
+        "q": "The rusting of iron is an example of which type of reaction?",
+        "a": "oxidation-reduction reaction",
+        "b": "combustion reaction",
+        "c": "combination reaction",
+        "d": "decomposition reaction",
+        "r": "a"
+    },
+    {
+        "q": "What is the chemical formula for table salt?",
+        "a": "nacl",
+        "b": "kcl",
+        "c": "hcl",
+        "d": "cacl2",
+        "r": "a"
+    },
+    {
+        "q": "The reaction: 2H2O -> 2H2 + O2 represents:",
+        "a": "decomposition reaction",
+        "b": "combination reaction",
+        "c": "combustion reaction",
+        "d": "displacement reaction",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a product of the reaction: 2H2 + O2 -> 2H2O?",
+        "a": "h2o",
+        "b": "h2",
+        "c": "o2",
+        "d": "h2o2",
+        "r": "a"
+    },
+    {
+        "q": "What is the product of the reaction: 2Al + 3Cl2 -> ?",
+        "a": "alcl3",
+        "b": "al2cl3",
+        "c": "al2cl",
+        "d": "alcl",
+        "r": "a"
+    },
+    {
+        "q": "The reaction: CH4 + 2O2 -> CO2 + 2H2O represents:",
+        "a": "combustion reaction",
+        "b": "combination reaction",
+        "c": "decomposition reaction",
+        "d": "displacement reaction",
+        "r": "a"
+    },
+    {
+        "q": "In the reaction: 2Fe + 3Cl2 -> 2FeCl3, what is oxidized?",
+        "a": "fe",
+        "b": "fecl3",
+        "c": "cl2",
+        "d": "fecl",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a product of the reaction: 2H2 + O2 -> 2H2O?",
+        "a": "h2o",
+        "b": "h2",
+        "c": "o2",
+        "d": "h2o2",
+        "r": "d"
+    },
+    {
+        "q": "What type of chemical reaction occurs when a substance reacts with oxygen to produce heat and light?",
+        "a": "combustion reaction",
+        "b": "neutralization reaction",
+        "c": "displacement reaction",
+        "d": "combination reaction",
+        "r": "a"
+    },
+    {
+        "q": "The reaction: 2H2O2 -> 2H2O + O2 represents:",
+        "a": "decomposition reaction",
+        "b": "combination reaction",
+        "c": "combustion reaction",
+        "d": "displacement reaction",
+        "r": "a"
+    },
+    {
+        "q": "What is the product of the reaction: 2K + 2H2O -> ?",
+        "a": "koh",
+        "b": "kh2o",
+        "c": "ko2h2",
+        "d": "k2o",
+        "r": "a"
+    },
+    {
+        "q": "The reaction: CH4 + 4O2 -> CO2 + 2H2O represents:",
+        "a": "combustion reaction",
+        "b": "combination reaction",
+        "c": "decomposition reaction",
+        "d": "displacement reaction",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a product of the reaction: 2Na + Cl2 -> 2NaCl?",
+        "a": "nacl",
+        "b": "nacl2",
+        "c": "na2cl",
+        "d": "na2cl2",
+        "r": "a"
+    },
+    {
+        "q": "What type of chemical reaction occurs when a substance breaks down into simpler substances?",
+        "a": "decomposition reaction",
+        "b": "neutralization reaction",
+        "c": "displacement reaction",
+        "d": "combination reaction",
+        "r": "a"
+    },
+    {
+        "q": "The reaction: C6H6 + O2 -> CO2 + H2O represents:",
+        "a": "combustion reaction",
+        "b": "combination reaction",
+        "c": "decomposition reaction",
+        "d": "displacement reaction",
+        "r": "a"
+    },
+    {
+        "q": "What is stoichiometry?",
+        "a": "The study of heat transfer",
+        "b": "The study of the behavior of gases",
+        "c": "The study of the elements and compounds",
+        "d": "The study of quantitative relationships",
+        "r": "c"
+    },
+    {
+        "q": "Which unit is used to measure the amount of substance?",
+        "a": "Mole",
+        "b": "Gram",
+        "c": "Liter",
+        "d": "Kelvin",
+        "r": "a"
+    },
+    {
+        "q": "Which law states that mass is conserved in a chemical reaction?",
+        "a": "Boyle's Law",
+        "b": "Gay-Lussac's Law",
+        "c": "Charles' Law",
+        "d": "Law of Conservation of Mass",
+        "r": "d"
+    },
+    {
+        "q": "How many moles of oxygen are in 4 moles of CO2?",
+        "a": "4",
+        "b": "1",
+        "c": "2",
+        "d": "8",
+        "r": "c"
+    },
+    {
+        "q": "What is the molar mass of water (H2O)?",
+        "a": "16.04 g/mol",
+        "b": "18.02 g/mol",
+        "c": "20.00 g/mol",
+        "d": "22.20 g/mol",
+        "r": "b"
+    },
+    {
+        "q": "In a chemical equation, what do the coefficients represent?",
+        "a": "Number of atoms",
+        "b": "Mass of the substance",
+        "c": "Volume of the substance",
+        "d": "Moles of the substance",
+        "r": "a"
+    },
+    {
+        "q": "What is the product of the reaction: 2H2 + O2 → 2H2O?",
+        "a": "H2O",
+        "b": "H2",
+        "c": "O2",
+        "d": "HO",
+        "r": "a"
+    },
+    {
+        "q": "How many moles of hydrogen are needed to react with 1 mole of nitrogen to produce ammonia (NH3)?",
+        "a": "3",
+        "b": "1",
+        "c": "2",
+        "d": "4",
+        "r": "b"
+    },
+    {
+        "q": "What is the empirical formula of C6H12O6?",
+        "a": "CH2O",
+        "b": "C6H12O6",
+        "c": "CHO",
+        "d": "C3H6O3",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a reactant?",
+        "a": "CO2",
+        "b": "H2O",
+        "c": "O2",
+        "d": "H2SO4",
+        "r": "c"
+    },
+    {
+        "q": "What is the percentage composition of oxygen in CO2?",
+        "a": "22.22%",
+        "b": "72.73%",
+        "c": "44.44%",
+        "d": "27.27%",
+        "r": "b"
+    },
+    {
+        "q": "What is the volume of 1 mole of an ideal gas at standard temperature and pressure (STP)?",
+        "a": "24.45 L",
+        "b": "22.71 L",
+        "c": "22.41 L",
+        "d": "24.00 L",
+        "r": "c"
+    },
+    {
+        "q": "What is the molar mass of potassium permanganate (KMnO4)?",
+        "a": "136.94 g/mol",
+        "b": "158.03 g/mol",
+        "c": "99.11 g/mol",
+        "d": "158.04 g/mol",
+        "r": "b"
+    },
+    {
+        "q": "What is the balanced equation for the combustion of methane (CH4)?",
+        "a": "CH4 + 2O2 → CO2 + 2H2O",
+        "b": "CH4 + O2 → CO2 + H2O",
+        "c": "CH4 + 3O2 → CO2 + 2H2O",
+        "d": "CH4 + 4O2 → CO2 + 2H2O",
+        "r": "a"
+    },
+    {
+        "q": "What is the limiting reactant in a chemical reaction?",
+        "a": "The reactant that limits the reaction",
+        "b": "The reactant with the highest mass",
+        "c": "The reactant with the lowest mass",
+        "d": "The reactant with the highest volume",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a state of matter?",
+        "a": "gas",
+        "b": "ice",
+        "c": "steam",
+        "d": "solid",
+        "r": "a"
+    },
+    {
+        "q": "What is the boiling point of water at sea level in Celsius?",
+        "a": "100°C",
+        "b": "0°C",
+        "c": "50°C",
+        "d": "75°C",
+        "r": "a"
+    },
+    {
+        "q": "The process of a gas transforming into a liquid is called:",
+        "a": "sublimation",
+        "b": "condensation",
+        "c": "evaporation",
+        "d": "freezing",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of an extensive property of matter?",
+        "a": "density",
+        "b": "temperature",
+        "c": "color",
+        "d": "mass",
+        "r": "d"
+    },
+    {
+        "q": "The process of a liquid changing into a gas is called:",
+        "a": "melting",
+        "b": "sublimation",
+        "c": "condensation",
+        "d": "evaporation",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following statements is true about solids?",
+        "a": "They have a definite shape and volume.",
+        "b": "They take the shape of the container.",
+        "c": "They have a definite volume but no definite shape.",
+        "d": "They can flow and diffuse to fill a container.",
+        "r": "a"
+    },
+    {
+        "q": "What is the symbol for the element oxygen?",
+        "a": "O",
+        "b": "Ox",
+        "c": "Oxg",
+        "d": "Om",
+        "r": "a"
+    },
+    {
+        "q": "The SI unit of pressure is:",
+        "a": "Newton",
+        "b": "Pascal",
+        "c": "Ohm",
+        "d": "Joule",
+        "r": "b"
+    },
+    {
+        "q": "At what temperature do Celsius and Fahrenheit scales show the same reading?",
+        "a": "0",
+        "b": "-40",
+        "c": "100",
+        "d": "50",
+        "r": "b"
+    },
+    {
+        "q": "Which gas is commonly used as a fire extinguisher because it is non-flammable?",
+        "a": "carbon dioxide",
+        "b": "oxygen",
+        "c": "helium",
+        "d": "nitrogen",
+        "r": "a"
+    },
+    {
+        "q": "The process of a solid changing directly into a gas is called:",
+        "a": "condensation",
+        "b": "freezing",
+        "c": "sublimation",
+        "d": "melting",
+        "r": "c"
+    },
+    {
+        "q": "Which state of matter has particles with the most energy?",
+        "a": "solid",
+        "b": "liquid",
+        "c": "gas",
+        "d": "plasma",
+        "r": "d"
+    },
+    {
+        "q": "What is the temperature at which all molecular motion theoretically stops?",
+        "a": "0 K",
+        "b": "0°C",
+        "c": "-273.15°C",
+        "d": "-100 K",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit of measurement for molar mass?",
+        "a": "grams per mole",
+        "b": "moles per gram",
+        "c": "grams per liter",
+        "d": "liters per mole",
+        "r": "a"
+    },
+    {
+        "q": "Which state of matter has the least energy?",
+        "a": "solid",
+        "b": "liquid",
+        "c": "gas",
+        "d": "plasma",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is essential for respiration and combustion reactions?",
+        "a": "carbon dioxide",
+        "b": "oxygen",
+        "c": "nitrogen",
+        "d": "helium",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of an intensive property of matter?",
+        "a": "volume",
+        "b": "mass",
+        "c": "weight",
+        "d": "length",
+        "r": "b"
+    },
+    {
+        "q": "The process of a gas changing directly into a solid is called:",
+        "a": "freezing",
+        "b": "condensation",
+        "c": "sublimation",
+        "d": "evaporation",
+        "r": "c"
+    },
+    {
+        "q": "Which state of matter has the most energy?",
+        "a": "solid",
+        "b": "liquid",
+        "c": "gas",
+        "d": "plasma",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following substances has the lowest boiling point?",
+        "a": "water",
+        "b": "ethanol",
+        "c": "methane",
+        "d": "ammonia",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of a homogeneous mixture?",
+        "a": "saltwater",
+        "b": "oil and water",
+        "c": "sand and water",
+        "d": "Italian dressing",
+        "r": "a"
+    },
+    {
+        "q": "What is the freezing point of water in Celsius?",
+        "a": "100°C",
+        "b": "0°C",
+        "c": "50°C",
+        "d": "-20°C",
+        "r": "b"
+    },
+    {
+        "q": "The process of a liquid changing into a solid is called:",
+        "a": "melting",
+        "b": "sublimation",
+        "c": "condensation",
+        "d": "freezing",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following gases is the most abundant in Earth's atmosphere?",
+        "a": "carbon dioxide",
+        "b": "oxygen",
+        "c": "nitrogen",
+        "d": "argon",
+        "r": "c"
+    },
+    {
+        "q": "The pressure exerted by a fluid at rest increases with depth. This principle is known as:",
+        "a": "Boyle's Law",
+        "b": "Charles's Law",
+        "c": "Archimedes' Principle",
+        "d": "Pascal's Law",
+        "r": "c"
+    },
+    {
+        "q": "What is the definition of a solution?",
+        "a": "a homogeneous mixture of",
+        "b": "a heterogeneous mixture of",
+        "c": "a pure substance",
+        "d": "a compound",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a solute?",
+        "a": "Salt",
+        "b": "Sugar",
+        "c": "Water",
+        "d": "Oxygen",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a universal solvent?",
+        "a": "Water",
+        "b": "Alcohol",
+        "c": "Oil",
+        "d": "Acetone",
+        "r": "a"
+    },
+    {
+        "q": "What is the maximum amount of solute that can dissolve in a solvent at a specific temperature and pressure called?",
+        "a": "Solubility",
+        "b": "Concentration",
+        "c": "Saturation",
+        "d": "Dilution",
+        "r": "c"
+    },
+    {
+        "q": "When a solution contains the maximum amount of solute that can be dissolved at a specific temperature, it is said to be _______.",
+        "a": "Unsaturated",
+        "b": "Saturated",
+        "c": "Supersaturated",
+        "d": "Concentrated",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following factors increases the solubility of most solid solutes in water?",
+        "a": "Decrease in temperature",
+        "b": "Increase in temperature",
+        "c": "Decrease in pressure",
+        "d": "Increase in pressure",
+        "r": "b"
+    },
+    {
+        "q": "The process of gas molecules dissolving in a liquid solvent is known as _______.",
+        "a": "Sublimation",
+        "b": "Evaporation",
+        "c": "Dissolution",
+        "d": "Precipitation",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula to calculate molarity?",
+        "a": "M = moles of solute/volume of solution in liters",
+        "b": "M = volume of solution in liters/moles of solute",
+        "c": "M = moles of solute x volume of solution in liters",
+        "d": "M = moles of solute - volume of solution in liters",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a colligative property of a solution?",
+        "a": "Boiling point elevation",
+        "b": "Color of the solute",
+        "c": "Solubility",
+        "d": "Density",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of converting a gas into a liquid?",
+        "a": "Sublimation",
+        "b": "Evaporation",
+        "c": "Condensation",
+        "d": "Precipitation",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a nonpolar solvent?",
+        "a": "Water",
+        "b": "Ethanol",
+        "c": "Hexane",
+        "d": "Ammonia",
+        "r": "c"
+    },
+    {
+        "q": "What does the solubility of a gas in a liquid depend on?",
+        "a": "Temperature and pressure",
+        "b": "Color of the gas",
+        "c": "Density of the gas",
+        "d": "Volume of the liquid",
+        "r": "a"
+    },
+    {
+        "q": "What is the measure of the concentration of a solution in terms of moles of solute per liter of solution?",
+        "a": "Molarity",
+        "b": "Molality",
+        "c": "Mass percent",
+        "d": "Volume percent",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following factors does NOT affect the solubility of a solid solute in a liquid solvent?",
+        "a": "Temperature",
+        "b": "Pressure",
+        "c": "Nature of solute",
+        "d": "Nature of solvent",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula for weight percent concentration?",
+        "a": "Weight percent = (mass of solute/mass of solution) x 100",
+        "b": "Weight percent = (mass of solution/mass of solute) x 100",
+        "c": "Weight percent = (volume of solute/volume of solution) x 100",
+        "d": "Weight percent = (volume of solution/volume of solute) x 100",
+        "r": "a"
+    },
+    {
+        "q": "A solution with a pH less than 7 is considered _______.",
+        "a": "Acidic",
+        "b": "Neutral",
+        "c": "Basic",
+        "d": "Saline",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of an unsaturated solution?",
+        "a": "A saltwater solution with as much salt as it can dissolve",
+        "b": "A sugar solution with excess sugar at the bottom",
+        "c": "A sugar solution with all sugar dissolved",
+        "d": "A saltwater solution with undissolved salt at the bottom",
+        "r": "c"
+    },
+    {
+        "q": "What happens to the solubility of most solid solutes in water as the temperature increases?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains constant",
+        "d": "It depends on the nature of the solute",
+        "r": "a"
+    },
+    {
+        "q": "What does the term 'like dissolves like' mean?",
+        "a": "Polar solvents dissolve polar solutes, and nonpolar solvents dissolve nonpolar solutes.",
+        "b": "Polar solvents dissolve nonpolar solutes, and nonpolar solvents dissolve polar solutes.",
+        "c": "Solutes always dissolve in solvents with the same color.",
+        "d": "Solutes dissolve randomly in any solvent.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a colligative property of a solution?",
+        "a": "Vapor pressure lowering",
+        "b": "Boiling point elevation",
+        "c": "Freezing point depression",
+        "d": "Osmotic pressure",
+        "r": "d"
+    },
+    {
+        "q": "What is the phenomenon in which a solute comes out of a solution and forms solid particles?",
+        "a": "Dissolution",
+        "b": "Evaporation",
+        "c": "Precipitation",
+        "d": "Condensation",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of a dilute solution?",
+        "a": "A lot of solute dissolved in a small amount of solvent",
+        "b": "A small amount of solute dissolved in a large amount of solvent",
+        "c": "Equal amounts of solute and solvent",
+        "d": "No solute dissolved in the solvent",
+        "r": "b"
+    },
+    {
+        "q": "What is the molarity of a solution that contains 0.5 moles of solute in 2 liters of solution?",
+        "a": "0.2 M",
+        "b": "1 M",
+        "c": "2 M",
+        "d": "0.25 M",
+        "r": "a"
+    },
+    {
+        "q": "The solubility of a gas in a liquid generally ________ with increasing pressure.",
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains constant",
+        "d": "Depends on the nature of the gas",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following statements is true about saturated solutions?",
+        "a": "They contain a small amount of solute dissolved in the solvent.",
+        "b": "They contain the maximum amount of solute dissolved in the solvent at a specific temperature.",
+        "c": "They contain no solute dissolved in the solvent.",
+        "d": "They contain an equal amount of solute and solvent.",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of a liquid changing into a gas at a temperature below its boiling point?",
+        "a": "Sublimation",
+        "b": "Evaporation",
+        "c": "Condensation",
+        "d": "Precipitation",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following solvents is commonly used to dissolve oils and fats?",
+        "a": "Water",
+        "b": "Ethanol",
+        "c": "Acetone",
+        "d": "Hexane",
+        "r": "d"
+    },
+    {
+        "q": "The solubility of most solid solutes in water generally _______ with increasing temperature.",
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains constant",
+        "d": "Depends on the nature of the solute",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following factors does NOT affect the solubility of a gas in a liquid?",
+        "a": "Temperature",
+        "b": "Pressure",
+        "c": "Nature of solute",
+        "d": "Nature of solvent",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of a gas changing directly into a solid without becoming a liquid first?",
+        "a": "Sublimation",
+        "b": "Evaporation",
+        "c": "Condensation",
+        "d": "Precipitation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a polar solvent?",
+        "a": "Water",
+        "b": "Hexane",
+        "c": "Acetone",
+        "d": "Ethanol",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for molality?",
+        "a": "m = moles of solute/volume of solution in liters",
+        "b": "m = volume of solution in liters/moles of solute",
+        "c": "m = moles of solute x volume of solution in liters",
+        "d": "m = moles of solute - volume of solution in liters",
+        "r": "a"
+    },
+    {
+        "q": "What is the solute in a sugar-water solution?",
+        "a": "Sugar",
+        "b": "Water",
+        "c": "Oxygen",
+        "d": "Carbon dioxide",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a characteristic of a solution?",
+        "a": "It is a heterogeneous mixture.",
+        "b": "It is transparent and homogeneous.",
+        "c": "It can be a gas, liquid, or solid.",
+        "d": "Its particles are evenly distributed.",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula to calculate weight percent concentration?",
+        "a": "Weight percent = (mass of solute/mass of solution) x 100",
+        "b": "Weight percent = (mass of solution/mass of solute) x 100",
+        "c": "Weight percent = (volume of solute/volume of solution) x 100",
+        "d": "Weight percent = (volume of solution/volume of solute) x 100",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a concentrated solution?",
+        "a": "A lot of solute dissolved in a small amount of solvent",
+        "b": "A small amount of solute dissolved in a large amount of solvent",
+        "c": "Equal amounts of solute and solvent",
+        "d": "No solute dissolved in the solvent",
+        "r": "a"
+    },
+    {
+        "q": "What is the molarity of a solution that contains 2 moles of solute in 4 liters of solution?",
+        "a": "0.5 M",
+        "b": "1 M",
+        "c": "2 M",
+        "d": "4 M",
+        "r": "c"
+    },
+    {
+        "q": "The pH scale ranges from ______.",
+        "a": "0 to 14",
+        "b": "1 to 10",
+        "c": "0 to 10",
+        "d": "-1 to 1",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a supersaturated solution?",
+        "a": "A sugar solution with excess sugar at the bottom",
+        "b": "A saltwater solution with as much salt as it can dissolve",
+        "c": "A saltwater solution with undissolved salt at the bottom",
+        "d": "A sugar solution with all sugar dissolved",
+        "r": "c"
+    },
+    {
+        "q": "What happens to the solubility of most solid solutes in water as the temperature decreases?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains constant",
+        "d": "It depends on the nature of the solute",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following statements is true about unsaturated solutions?",
+        "a": "They contain a small amount of solute dissolved in the solvent.",
+        "b": "They contain the maximum amount of solute dissolved in the solvent at a specific temperature.",
+        "c": "They contain no solute dissolved in the solvent.",
+        "d": "They contain an equal amount of solute and solvent.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a weak acid?",
+        "a": "HCl",
+        "b": "H2SO4",
+        "c": "CH3COOH",
+        "d": "HNO3",
+        "r": "c"
+    },
+    {
+        "q": "Which compound is commonly found in antacids?",
+        "a": "NaOH",
+        "b": "HCl",
+        "c": "Mg(OH)2",
+        "d": "H2SO4",
+        "r": "c"
+    },
+    {
+        "q": "What is the pH value of a neutral solution?",
+        "a": "14",
+        "b": "1",
+        "c": "7",
+        "d": "0",
+        "r": "c"
+    },
+    {
+        "q": "Ammonia is a common example of a/an:",
+        "a": "Acid",
+        "b": "Base",
+        "c": "Salt",
+        "d": "Gas",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a strong acid?",
+        "a": "H2SO4",
+        "b": "HCl",
+        "c": "CH3COOH",
+        "d": "HNO3",
+        "r": "b"
+    },
+    {
+        "q": "What is the chemical formula of sulfuric acid?",
+        "a": "H2SO4",
+        "b": "HCl",
+        "c": "CH3COOH",
+        "d": "HNO3",
+        "r": "a"
+    },
+    {
+        "q": "Bases turn litmus paper from _____ to _____.",
+        "a": "Blue to red",
+        "b": "Red to blue",
+        "c": "Yellow to green",
+        "d": "Green to yellow",
+        "r": "b"
+    },
+    {
+        "q": "A solution with a pH of 6 is considered:",
+        "a": "Neutral",
+        "b": "Acidic",
+        "c": "Alkaline",
+        "d": "Basic",
+        "r": "b"
+    },
+    {
+        "q": "Which gas is released when an acid reacts with a metal?",
+        "a": "Oxygen",
+        "b": "Hydrogen",
+        "c": "Carbon dioxide",
+        "d": "Nitrogen",
+        "r": "b"
+    },
+    {
+        "q": "Identify the property that acids and bases have in common:",
+        "a": "Sour taste",
+        "b": "Bitter taste",
+        "c": "Conduct electricity",
+        "d": "Red litmus test",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a weak base?",
+        "a": "NaOH",
+        "b": "KOH",
+        "c": "NH3",
+        "d": "Ca(OH)2",
+        "r": "c"
+    },
+    {
+        "q": "What does the pH scale measure?",
+        "a": "Temperature",
+        "b": "Acidity/basicity",
+        "c": "Mass",
+        "d": "Volume",
+        "r": "b"
+    },
+    {
+        "q": "Which acid is present in citrus fruits?",
+        "a": "HCl",
+        "b": "H2SO4",
+        "c": "CH3COOH",
+        "d": "Citric acid",
+        "r": "d"
+    },
+    {
+        "q": "What is the product when an acid reacts with a metal carbonate?",
+        "a": "Salt",
+        "b": "Water",
+        "c": "Carbon dioxide",
+        "d": "Oxygen",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not an acid?",
+        "a": "HClO4",
+        "b": "H2O",
+        "c": "HNO3",
+        "d": "H2SO4",
+        "r": "b"
+    },
+    {
+        "q": "A solution with a pH of 9 is considered:",
+        "a": "Acidic",
+        "b": "Basic",
+        "c": "Alkaline",
+        "d": "Neutral",
+        "r": "c"
+    },
+    {
+        "q": "What is the color of phenolphthalein in a basic solution?",
+        "a": "Pink",
+        "b": "Colorless",
+        "c": "Red",
+        "d": "Blue",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a strong base?",
+        "a": "NaOH",
+        "b": "NH3",
+        "c": "KOH",
+        "d": "Ca(OH)2",
+        "r": "a"
+    },
+    {
+        "q": "What happens when an acid reacts with a metal oxide?",
+        "a": "Salt",
+        "b": "Water",
+        "c": "Hydrogen",
+        "d": "Oxygen",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a common laboratory acid?",
+        "a": "HCl",
+        "b": "H2O",
+        "c": "CH3COOH",
+        "d": "NaOH",
+        "r": "a"
+    },
+    {
+        "q": "What is the taste of a base?",
+        "a": "Sour",
+        "b": "Bitter",
+        "c": "Salty",
+        "d": "Sweet",
+        "r": "b"
+    },
+    {
+        "q": "The pH scale ranges from:",
+        "a": "0 to 7",
+        "b": "1 to 14",
+        "c": "7 to 14",
+        "d": "0 to 14",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a property of acids?",
+        "a": "React with metals",
+        "b": "Turn litmus red",
+        "c": "Slippery feeling",
+        "d": "Sour taste",
+        "r": "c"
+    },
+    {
+        "q": "What is the product when an acid reacts with a metal?",
+        "a": "Water",
+        "b": "Oxygen",
+        "c": "Hydrogen",
+        "d": "Salt",
+        "r": "c"
+    },
+    {
+        "q": "What is the chemical formula of hydrochloric acid?",
+        "a": "H2SO4",
+        "b": "HCl",
+        "c": "CH3COOH",
+        "d": "HNO3",
+        "r": "b"
+    },
+    {
+        "q": "Which acid is present in gastric juice?",
+        "a": "HCl",
+        "b": "H2SO4",
+        "c": "CH3COOH",
+        "d": "Citric acid",
+        "r": "a"
+    },
+    {
+        "q": "What is the color of methyl orange in an acidic solution?",
+        "a": "Red",
+        "b": "Yellow",
+        "c": "Blue",
+        "d": "Green",
+        "r": "b"
+    },
+    {
+        "q": "A solution with a pH of 5 is considered:",
+        "a": "Acidic",
+        "b": "Basic",
+        "c": "Neutral",
+        "d": "Alkaline",
+        "r": "a"
+    },
+    {
+        "q": "What is the state of a system at chemical equilibrium?",
+        "a": "Solid",
+        "b": "Liquid",
+        "c": "Gas",
+        "d": "Aqueous Solution",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following does NOT affect the equilibrium position?",
+        "a": "Concentration of reactants",
+        "b": "Pressure",
+        "c": "Temperature",
+        "d": "Catalyst",
+        "r": "d"
+    },
+    {
+        "q": "In a reversible reaction, what happens at equilibrium?",
+        "a": "The reaction stops",
+        "b": "The rate of the forward reaction equals the rate of the reverse reaction",
+        "c": "The reaction proceeds only in the forward direction",
+        "d": "The reaction proceeds only in the reverse direction",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a dynamic equilibrium?",
+        "a": "A hot cup of coffee gradually cooling down",
+        "b": "A ball resting on top of a hill",
+        "c": "Water boiling in an open container",
+        "d": "A chemical reaction reaching equilibrium",
+        "r": "d"
+    },
+    {
+        "q": "What is the equilibrium constant expression for the reaction: A + 2B ⇌ 3C?",
+        "a": "[C]³/[A][B]²",
+        "b": "[A][B]/[C]³",
+        "c": "[A]³/[B]²[C]³",
+        "d": "[C]/[A][B]",
+        "r": "a"
+    },
+    {
+        "q": "The equilibrium constant (Kc) depends on what?",
+        "a": "Initial concentrations of reactants and products",
+        "b": "Temperature",
+        "c": "Pressure",
+        "d": "Catalyst presence",
+        "r": "b"
+    },
+    {
+        "q": "Which statement is TRUE about Le Chatelier's principle?",
+        "a": "It states that an increase in temperature shifts the equilibrium to the exothermic direction",
+        "b": "It explains the changes in the equilibrium position when factors change",
+        "c": "It only applies to reactions involving gases",
+        "d": "It is not applicable to reversible reactions",
+        "r": "b"
+    },
+    {
+        "q": "For an endothermic reaction, an increase in temperature will shift the equilibrium to what direction?",
+        "a": "Right",
+        "b": "Left",
+        "c": "No change",
+        "d": "It depends on the concentration of reactants",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following will cause an increase in the equilibrium constant (Kc) for a given reaction?",
+        "a": "Decreasing the temperature",
+        "b": "Adding a catalyst",
+        "c": "Increasing the pressure",
+        "d": "Increasing the concentration of products",
+        "r": "d"
+    },
+    {
+        "q": "At equilibrium, what is the relationship between the rate of the forward reaction and the rate of the reverse reaction?",
+        "a": "The rates are equal",
+        "b": "The rate of the forward reaction is faster",
+        "c": "The rate of the reverse reaction is faster",
+        "d": "The rates depend on the nature of the reactants",
+        "r": "a"
+    },
+    {
+        "q": "What is the effect of increasing the volume on a reaction at equilibrium, involving an equal number of moles of gas on both sides?",
+        "a": "Shift the equilibrium to the side with fewer moles of gas",
+        "b": "Shift the equilibrium to the side with more moles of gas",
+        "c": "No effect",
+        "d": "Change the equilibrium constant",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following statements about equilibrium constants is correct?",
+        "a": "Kc is unitless and is only affected by changes in temperature",
+        "b": "Kc is unitless and is affected by changes in concentration",
+        "c": "Kc has units and is only affected by changes in temperature",
+        "d": "Kc has units and is affected by changes in concentration",
+        "r": "b"
+    },
+    {
+        "q": "For the reaction: N2(g) + 3H2(g) ⇌ 2NH3(g), if the concentration of H2 is doubled while the concentrations of N2 and NH3 are halved, what will happen to the equilibrium composition?",
+        "a": "The concentration of NH3 will increase",
+        "b": "The concentration of NH3 will decrease",
+        "c": "The concentration of NH3 will remain unchanged",
+        "d": "The concentration of NH3 will increase initially, then decrease",
+        "r": "c"
+    },
+    {
+        "q": "An increase in pressure will favor the reaction that:",
+        "a": "Produces fewer moles of gas",
+        "b": "Produces more moles of gas",
+        "c": "Has an equal number of moles of gas on both sides",
+        "d": "Has an odd number of moles of gas on both sides",
+        "r": "b"
+    },
+    {
+        "q": "The addition of a catalyst to a reaction at equilibrium will:",
+        "a": "Increase the concentration of reactants",
+        "b": "Decrease the concentration of reactants",
+        "c": "Increase the rate of the forward reaction",
+        "d": "Increase the rate of the reverse reaction",
+        "r": "c"
+    },
+    {
+        "q": "For the reaction: 2SO2(g) + O2(g) ⇌ 2SO3(g), if the temperature is increased, what will happen to the equilibrium position?",
+        "a": "Shift to the right",
+        "b": "Shift to the left",
+        "c": "No change",
+        "d": "It depends on the initial concentrations of the reactants",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a way to disturb a system at equilibrium?",
+        "a": "Changing the concentration of reactants or products",
+        "b": "Changing the temperature",
+        "c": "Changing the volume",
+        "d": "Adding a catalyst",
+        "r": "d"
+    },
+    {
+        "q": "In the reaction: 2H2O(g) ⇌ 2H2(g) + O2(g), if the concentration of H2O is increased, what will happen to the concentrations of H2 and O2 at equilibrium?",
+        "a": "Both H2 and O2 will increase",
+        "b": "Both H2 and O2 will decrease",
+        "c": "H2 will increase, and O2 will decrease",
+        "d": "H2 will decrease, and O2 will increase",
+        "r": "c"
+    },
+    {
+        "q": "A decrease in temperature will shift the equilibrium to what direction for an exothermic reaction?",
+        "a": "Right",
+        "b": "Left",
+        "c": "No change",
+        "d": "It depends on the pressure applied",
+        "r": "b"
+    },
+    {
+        "q": "Which statement is TRUE about the equilibrium constant (Kc)?",
+        "a": "It can change with changes in concentration",
+        "b": "It can change with changes in temperature",
+        "c": "It is affected by the presence of a catalyst",
+        "d": "It is not affected by changes in pressure",
+        "r": "b"
+    },
+    {
+        "q": "What happens to the equilibrium constant (Kc) when the stoichiometry of a reaction is multiplied by a factor?",
+        "a": "Kc is divided by that factor",
+        "b": "Kc is multiplied by that factor",
+        "c": "Kc remains unchanged",
+        "d": "Kc is squared",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a heterogeneous equilibrium?",
+        "a": "N2(g) + 3H2(g) ⇌ 2NH3(g)",
+        "b": "2SO2(g) + O2(g) ⇌ 2SO3(g)",
+        "c": "CaCO3(s) ⇌ CaO(s) + CO2(g)",
+        "d": "2H2O(l) ⇌ 2H2O(g)",
+        "r": "c"
+    },
+    {
+        "q": "What is the effect of adding an inert gas at constant volume to a reaction at equilibrium?",
+        "a": "No effect",
+        "b": "Shift the equilibrium to the right",
+        "c": "Shift the equilibrium to the left",
+        "d": "Shift the equilibrium to the side with fewer moles of gas",
+        "r": "a"
+    },
+    {
+        "q": "In the reaction: CO2(g) + H2(g) ⇌ CO(g) + H2O(g), if the pressure is increased, what will happen to the equilibrium position?",
+        "a": "Shift to the right",
+        "b": "Shift to the left",
+        "c": "No change",
+        "d": "It depends on the concentration of reactants",
+        "r": "b"
+    },
+    {
+        "q": "The equilibrium constant (Kc) for a reaction is 3.42 x 10⁻³. What does this value indicate?",
+        "a": "The reaction strongly favors products over reactants",
+        "b": "The reaction strongly favors reactants over products",
+        "c": "The reaction is at equilibrium",
+        "d": "The reaction is incomplete",
+        "r": "a"
+    },
+    {
+        "q": "Which law of thermodynamics deals with energy conservation in a system?",
+        "a": "The first law of thermodynamics (Q=mCΔT)",
+        "b": "The second law of thermodynamics",
+        "c": "The third law of thermodynamics",
+        "d": "The zeroth law of thermodynamics",
+        "r": "a"
+    },
+    {
+        "q": "The total energy of an isolated system is constant. This statement refers to:",
+        "a": "The first law of thermodynamics",
+        "b": "The second law of thermodynamics",
+        "c": "The third law of thermodynamics",
+        "d": "The zeroth law of thermodynamics",
+        "r": "a"
+    },
+    {
+        "q": "The internal energy of a system can be increased by:",
+        "a": "Removing heat from the system",
+        "b": "Performing work on the system",
+        "c": "Neither heat transfer nor work",
+        "d": "Both heat transfer and work",
+        "r": "d"
+    },
+    {
+        "q": "Which state function represents the measure of disorder or randomness in a system?",
+        "a": "Enthalpy (H)",
+        "b": "Entropy (S)",
+        "c": "Internal energy (U)",
+        "d": "Gibbs free energy (G)",
+        "r": "b"
+    },
+    {
+        "q": "Which law of thermodynamics states that the entropy of an isolated system will never decrease over time?",
+        "a": "The first law of thermodynamics",
+        "b": "The second law of thermodynamics",
+        "c": "The third law of thermodynamics",
+        "d": "The zeroth law of thermodynamics",
+        "r": "b"
+    },
+    {
+        "q": "The change in enthalpy (ΔH) is equal to the heat (q) exchanged in a process under constant:",
+        "a": "Pressure",
+        "b": "Volume",
+        "c": "Temperature",
+        "d": "Internal energy",
+        "r": "a"
+    },
+    {
+        "q": "Which thermodynamic quantity remains unchanged during an adiabatic process?",
+        "a": "Internal energy (U)",
+        "b": "Entropy (S)",
+        "c": "Enthalpy (H)",
+        "d": "Temperature (T)",
+        "r": "a"
+    },
+    {
+        "q": "Which thermodynamic process is characterized by the absence of heat exchange with the surroundings?",
+        "a": "Isothermal process",
+        "b": "Isobaric process",
+        "c": "Adiabatic process",
+        "d": "Isochoric process",
+        "r": "c"
+    },
+    {
+        "q": "Which thermodynamic process occurs at constant volume?",
+        "a": "Isothermal process",
+        "b": "Isobaric process",
+        "c": "Adiabatic process",
+        "d": "Isochoric process",
+        "r": "d"
+    },
+    {
+        "q": "The process of melting ice into water is an example of which type of thermodynamic process?",
+        "a": "Endothermic",
+        "b": "Exothermic",
+        "c": "Isothermal",
+        "d": "Isobaric",
+        "r": "a"
+    },
+    {
+        "q": "In an exothermic reaction, the enthalpy change (ΔH) is:",
+        "a": "Positive",
+        "b": "Negative",
+        "c": "Zero",
+        "d": "Cannot be determined",
+        "r": "b"
+    },
+    {
+        "q": "Which thermodynamic process occurs at constant pressure?",
+        "a": "Isothermal process",
+        "b": "Isobaric process",
+        "c": "Adiabatic process",
+        "d": "Isochoric process",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of reduction?",
+        "a": "Gain of oxygen",
+        "b": "Loss of oxygen",
+        "c": "Gain of electrons",
+        "d": "Loss of electrons",
+        "r": "c"
+    },
+    {
+        "q": "Identify the oxidizing agent in the reaction: Zn + 2HCl → ZnCl2 + H2.",
+        "a": "Zn",
+        "b": "HCl",
+        "c": "ZnCl2",
+        "d": "H2",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following represents a redox reaction?",
+        "a": "CaCO3 → CaO + CO2",
+        "b": "2H2 + O2 → 2H2O",
+        "c": "NaCl → Na+ + Cl-",
+        "d": "Mg + 2HCl → MgCl2 + H2",
+        "r": "d"
+    },
+    {
+        "q": "What is the oxidation state of oxygen in water (H2O)?",
+        "a": "1",
+        "b": "-2",
+        "c": "2",
+        "d": "-1",
+        "r": "b"
+    },
+    {
+        "q": "In the reaction: 2K + Cl2 → 2KCl, which element is getting reduced?",
+        "a": "K",
+        "b": "Cl",
+        "c": "KCl",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The oxidation number of hydrogen in most of its compounds is:",
+        "a": "1",
+        "b": "-1",
+        "c": "2",
+        "d": "-2",
+        "r": "b"
+    },
+    {
+        "q": "Identify the reducing agent in the reaction: 2H2O → 2H2 + O2.",
+        "a": "H2O",
+        "b": "H2",
+        "c": "O2",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The reaction in which oxidation and reduction both occur simultaneously is called:",
+        "a": "Combination reaction",
+        "b": "Decomposition reaction",
+        "c": "Redox reaction",
+        "d": "Displacement reaction",
+        "r": "c"
+    },
+    {
+        "q": "What is the oxidation state of potassium (K) in K2Cr2O7?",
+        "a": "1",
+        "b": "6",
+        "c": "7",
+        "d": "-2",
+        "r": "a"
+    },
+    {
+        "q": "In the reaction: CuO + H2 → Cu + H2O, which element is getting oxidized?",
+        "a": "CuO",
+        "b": "H2",
+        "c": "Cu",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "What is the change in oxidation state for an element that gets reduced in a reaction?",
+        "a": "Increase",
+        "b": "Decrease",
+        "c": "Remain constant",
+        "d": "May increase or decrease depending on the reaction",
+        "r": "b"
+    },
+    {
+        "q": "Identify the species that is getting oxidized in the reaction: 2Mg + O2 → 2MgO.",
+        "a": "Mg",
+        "b": "O2",
+        "c": "MgO",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The reaction between hydrogen and fluorine to form hydrogen fluoride (HF) is an example of what type of reaction?",
+        "a": "Combination reaction",
+        "b": "Displacement reaction",
+        "c": "Redox reaction",
+        "d": "Decomposition reaction",
+        "r": "a"
+    },
+    {
+        "q": "The oxidation state of any uncombined element is always:",
+        "a": "0",
+        "b": "1",
+        "c": "-1",
+        "d": "2",
+        "r": "a"
+    },
+    {
+        "q": "In the reaction: 2Al + 3Cl2 → 2AlCl3, which element is getting reduced?",
+        "a": "Al",
+        "b": "Cl2",
+        "c": "AlCl3",
+        "d": "None of the above",
+        "r": "b"
+    },
+    {
+        "q": "Which substance is acting as an oxidizing agent in the reaction: 2H2S + SO2 → 3S + 2H2O?",
+        "a": "H2S",
+        "b": "SO2",
+        "c": "S",
+        "d": "H2O",
+        "r": "c"
+    },
+    {
+        "q": "What is the reducing agent in the reaction: 2Fe2O3 + 3C → 4Fe + 3CO2?",
+        "a": "Fe2O3",
+        "b": "C",
+        "c": "Fe",
+        "d": "CO2",
+        "r": "b"
+    },
+    {
+        "q": "The oxidation number of an alkali metal (Group 1) in its compounds is always:",
+        "a": "1",
+        "b": "-1",
+        "c": "2",
+        "d": "-2",
+        "r": "a"
+    },
+    {
+        "q": "In the reaction: 2Na + Cl2 → 2NaCl, which element is getting oxidized?",
+        "a": "Na",
+        "b": "Cl2",
+        "c": "NaCl",
+        "d": "None of the above",
+        "r": "b"
+    },
+    {
+        "q": "Identify the compound that undergoes reduction in the reaction: 2H2O → 2H2 + O2.",
+        "a": "H2O",
+        "b": "H2",
+        "c": "O2",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The reaction between which two substances is an example of a non-redox reaction?",
+        "a": "Zn(NO3)2 and K2SO4",
+        "b": "H2SO4 and NaOH",
+        "c": "ZnSO4 and KNO3",
+        "d": "CuSO4 and NaCl",
+        "r": "a"
+    },
+    {
+        "q": "What is the oxidation state of sulfur in H2SO4 (sulfuric acid)?",
+        "a": "2",
+        "b": "-2",
+        "c": "4",
+        "d": "6",
+        "r": "d"
+    },
+    {
+        "q": "In the reaction: 2Mg + O2 → 2MgO, which element is getting oxidized?",
+        "a": "Mg",
+        "b": "O2",
+        "c": "MgO",
+        "d": "None of the above",
+        "r": "b"
+    },
+    {
+        "q": "The reaction: C6H12O6 + 6O2 → 6CO2 + 6H2O is an example of what type of reaction?",
+        "a": "Combination reaction",
+        "b": "Decomposition reaction",
+        "c": "Redox reaction",
+        "d": "Displacement reaction",
+        "r": "c"
+    },
+    {
+        "q": "The oxidation state of fluorine in its compounds is always:",
+        "a": "1",
+        "b": "-1",
+        "c": "2",
+        "d": "-2",
+        "r": "-1"
+    },
+    {
+        "q": "Identify the substance that acts as an oxidizing agent in the reaction: Cu + 2AgNO3 → Cu(NO3)2 + 2Ag.",
+        "a": "Cu",
+        "b": "AgNO3",
+        "c": "Cu(NO3)2",
+        "d": "Ag",
+        "r": "c"
+    },
+    {
+        "q": "What happens to the oxidation state of an element that gets reduced in a reaction?",
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains constant",
+        "d": "May increase or decrease depending on the reaction",
+        "r": "b"
+    },
+    {
+        "q": "In the reaction: Zn + 2HCl → ZnCl2 + H2, which element is getting oxidized?",
+        "a": "Zn",
+        "b": "HCl",
+        "c": "ZnCl2",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The reaction between which two substances is an example of a redox reaction?",
+        "a": "H2O2 and NaOH",
+        "b": "HCl and NaOH",
+        "c": "NaCl and H2O",
+        "d": "MgO and NaOH",
+        "r": "a"
+    },
+    {
+        "q": "What is the oxidation state of manganese (Mn) in KMnO4?",
+        "a": "1",
+        "b": "6",
+        "c": "7",
+        "d": "-2",
+        "r": "c"
+    },
+    {
+        "q": "In the reaction: N2 + 3H2 → 2NH3, which element is getting reduced?",
+        "a": "N2",
+        "b": "H2",
+        "c": "NH3",
+        "d": "None of the above",
+        "r": "c"
+    },
+    {
+        "q": "Which biomolecule is the main source of energy in our body?",
+        "a": "Glucose",
+        "b": "DNA",
+        "c": "Fatty Acids",
+        "d": "Amino Acids",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a monosaccharide?",
+        "a": "Fructose",
+        "b": "Sucrose",
+        "c": "Lactose",
+        "d": "Maltose",
+        "r": "a"
+    },
+    {
+        "q": "The building blocks of proteins are called:",
+        "a": "Amino Acids",
+        "b": "Nucleotides",
+        "c": "Fatty Acids",
+        "d": "Monosaccharides",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a disaccharide?",
+        "a": "Lactose",
+        "b": "Starch",
+        "c": "Cellulose",
+        "d": "Glycogen",
+        "r": "a"
+    },
+    {
+        "q": "The primary function of DNA is:",
+        "a": "Storing genetic information",
+        "b": "Enzyme catalysis",
+        "c": "Transport of oxygen",
+        "d": "Muscle contraction",
+        "r": "a"
+    },
+    {
+        "q": "Which type of lipid is the main component of cell membranes?",
+        "a": "Phospholipids",
+        "b": "Triglycerides",
+        "c": "Steroids",
+        "d": "Waxes",
+        "r": "a"
+    },
+    {
+        "q": "The enzyme that breaks down starch is:",
+        "a": "Amylase",
+        "b": "Protease",
+        "c": "Lipase",
+        "d": "Helicase",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the sugar found in DNA?",
+        "a": "Deoxyribose",
+        "b": "Ribose",
+        "c": "Glucose",
+        "d": "Sucrose",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a storage polysaccharide in animals?",
+        "a": "Glycogen",
+        "b": "Cellulose",
+        "c": "Starch",
+        "d": "Chitin",
+        "r": "a"
+    },
+    {
+        "q": "Which organelle is responsible for ATP production?",
+        "a": "Mitochondria",
+        "b": "Endoplasmic Reticulum",
+        "c": "Golgi Apparatus",
+        "d": "Nucleus",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary function of hemoglobin?",
+        "a": "Oxygen transport",
+        "b": "Carbohydrate digestion",
+        "c": "Lipid synthesis",
+        "d": "Nucleic acid replication",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a saturated fatty acid?",
+        "a": "Palmitic acid",
+        "b": "Oleic acid",
+        "c": "Linoleic acid",
+        "d": "Arachidonic acid",
+        "r": "a"
+    },
+    {
+        "q": "What is the monomer unit of nucleic acids?",
+        "a": "Nucleotides",
+        "b": "Amino Acids",
+        "c": "Monosaccharides",
+        "d": "Fatty Acids",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a purine base?",
+        "a": "Adenine",
+        "b": "Cytosine",
+        "c": "Thymine",
+        "d": "Uracil",
+        "r": "a"
+    },
+    {
+        "q": "Which type of bond holds the two strands of DNA together?",
+        "a": "Hydrogen bonds",
+        "b": "Ionic bonds",
+        "c": "Covalent bonds",
+        "d": "Van der Waals forces",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which mRNA is synthesized from a DNA template?",
+        "a": "Transcription",
+        "b": "Translation",
+        "c": "Replication",
+        "d": "Reverse Transcription",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a function of proteins?",
+        "a": "Energy storage",
+        "b": "Enzyme catalysis",
+        "c": "Cellular communication",
+        "d": "Structural support",
+        "r": "a"
+    },
+    {
+        "q": "The most abundant gas in the Earth's atmosphere is:",
+        "a": "Nitrogen",
+        "b": "Oxygen",
+        "c": "Carbon dioxide",
+        "d": "Argon",
+        "r": "a"
+    },
+    {
+        "q": "Which molecule stores genetic information in a cell?",
+        "a": "DNA",
+        "b": "RNA",
+        "c": "ATP",
+        "d": "Protein",
+        "r": "a"
+    },
+    {
+        "q": "Which type of bond forms between amino acids in a protein chain?",
+        "a": "Peptide bonds",
+        "b": "Glycosidic bonds",
+        "c": "Ester bonds",
+        "d": "Hydrogen bonds",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the process by which cells break down glucose to produce ATP?",
+        "a": "Glycolysis",
+        "b": "Photosynthesis",
+        "c": "Krebs cycle",
+        "d": "Electron transport chain",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a component of the cell membrane?",
+        "a": "Phospholipids",
+        "b": "Starch",
+        "c": "Glycogen",
+        "d": "Cellulose",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a reducing sugar?",
+        "a": "Glucose",
+        "b": "Sucrose",
+        "c": "Lactose",
+        "d": "Maltose",
+        "r": "a"
+    },
+    {
+        "q": "The pH scale measures the acidity or alkalinity of a solution on a scale of:",
+        "a": "0 to 14",
+        "b": "1 to 10",
+        "c": "0 to 10",
+        "d": "-7 to 7",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following elements is present in all organic compounds?",
+        "a": "Carbon",
+        "b": "Oxygen",
+        "c": "Hydrogen",
+        "d": "Nitrogen",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is the smallest unit of matter?",
+        "a": "Atom",
+        "b": "Molecule",
+        "c": "Cell",
+        "d": "Proton",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a function of carbohydrates?",
+        "a": "Cell signaling",
+        "b": "Energy storage",
+        "c": "Structural support",
+        "d": "DNA replication",
+        "r": "a"
+    },
+    {
+        "q": "Enzymes are examples of:",
+        "a": "Proteins",
+        "b": "Lipids",
+        "c": "Carbohydrates",
+        "d": "Nucleic Acids",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a high-energy molecule used for cellular energy storage?",
+        "a": "ATP",
+        "b": "ADP",
+        "c": "GTP",
+        "d": "AMP",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a structural carbohydrate found in the exoskeleton of insects?",
+        "a": "Chitin",
+        "b": "Starch",
+        "c": "Cellulose",
+        "d": "Glycogen",
+        "r": "a"
+    },
+    {
+        "q": "The process of converting nitrogen gas into ammonia is called:",
+        "a": "Nitrogen fixation",
+        "b": "Nitrate reduction",
+        "c": "Nitrification",
+        "d": "Denitrification",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a storage polysaccharide in plants?",
+        "a": "Starch",
+        "b": "Glycogen",
+        "c": "Cellulose",
+        "d": "Chitin",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the enzyme that breaks down fats into fatty acids and glycerol?",
+        "a": "Lipase",
+        "b": "Amylase",
+        "c": "Protease",
+        "d": "Helicase",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a nucleotide found in DNA?",
+        "a": "Deoxyadenosine",
+        "b": "Cytidine",
+        "c": "Uracil",
+        "d": "Guanosine",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is the main energy currency of the cell?",
+        "a": "ATP",
+        "b": "GTP",
+        "c": "cAMP",
+        "d": "NADH",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a secondary structure of a protein?",
+        "a": "Alpha helix",
+        "b": "Beta sheet",
+        "c": "Random coil",
+        "d": "Triple helix",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a cation?",
+        "a": "Sodium",
+        "b": "Chlorine",
+        "c": "Fluorine",
+        "d": "Oxygen",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which cells use oxygen to break down glucose and produce ATP?",
+        "a": "Cellular respiration",
+        "b": "Fermentation",
+        "c": "Photosynthesis",
+        "d": "Glycolysis",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a component of nucleic acids?",
+        "a": "Phosphate",
+        "b": "Glucose",
+        "c": "Glycerol",
+        "d": "Amino Acid",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the bond that forms between a sugar molecule and a phosphate group in a nucleotide?",
+        "a": "Phosphodiester bond",
+        "b": "Glycosidic bond",
+        "c": "Peptide bond",
+        "d": "Disulfide bond",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a function of lipids?",
+        "a": "Enzyme catalysis",
+        "b": "Energy storage",
+        "c": "Cell membrane structure",
+        "d": "Signaling",
+        "r": "a"
+    },
+    {
+        "q": "What is the general formula of alkanes?",
+        "a": "CH3",
+        "b": "CnH2n+2",
+        "c": "CnH2n",
+        "d": "CH4",
+        "r": "b"
+    },
+    {
+        "q": "Which functional group is present in aldehydes?",
+        "a": "-OH",
+        "b": "-COOH",
+        "c": "-CHO",
+        "d": "-NH2",
+        "r": "c"
+    },
+    {
+        "q": "What type of reaction is the reaction of alkanes?",
+        "a": "Addition",
+        "b": "Substitution",
+        "c": "Elimination",
+        "d": "Oxidation",
+        "r": "b"
+    },
+    {
+        "q": "Which organic compound is responsible for the green color of leaves?",
+        "a": "Chlorophyll",
+        "b": "Hemoglobin",
+        "c": "Insulin",
+        "d": "Melanin",
+        "r": "a"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH2-CH2-CH2-OH?",
+        "a": "Butanol",
+        "b": "Methanol",
+        "c": "Pentanol",
+        "d": "Ethanol",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an aromatic compound?",
+        "a": "Propane",
+        "b": "Benzene",
+        "c": "Butane",
+        "d": "Ethanol",
+        "r": "b"
+    },
+    {
+        "q": "What is the main functional group in carboxylic acids?",
+        "a": "-CHO",
+        "b": "-COOH",
+        "c": "-OH",
+        "d": "-NH2",
+        "r": "b"
+    },
+    {
+        "q": "Which type of isomerism exists in but-1-ene and but-2-ene?",
+        "a": "Geometric Isomerism",
+        "b": "Chain Isomerism",
+        "c": "Position Isomerism",
+        "d": "Functional Isomerism",
+        "r": "c"
+    },
+    {
+        "q": "What type of reaction is the reaction of alkenes with hydrogen in the presence of a catalyst?",
+        "a": "Addition of Hydrogen",
+        "b": "Dehydration",
+        "c": "Substitution",
+        "d": "Polymerization",
+        "r": "a"
+    },
+    {
+        "q": "What is the product formed when an alcohol reacts with a carboxylic acid in the presence of an acid catalyst?",
+        "a": "Ester",
+        "b": "Ether",
+        "c": "Aldehyde",
+        "d": "Ketone",
+        "r": "a"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH2-COOH?",
+        "a": "Propanoic Acid",
+        "b": "Butanoic Acid",
+        "c": "Ethanoic Acid",
+        "d": "Methanoic Acid",
+        "r": "c"
+    },
+    {
+        "q": "What is the general formula of alkenes?",
+        "a": "CnH2n",
+        "b": "CnH2n+2",
+        "c": "CnH2n+1",
+        "d": "CH4",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of converting unsaturated fats into saturated fats by adding hydrogen?",
+        "a": "Polymerization",
+        "b": "Saponification",
+        "c": "Esterification",
+        "d": "Hydrogenation",
+        "r": "d"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH2-CH2-CH2-CH3?",
+        "a": "Hexane",
+        "b": "Butane",
+        "c": "Pentane",
+        "d": "Ethane",
+        "r": "a"
+    },
+    {
+        "q": "Which organic compound is known as the building blocks of proteins?",
+        "a": "Amino Acids",
+        "b": "Fatty Acids",
+        "c": "Monosaccharides",
+        "d": "Nucleotides",
+        "r": "a"
+    },
+    {
+        "q": "Which is the simplest aromatic hydrocarbon?",
+        "a": "Toluene",
+        "b": "Ethene",
+        "c": "Benzene",
+        "d": "Propene",
+        "r": "c"
+    },
+    {
+        "q": "What is the functional group present in alcohols?",
+        "a": "-COOH",
+        "b": "-CHO",
+        "c": "-OH",
+        "d": "-NH2",
+        "r": "c"
+    },
+    {
+        "q": "What type of reaction is the reaction of alcohols with carboxylic acids to form esters?",
+        "a": "Dehydration",
+        "b": "Hydrogenation",
+        "c": "Esterification",
+        "d": "Polymerization",
+        "r": "c"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-COOH?",
+        "a": "Ethanoic Acid",
+        "b": "Methanoic Acid",
+        "c": "Butanoic Acid",
+        "d": "Propanoic Acid",
+        "r": "a"
+    },
+    {
+        "q": "Which is the main functional group in alkenes?",
+        "a": "-COOH",
+        "b": "-CHO",
+        "c": "-OH",
+        "d": "-CH=CH2",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the process by which proteins lose their structure and function due to heat or extreme pH?",
+        "a": "Denaturation",
+        "b": "Oxidation",
+        "c": "Reduction",
+        "d": "Polymerization",
+        "r": "a"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH=CH2?",
+        "a": "Ethene",
+        "b": "Propene",
+        "c": "Butene",
+        "d": "Pentene",
+        "r": "b"
+    },
+    {
+        "q": "Which organic compound is commonly known as vinegar?",
+        "a": "Ethanol",
+        "b": "Methanol",
+        "c": "Acetic Acid",
+        "d": "Lactic Acid",
+        "r": "c"
+    },
+    {
+        "q": "What type of reaction is the reaction of alcohols with sodium metal?",
+        "a": "Dehydration",
+        "b": "Hydrogenation",
+        "c": "Esterification",
+        "d": "Oxidation",
+        "r": "b"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH2-CH2-CH2-COOH?",
+        "a": "Propanoic Acid",
+        "b": "Pentanoic Acid",
+        "c": "Butanoic Acid",
+        "d": "Hexanoic Acid",
+        "r": "b"
+    },
+    {
+        "q": "Which functional group is present in carboxylic acids?",
+        "a": "-OH",
+        "b": "-COOH",
+        "c": "-CHO",
+        "d": "-NH2",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the process by which green plants synthesize their own food using sunlight?",
+        "a": "Photosynthesis",
+        "b": "Respiration",
+        "c": "Fermentation",
+        "d": "Transpiration",
+        "r": "a"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH2-CH=CH2?",
+        "a": "Ethene",
+        "b": "Propene",
+        "c": "Butene",
+        "d": "Pentene",
+        "r": "b"
+    },
+    {
+        "q": "Which organic compound is responsible for the sweet taste of fruits?",
+        "a": "Glucose",
+        "b": "Sucrose",
+        "c": "Fructose",
+        "d": "Galactose",
+        "r": "c"
+    },
+    {
+        "q": "What type of reaction is the reaction of alkenes with halogens?",
+        "a": "Addition",
+        "b": "Substitution",
+        "c": "Elimination",
+        "d": "Polymerization",
+        "r": "a"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH2-COO-CH2-CH3?",
+        "a": "Ethyl Ethanoate",
+        "b": "Methyl Ethanoate",
+        "c": "Ethyl Propanoate",
+        "d": "Methyl Propanoate",
+        "r": "c"
+    },
+    {
+        "q": "Which functional group is present in alcohols?",
+        "a": "-OH",
+        "b": "-COOH",
+        "c": "-CHO",
+        "d": "-NH2",
+        "r": "a"
+    },
+    {
+        "q": "What type of isomerism exists in 2-chloropropane and 1-chloropropane?",
+        "a": "Geometric Isomerism",
+        "b": "Chain Isomerism",
+        "c": "Position Isomerism",
+        "d": "Functional Isomerism",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the process by which alcohols react with oxygen to produce aldehydes or ketones?",
+        "a": "Combustion",
+        "b": "Fermentation",
+        "c": "Esterification",
+        "d": "Polymerization",
+        "r": "a"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH2-COO-CH2-CH2-CH3?",
+        "a": "Ethyl Propanoate",
+        "b": "Methyl Ethanoate",
+        "c": "Methyl Propanoate",
+        "d": "Ethyl Hexanoate",
+        "r": "a"
+    },
+    {
+        "q": "Which organic compound is the main component of natural gas?",
+        "a": "Methane",
+        "b": "Ethane",
+        "c": "Propane",
+        "d": "Butane",
+        "r": "a"
+    },
+    {
+        "q": "What is the main functional group in alcohols?",
+        "a": "-COOH",
+        "b": "-CHO",
+        "c": "-OH",
+        "d": "-CH=CH2",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the process by which an ester reacts with water to produce an alcohol and a carboxylic acid?",
+        "a": "Esterification",
+        "b": "Dehydration",
+        "c": "Hydrolysis",
+        "d": "Polymerization",
+        "r": "c"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH=CH-CH2-CH3?",
+        "a": "Pent-1-ene",
+        "b": "But-1-ene",
+        "c": "Hex-1-ene",
+        "d": "Pent-2-ene",
+        "r": "b"
+    },
+    {
+        "q": "Which organic compound is responsible for the burning sensation in chili peppers?",
+        "a": "Capsaicin",
+        "b": "Curcumin",
+        "c": "Caffeine",
+        "d": "Tannin",
+        "r": "a"
+    },
+    {
+        "q": "What type of reaction is the reaction of alcohols with hydrogen halides?",
+        "a": "Addition of Hydrogen Halides",
+        "b": "Dehydration",
+        "c": "Esterification",
+        "d": "Polymerization",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the process by which glucose is converted into alcohol and carbon dioxide by yeast?",
+        "a": "Fermentation",
+        "b": "Combustion",
+        "c": "Esterification",
+        "d": "Polymerization",
+        "r": "a"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH2-OH?",
+        "a": "Methanol",
+        "b": "Ethanol",
+        "c": "Propanol",
+        "d": "Butanol",
+        "r": "b"
+    },
+    {
+        "q": "Which organic compound is responsible for the pungent smell of onions and garlic?",
+        "a": "Allicin",
+        "b": "Anthocyanin",
+        "c": "Capsaicin",
+        "d": "Carotene",
+        "r": "a"
+    },
+    {
+        "q": "What type of reaction is the reaction of carboxylic acids with alcohols to form esters?",
+        "a": "Dehydration",
+        "b": "Hydrogenation",
+        "c": "Esterification",
+        "d": "Polymerization",
+        "r": "c"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH2-CH2-CH2-CH2-OH?",
+        "a": "Hexanol",
+        "b": "Butanol",
+        "c": "Pentanol",
+        "d": "Octanol",
+        "r": "a"
+    },
+    {
+        "q": "What type of isomerism exists in 2-butene and 1-butene?",
+        "a": "Geometric Isomerism",
+        "b": "Chain Isomerism",
+        "c": "Position Isomerism",
+        "d": "Functional Isomerism",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the process by which alkenes react with steam to produce alcohols?",
+        "a": "Hydration",
+        "b": "Fermentation",
+        "c": "Esterification",
+        "d": "Polymerization",
+        "r": "a"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH2-COO-CH3?",
+        "a": "Ethyl Ethanoate",
+        "b": "Methyl Ethanoate",
+        "c": "Ethyl Methanoate",
+        "d": "Methyl Propanoate",
+        "r": "b"
+    },
+    {
+        "q": "Which organic compound is commonly known as wood alcohol?",
+        "a": "Ethanol",
+        "b": "Methanol",
+        "c": "Butanol",
+        "d": "Propanol",
+        "r": "b"
+    },
+    {
+        "q": "What is the main functional group in aldehydes?",
+        "a": "-COOH",
+        "b": "-CHO",
+        "c": "-OH",
+        "d": "-CH=CH2",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the process by which fats and oils are hydrolyzed into fatty acids and glycerol?",
+        "a": "Saponification",
+        "b": "Hydrolysis",
+        "c": "Esterification",
+        "d": "Polymerization",
+        "r": "b"
+    },
+    {
+        "q": "What is the IUPAC name of CH3-CH2-CH=CH-CH2-CH3?",
+        "a": "Pent-1-ene",
+        "b": "But-1-ene",
+        "c": "Pent-2-ene",
+        "d": "Hex-1-ene",
+        "r": "a"
+    },
+    {
+        "q": "Which organic compound is responsible for the formation of DNA and RNA?",
+        "a": "Nucleotides",
+        "b": "Amino Acids",
+        "c": "Fatty Acids",
+        "d": "Monosaccharides",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the process by which alcohols react with carboxylic acids to form esters?",
+        "a": "Esterification",
+        "b": "Hydrogenation",
+        "c": "Dehydration",
+        "d": "Polymerization",
+        "r": "a"
+    },
+    {
+        "q": "Which organic compound is the main component of vinegar?",
+        "a": "Acetic Acid",
+        "b": "Ethanol",
+        "c": "Methanol",
+        "d": "Formic Acid",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the process by which alkenes react with halogens to form halogenoalkanes?",
+        "a": "Halogenation",
+        "b": "Fermentation",
+        "c": "Esterification",
+        "d": "Polymerization",
+        "r": "a"
+    },
+    {
+        "q": "Which subatomic particle is involved in nuclear reactions?",
+        "a": "Electron",
+        "b": "Neutron",
+        "c": "Proton",
+        "d": "Nucleus",
+        "r": "b"
+    },
+    {
+        "q": "What is the term used to describe the process of a nucleus splitting into two smaller nuclei?",
+        "a": "Nuclear fission",
+        "b": "Nuclear fusion",
+        "c": "Nuclear decay",
+        "d": "Nuclear bombardment",
+        "r": "a"
+    },
+    {
+        "q": "The release of energy during a nuclear reaction is primarily due to:",
+        "a": "Conversion of nuclear energy to mass-energy",
+        "b": "Breaking of chemical bonds",
+        "c": "Formation of new isotopes",
+        "d": "Formation of electrons and protons from neutrons",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary fuel used in nuclear power plants for nuclear fission reactions?",
+        "a": "Uranium-235",
+        "b": "Plutonium-239",
+        "c": "Thorium-232",
+        "d": "Uranium-238",
+        "r": "a"
+    },
+    {
+        "q": "The half-life of a radioactive substance is:",
+        "a": "The time it takes for the radioactivity to reduce to half",
+        "b": "The time it takes for the radioactivity to double",
+        "c": "The time it takes for the nucleus to split",
+        "d": "The time it takes for the radioactive decay to stop",
+        "r": "a"
+    },
+    {
+        "q": "Which type of radiation can be stopped by a sheet of paper?",
+        "a": "Alpha radiation",
+        "b": "Beta radiation",
+        "c": "Gamma radiation",
+        "d": "Neutron radiation",
+        "r": "a"
+    },
+    {
+        "q": "What is the symbol for an alpha particle?",
+        "a": "α",
+        "b": "β",
+        "c": "γ",
+        "d": "n",
+        "r": "a"
+    },
+    {
+        "q": "The process by which an unstable nucleus emits radiation to become more stable is called:",
+        "a": "Radioactive decay",
+        "b": "Nuclear fusion",
+        "c": "Nuclear fission",
+        "d": "Nuclear bombardment",
+        "r": "a"
+    },
+    {
+        "q": "The atomic number of an element represents the number of:",
+        "a": "Protons",
+        "b": "Electrons",
+        "c": "Neutrons",
+        "d": "Protons and neutrons",
+        "r": "a"
+    },
+    {
+        "q": "The mass number of an element represents the number of:",
+        "a": "Protons and electrons",
+        "b": "Protons and neutrons",
+        "c": "Electrons and neutrons",
+        "d": "Protons and electrons",
+        "r": "b"
+    },
+    {
+        "q": "Which type of radiation can penetrate the most materials and requires dense shielding?",
+        "a": "Gamma radiation",
+        "b": "Beta radiation",
+        "c": "Alpha radiation",
+        "d": "Neutron radiation",
+        "r": "a"
+    },
+    {
+        "q": "What is the product of the alpha decay of Uranium-238?",
+        "a": "Thorium-234",
+        "b": "Plutonium-238",
+        "c": "Thorium-232",
+        "d": "Uranium-235",
+        "r": "c"
+    },
+    {
+        "q": "What is the product of the beta decay of Carbon-14?",
+        "a": "Nitrogen-14",
+        "b": "Oxygen-14",
+        "c": "Boron-14",
+        "d": "Beryllium-14",
+        "r": "a"
+    },
+    {
+        "q": "Which radioactive isotope is used in carbon dating?",
+        "a": "Carbon-14",
+        "b": "Carbon-12",
+        "c": "Carbon-13",
+        "d": "Carbon-11",
+        "r": "a"
+    },
+    {
+        "q": "The process of combining two light nuclei to form a heavier nucleus is called:",
+        "a": "Nuclear fission",
+        "b": "Nuclear decay",
+        "c": "Nuclear bombardment",
+        "d": "Nuclear fusion",
+        "r": "d"
+    },
+    {
+        "q": "Which type of radiation can be stopped by a few centimeters of lead?",
+        "a": "Alpha radiation",
+        "b": "Beta radiation",
+        "c": "Gamma radiation",
+        "d": "Neutron radiation",
+        "r": "c"
+    },
+    {
+        "q": "What is the symbol for a beta particle?",
+        "a": "α",
+        "b": "β",
+        "c": "γ",
+        "d": "n",
+        "r": "b"
+    },
+    {
+        "q": "The energy released in a nuclear reaction is due to the conversion of:",
+        "a": "Mass-energy",
+        "b": "Kinetic energy",
+        "c": "Potential energy",
+        "d": "Heat energy",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a product of the nuclear fusion reaction in stars?",
+        "a": "Helium",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Carbon",
+        "r": "a"
+    },
+    {
+        "q": "The time required for half of a sample of radioactive substance to decay is called:",
+        "a": "Radioactive decay period",
+        "b": "Nuclear half-life",
+        "c": "Radioactive half-life",
+        "d": "Decay time",
+        "r": "c"
+    },
+    {
+        "q": "What type of radiation has the highest penetration power?",
+        "a": "Alpha radiation",
+        "b": "Beta radiation",
+        "c": "Gamma radiation",
+        "d": "Neutron radiation",
+        "r": "c"
+    },
+    {
+        "q": "What is the product of the alpha decay of Thorium-232?",
+        "a": "Radium-228",
+        "b": "Radon-222",
+        "c": "Radium-226",
+        "d": "Thorium-228",
+        "r": "c"
+    },
+    {
+        "q": "What is the product of the beta decay of Potassium-40?",
+        "a": "Calcium-40",
+        "b": "Argon-40",
+        "c": "Scandium-40",
+        "d": "Titanium-40",
+        "r": "b"
+    },
+    {
+        "q": "What is the main source of energy in the sun?",
+        "a": "Nuclear fission",
+        "b": "Nuclear decay",
+        "c": "Nuclear bombardment",
+        "d": "Nuclear fusion",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following can be used to detect radiation?",
+        "a": "Geiger-Muller counter",
+        "b": "Voltmeter",
+        "c": "Barometer",
+        "d": "Thermometer",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which a nucleus gains a neutron and emits a beta particle?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Gamma decay",
+        "d": "Neutron decay",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following isotopes is used as a tracer in medical imaging?",
+        "a": "Iodine-131",
+        "b": "Uranium-235",
+        "c": "Potassium-40",
+        "d": "Carbon-14",
+        "r": "a"
+    },
+    {
+        "q": "What is the product of the nuclear fusion of hydrogen in stars?",
+        "a": "Helium",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Carbon",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is used to measure the activity of a radioactive sample?",
+        "a": "Becquerel",
+        "b": "Joule",
+        "c": "Kelvin",
+        "d": "Pascal",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which a nucleus loses a neutron and emits a beta particle?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Gamma decay",
+        "d": "Neutron decay",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following isotopes is used for cancer treatment in radiation therapy?",
+        "a": "Cobalt-60",
+        "b": "Uranium-238",
+        "c": "Iodine-131",
+        "d": "Carbon-14",
+        "r": "a"
+    },
+    {
+        "q": "The process by which a heavy nucleus splits into two smaller nuclei is called:",
+        "a": "Nuclear fusion",
+        "b": "Nuclear decay",
+        "c": "Nuclear bombardment",
+        "d": "Nuclear fission",
+        "r": "d"
+    },
+    {
+        "q": "What is the main hazard of exposure to alpha particles?",
+        "a": "Internal organ damage",
+        "b": "Skin burns",
+        "c": "Radiation sickness",
+        "d": "DNA mutation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is used to measure the age of rocks and minerals?",
+        "a": "Uranium-238",
+        "b": "Carbon-14",
+        "c": "Iodine-131",
+        "d": "Cobalt-60",
+        "r": "b"
+    },
+    {
+        "q": "What is the main source of energy in nuclear power plants?",
+        "a": "Nuclear fission",
+        "b": "Nuclear decay",
+        "c": "Nuclear bombardment",
+        "d": "Nuclear fusion",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is used in smoke detectors?",
+        "a": "Americium-241",
+        "b": "Uranium-235",
+        "c": "Iodine-131",
+        "d": "Carbon-14",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which a nucleus gains a proton and emits a neutron?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Gamma decay",
+        "d": "Neutron decay",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following isotopes is used as a neutron source in research?",
+        "a": "Cobalt-60",
+        "b": "Uranium-238",
+        "c": "Iodine-131",
+        "d": "Californium-252",
+        "r": "d"
+    },
+    {
+        "q": "The process by which a nucleus emits high-energy electromagnetic waves is called:",
+        "a": "Nuclear fusion",
+        "b": "Nuclear decay",
+        "c": "Nuclear bombardment",
+        "d": "Gamma decay",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary greenhouse gas?",
+        "a": "Methane",
+        "b": "Carbon dioxide",
+        "c": "Nitrous oxide",
+        "d": "Water vapor",
+        "r": "b"
+    },
+    {
+        "q": "Acid rain is caused by the emission of",
+        "a": "Nitrogen oxides",
+        "b": "Carbon dioxide",
+        "c": "Sulfur dioxide",
+        "d": "Ozone",
+        "r": "c"
+    },
+    {
+        "q": "Which gas is responsible for ozone depletion?",
+        "a": "Carbon dioxide",
+        "b": "Sulfur dioxide",
+        "c": "Chlorofluorocarbons (CFCs)",
+        "d": "Methane",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary source of indoor air pollution?",
+        "a": "Vehicle exhaust",
+        "b": "Industrial emissions",
+        "c": "Radon gas",
+        "d": "Volcanic eruptions",
+        "r": "c"
+    },
+    {
+        "q": "Which process converts nitrogen gas into a usable form for plants?",
+        "a": "Nitrification",
+        "b": "Ammonification",
+        "c": "Denitrification",
+        "d": "Nitrogen fixation",
+        "r": "d"
+    },
+    {
+        "q": "The pH scale measures the acidity or alkalinity of a substance. What is the pH range for acidic substances?",
+        "a": "0 to 6",
+        "b": "7 to 14",
+        "c": "1 to 7",
+        "d": "0 to 7",
+        "r": "a"
+    },
+    {
+        "q": "What is the main cause of the greenhouse effect?",
+        "a": "Deforestation",
+        "b": "Burning of fossil fuels",
+        "c": "Use of aerosols",
+        "d": "Volcanic eruptions",
+        "r": "b"
+    },
+    {
+        "q": "Which gas is known as laughing gas ?",
+        "a": "Oxygen",
+        "b": "Hydrogen",
+        "c": "Nitrous oxide",
+        "d": "Methane",
+        "r": "c"
+    },
+    {
+        "q": "Which component of the atmosphere protects us from harmful ultraviolet (UV) radiation?",
+        "a": "Nitrogen",
+        "b": "Ozone",
+        "c": "Carbon dioxide",
+        "d": "Argon",
+        "r": "b"
+    },
+    {
+        "q": "Which chemical is a major air pollutant that forms brown haze and smog?",
+        "a": "Methane",
+        "b": "Sulfur dioxide",
+        "c": "Ammonia",
+        "d": "Carbon monoxide",
+        "r": "b"
+    },
+    {
+        "q": "The conversion of ammonia into nitric acid and nitrates is known as",
+        "a": "Nitrification",
+        "b": "Ammonification",
+        "c": "Denitrification",
+        "d": "Nitrogen fixation",
+        "r": "a"
+    },
+    {
+        "q": "Which process releases energy from glucose in the presence of oxygen?",
+        "a": "Photosynthesis",
+        "b": "Respiration",
+        "c": "Fermentation",
+        "d": "Combustion",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary cause of water pollution in industrial areas?",
+        "a": "Oil spills",
+        "b": "Fertilizer runoff",
+        "c": "Industrial effluents",
+        "d": "Plastic waste",
+        "r": "c"
+    },
+    {
+        "q": "The process of conversion of nitrates back into nitrogen gas is called",
+        "a": "Nitrification",
+        "b": "Ammonification",
+        "c": "Denitrification",
+        "d": "Nitrogen fixation",
+        "r": "c"
+    },
+    {
+        "q": "Which gas is responsible for the greenhouse effect on Venus?",
+        "a": "Carbon dioxide",
+        "b": "Sulfur dioxide",
+        "c": "Water vapor",
+        "d": "Methane",
+        "r": "a"
+    },
+    {
+        "q": "The depletion of the ozone layer is most prominent over which region?",
+        "a": "The Arctic region",
+        "b": "The Antarctic region",
+        "c": "The Equatorial region",
+        "d": "The North Pole region",
+        "r": "b"
+    },
+    {
+        "q": "Acid rain has a pH value below what number?",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "4",
+        "r": "c"
+    },
+    {
+        "q": "Which greenhouse gas is mainly produced from rice paddies and livestock?",
+        "a": "Carbon dioxide",
+        "b": "Methane",
+        "c": "Sulfur dioxide",
+        "d": "Nitrous oxide",
+        "r": "b"
+    },
+    {
+        "q": "Which gas is used as a fire extinguisher?",
+        "a": "Carbon dioxide",
+        "b": "Nitrogen",
+        "c": "Oxygen",
+        "d": "Hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "What causes the 'ozone hole' in the Earth's atmosphere?",
+        "a": "Chlorofluorocarbons (CFCs)",
+        "b": "Carbon dioxide",
+        "c": "Methane",
+        "d": "Sulfur dioxide",
+        "r": "a"
+    },
+    {
+        "q": "Which process converts nitrates and nitrites into nitrogen gas?",
+        "a": "Nitrification",
+        "b": "Ammonification",
+        "c": "Denitrification",
+        "d": "Nitrogen fixation",
+        "r": "c"
+    },
+    {
+        "q": "The burning of fossil fuels releases which greenhouse gas into the atmosphere?",
+        "a": "Methane",
+        "b": "Nitrogen",
+        "c": "Carbon dioxide",
+        "d": "Oxygen",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary source of anthropogenic carbon dioxide emissions?",
+        "a": "Burning of fossil fuels",
+        "b": "Volcanic eruptions",
+        "c": "Forest fires",
+        "d": "Animal respiration",
+        "r": "a"
+    },
+    {
+        "q": "The primary source of sulfur dioxide emissions is",
+        "a": "Volcanic eruptions",
+        "b": "Combustion",
+        "c": "Oil spills",
+        "d": "Industrial processes",
+        "r": "b"
+    },
+    {
+        "q": "The process of converting nitrate and nitrite ions into nitrogen gas is known as",
+        "a": "Nitrification",
+        "b": "Ammonification",
+        "c": "Denitrification",
+        "d": "Nitrogen fixation",
+        "r": "c"
+    },
+    {
+        "q": "The ozone layer is found in which layer of the atmosphere?",
+        "a": "Troposphere",
+        "b": "Stratosphere",
+        "c": "Mesosphere",
+        "d": "Thermosphere",
+        "r": "b"
+    },
+    {
+        "q": "The major source of indoor air pollution in homes is",
+        "a": "Radon gas",
+        "b": "Carbon dioxide",
+        "c": "Sulfur dioxide",
+        "d": "Volatile organic compounds (VOCs)",
+        "r": "a"
+    },
+    {
+        "q": "Acid rain is harmful to aquatic life because it",
+        "a": "Increases water temperature",
+        "b": "Lowers water pH",
+        "c": "Increases dissolved oxygen levels",
+        "d": "Decreases turbidity",
+        "r": "b"
+    },
+    {
+        "q": "The process by which bacteria convert ammonia into nitrate is called",
+        "a": "Nitrification",
+        "b": "Ammonification",
+        "c": "Denitrification",
+        "d": "Nitrogen fixation",
+        "r": "a"
+    },
+    {
+        "q": "Which process converts atmospheric nitrogen into a form that can be used by plants?",
+        "a": "Ammonification",
+        "b": "Denitrification",
+        "c": "Nitrification",
+        "d": "Nitrogen fixation",
+        "r": "d"
+    },
+    {
+        "q": "Which gas is responsible for the Earth's surface warming through the greenhouse effect?",
+        "a": "Carbon dioxide",
+        "b": "Oxygen",
+        "c": "Methane",
+        "d": "Nitrogen",
+        "r": "a"
+    },
+    {
+        "q": "Which greenhouse gas is responsible for the 'blanket effect' in the Earth's atmosphere?",
+        "a": "Carbon dioxide",
+        "b": "Water vapor",
+        "c": "Methane",
+        "d": "Nitrous oxide",
+        "r": "b"
+    },
+    {
+        "q": "What is the main cause of ozone depletion?",
+        "a": "Methane",
+        "b": "Chlorofluorocarbons (CFCs)",
+        "c": "Carbon dioxide",
+        "d": "Nitrogen oxides",
+        "r": "b"
+    },
+    {
+        "q": "Which component of air is essential for the process of combustion?",
+        "a": "Oxygen",
+        "b": "Nitrogen",
+        "c": "Carbon dioxide",
+        "d": "Argon",
+        "r": "a"
+    },
+    {
+        "q": "Which process converts nitrate and nitrite ions into nitrogen gas?",
+        "a": "Nitrification",
+        "b": "Ammonification",
+        "c": "Denitrification",
+        "d": "Nitrogen fixation",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary cause of the greenhouse effect?",
+        "a": "Deforestation",
+        "b": "Burning of fossil fuels",
+        "c": "Volcanic eruptions",
+        "d": "Industrial activities",
+        "r": "b"
+    },
+    {
+        "q": "Which gas is known as laughing gas?",
+        "a": "Nitrous oxide",
+        "b": "Carbon dioxide",
+        "c": "Oxygen",
+        "d": "Methane",
+        "r": "a"
+    },
+    {
+        "q": "What is the major greenhouse gas responsible for global warming?",
+        "a": "Carbon dioxide",
+        "b": "Methane",
+        "c": "Nitrous oxide",
+        "d": "Water vapor",
+        "r": "a"
+    },
+    {
+        "q": "The pH of a neutral solution is",
+        "a": "1",
+        "b": "7",
+        "c": "14",
+        "d": "5",
+        "r": "b"
+    },
+    {
+        "q": "Which gas is known as the \"silent killer\" due to its colorless and odorless nature?",
+        "a": "Carbon monoxide",
+        "b": "Nitrogen",
+        "c": "Sulfur dioxide",
+        "d": "Methane",
+        "r": "a"
+    },
+    {
+        "q": "The main source of anthropogenic methane emissions is",
+        "a": "Wetlands",
+        "b": "Deforestation",
+        "c": "Vehicle emissions",
+        "d": "Industrial processes",
+        "r": "c"
+    }
+]
