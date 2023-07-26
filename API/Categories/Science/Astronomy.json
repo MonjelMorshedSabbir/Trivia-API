@@ -1,0 +1,4882 @@
+[
+    {
+        "q": "What is the scientific study of celestial objects?",
+        "a": "astronomy",
+        "b": "biology",
+        "c": "chemistry",
+        "d": "physics",
+        "r": "a"
+    },
+    {
+        "q": "What is the nearest star to Earth?",
+        "a": "Proxima Centauri",
+        "b": "Sirius",
+        "c": "Alpha Centauri",
+        "d": "Betelgeuse",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known as the \"Red Planet\"?",
+        "a": "Mars",
+        "b": "Venus",
+        "c": "Jupiter",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "What causes the seasons on Earth?",
+        "a": "Tilt of Earth's axis",
+        "b": "Distance from the Sun",
+        "c": "Solar flares",
+        "d": "Moon's gravitational pull",
+        "r": "a"
+    },
+    {
+        "q": "What is the largest planet in our solar system?",
+        "a": "Jupiter",
+        "b": "Saturn",
+        "c": "Neptune",
+        "d": "Uranus",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the galaxy we live in?",
+        "a": "Milky Way",
+        "b": "Andromeda",
+        "c": "Orion",
+        "d": "Triangulum",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known for its beautiful rings?",
+        "a": "Saturn",
+        "b": "Jupiter",
+        "c": "Uranus",
+        "d": "Neptune",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which stars produce energy?",
+        "a": "Nuclear fusion",
+        "b": "Chemical reaction",
+        "c": "Nuclear fission",
+        "d": "Photosynthesis",
+        "r": "a"
+    },
+    {
+        "q": "Which type of star is the Sun classified as?",
+        "a": "G-type main-sequence star",
+        "b": "Red giant star",
+        "c": "White dwarf star",
+        "d": "Neutron star",
+        "r": "a"
+    },
+    {
+        "q": "What is the study of the origin and evolution of the universe called?",
+        "a": "Cosmology",
+        "b": "Geology",
+        "c": "Anthropology",
+        "d": "Meteorology",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known for its Great Red Spot?",
+        "a": "Jupiter",
+        "b": "Mars",
+        "c": "Venus",
+        "d": "Mercury",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the phenomenon where light bends as it passes through a lens?",
+        "a": "Refraction",
+        "b": "Reflection",
+        "c": "Diffraction",
+        "d": "Scattering",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the force that keeps planets in orbit around the Sun?",
+        "a": "Gravity",
+        "b": "Magnetism",
+        "c": "Friction",
+        "d": "Tension",
+        "r": "a"
+    },
+    {
+        "q": "What are the small rocky objects that orbit the Sun, mostly found between Mars and Jupiter?",
+        "a": "Asteroids",
+        "b": "Comets",
+        "c": "Meteors",
+        "d": "Moons",
+        "r": "a"
+    },
+    {
+        "q": "Which space telescope provides clear images of the universe by detecting various forms of light?",
+        "a": "Hubble Space Telescope",
+        "b": "Chandra X-ray Observatory",
+        "c": "Kepler Space Telescope",
+        "d": "Spitzer Space Telescope",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the region beyond Neptune where many small icy bodies are located?",
+        "a": "Kuiper Belt",
+        "b": "Asteroid Belt",
+        "c": "Oort Cloud",
+        "d": "Hubble Zone",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known for its prominent ring system and many moons?",
+        "a": "Saturn",
+        "b": "Uranus",
+        "c": "Jupiter",
+        "d": "Neptune",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the event that occurs when the Moon comes directly between the Sun and Earth?",
+        "a": "Solar Eclipse",
+        "b": "Lunar Eclipse",
+        "c": "Solar Flare",
+        "d": "Equinox",
+        "r": "a"
+    },
+    {
+        "q": "Which force is responsible for the tides on Earth?",
+        "a": "Gravitational pull of the Moon",
+        "b": "Gravitational pull of the Sun",
+        "c": "Solar wind",
+        "d": "Magnetism",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the brightest star in the night sky?",
+        "a": "Sirius",
+        "b": "Polaris",
+        "c": "Vega",
+        "d": "Betelgeuse",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the galaxy nearest to the Milky Way?",
+        "a": "Andromeda",
+        "b": "Triangulum",
+        "c": "Centaurus",
+        "d": "Bode's Galaxy",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known as the \"Morning Star\" or \"Evening Star\"?",
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Mercury",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the phenomenon where the Moon appears to gradually grow smaller?",
+        "a": "Waning",
+        "b": "Waxing",
+        "c": "Gibbous",
+        "d": "Crescent",
+        "r": "a"
+    },
+    {
+        "q": "Which famous comet has a periodic orbit and was last seen in 1986?",
+        "a": "Halley's Comet",
+        "b": "Hale-Bopp Comet",
+        "c": "Encke's Comet",
+        "d": "McNaught Comet",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the process by which a star produces light and heat?",
+        "a": "Nuclear Fusion",
+        "b": "Nuclear Fission",
+        "c": "Chemical Reaction",
+        "d": "Photosynthesis",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known for its beautiful blue color and distinct atmosphere?",
+        "a": "Neptune",
+        "b": "Uranus",
+        "c": "Saturn",
+        "d": "Mars",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the imaginary line that divides the Earth into the Northern and Southern Hemispheres?",
+        "a": "Equator",
+        "b": "Prime Meridian",
+        "c": "Tropic of Cancer",
+        "d": "Tropic of Capricorn",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the force that holds the Moon in orbit around Earth?",
+        "a": "Gravitational force",
+        "b": "Magnetic force",
+        "c": "Centripetal force",
+        "d": "Tidal force",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the region in space where gravity is so strong that nothing, not even light, can escape?",
+        "a": "Black Hole",
+        "b": "White Dwarf",
+        "c": "Neutron Star",
+        "d": "Red Giant",
+        "r": "a"
+    },
+    {
+        "q": "Which instrument is used to observe distant objects in space by detecting their radio emissions?",
+        "a": "Radio Telescope",
+        "b": "X-ray Telescope",
+        "c": "Infrared Telescope",
+        "d": "Space Probe",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the phenomenon where a planet appears to reverse its direction in the sky?",
+        "a": "Retrograde motion",
+        "b": "Prograde motion",
+        "c": "Parallax",
+        "d": "Precession",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known for its prominent system of icy rings?",
+        "a": "Uranus",
+        "b": "Neptune",
+        "c": "Saturn",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the event that occurs when the Earth comes directly between the Sun and the Moon?",
+        "a": "Lunar Eclipse",
+        "b": "Solar Eclipse",
+        "c": "Lunar Occultation",
+        "d": "Equinox",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the force that causes objects to fall towards the Earth?",
+        "a": "Gravity",
+        "b": "Magnetism",
+        "c": "Friction",
+        "d": "Tension",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the bright star in the constellation Ursa Minor that points to the North?",
+        "a": "Polaris",
+        "b": "Betelgeuse",
+        "c": "Rigel",
+        "d": "Sirius",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the space probe that landed on Mars in 2012 to study its climate and geology?",
+        "a": "Curiosity Rover",
+        "b": "Voyager 1",
+        "c": "New Horizons",
+        "d": "Cassini",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the large, dark, flat areas on the Moon's surface?",
+        "a": "Maria",
+        "b": "Craters",
+        "c": "Highlands",
+        "d": "Rilles",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the space telescope launched by NASA in 1990 that orbits Earth?",
+        "a": "Hubble Space Telescope",
+        "b": "James Webb Space Telescope",
+        "c": "Spitzer Space Telescope",
+        "d": "Chandra X-ray Observatory",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known as the \"Evening Star\" when it is visible after sunset?",
+        "a": "Venus",
+        "b": "Mercury",
+        "c": "Mars",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the phase when the Moon is more than half but not fully illuminated?",
+        "a": "Gibbous",
+        "b": "Crescent",
+        "c": "Quarter",
+        "d": "Full",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT an optical telescope?",
+        "a": "Refractor",
+        "b": "Reflector",
+        "c": "Catadioptric",
+        "d": "Radio Telescope",
+        "r": "d"
+    },
+    {
+        "q": "The primary purpose of a telescope is to:",
+        "a": "Observe planets",
+        "b": "Observe stars",
+        "c": "Observe galaxies",
+        "d": "Observe atmospheric conditions",
+        "r": "b"
+    },
+    {
+        "q": "What is the main advantage of refracting telescopes over reflecting telescopes?",
+        "a": "Less expensive",
+        "b": "Larger aperture",
+        "c": "Smaller size",
+        "d": "No chromatic aberration",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the eyepiece in a telescope?",
+        "a": "To collect light",
+        "b": "To magnify the image",
+        "c": "To stabilize the telescope",
+        "d": "To track celestial objects",
+        "r": "b"
+    },
+    {
+        "q": "Which telescope type uses mirrors to focus light?",
+        "a": "Refractor",
+        "b": "Reflector",
+        "c": "Catadioptric",
+        "d": "Radio Telescope",
+        "r": "b"
+    },
+    {
+        "q": "The Hubble Space Telescope is an example of which type of telescope?",
+        "a": "Refractor",
+        "b": "Reflector",
+        "c": "Catadioptric",
+        "d": "Radio Telescope",
+        "r": "b"
+    },
+    {
+        "q": "Why are observatories often built on mountaintops?",
+        "a": "Easier access for scientists",
+        "b": "Better view of the sky",
+        "c": "To avoid light pollution",
+        "d": "To prevent earthquakes",
+        "r": "c"
+    },
+    {
+        "q": "What does \"aperture\" refer to in a telescope?",
+        "a": "The distance between the eyepiece and the objective lens",
+        "b": "The size of the telescope's tube",
+        "c": "The brightness of the image",
+        "d": "The diameter of the objective lens",
+        "r": "d"
+    },
+    {
+        "q": "Which type of telescope is also known as a \"light bucket\"?",
+        "a": "Refractor",
+        "b": "Reflector",
+        "c": "Catadioptric",
+        "d": "Radio Telescope",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the mount in a telescope?",
+        "a": "To keep the telescope clean",
+        "b": "To track celestial objects",
+        "c": "To provide stability during observations",
+        "d": "To adjust the aperture",
+        "r": "c"
+    },
+    {
+        "q": "The largest optical telescope on Earth is located in:",
+        "a": "Mauna Kea, Hawaii",
+        "b": "Atacama Desert, Chile",
+        "c": "Mount Everest, Nepal",
+        "d": "Sahara Desert, Morocco",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of adaptive optics in telescopes?",
+        "a": "To detect gravitational waves",
+        "b": "To reduce chromatic aberration",
+        "c": "To correct for atmospheric distortion",
+        "d": "To observe exoplanets",
+        "r": "c"
+    },
+    {
+        "q": "The Chandra X-ray Observatory is an example of which type of telescope?",
+        "a": "Refractor",
+        "b": "Reflector",
+        "c": "Catadioptric",
+        "d": "X-ray Telescope",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is NOT an advantage of using radio telescopes?",
+        "a": "Can observe objects in visible light",
+        "b": "Can observe during the day",
+        "c": "Can penetrate interstellar dust and gas",
+        "d": "Can observe objects not visible in the optical range",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of the James Webb Space Telescope (JWST)?",
+        "a": "Study Jupiter's moons",
+        "b": "Observe the Sun",
+        "c": "Study exoplanets and distant galaxies",
+        "d": "Search for black holes",
+        "r": "c"
+    },
+    {
+        "q": "What is the main advantage of large telescopes over smaller ones?",
+        "a": "Higher magnification",
+        "b": "Better image quality",
+        "c": "Ability to collect more light",
+        "d": "Portability",
+        "r": "c"
+    },
+    {
+        "q": "The process of combining multiple telescopes to simulate a larger aperture is called:",
+        "a": "Gravitational lensing",
+        "b": "Radio interferometry",
+        "c": "Adaptive optics",
+        "d": "Stellar occultation",
+        "r": "b"
+    },
+    {
+        "q": "The \"seeing\" of a telescope site refers to:",
+        "a": "The clarity of the night sky",
+        "b": "The brightness of the stars",
+        "c": "The stability of the atmosphere",
+        "d": "The size of the telescope's aperture",
+        "r": "c"
+    },
+    {
+        "q": "Which type of telescope is used to observe the Sun?",
+        "a": "Refractor",
+        "b": "Reflector",
+        "c": "Catadioptric",
+        "d": "Solar Telescope",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the spectrograph in a telescope?",
+        "a": "To measure the telescope's focal length",
+        "b": "To track fast-moving objects",
+        "c": "To observe the spectra of celestial objects",
+        "d": "To adjust the telescope's focus",
+        "r": "c"
+    },
+    {
+        "q": "The process of using a planet's gravity to assist a spacecraft in its journey is called:",
+        "a": "Gravitational lensing",
+        "b": "Gravity assist",
+        "c": "Orbital resonance",
+        "d": "Stellar occultation",
+        "r": "b"
+    },
+    {
+        "q": "The \"Event Horizon Telescope\" is primarily focused on capturing images of:",
+        "a": "Black Holes",
+        "b": "Planets",
+        "c": "Comets",
+        "d": "Galaxies",
+        "r": "a"
+    },
+    {
+        "q": "The process of a planet passing in front of a star is called:",
+        "a": "Gravitational lensing",
+        "b": "Transit",
+        "c": "Occultation",
+        "d": "Stellar eclipse",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a type of radio telescope?",
+        "a": "Single-dish telescope",
+        "b": "Radio interferometer",
+        "c": "Radio spectrograph",
+        "d": "Synthesis telescope",
+        "r": "c"
+    },
+    {
+        "q": "Which type of telescope is best suited for observing distant galaxies and nebulae?",
+        "a": "Refractor",
+        "b": "Reflector",
+        "c": "Catadioptric",
+        "d": "Radio Telescope",
+        "r": "d"
+    },
+    {
+        "q": "The primary advantage of space telescopes over ground-based telescopes is:",
+        "a": "Lower cost",
+        "b": "Better image quality",
+        "c": "Access to a wider range of wavelengths",
+        "d": "Larger aperture",
+        "r": "c"
+    },
+    {
+        "q": "The \"Very Large Telescope\" (VLT) is an example of which type of telescope?",
+        "a": "Refractor",
+        "b": "Reflector",
+        "c": "Catadioptric",
+        "d": "Radio Telescope",
+        "r": "b"
+    },
+    {
+        "q": "What is the main advantage of reflecting telescopes over refracting telescopes?",
+        "a": "Less expensive",
+        "b": "Larger aperture",
+        "c": "Smaller size",
+        "d": "No chromatic aberration",
+        "r": "d"
+    },
+    {
+        "q": "The \"Doppler effect\" observed in light from distant galaxies is used to measure:",
+        "a": "Their rotation speed",
+        "b": "Their distance from Earth",
+        "c": "Their chemical composition",
+        "d": "Their surface temperature",
+        "r": "b"
+    },
+    {
+        "q": "The primary purpose of the \"Atacama Large Millimeter Array\" (ALMA) is to study:",
+        "a": "Visible light",
+        "b": "X-rays",
+        "c": "Radio waves",
+        "d": "Microwaves",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of the collimator in a telescope?",
+        "a": "To collect more light",
+        "b": "To magnify the image",
+        "c": "To keep the telescope clean",
+        "d": "To make light parallel",
+        "r": "d"
+    },
+    {
+        "q": "The process of using a gravitational field to magnify light from a distant object is called:",
+        "a": "Gravitational lensing",
+        "b": "Transit",
+        "c": "Occultation",
+        "d": "Stellar occultation",
+        "r": "a"
+    },
+    {
+        "q": "Which telescope type uses both lenses and mirrors to focus light?",
+        "a": "Refractor",
+        "b": "Reflector",
+        "c": "Catadioptric",
+        "d": "Radio Telescope",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of a coronagraph in a telescope?",
+        "a": "To observe solar flares",
+        "b": "To study coronal mass ejections",
+        "c": "To observe the corona of the Sun",
+        "d": "To block out the Sun's bright disk",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a disadvantage of ground-based telescopes compared to space telescopes?",
+        "a": "Susceptible to atmospheric distortion",
+        "b": "Limited observing time",
+        "c": "Expensive construction",
+        "d": "Vulnerable to space debris",
+        "r": "a"
+    },
+    {
+        "q": "The process of using a star's brightness to measure distance is called:",
+        "a": "Gravitational lensing",
+        "b": "Stellar parallax",
+        "c": "Occultation",
+        "d": "Stellar occultation",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary purpose of the \"Kepler Space Telescope\"?",
+        "a": "Study Saturn's rings",
+        "b": "Search for exoplanets",
+        "c": "Observe distant galaxies",
+        "d": "Track asteroids",
+        "r": "b"
+    },
+    {
+        "q": "Which type of telescope is best suited for observing the detailed surface features of planets?",
+        "a": "Refractor",
+        "b": "Reflector",
+        "c": "Catadioptric",
+        "d": "Radio Telescope",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the field flattener in a telescope?",
+        "a": "To increase the telescope's magnification",
+        "b": "To correct for chromatic aberration",
+        "c": "To make stars appear sharper",
+        "d": "To stabilize the telescope",
+        "r": "c"
+    },
+    {
+        "q": "Which planet is closest to the Sun?",
+        "a": "Venus",
+        "b": "Mercury",
+        "c": "Mars",
+        "d": "Jupiter",
+        "r": "b"
+    },
+    {
+        "q": "What is the fifth planet from the Sun?",
+        "a": "Mars",
+        "b": "Saturn",
+        "c": "Jupiter",
+        "d": "Neptune",
+        "r": "c"
+    },
+    {
+        "q": "Which planet has the most extensive ring system?",
+        "a": "Saturn",
+        "b": "Jupiter",
+        "c": "Uranus",
+        "d": "Neptune",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has the Great Red Spot?",
+        "a": "Mars",
+        "b": "Jupiter",
+        "c": "Saturn",
+        "d": "Mercury",
+        "r": "b"
+    },
+    {
+        "q": "What is the second planet from the Sun?",
+        "a": "Venus",
+        "b": "Mercury",
+        "c": "Earth",
+        "d": "Mars",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known for its prominent rings?",
+        "a": "Uranus",
+        "b": "Mars",
+        "c": "Saturn",
+        "d": "Neptune",
+        "r": "c"
+    },
+    {
+        "q": "What is the smallest planet in our Solar System?",
+        "a": "Mercury",
+        "b": "Mars",
+        "c": "Venus",
+        "d": "Earth",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is famous for its big blue storms?",
+        "a": "Neptune",
+        "b": "Uranus",
+        "c": "Jupiter",
+        "d": "Saturn",
+        "r": "c"
+    },
+    {
+        "q": "What is the third planet from the Sun?",
+        "a": "Earth",
+        "b": "Mercury",
+        "c": "Venus",
+        "d": "Mars",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is tilted at almost 90 degrees?",
+        "a": "Mars",
+        "b": "Uranus",
+        "c": "Jupiter",
+        "d": "Neptune",
+        "r": "b"
+    },
+    {
+        "q": "What is the hottest planet in our Solar System?",
+        "a": "Mercury",
+        "b": "Venus",
+        "c": "Earth",
+        "d": "Mars",
+        "r": "b"
+    },
+    {
+        "q": "Which planet is often called the \"Evening Star\"?",
+        "a": "Mercury",
+        "b": "Venus",
+        "c": "Mars",
+        "d": "Jupiter",
+        "r": "b"
+    },
+    {
+        "q": "What is the fourth planet from the Sun?",
+        "a": "Jupiter",
+        "b": "Earth",
+        "c": "Venus",
+        "d": "Uranus",
+        "r": "b"
+    },
+    {
+        "q": "Which planet has a giant storm called the \"Great Dark Spot\"?",
+        "a": "Uranus",
+        "b": "Neptune",
+        "c": "Saturn",
+        "d": "Jupiter",
+        "r": "b"
+    },
+    {
+        "q": "What is the largest moon in our Solar System?",
+        "a": "Titan",
+        "b": "Ganymede",
+        "c": "Triton",
+        "d": "Callisto",
+        "r": "b"
+    },
+    {
+        "q": "Which planet's axis of rotation is tilted the most?",
+        "a": "Uranus",
+        "b": "Mars",
+        "c": "Jupiter",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the first human-made satellite to orbit Earth?",
+        "a": "Sputnik",
+        "b": "Explorer 1",
+        "c": "Hubble Space Telescope",
+        "d": "Kepler",
+        "r": "a"
+    },
+    {
+        "q": "What is the smallest moon in our Solar System?",
+        "a": "Deimos",
+        "b": "Phobos",
+        "c": "Enceladus",
+        "d": "Dione",
+        "r": "b"
+    },
+    {
+        "q": "Which planet has the most moons?",
+        "a": "Uranus",
+        "b": "Neptune",
+        "c": "Saturn",
+        "d": "Jupiter",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the largest volcano on Mars?",
+        "a": "Mount Olympus Mons",
+        "b": "Mount Vesuvius",
+        "c": "Mount St. Helens",
+        "d": "Mount Kilimanjaro",
+        "r": "a"
+    },
+    {
+        "q": "Which planet's moon is called \"The Cold Faithful\"",
+        "a": "Triton",
+        "b": "Ganymede",
+        "c": "Europa",
+        "d": "Enceladus",
+        "r": "d"
+    },
+    {
+        "q": "What is the Great Red Spot on Jupiter?",
+        "a": "A giant storm",
+        "b": "An active volcano",
+        "c": "A canyon",
+        "d": "A desert",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has the most volcanoes in the Solar System?",
+        "a": "Mars",
+        "b": "Venus",
+        "c": "Earth",
+        "d": "Mercury",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the largest moon of Saturn?",
+        "a": "Callisto",
+        "b": "Titan",
+        "c": "Rhea",
+        "d": "Ganymede",
+        "r": "b"
+    },
+    {
+        "q": "Which planet is known as the \"Ice Giant\"?",
+        "a": "Uranus",
+        "b": "Neptune",
+        "c": "Jupiter",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "What is the brightest planet in the night sky?",
+        "a": "Jupiter",
+        "b": "Venus",
+        "c": "Mars",
+        "d": "Mercury",
+        "r": "b"
+    },
+    {
+        "q": "Which planet has the longest day?",
+        "a": "Jupiter",
+        "b": "Venus",
+        "c": "Mars",
+        "d": "Mercury",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the largest crater on the Moon?",
+        "a": "Copernicus",
+        "b": "Herschel",
+        "c": "Newton",
+        "d": "Galileo",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the spacecraft that first reached the surface of Mars successfully?",
+        "a": "Viking 1",
+        "b": "Phoenix",
+        "c": "Curiosity",
+        "d": "Opportunity",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has the most elliptical orbit?",
+        "a": "Mars",
+        "b": "Jupiter",
+        "c": "Mercury",
+        "d": "Pluto",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the largest moon of Uranus?",
+        "a": "Io",
+        "b": "Triton",
+        "c": "Oberon",
+        "d": "Titania",
+        "r": "d"
+    },
+    {
+        "q": "Which planet is often referred to as the \"Morning Star\"?",
+        "a": "Jupiter",
+        "b": "Venus",
+        "c": "Mars",
+        "d": "Mercury",
+        "r": "b"
+    },
+    {
+        "q": "What is the Great Dark Spot on Neptune?",
+        "a": "A hurricane",
+        "b": "A volcanic eruption",
+        "c": "A storm",
+        "d": "A cloud formation",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has the highest mountain in the Solar System?",
+        "a": "Earth",
+        "b": "Venus",
+        "c": "Mars",
+        "d": "Olympus Mons",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the mission that first successfully landed humans on the Moon?",
+        "a": "Apollo 11",
+        "b": "Gemini 12",
+        "c": "Mercury 9",
+        "d": "Space Shuttle",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has a moon named Charon?",
+        "a": "Pluto",
+        "b": "Neptune",
+        "c": "Uranus",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the space telescope launched by NASA in 1990?",
+        "a": "Hubble Space Telescope",
+        "b": "James Webb Space Telescope",
+        "c": "Chandra X-ray Observatory",
+        "d": "Spitzer Space Telescope",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known for its prominent dark ring named \"Cassini Division\"?",
+        "a": "Mars",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Saturn",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the largest moon of Neptune?",
+        "a": "Triton",
+        "b": "Ganymede",
+        "c": "Europa",
+        "d": "Titan",
+        "r": "a"
+    },
+    {
+        "q": "Which planet's atmosphere is primarily composed of carbon dioxide?",
+        "a": "Earth",
+        "b": "Mars",
+        "c": "Venus",
+        "d": "Mercury",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the space probe that orbited and studied Saturn and its moons?",
+        "a": "Cassini",
+        "b": "Galileo",
+        "c": "Pioneer 10",
+        "d": "New Horizons",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known as the \"Blue Giant\"?",
+        "a": "Neptune",
+        "b": "Uranus",
+        "c": "Jupiter",
+        "d": "Saturn",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the largest moon of Jupiter?",
+        "a": "Ganymede",
+        "b": "Titan",
+        "c": "Callisto",
+        "d": "Europa",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is often called the \"Ice Planet\"?",
+        "a": "Uranus",
+        "b": "Neptune",
+        "c": "Saturn",
+        "d": "Jupiter",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary source of energy for the Sun?",
+        "a": "Nuclear Fission",
+        "b": "Nuclear Fusion",
+        "c": "Chemical Reaction",
+        "d": "Solar Wind",
+        "r": "b"
+    },
+    {
+        "q": "The Sun belongs to which spectral type?",
+        "a": "G-Type",
+        "b": "M-Type",
+        "c": "O-Type",
+        "d": "B-Type",
+        "r": "a"
+    },
+    {
+        "q": "The outermost layer of the Sun's atmosphere is called:",
+        "a": "Photosphere",
+        "b": "Chromosphere",
+        "c": "Corona",
+        "d": "Convection Zone",
+        "r": "c"
+    },
+    {
+        "q": "The process of converting hydrogen into helium in the Sun is called:",
+        "a": "Ionization",
+        "b": "Convection",
+        "c": "Radiation",
+        "d": "Nuclear Fusion",
+        "r": "d"
+    },
+    {
+        "q": "What is the approximate age of the Sun?",
+        "a": "1 billion years",
+        "b": "4.5 billion years",
+        "c": "10 billion years",
+        "d": "100 million years",
+        "r": "b"
+    },
+    {
+        "q": "The dark spots observed on the Sun's surface are called:",
+        "a": "Solar Flares",
+        "b": "Sunspots",
+        "c": "Solar Prominences",
+        "d": "Solar Wind",
+        "r": "b"
+    },
+    {
+        "q": "Which layer of the Sun's atmosphere can only be seen during a solar eclipse?",
+        "a": "Photosphere",
+        "b": "Chromosphere",
+        "c": "Corona",
+        "d": "Convection Zone",
+        "r": "c"
+    },
+    {
+        "q": "What is the Sun mainly composed of?",
+        "a": "Helium and Nitrogen",
+        "b": "Hydrogen and Helium",
+        "c": "Oxygen and Carbon",
+        "d": "Helium and Carbon",
+        "r": "b"
+    },
+    {
+        "q": "The Sun is located in which arm of the Milky Way galaxy?",
+        "a": "Perseus Arm",
+        "b": "Orion Arm",
+        "c": "Sagittarius Arm",
+        "d": "Centaurus Arm",
+        "r": "b"
+    },
+    {
+        "q": "What causes the Sun to shine?",
+        "a": "Nuclear Fission",
+        "b": "Nuclear Fusion",
+        "c": "Chemical Reaction",
+        "d": "Solar Wind",
+        "r": "b"
+    },
+    {
+        "q": "The phenomenon where the Sun's light is blocked by the Moon is called:",
+        "a": "Solar Eclipse",
+        "b": "Lunar Eclipse",
+        "c": "Total Eclipse",
+        "d": "Annular Eclipse",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the Sun's atmosphere has a reddish glow during a solar eclipse?",
+        "a": "Photosphere",
+        "b": "Chromosphere",
+        "c": "Corona",
+        "d": "Convection Zone",
+        "r": "c"
+    },
+    {
+        "q": "The Sun's energy is produced in the:",
+        "a": "Core",
+        "b": "Radiative Zone",
+        "c": "Convective Zone",
+        "d": "Photosphere",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the Sun's magnetic field?",
+        "a": "Solar Flares",
+        "b": "Sunspots",
+        "c": "Solar Prominences",
+        "d": "Solar Wind",
+        "r": "d"
+    },
+    {
+        "q": "The Sun is approximately how many times larger than Earth?",
+        "a": "100 times",
+        "b": "500 times",
+        "c": "1000 times",
+        "d": "10 times",
+        "r": "c"
+    },
+    {
+        "q": "What is the layer of the Sun's atmosphere that we see from Earth?",
+        "a": "Photosphere",
+        "b": "Chromosphere",
+        "c": "Corona",
+        "d": "Convection Zone",
+        "r": "a"
+    },
+    {
+        "q": "The process of the Sun releasing energy from its core is known as:",
+        "a": "Nuclear Fission",
+        "b": "Nuclear Fusion",
+        "c": "Solar Eruption",
+        "d": "Solar Wind",
+        "r": "b"
+    },
+    {
+        "q": "The temperature in the Sun's core reaches about:",
+        "a": "1 million degrees Celsius",
+        "b": "10 million degrees Celsius",
+        "c": "100 million degrees Celsius",
+        "d": "15 million degrees Celsius",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the Sun's outer atmosphere extending into space?",
+        "a": "Solar Flares",
+        "b": "Sunspots",
+        "c": "Solar Prominences",
+        "d": "Solar Corona",
+        "r": "d"
+    },
+    {
+        "q": "The mass of the Sun accounts for about what percentage of the total mass of the solar system?",
+        "a": "70%",
+        "b": "90%",
+        "c": "99.80%",
+        "d": "50%",
+        "r": "c"
+    },
+    {
+        "q": "What is the average distance between the Sun and Earth?",
+        "a": "50 million km",
+        "b": "100 million km",
+        "c": "150 million km",
+        "d": "200 million km",
+        "r": "c"
+    },
+    {
+        "q": "The Sun's visible surface is also known as:",
+        "a": "Radiative Zone",
+        "b": "Core",
+        "c": "Photosphere",
+        "d": "Corona",
+        "r": "c"
+    },
+    {
+        "q": "The solar activity cycle, where the Sun's magnetic field reverses, is called the:",
+        "a": "Solar Reversal",
+        "b": "Sunspot Cycle",
+        "c": "Solar Shift",
+        "d": "Magnetic Flip",
+        "r": "b"
+    },
+    {
+        "q": "Which element is mainly responsible for the Sun's energy production?",
+        "a": "Helium",
+        "b": "Nitrogen",
+        "c": "Hydrogen",
+        "d": "Carbon",
+        "r": "c"
+    },
+    {
+        "q": "The Sun's light takes approximately how many minutes to reach Earth?",
+        "a": "2 minutes",
+        "b": "8 minutes",
+        "c": "15 minutes",
+        "d": "30 minutes",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the superhot region surrounding the Sun's core?",
+        "a": "Convection Zone",
+        "b": "Radiative Zone",
+        "c": "Photosphere",
+        "d": "Chromosphere",
+        "r": "b"
+    },
+    {
+        "q": "What are the loops of gas in the Sun's atmosphere called?",
+        "a": "Solar Flares",
+        "b": "Sunspots",
+        "c": "Solar Prominences",
+        "d": "Solar Wind",
+        "r": "c"
+    },
+    {
+        "q": "The Sun's energy is produced by nuclear reactions primarily in the:",
+        "a": "Core",
+        "b": "Radiative Zone",
+        "c": "Convective Zone",
+        "d": "Photosphere",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the sudden release of energy on the Sun's surface?",
+        "a": "Solar Flares",
+        "b": "Sunspots",
+        "c": "Solar Prominences",
+        "d": "Solar Wind",
+        "r": "a"
+    },
+    {
+        "q": "How many layers does the Sun's atmosphere have?",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5",
+        "r": "d"
+    },
+    {
+        "q": "The core temperature of the Sun is hot enough to sustain which nuclear reaction?",
+        "a": "Nuclear Fission",
+        "b": "Nuclear Fusion",
+        "c": "Chemical Reaction",
+        "d": "Nuclear Decay",
+        "r": "b"
+    },
+    {
+        "q": "What is the uppermost layer of the Sun's atmosphere called?",
+        "a": "Photosphere",
+        "b": "Chromosphere",
+        "c": "Corona",
+        "d": "Convection Zone",
+        "r": "c"
+    },
+    {
+        "q": "The Sun's magnetic field is also known as the:",
+        "a": "Solar Flares",
+        "b": "Sunspots",
+        "c": "Solar Prominences",
+        "d": "Solar Wind",
+        "r": "d"
+    },
+    {
+        "q": "The Sun's energy is generated through the fusion of hydrogen nuclei into:",
+        "a": "Helium",
+        "b": "Nitrogen",
+        "c": "Carbon",
+        "d": "Oxygen",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the spacecraft that observed solar flares and sunspots?",
+        "a": "Apollo",
+        "b": "Voyager",
+        "c": "Solar Orbiter",
+        "d": "Hubble",
+        "r": "c"
+    },
+    {
+        "q": "The total energy emitted by the Sun is a result of nuclear reactions primarily in the:",
+        "a": "Core",
+        "b": "Radiative Zone",
+        "c": "Convective Zone",
+        "d": "Photosphere",
+        "r": "a"
+    },
+    {
+        "q": "Which layer of the Sun's atmosphere is the source of the solar wind?",
+        "a": "Photosphere",
+        "b": "Chromosphere",
+        "c": "Corona",
+        "d": "Convection Zone",
+        "r": "c"
+    },
+    {
+        "q": "What is the process by which the Sun converts hydrogen into helium?",
+        "a": "Ionization",
+        "b": "Convection",
+        "c": "Radiation",
+        "d": "Nuclear Fusion",
+        "r": "d"
+    },
+    {
+        "q": "The Sun rotates on its axis approximately once every:",
+        "a": "25 days",
+        "b": "30 days",
+        "c": "35 days",
+        "d": "40 days",
+        "r": "b"
+    },
+    {
+        "q": "What is the layer of the Sun's atmosphere that is above the photosphere?",
+        "a": "Chromosphere",
+        "b": "Corona",
+        "c": "Convection Zone",
+        "d": "Radiative Zone",
+        "r": "a"
+    },
+    {
+        "q": "The dark areas on the Sun's surface are cooler and are called:",
+        "a": "Solar Flares",
+        "b": "Sunspots",
+        "c": "Solar Prominences",
+        "d": "Solar Wind",
+        "r": "b"
+    },
+    {
+        "q": "Which inner planet is the closest to the Sun?",
+        "a": "Venus",
+        "b": "Earth",
+        "c": "Mars",
+        "d": "Mercury",
+        "r": "d"
+    },
+    {
+        "q": "What is the average distance of Mercury from the Sun?",
+        "a": "0.72 AU",
+        "b": "0.39 AU",
+        "c": "1.52 AU",
+        "d": "0.25 AU",
+        "r": "b"
+    },
+    {
+        "q": "Which inner planet has the highest average surface temperature?",
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Mercury",
+        "d": "Earth",
+        "r": "a"
+    },
+    {
+        "q": "The largest volcano in the solar system, Olympus Mons, is found on which planet?",
+        "a": "Mars",
+        "b": "Venus",
+        "c": "Mercury",
+        "d": "Earth",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the largest impact crater on Mercury?",
+        "a": "Caloris Basin",
+        "b": "Valles Marineris",
+        "c": "Hellas Planitia",
+        "d": "Isidis Planitia",
+        "r": "a"
+    },
+    {
+        "q": "The greenhouse effect is most prominent on which planet?",
+        "a": "Venus",
+        "b": "Earth",
+        "c": "Mars",
+        "d": "Mercury",
+        "r": "a"
+    },
+    {
+        "q": "Which inner planet has the most substantial atmosphere?",
+        "a": "Venus",
+        "b": "Earth",
+        "c": "Mars",
+        "d": "Mercury",
+        "r": "a"
+    },
+    {
+        "q": "The tallest mountain on Earth is?",
+        "a": "Mount Everest",
+        "b": "Mount Kilimanjaro",
+        "c": "K2",
+        "d": "Mount McKinley",
+        "r": "a"
+    },
+    {
+        "q": "What is the diameter of Mars?",
+        "a": "6,779 km",
+        "b": "12,742 km",
+        "c": "4,879 km",
+        "d": "9,282 km",
+        "r": "a"
+    },
+    {
+        "q": "Which planet experiences the \"morning star\" and \"evening star\" appearances?",
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Mercury",
+        "d": "Earth",
+        "r": "a"
+    },
+    {
+        "q": "What is the main component of Venus's atmosphere?",
+        "a": "Carbon Dioxide (CO2)",
+        "b": "Nitrogen (N2)",
+        "c": "Oxygen (O2)",
+        "d": "Methane (CH4)",
+        "r": "a"
+    },
+    {
+        "q": "The Grand Canyon, a massive and spectacular gorge, is located on which planet?",
+        "a": "Earth",
+        "b": "Venus",
+        "c": "Mars",
+        "d": "Mercury",
+        "r": "a"
+    },
+    {
+        "q": "The rotation of which planet is retrograde?",
+        "a": "Venus",
+        "b": "Mercury",
+        "c": "Mars",
+        "d": "Earth",
+        "r": "a"
+    },
+    {
+        "q": "Olympus Mons, the massive volcano, is how many times taller than Mount Everest?",
+        "a": "About 3 times",
+        "b": "About 7 times",
+        "c": "About 14 times",
+        "d": "About 27 times",
+        "r": "b"
+    },
+    {
+        "q": "The largest volcano on Earth is called?",
+        "a": "Mauna Kea",
+        "b": "Mount Kilimanjaro",
+        "c": "Mount Vesuvius",
+        "d": "Mauna Loa",
+        "r": "d"
+    },
+    {
+        "q": "Which planet has the highest mountain?",
+        "a": "Mars",
+        "b": "Venus",
+        "c": "Mercury",
+        "d": "Earth",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the tallest volcano on Mars?",
+        "a": "Mount Everest",
+        "b": "Mount Sharp",
+        "c": "Olympus Mons",
+        "d": "Mount McKinley",
+        "r": "c"
+    },
+    {
+        "q": "The Tharsis Montes region, which hosts several volcanoes, is located on which planet?",
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Earth",
+        "d": "Mercury",
+        "r": "b"
+    },
+    {
+        "q": "What is the average distance of Venus from the Sun?",
+        "a": "1.04 AU",
+        "b": "0.72 AU",
+        "c": "0.39 AU",
+        "d": "1.52 AU",
+        "r": "a"
+    },
+    {
+        "q": "Which inner planet has the most substantial iron core?",
+        "a": "Mercury",
+        "b": "Earth",
+        "c": "Venus",
+        "d": "Mars",
+        "r": "a"
+    },
+    {
+        "q": "What is the largest impact crater on Mars?",
+        "a": "Gusev Crater",
+        "b": "Hellas Planitia",
+        "c": "Valles Marineris",
+        "d": "Gale Crater",
+        "r": "b"
+    },
+    {
+        "q": "The Valles Marineris canyon system is located on which planet?",
+        "a": "Earth",
+        "b": "Venus",
+        "c": "Mars",
+        "d": "Mercury",
+        "r": "c"
+    },
+    {
+        "q": "The atmospheric pressure on Venus is about how many times that of Earth?",
+        "a": "About 2 times",
+        "b": "About 50 times",
+        "c": "About 100 times",
+        "d": "About 500 times",
+        "r": "c"
+    },
+    {
+        "q": "Which inner planet has the thinnest atmosphere?",
+        "a": "Mercury",
+        "b": "Venus",
+        "c": "Mars",
+        "d": "Earth",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the largest impact basin on Mercury?",
+        "a": "Hellas Planitia",
+        "b": "Caloris Basin",
+        "c": "Utopia Planitia",
+        "d": "Isidis Planitia",
+        "r": "b"
+    },
+    {
+        "q": "The highest surface temperature ever recorded in our solar system is on which planet?",
+        "a": "Venus",
+        "b": "Earth",
+        "c": "Mercury",
+        "d": "Mars",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has the most prolonged and massive dust storms?",
+        "a": "Venus",
+        "b": "Earth",
+        "c": "Mars",
+        "d": "Mercury",
+        "r": "c"
+    },
+    {
+        "q": "What is the average distance of Mars from the Sun?",
+        "a": "1.04 AU",
+        "b": "0.39 AU",
+        "c": "0.72 AU",
+        "d": "1.52 AU",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the largest impact basin on Mars?",
+        "a": "Utopia Planitia",
+        "b": "Gale Crater",
+        "c": "Hellas Planitia",
+        "d": "Caloris Basin",
+        "r": "c"
+    },
+    {
+        "q": "Which planet has a significant magnetic field?",
+        "a": "Earth",
+        "b": "Mars",
+        "c": "Venus",
+        "d": "Mercury",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has the longest rotation period?",
+        "a": "Venus",
+        "b": "Earth",
+        "c": "Mars",
+        "d": "Mercury",
+        "r": "d"
+    },
+    {
+        "q": "The Great Red Spot, a massive storm, is a feature found on which planet?",
+        "a": "Earth",
+        "b": "Venus",
+        "c": "Mars",
+        "d": "Jupiter",
+        "r": "d"
+    },
+    {
+        "q": "What is the diameter of Venus?",
+        "a": "6,052 km",
+        "b": "12,742 km",
+        "c": "4,212 km",
+        "d": "5,498 km",
+        "r": "a"
+    },
+    {
+        "q": "The highest mountain on Mars, Mount Olympus, is about the same height as which mountain on Earth?",
+        "a": "Mount Everest",
+        "b": "Mount Kilimanjaro",
+        "c": "Mount McKinley",
+        "d": "Mount Kilimanjaro",
+        "r": "b"
+    },
+    {
+        "q": "Which planet is often called the \"Red Planet\"?",
+        "a": "Venus",
+        "b": "Earth",
+        "c": "Mars",
+        "d": "Mercury",
+        "r": "c"
+    },
+    {
+        "q": "What is the average distance of Earth from the Sun?",
+        "a": "0.39 AU",
+        "b": "0.72 AU",
+        "c": "1.04 AU",
+        "d": "1.52 AU",
+        "r": "c"
+    },
+    {
+        "q": "Which inner planet has the most extended canyon system?",
+        "a": "Venus",
+        "b": "Earth",
+        "c": "Mars",
+        "d": "Mercury",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the impact crater that is believed to have caused the extinction of the dinosaurs on Earth?",
+        "a": "Chicxulub Crater",
+        "b": "Barringer Crater",
+        "c": "Tycho Crater",
+        "d": "Vredefort Dome",
+        "r": "a"
+    },
+    {
+        "q": "The Mariner Valley, a vast canyon system, is located on which planet?",
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Earth",
+        "d": "Mercury",
+        "r": "b"
+    },
+    {
+        "q": "Which planet has the highest number of moons?",
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Mercury",
+        "d": "Earth",
+        "r": "d"
+    },
+    {
+        "q": "The phenomenon of the \"evening star\" appearance is associated with which planet?",
+        "a": "Earth",
+        "b": "Mars",
+        "c": "Venus",
+        "d": "Mercury",
+        "r": "c"
+    },
+    {
+        "q": "What is the diameter of Mercury?",
+        "a": "6,779 km",
+        "b": "4,879 km",
+        "c": "12,742 km",
+        "d": "9,282 km",
+        "r": "b"
+    },
+    {
+        "q": "Which planet is known for its prominent ring system?",
+        "a": "Saturn",
+        "b": "Neptune",
+        "c": "Uranus",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "The Great Red Spot is a prominent feature on which planet?",
+        "a": "Jupiter",
+        "b": "Saturn",
+        "c": "Neptune",
+        "d": "Uranus",
+        "r": "a"
+    },
+    {
+        "q": "Which outer planet is often called an \"ice giant\"?",
+        "a": "Uranus",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has a tilted axis that causes extreme seasons?",
+        "a": "Uranus",
+        "b": "Neptune",
+        "c": "Saturn",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "This planet has a bluish color due to the presence of methane in its atmosphere.",
+        "a": "Neptune",
+        "b": "Saturn",
+        "c": "Jupiter",
+        "d": "Uranus",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has the most extensive system of rings in the solar system?",
+        "a": "Saturn",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Uranus",
+        "r": "a"
+    },
+    {
+        "q": "The moons, Io, Europa, Ganymede, and Callisto, are associated with which planet?",
+        "a": "Jupiter",
+        "b": "Saturn",
+        "c": "Uranus",
+        "d": "Neptune",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of Saturn's largest moon?",
+        "a": "Titan",
+        "b": "Triton",
+        "c": "Io",
+        "d": "Ganymede",
+        "r": "a"
+    },
+    {
+        "q": "The magnetic field of this planet is unique as it is tilted and offset from its center.",
+        "a": "Uranus",
+        "b": "Neptune",
+        "c": "Saturn",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "This planet's axis of rotation is almost parallel to the plane of the ecliptic.",
+        "a": "Uranus",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has the most extended orbital period in our solar system?",
+        "a": "Neptune",
+        "b": "Jupiter",
+        "c": "Saturn",
+        "d": "Uranus",
+        "r": "a"
+    },
+    {
+        "q": "The Cassini-Huygens mission was primarily sent to explore which planet and its moons?",
+        "a": "Saturn",
+        "b": "Neptune",
+        "c": "Uranus",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following planets does not have a substantial ring system?",
+        "a": "Neptune",
+        "b": "Uranus",
+        "c": "Jupiter",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "What is the most abundant gas in the atmosphere of Jupiter?",
+        "a": "Hydrogen",
+        "b": "Helium",
+        "c": "Methane",
+        "d": "Nitrogen",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has a unique hexagonal-shaped cloud pattern at its north pole?",
+        "a": "Saturn",
+        "b": "Neptune",
+        "c": "Uranus",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "The largest moon in our solar system is Ganymede, which orbits around which planet?",
+        "a": "Jupiter",
+        "b": "Uranus",
+        "c": "Saturn",
+        "d": "Neptune",
+        "r": "a"
+    },
+    {
+        "q": "Which outer planet is often referred to as the \"Blue Giant\"?",
+        "a": "Neptune",
+        "b": "Uranus",
+        "c": "Saturn",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the second-largest moon in our solar system?",
+        "a": "Titan",
+        "b": "Triton",
+        "c": "Io",
+        "d": "Ganymede",
+        "r": "a"
+    },
+    {
+        "q": "This planet's atmosphere experiences the fastest winds in the solar system.",
+        "a": "Neptune",
+        "b": "Uranus",
+        "c": "Saturn",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "The rings of this planet were first observed by Galileo Galilei.",
+        "a": "Saturn",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Uranus",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has a distinct axial tilt of about 98 degrees?",
+        "a": "Uranus",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "The magnetosphere of this planet is strong enough to trap charged particles and create auroras.",
+        "a": "Jupiter",
+        "b": "Uranus",
+        "c": "Saturn",
+        "d": "Neptune",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known for its prominent feature called the \"Great Dark Spot\"?",
+        "a": "Neptune",
+        "b": "Jupiter",
+        "c": "Saturn",
+        "d": "Uranus",
+        "r": "a"
+    },
+    {
+        "q": "What is the most common element in the atmosphere of Saturn?",
+        "a": "Hydrogen",
+        "b": "Helium",
+        "c": "Methane",
+        "d": "Nitrogen",
+        "r": "a"
+    },
+    {
+        "q": "The moon Triton is a significant moon of which planet?",
+        "a": "Neptune",
+        "b": "Uranus",
+        "c": "Saturn",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "Which planet exhibits a deep blue color due to the presence of methane in its atmosphere?",
+        "a": "Uranus",
+        "b": "Jupiter",
+        "c": "Saturn",
+        "d": "Neptune",
+        "r": "a"
+    },
+    {
+        "q": "The Galilean moons are the four largest moons of which planet?",
+        "a": "Jupiter",
+        "b": "Uranus",
+        "c": "Saturn",
+        "d": "Neptune",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is often called an \"ice giant\" due to its composition?",
+        "a": "Neptune",
+        "b": "Jupiter",
+        "c": "Saturn",
+        "d": "Uranus",
+        "r": "a"
+    },
+    {
+        "q": "This planet has a distinctive feature known as the \"Great White Spot\" during its equinox.",
+        "a": "Saturn",
+        "b": "Neptune",
+        "c": "Uranus",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "The rings of this planet are composed mostly of ice particles and some rocky debris.",
+        "a": "Uranus",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has a significant system of 13 rings named with letters?",
+        "a": "Uranus",
+        "b": "Saturn",
+        "c": "Neptune",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "What is the most common gas in the atmosphere of Neptune?",
+        "a": "Hydrogen",
+        "b": "Helium",
+        "c": "Methane",
+        "d": "Nitrogen",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has the most irregular and tilted magnetic field?",
+        "a": "Uranus",
+        "b": "Saturn",
+        "c": "Jupiter",
+        "d": "Neptune",
+        "r": "a"
+    },
+    {
+        "q": "The largest moon in the solar system, Ganymede, orbits around which planet?",
+        "a": "Jupiter",
+        "b": "Uranus",
+        "c": "Saturn",
+        "d": "Neptune",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the second-largest moon in the solar system?",
+        "a": "Rhea",
+        "b": "Triton",
+        "c": "Io",
+        "d": "Ganymede",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known for its prominent and colorful cloud bands?",
+        "a": "Jupiter",
+        "b": "Neptune",
+        "c": "Uranus",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "The moon Miranda is a significant moon of which planet?",
+        "a": "Uranus",
+        "b": "Saturn",
+        "c": "Neptune",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "What is the most common gas in the atmosphere of Uranus?",
+        "a": "Hydrogen",
+        "b": "Helium",
+        "c": "Methane",
+        "d": "Nitrogen",
+        "r": "a"
+    },
+    {
+        "q": "The Roche Limit is a critical point for tidal forces and is associated with which planet?",
+        "a": "Saturn",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Uranus",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has a massive storm system known as the \"Great Dark Spot\"?",
+        "a": "Neptune",
+        "b": "Jupiter",
+        "c": "Saturn",
+        "d": "Uranus",
+        "r": "a"
+    },
+    {
+        "q": "What is the most common element in the atmosphere of Jupiter?",
+        "a": "Hydrogen",
+        "b": "Helium",
+        "c": "Methane",
+        "d": "Nitrogen",
+        "r": "a"
+    },
+    {
+        "q": "The moon Io is a significant moon of which planet?",
+        "a": "Jupiter",
+        "b": "Uranus",
+        "c": "Saturn",
+        "d": "Neptune",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is often referred to as the \"Ice Giant\" due to its composition?",
+        "a": "Uranus",
+        "b": "Neptune",
+        "c": "Saturn",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "This planet has a prominent and dynamic ring system with thousands of narrow rings.",
+        "a": "Saturn",
+        "b": "Neptune",
+        "c": "Uranus",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a dwarf planet?",
+        "a": "Pluto",
+        "b": "Venus",
+        "c": "Mars",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "What is the largest asteroid in the asteroid belt?",
+        "a": "Ceres",
+        "b": "Vesta",
+        "c": "Pallas",
+        "d": "Juno",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a comet?",
+        "a": "Titan",
+        "b": "Halley's Comet",
+        "c": "Hale-Bopp",
+        "d": "Comet Neowise",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary component of comets?",
+        "a": "Ice",
+        "b": "Rock",
+        "c": "Metal",
+        "d": "Dust",
+        "r": "a"
+    },
+    {
+        "q": "Which dwarf planet has a moon named Charon?",
+        "a": "Pluto",
+        "b": "Eris",
+        "c": "Haumea",
+        "d": "Makemake",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a trans-Neptunian object?",
+        "a": "Eris",
+        "b": "Mercury",
+        "c": "Saturn",
+        "d": "Uranus",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the brightest asteroid?",
+        "a": "Vesta",
+        "b": "Ceres",
+        "c": "Pallas",
+        "d": "Juno",
+        "r": "a"
+    },
+    {
+        "q": "What is the second-most massive dwarf planet?",
+        "a": "Eris",
+        "b": "Pluto",
+        "c": "Makemake",
+        "d": "Haumea",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a periodic comet?",
+        "a": "Halley's Comet",
+        "b": "C/2017 T2 (PANSTARRS)",
+        "c": "Comet Atlas",
+        "d": "Comet ISON",
+        "r": "a"
+    },
+    {
+        "q": "What is the largest known comet?",
+        "a": "Comet Hale-Bopp",
+        "b": "Comet Hyakutake",
+        "c": "Comet McNaught",
+        "d": "Comet Lovejoy",
+        "r": "a"
+    },
+    {
+        "q": "What is the region between Mars and Jupiter where many asteroids are found?",
+        "a": "Asteroid Belt",
+        "b": "Kuiper Belt",
+        "c": "Oort Cloud",
+        "d": "Trans-Neptunian Region",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the mission that orbited and studied the asteroid Vesta?",
+        "a": "Dawn",
+        "b": "Voyager 1",
+        "c": "New Horizons",
+        "d": "Cassini",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a near-Earth asteroid?",
+        "a": "162173 Ryugu",
+        "b": "1 Ceres",
+        "c": "4 Vesta",
+        "d": "136108 Haumea",
+        "r": "a"
+    },
+    {
+        "q": "What spacecraft performed a flyby of Pluto and its moons?",
+        "a": "New Horizons",
+        "b": "Voyager 2",
+        "c": "Cassini",
+        "d": "Hubble Space Telescope",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the bright star-like point observed in the night sky, caused by the outgassing of comets?",
+        "a": "Meteor Shower",
+        "b": "Nebula",
+        "c": "Constellation",
+        "d": "Comet",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the first spacecraft to land on a comet and study its nucleus?",
+        "a": "Philae",
+        "b": "Spirit",
+        "c": "Opportunity",
+        "d": "Curiosity",
+        "r": "a"
+    },
+    {
+        "q": "Which dwarf planet is named after the Inuit goddess of fertility?",
+        "a": "Haumea",
+        "b": "Eris",
+        "c": "Pluto",
+        "d": "Makemake",
+        "r": "a"
+    },
+    {
+        "q": "What is the smallest dwarf planet?",
+        "a": "Ceres",
+        "b": "Haumea",
+        "c": "Eris",
+        "d": "Pluto",
+        "r": "a"
+    },
+    {
+        "q": "Which spacecraft studied the asteroid Bennu and returned a sample to Earth?",
+        "a": "OSIRIS-REx",
+        "b": "Hayabusa2",
+        "c": "Rosetta",
+        "d": "Chang'e 5",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the region of icy bodies beyond the orbit of Neptune?",
+        "a": "Kuiper Belt",
+        "b": "Oort Cloud",
+        "c": "Asteroid Belt",
+        "d": "Hubble Deep Field",
+        "r": "a"
+    },
+    {
+        "q": "Which comet became famous for its exceptionally bright appearance in 1997?",
+        "a": "Comet Hale-Bopp",
+        "b": "Halley's Comet",
+        "c": "Comet ISON",
+        "d": "Comet McNaught",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the mission that orbited and studied the comet 67P/Churyumov-Gerasimenko?",
+        "a": "Rosetta",
+        "b": "Voyager 1",
+        "c": "Dawn",
+        "d": "New Horizons",
+        "r": "a"
+    },
+    {
+        "q": "Which dwarf planet is named after the god of the underworld in Roman mythology?",
+        "a": "Pluto",
+        "b": "Eris",
+        "c": "Haumea",
+        "d": "Makemake",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the spacecraft that orbited the dwarf planet Ceres?",
+        "a": "Dawn",
+        "b": "Voyager 2",
+        "c": "New Horizons",
+        "d": "Cassini",
+        "r": "a"
+    },
+    {
+        "q": "Which asteroid is the target of NASA's Psyche mission, aiming to study a metallic asteroid?",
+        "a": "16 Psyche",
+        "b": "1 Ceres",
+        "c": "2 Pallas",
+        "d": "4 Vesta",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the mission launched by ESA to study the comet 67P/Churyumov-Gerasimenko?",
+        "a": "Rosetta",
+        "b": "Voyager 1",
+        "c": "Dawn",
+        "d": "New Horizons",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a long-period comet?",
+        "a": "Comet Lovejoy",
+        "b": "Comet PanSTARRS",
+        "c": "Comet Hyakutake",
+        "d": "Comet Halley",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the spacecraft that studied the asteroid Itokawa?",
+        "a": "Hayabusa",
+        "b": "OSIRIS-REx",
+        "c": "Rosetta",
+        "d": "Chang'e 5",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not considered a dwarf planet?",
+        "a": "Vesta",
+        "b": "Eris",
+        "c": "Haumea",
+        "d": "Makemake",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the spacecraft that orbited and studied the asteroid Ryugu?",
+        "a": "Hayabusa2",
+        "b": "OSIRIS-REx",
+        "c": "Rosetta",
+        "d": "Chang'e 5",
+        "r": "a"
+    },
+    {
+        "q": "Which comet had a close encounter with Jupiter in 1992, altering its orbit?",
+        "a": "Comet Shoemaker-Levy 9",
+        "b": "Comet Hale-Bopp",
+        "c": "Comet McNaught",
+        "d": "Comet ISON",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the first spacecraft to visit Pluto and its moons?",
+        "a": "New Horizons",
+        "b": "Voyager 2",
+        "c": "Cassini",
+        "d": "Hubble Space Telescope",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a main-belt comet?",
+        "a": "133P/Elst-Pizarro",
+        "b": "C/2020 F3 (NEOWISE)",
+        "c": "C/2017 T2 (PANSTARRS)",
+        "d": "2I/Borisov",
+        "r": "a"
+    },
+    {
+        "q": "What is the second-largest known asteroid?",
+        "a": "Vesta",
+        "b": "Ceres",
+        "c": "Pallas",
+        "d": "Hygiea",
+        "r": "a"
+    },
+    {
+        "q": "Which spacecraft explored the asteroid Gaspra and discovered a moon orbiting it?",
+        "a": "Galileo",
+        "b": "Voyager 1",
+        "c": "New Horizons",
+        "d": "Cassini",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the bright coma surrounding the nucleus of a comet?",
+        "a": "Coma",
+        "b": "Nebula",
+        "c": "Tail",
+        "d": "Corona",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a part of a comet's structure?",
+        "a": "Ionosphere",
+        "b": "Nucleus",
+        "c": "Dust Tail",
+        "d": "Coma",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the spacecraft that studied the asteroid Eros?",
+        "a": "NEAR Shoemaker",
+        "b": "OSIRIS-REx",
+        "c": "Rosetta",
+        "d": "Chang'e 5",
+        "r": "a"
+    },
+    {
+        "q": "Which celestial body is considered a natural satellite?",
+        "a": "Moon",
+        "b": "Sun",
+        "c": "Mars",
+        "d": "Venus",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary factor responsible for the formation of moons around planets?",
+        "a": "Gravitational pull",
+        "b": "Solar radiation",
+        "c": "Magnetic fields",
+        "d": "Atmospheric pressure",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has the largest number of moons in our solar system?",
+        "a": "Jupiter",
+        "b": "Saturn",
+        "c": "Neptune",
+        "d": "Earth",
+        "r": "a"
+    },
+    {
+        "q": "Ganymede, Callisto, and Europa are moons of which planet?",
+        "a": "Jupiter",
+        "b": "Mars",
+        "c": "Uranus",
+        "d": "Mercury",
+        "r": "a"
+    },
+    {
+        "q": "Titan is the largest moon of which planet?",
+        "a": "Saturn",
+        "b": "Neptune",
+        "c": "Uranus",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "Which moon in our solar system has a thick atmosphere rich in nitrogen?",
+        "a": "Titan",
+        "b": "Io",
+        "c": "Enceladus",
+        "d": "Phobos",
+        "r": "a"
+    },
+    {
+        "q": "Miranda, Ariel, and Umbriel are moons of which planet?",
+        "a": "Uranus",
+        "b": "Neptune",
+        "c": "Pluto",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a moon that has a synchronous rotation with its parent planet?",
+        "a": "Tidal lock",
+        "b": "Solar alignment",
+        "c": "Lunar resonance",
+        "d": "Celestial synchronization",
+        "r": "a"
+    },
+    {
+        "q": "Which moon in our solar system is known for its active volcanoes?",
+        "a": "Io",
+        "b": "Europa",
+        "c": "Triton",
+        "d": "Mimas",
+        "r": "a"
+    },
+    {
+        "q": "Which of these moons orbits in the opposite direction of its planet's rotation?",
+        "a": "Triton",
+        "b": "Io",
+        "c": "Callisto",
+        "d": "Phobos",
+        "r": "a"
+    },
+    {
+        "q": "Which planet has the largest moon in relation to its size?",
+        "a": "Pluto",
+        "b": "Mars",
+        "c": "Mercury",
+        "d": "Earth",
+        "r": "a"
+    },
+    {
+        "q": "Charon is a moon of which dwarf planet?",
+        "a": "Pluto",
+        "b": "Eris",
+        "c": "Haumea",
+        "d": "Ceres",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the largest crater on Earth's moon?",
+        "a": "Bailly",
+        "b": "Tycho",
+        "c": "Copernicus",
+        "d": "Ptolemaeus",
+        "r": "a"
+    },
+    {
+        "q": "The moon Phobos orbits which planet?",
+        "a": "Mars",
+        "b": "Venus",
+        "c": "Jupiter",
+        "d": "Mercury",
+        "r": "a"
+    },
+    {
+        "q": "Which moon is believed to have a subsurface ocean that could potentially harbor life?",
+        "a": "Europa",
+        "b": "Ganymede",
+        "c": "Callisto",
+        "d": "Enceladus",
+        "r": "a"
+    },
+    {
+        "q": "What is the average distance from the Earth to the Moon?",
+        "a": "Approximately 384,400 kilometers",
+        "b": "Approximately 1,000,000 kilometers",
+        "c": "Approximately 149,600,000 kilometers",
+        "d": "Approximately 12,742 kilometers",
+        "r": "a"
+    },
+    {
+        "q": "Which moon in our solar system is closest in size to the planet Mercury?",
+        "a": "Miranda",
+        "b": "Mimas",
+        "c": "Nereid",
+        "d": "Charon",
+        "r": "a"
+    },
+    {
+        "q": "Deimos and Phobos are moons of which planet?",
+        "a": "Mars",
+        "b": "Jupiter",
+        "c": "Saturn",
+        "d": "Uranus",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the first human-made object to reach the moon's surface?",
+        "a": "Luna 2",
+        "b": "Apollo 11",
+        "c": "Voyager 1",
+        "d": "Mars Rover",
+        "r": "a"
+    },
+    {
+        "q": "Triton is a moon of which planet?",
+        "a": "Neptune",
+        "b": "Uranus",
+        "c": "Saturn",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "Which moon is known for its substantial subsurface ocean, which may contain more than twice the water volume of Earth's oceans?",
+        "a": "Ganymede",
+        "b": "Europa",
+        "c": "Callisto",
+        "d": "Titan",
+        "r": "a"
+    },
+    {
+        "q": "Rhea is a moon of which planet?",
+        "a": "Saturn",
+        "b": "Neptune",
+        "c": "Uranus",
+        "d": "Jupiter",
+        "r": "a"
+    },
+    {
+        "q": "Which moon of Jupiter is the most volcanically active object in our solar system?",
+        "a": "Io",
+        "b": "Europa",
+        "c": "Callisto",
+        "d": "Ganymede",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the point in its orbit when a moon is farthest from its planet?",
+        "a": "Apocenter",
+        "b": "Perigee",
+        "c": "Aphelion",
+        "d": "Apogee",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which a solar system forms?",
+        "a": "Nuclear fusion",
+        "b": "Photosynthesis",
+        "c": "Accretion",
+        "d": "Radiometric dating",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is NOT a planet in our solar system?",
+        "a": "Mars",
+        "b": "Neptune",
+        "c": "Venus",
+        "d": "Jupiter",
+        "r": "b"
+    },
+    {
+        "q": "The age of the solar system is estimated to be about:",
+        "a": "4.6 million years",
+        "b": "4.6 billion years",
+        "c": "46 million years",
+        "d": "46 billion years",
+        "r": "b"
+    },
+    {
+        "q": "What are the building blocks of the solar system called?",
+        "a": "Atoms",
+        "b": "Elements",
+        "c": "Moons",
+        "d": "Planetesimals",
+        "r": "d"
+    },
+    {
+        "q": "The four inner planets are also known as:",
+        "a": "Terrestrial planets",
+        "b": "Gas giants",
+        "c": "Ice giants",
+        "d": "Dwarf planets",
+        "r": "a"
+    },
+    {
+        "q": "The process of planetary formation begins with the collapse of a:",
+        "a": "Galaxy",
+        "b": "Nebula",
+        "c": "Black hole",
+        "d": "Comet",
+        "r": "b"
+    },
+    {
+        "q": "Which planet has a prominent ring system?",
+        "a": "Mars",
+        "b": "Saturn",
+        "c": "Uranus",
+        "d": "Pluto",
+        "r": "b"
+    },
+    {
+        "q": "The majority of asteroids are found between the orbits of which two planets?",
+        "a": "Mercury and Venus",
+        "b": "Earth and Mars",
+        "c": "Mars and Jupiter",
+        "d": "Jupiter and Saturn",
+        "r": "c"
+    },
+    {
+        "q": "The process of accretion involves:",
+        "a": "Formation of stars",
+        "b": "Formation of planets",
+        "c": "Accumulation of gas",
+        "d": "Growth of the Sun",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the region beyond Neptune where many icy objects are located?",
+        "a": "Kuiper Belt",
+        "b": "Asteroid Belt",
+        "c": "Oort Cloud",
+        "d": "Saturn's Ring",
+        "r": "a"
+    },
+    {
+        "q": "The Sun and all the celestial bodies that orbit it are referred to as the:",
+        "a": "Supernova",
+        "b": "Galaxy",
+        "c": "Nebula",
+        "d": "Solar System",
+        "r": "d"
+    },
+    {
+        "q": "Which planet has the most extended and tilted axis, causing extreme seasons?",
+        "a": "Mars",
+        "b": "Uranus",
+        "c": "Neptune",
+        "d": "Saturn",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the dwarf planet located in the asteroid belt?",
+        "a": "Eris",
+        "b": "Pluto",
+        "c": "Haumea",
+        "d": "Ceres",
+        "r": "d"
+    },
+    {
+        "q": "The process of accretion primarily involves the accumulation of:",
+        "a": "Water",
+        "b": "Gas",
+        "c": "Dust",
+        "d": "Light",
+        "r": "c"
+    },
+    {
+        "q": "Which planet has a prominent system of rings made up of ice particles?",
+        "a": "Mercury",
+        "b": "Venus",
+        "c": "Saturn",
+        "d": "Uranus",
+        "r": "c"
+    },
+    {
+        "q": "The Oort Cloud is believed to be the source of many:",
+        "a": "Asteroids",
+        "b": "Comets",
+        "c": "Meteors",
+        "d": "Moons",
+        "r": "b"
+    },
+    {
+        "q": "What is the largest object in the asteroid belt?",
+        "a": "Ceres",
+        "b": "Pallas",
+        "c": "Vesta",
+        "d": "Juno",
+        "r": "a"
+    },
+    {
+        "q": "Which planet is known for its beautiful system of rings?",
+        "a": "Jupiter",
+        "b": "Uranus",
+        "c": "Mars",
+        "d": "Neptune",
+        "r": "b"
+    },
+    {
+        "q": "The process of nuclear fusion occurs in the:",
+        "a": "Sun",
+        "b": "Moon",
+        "c": "Mars",
+        "d": "Saturn",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the mission that provided detailed data about Jupiter and its moons?",
+        "a": "Voyager 1",
+        "b": "Cassini-Huygens",
+        "c": "New Horizons",
+        "d": "Juno",
+        "r": "d"
+    },
+    {
+        "q": "Which planet is known for its hexagonal storm at its north pole?",
+        "a": "Venus",
+        "b": "Mars",
+        "c": "Jupiter",
+        "d": "Saturn",
+        "r": "d"
+    },
+    {
+        "q": "The asteroid belt is located between the orbits of:",
+        "a": "Earth and Mars",
+        "b": "Mars and Jupiter",
+        "c": "Jupiter and Saturn",
+        "d": "Saturn and Neptune",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the mission that provided detailed data about Saturn and its moons?",
+        "a": "Voyager 2",
+        "b": "Cassini-Huygens",
+        "c": "New Horizons",
+        "d": "Juno",
+        "r": "b"
+    },
+    {
+        "q": "Which planet is known for its prominent system of dark rings?",
+        "a": "Mercury",
+        "b": "Venus",
+        "c": "Uranus",
+        "d": "Neptune",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the space mission that first landed humans on the Moon?",
+        "a": "Apollo 11",
+        "b": "Voyager 1",
+        "c": "Curiosity",
+        "d": "Mars 1",
+        "r": "a"
+    },
+    {
+        "q": "The process of accretion involves the collision and sticking together of:",
+        "a": "Atoms",
+        "b": "Dust particles",
+        "c": "Gas molecules",
+        "d": "Planets",
+        "r": "b"
+    },
+    {
+        "q": "Which planet is known for its prominent red spot on its surface?",
+        "a": "Mars",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Saturn",
+        "r": "b"
+    },
+    {
+        "q": "The Kuiper Belt is a region of space beyond:",
+        "a": "Mars",
+        "b": "Jupiter",
+        "c": "Neptune",
+        "d": "Pluto",
+        "r": "c"
+    },
+    {
+        "q": "The solar system is located in which galaxy?",
+        "a": "Milky Way",
+        "b": "Andromeda",
+        "c": "Whirlpool",
+        "d": "Triangulum",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the space telescope that provides high-resolution images of distant celestial objects?",
+        "a": "Hubble Space Telescope",
+        "b": "Chandra X-ray Observatory",
+        "c": "Kepler Space Telescope",
+        "d": "Spitzer Space Telescope",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a characteristic of gas giants?",
+        "a": "Large size",
+        "b": "Solid surface",
+        "c": "Thick atmosphere",
+        "d": "Many moons",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the space mission that provided detailed data about Pluto and its moons?",
+        "a": "Voyager 1",
+        "b": "Cassini-Huygens",
+        "c": "New Horizons",
+        "d": "Juno",
+        "r": "c"
+    },
+    {
+        "q": "The asteroid belt is primarily composed of:",
+        "a": "Rocky materials",
+        "b": "Gas and dust",
+        "c": "Water and ice",
+        "d": "Organic compounds",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the mission that provided detailed data about Mars and its moons?",
+        "a": "Voyager 1",
+        "b": "Viking",
+        "c": "New Horizons",
+        "d": "Juno",
+        "r": "b"
+    },
+    {
+        "q": "Which planet is known for its beautiful and prominent ring system?",
+        "a": "Venus",
+        "b": "Uranus",
+        "c": "Saturn",
+        "d": "Neptune",
+        "r": "c"
+    },
+    {
+        "q": "The process of planetary formation involves the gradual growth of objects known as:",
+        "a": "Stars",
+        "b": "Moons",
+        "c": "Planetesimals",
+        "d": "Comets",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is NOT a terrestrial planet?",
+        "a": "Mercury",
+        "b": "Venus",
+        "c": "Earth",
+        "d": "Jupiter",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the mission that provided detailed data about Mercury?",
+        "a": "Voyager 1",
+        "b": "Mariner 10",
+        "c": "New Horizons",
+        "d": "Juno",
+        "r": "b"
+    },
+    {
+        "q": "The Oort Cloud is believed to extend about how many astronomical units (AU)?",
+        "a": "1,000",
+        "b": "10,000",
+        "c": "100,000",
+        "d": "1,000,000",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of our galaxy?",
+        "a": "Andromeda Galaxy",
+        "b": "Milky Way Galaxy",
+        "c": "Black Eye Galaxy",
+        "d": "Whirlpool Galaxy",
+        "r": "b"
+    },
+    {
+        "q": "The Milky Way is classified as a ___________ galaxy.",
+        "a": "Spiral Galaxy",
+        "b": "Elliptical Galaxy",
+        "c": "Irregular Galaxy",
+        "d": "Lenticular Galaxy",
+        "r": "a"
+    },
+    {
+        "q": "What is the approximate diameter of the Milky Way?",
+        "a": "50,000 light-years",
+        "b": "100,000 light-years",
+        "c": "150,000 light-years",
+        "d": "200,000 light-years",
+        "r": "c"
+    },
+    {
+        "q": "The bulge at the center of the Milky Way is mainly composed of ___________.",
+        "a": "Dark Matter",
+        "b": "Hydrogen Gas",
+        "c": "Supermassive Black Hole",
+        "d": "Neutron Stars",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is true about the Milky Way's spiral arms?",
+        "a": "They rotate around the black hole",
+        "b": "They are stationary in space",
+        "c": "They are made of dark matter",
+        "d": "They contain young and old stars",
+        "r": "d"
+    },
+    {
+        "q": "The Sun is located about ___________ from the center of the Milky Way.",
+        "a": "10,000 light-years",
+        "b": "20,000 light-years",
+        "c": "30,000 light-years",
+        "d": "40,000 light-years",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the large, spherical region surrounding the center of the Milky Way?",
+        "a": "Galactic Halo",
+        "b": "Stellar Halo",
+        "c": "Cosmic Halo",
+        "d": "Solar Halo",
+        "r": "a"
+    },
+    {
+        "q": "The Milky Way is part of a group of galaxies called the ___________.",
+        "a": "Local Group",
+        "b": "Virgo Cluster",
+        "c": "Coma Cluster",
+        "d": "Fornax Cluster",
+        "r": "a"
+    },
+    {
+        "q": "Which astronomer was the first to describe the appearance of the Milky Way as a band of stars?",
+        "a": "Galileo Galilei",
+        "b": "Johannes Kepler",
+        "c": "Nicolaus Copernicus",
+        "d": "William Herschel",
+        "r": "b"
+    },
+    {
+        "q": "What causes the Milky Way to appear as a band of light in the night sky?",
+        "a": "The concentration of stars in the disk",
+        "b": "The presence of a massive black hole",
+        "c": "The collision of two galaxies",
+        "d": "The gravitational force between stars",
+        "r": "a"
+    },
+    {
+        "q": "The Milky Way is believed to have formed approximately ___________ years ago.",
+        "a": "5 billion",
+        "b": "8 billion",
+        "c": "10 billion",
+        "d": "13 billion",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is true about the Milky Way's halo?",
+        "a": "It contains only young stars",
+        "b": "It is primarily composed of gas and dust",
+        "c": "It is a flat, rotating structure",
+        "d": "It contains globular clusters",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the supermassive black hole at the center of the Milky Way?",
+        "a": "Sagittarius A*",
+        "b": "Cygnus X-1",
+        "c": "V404 Cygni",
+        "d": "Taurus X-1",
+        "r": "a"
+    },
+    {
+        "q": "The Milky Way is part of a larger supercluster of galaxies known as ___________.",
+        "a": "Virgo Supercluster",
+        "b": "Leo Supercluster",
+        "c": "Pisces Supercluster",
+        "d": "Aquarius Supercluster",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the process by which stars in the Milky Way convert hydrogen into helium?",
+        "a": "Nuclear Fission",
+        "b": "Nuclear Fusion",
+        "c": "Radioactive Decay",
+        "d": "Stellar Eruption",
+        "r": "b"
+    },
+    {
+        "q": "Which type of galaxy is the Milky Way often compared to in terms of its shape?",
+        "a": "Andromeda Galaxy",
+        "b": "Sombrero Galaxy",
+        "c": "Whirlpool Galaxy",
+        "d": "Centaurus A",
+        "r": "b"
+    },
+    {
+        "q": "How do astronomers believe the Milky Way got its name?",
+        "a": "Named after the Greek goddess of the night",
+        "b": "Named after a famous astronomer",
+        "c": "Named after a river in ancient mythology",
+        "d": "Named after the Latin word for \"milky circle\"",
+        "r": "d"
+    },
+    {
+        "q": "The outermost layer of the Milky Way is known as the ___________.",
+        "a": "Galactic Disk",
+        "b": "Galactic Halo",
+        "c": "Galactic Nucleus",
+        "d": "Galactic Bulge",
+        "r": "b"
+    },
+    {
+        "q": "What did the Herschel family contribute to our understanding of the Milky Way?",
+        "a": "They discovered the center of the galaxy",
+        "b": "They measured the distance to other galaxies",
+        "c": "They mapped the shape of the Milky Way",
+        "d": "They discovered the Milky Way's dark matter",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is NOT a component of the Milky Way?",
+        "a": "Galactic Core",
+        "b": "Galactic Bulge",
+        "c": "Galactic Plane",
+        "d": "Galactic Corona",
+        "r": "d"
+    },
+    {
+        "q": "The Milky Way belongs to which type of galaxy category based on its shape?",
+        "a": "E0",
+        "b": "S0",
+        "c": "SB0",
+        "d": "SBc",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the satellite galaxy that is closest to the Milky Way?",
+        "a": "Large Magellanic Cloud",
+        "b": "Small Magellanic Cloud",
+        "c": "Andromeda Galaxy",
+        "d": "Triangulum Galaxy",
+        "r": "a"
+    },
+    {
+        "q": "The mass of the Milky Way is estimated to be about ___________ times that of the Sun.",
+        "a": "100 million",
+        "b": "500 million",
+        "c": "1 billion",
+        "d": "2 billion",
+        "r": "c"
+    },
+    {
+        "q": "The orbits of stars and gas in the Milky Way's disk generally follow a ___________ motion.",
+        "a": "Circular",
+        "b": "Elliptical",
+        "c": "Hyperbolic",
+        "d": "Parabolic",
+        "r": "a"
+    },
+    {
+        "q": "The Milky Way is part of a larger structure known as the ___________.",
+        "a": "Galactic Group",
+        "b": "Galactic Cluster",
+        "c": "Galactic Filament",
+        "d": "Local Supercluster",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the zone within the Milky Way where our solar system resides?",
+        "a": "Local Zone",
+        "b": "Solar Zone",
+        "c": "Habitable Zone",
+        "d": "Local Interstellar Cloud",
+        "r": "d"
+    },
+    {
+        "q": "The Milky Way is visible to the naked eye as a band of light due to ___________.",
+        "a": "The reflection of sunlight off its stars",
+        "b": "The scattering of starlight by dust particles",
+        "c": "The emission of light by its stars",
+        "d": "The absorption of light by its stars",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is the largest part of the Milky Way by volume?",
+        "a": "Galactic Bulge",
+        "b": "Galactic Nucleus",
+        "c": "Galactic Halo",
+        "d": "Galactic Disk",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the mission launched by NASA to create a 3D map of the Milky Way?",
+        "a": "Kepler",
+        "b": "Gaia",
+        "c": "Hubble",
+        "d": "Chandra",
+        "r": "b"
+    },
+    {
+        "q": "The Milky Way is part of the ___________ galaxy group.",
+        "a": "Andromeda",
+        "b": "Canis Major",
+        "c": "Triangulum",
+        "d": "Sculptor",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the region at the center of the Milky Way that has a very high concentration of stars?",
+        "a": "Stellar Core",
+        "b": "Galactic Core",
+        "c": "Central Cluster",
+        "d": "Nucleus Cluster",
+        "r": "b"
+    },
+    {
+        "q": "What is the approximate age of the Milky Way's disk?",
+        "a": "1-2 billion years",
+        "b": "3-4 billion years",
+        "c": "5-6 billion years",
+        "d": "7-8 billion years",
+        "r": "d"
+    },
+    {
+        "q": "The Milky Way has a total mass of about ___________ solar masses.",
+        "a": "100 billion",
+        "b": "300 billion",
+        "c": "500 billion",
+        "d": "700 billion",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is true about the Milky Way's spiral structure?",
+        "a": "It has only two spiral arms",
+        "b": "It has four tightly wound spiral arms",
+        "c": "It has numerous loosely wound spiral arms",
+        "d": "It has a single long spiral arm",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the region in the Milky Way where new stars are born?",
+        "a": "Stellar Nursery",
+        "b": "Galactic Nursery",
+        "c": "Stellar Creche",
+        "d": "Galactic Creche",
+        "r": "a"
+    },
+    {
+        "q": "Which type of galaxy shape is most commonly associated with an old stellar population?",
+        "a": "SBa",
+        "b": "Sb",
+        "c": "Sc",
+        "d": "S0",
+        "r": "a"
+    },
+    {
+        "q": "The Milky Way is a member of the ___________ group of galaxies.",
+        "a": "Local",
+        "b": "Virgo",
+        "c": "Hercules",
+        "d": "Leo",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the satellite galaxy that houses the Sagittarius Dwarf Elliptical Galaxy?",
+        "a": "Andromeda III",
+        "b": "Triangulum II",
+        "c": "Sculptor Dwarf Galaxy",
+        "d": "Large Magellanic Cloud",
+        "r": "d"
+    },
+    {
+        "q": "The Milky Way is a barred spiral galaxy, which means it has ___________.",
+        "a": "A straight bar across its center",
+        "b": "A bar of dark matter across its center",
+        "c": "A bar-like feature across its center",
+        "d": "A bar of gas and dust across its center",
+        "r": "c"
+    },
+    {
+        "q": "What type of radiation is predominantly blocked by the Milky Way's interstellar dust?",
+        "a": "Ultraviolet",
+        "b": "Visible light",
+        "c": "X-rays",
+        "d": "Infrared",
+        "r": "d"
+    },
+    {
+        "q": "The Milky Way's disk is approximately ___________ thick.",
+        "a": "1,000 light-years",
+        "b": "5,000 light-years",
+        "c": "10,000 light-years",
+        "d": "20,000 light-years",
+        "r": "a"
+    },
+    {
+        "q": "Which type of galaxy has a flattened, disk-like structure?",
+        "a": "Spiral",
+        "b": "Elliptical",
+        "c": "Irregular",
+        "d": "Lenticular",
+        "r": "a"
+    },
+    {
+        "q": "What is the most abundant gas in the universe?",
+        "a": "Hydrogen",
+        "b": "Helium",
+        "c": "Oxygen",
+        "d": "Carbon",
+        "r": "a"
+    },
+    {
+        "q": "Which astronomer proposed the theory of the Big Bang?",
+        "a": "Georges Lemaître",
+        "b": "Isaac Newton",
+        "c": "Galileo Galilei",
+        "d": "Johannes Kepler",
+        "r": "a"
+    },
+    {
+        "q": "Which galaxy is the closest to the Milky Way?",
+        "a": "Andromeda",
+        "b": "Triangulum",
+        "c": "Sombrero",
+        "d": "Whirlpool",
+        "r": "a"
+    },
+    {
+        "q": "What is the study of the universe called?",
+        "a": "Cosmology",
+        "b": "Astrology",
+        "c": "Geology",
+        "d": "Biology",
+        "r": "a"
+    },
+    {
+        "q": "Which type of galaxy is spherical or football-shaped?",
+        "a": "Elliptical",
+        "b": "Spiral",
+        "c": "Irregular",
+        "d": "Lenticular",
+        "r": "a"
+    },
+    {
+        "q": "What is the process by which a massive star explodes at the end of its life?",
+        "a": "Supernova",
+        "b": "Black Hole",
+        "c": "Nebula",
+        "d": "Red Giant",
+        "r": "a"
+    },
+    {
+        "q": "What is the redshift phenomenon in astronomy related to?",
+        "a": "Expansion of the universe",
+        "b": "Contraction of the universe",
+        "c": "Formation of galaxies",
+        "d": "Black holes",
+        "r": "a"
+    },
+    {
+        "q": "Which galaxy is also known as M31?",
+        "a": "Andromeda",
+        "b": "Triangulum",
+        "c": "Sombrero",
+        "d": "Whirlpool",
+        "r": "a"
+    },
+    {
+        "q": "Which scientist formulated the laws of planetary motion?",
+        "a": "Johannes Kepler",
+        "b": "Isaac Newton",
+        "c": "Galileo Galilei",
+        "d": "Albert Einstein",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the galaxy cluster that contains the Milky Way?",
+        "a": "Local Group",
+        "b": "Virgo Cluster",
+        "c": "Fornax Cluster",
+        "d": "Coma Cluster",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the gravitational collapse of a massive star?",
+        "a": "Black Hole",
+        "b": "Supernova",
+        "c": "Nebula",
+        "d": "Red Giant",
+        "r": "a"
+    },
+    {
+        "q": "Which telescope is known for its study of X-rays in space?",
+        "a": "Chandra",
+        "b": "Hubble",
+        "c": "Kepler",
+        "d": "Spitzer",
+        "r": "a"
+    },
+    {
+        "q": "What is the dominant form of matter in the universe?",
+        "a": "Dark Matter",
+        "b": "Dark Energy",
+        "c": "Visible Matter",
+        "d": "Antimatter",
+        "r": "a"
+    },
+    {
+        "q": "Which galaxy is also called the \"Whirlpool Galaxy\"?",
+        "a": "Messier 51",
+        "b": "Messier 31",
+        "c": "Messier 87",
+        "d": "Messier 104",
+        "r": "a"
+    },
+    {
+        "q": "What type of galaxy is the Milky Way?",
+        "a": "Spiral",
+        "b": "Elliptical",
+        "c": "Irregular",
+        "d": "Lenticular",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the galaxy supercluster that contains the Local Group?",
+        "a": "Virgo Cluster",
+        "b": "Coma Cluster",
+        "c": "Fornax Cluster",
+        "d": "Perseus-Pisces supercluster",
+        "r": "a"
+    },
+    {
+        "q": "What is the phenomenon where light bends as it passes through a lens?",
+        "a": "Gravitational Lensing",
+        "b": "Refraction",
+        "c": "Diffraction",
+        "d": "Reflection",
+        "r": "a"
+    },
+    {
+        "q": "Which galaxy is known for its prominent dust lanes and spiral arms?",
+        "a": "Sombrero",
+        "b": "Andromeda",
+        "c": "Triangulum",
+        "d": "Whirlpool",
+        "r": "a"
+    },
+    {
+        "q": "What is the age of the universe, according to the Big Bang theory?",
+        "a": "Approximately 13.8 billion years",
+        "b": "Approximately 4.5 billion years",
+        "c": "Approximately 1 billion years",
+        "d": "Approximately 100 million years",
+        "r": "a"
+    },
+    {
+        "q": "Which telescope is famous for its study of exoplanets?",
+        "a": "Kepler",
+        "b": "Hubble",
+        "c": "Chandra",
+        "d": "Spitzer",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the hypothetical form of energy responsible for the accelerated expansion of the universe?",
+        "a": "Dark Energy",
+        "b": "Dark Matter",
+        "c": "Visible Energy",
+        "d": "Cosmic Energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the galaxy that is part of the Local Group?",
+        "a": "Triangulum",
+        "b": "Andromeda",
+        "c": "Sombrero",
+        "d": "Whirlpool",
+        "r": "a"
+    },
+    {
+        "q": "What is the redshift value of an object that is moving away from us?",
+        "a": "Positive",
+        "b": "Negative",
+        "c": "Neutral",
+        "d": "Zero",
+        "r": "a"
+    },
+    {
+        "q": "Which galaxy is also known as M87?",
+        "a": "Messier 87",
+        "b": "Messier 51",
+        "c": "Messier 31",
+        "d": "Messier 104",
+        "r": "a"
+    },
+    {
+        "q": "What is the name given to the small galaxies that orbit larger galaxies?",
+        "a": "Dwarf galaxies",
+        "b": "Giant galaxies",
+        "c": "Spiral galaxies",
+        "d": "Elliptical galaxies",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the galaxy that contains our solar system?",
+        "a": "Milky Way",
+        "b": "Andromeda",
+        "c": "Orion",
+        "d": "Centaurus A",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the distance that light travels in one year?",
+        "a": "Light-year",
+        "b": "Astronomical unit",
+        "c": "Parsec",
+        "d": "Megaparsec",
+        "r": "a"
+    },
+    {
+        "q": "Which telescope is used to study gamma-ray emissions in space?",
+        "a": "Fermi",
+        "b": "Hubble",
+        "c": "Chandra",
+        "d": "Spitzer",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary evidence for the Big Bang theory?",
+        "a": "Cosmic Microwave Background Radiation",
+        "b": "Solar eclipses",
+        "c": "Comet sightings",
+        "d": "Lunar phases",
+        "r": "a"
+    },
+    {
+        "q": "Which galaxy is classified as an Irregular galaxy?",
+        "a": "Small Magellanic Cloud",
+        "b": "Andromeda",
+        "c": "Triangulum",
+        "d": "Whirlpool",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the process where stars convert hydrogen into helium?",
+        "a": "Nuclear Fusion",
+        "b": "Nuclear Fission",
+        "c": "Radioactive Decay",
+        "d": "Nuclear Transmutation",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the galaxy discovered by Edwin Hubble in 1923?",
+        "a": "Andromeda",
+        "b": "Triangulum",
+        "c": "Sombrero",
+        "d": "Whirlpool",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the change in frequency or wavelength of light due to relative motion?",
+        "a": "Doppler Effect",
+        "b": "Gravitational Lensing",
+        "c": "Redshift",
+        "d": "Blueshift",
+        "r": "a"
+    },
+    {
+        "q": "Which galaxy is also known as M104?",
+        "a": "Messier 104",
+        "b": "Messier 87",
+        "c": "Messier 51",
+        "d": "Messier 31",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary source of energy in stars?",
+        "a": "Nuclear fission",
+        "b": "Nuclear fusion",
+        "c": "Chemical reactions",
+        "d": "Gravitational contraction",
+        "r": "b"
+    },
+    {
+        "q": "What is the process that forms heavier elements inside stars?",
+        "a": "Nuclear fission",
+        "b": "Nuclear fusion",
+        "c": "Chemical reactions",
+        "d": "Gravitational contraction",
+        "r": "b"
+    },
+    {
+        "q": "What is the first stage of a star's life?",
+        "a": "Red giant",
+        "b": "Main sequence",
+        "c": "Protostar",
+        "d": "White dwarf",
+        "r": "c"
+    },
+    {
+        "q": "What is the final stage of a massive star's life?",
+        "a": "Red giant",
+        "b": "Main sequence",
+        "c": "Supernova",
+        "d": "White dwarf",
+        "r": "c"
+    },
+    {
+        "q": "Which of these is a product of a supernova explosion?",
+        "a": "Black hole",
+        "b": "Neutron star",
+        "c": "White dwarf",
+        "d": "Brown dwarf",
+        "r": "a"
+    },
+    {
+        "q": "Which force is balanced by gravity in a stable star?",
+        "a": "Electromagnetic force",
+        "b": "Weak nuclear force",
+        "c": "Strong nuclear force",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "What is the eventual fate of our Sun?",
+        "a": "Black hole",
+        "b": "White dwarf",
+        "c": "Neutron star",
+        "d": "Supernova",
+        "r": "b"
+    },
+    {
+        "q": "How do stars generate energy in their cores?",
+        "a": "Nuclear fission",
+        "b": "Nuclear fusion",
+        "c": "Chemical reactions",
+        "d": "Gravitational contraction",
+        "r": "b"
+    },
+    {
+        "q": "What is the initial mass of a star to become a supernova?",
+        "a": "8 solar masses",
+        "b": "4 solar masses",
+        "c": "20 solar masses",
+        "d": "10 solar masses",
+        "r": "c"
+    },
+    {
+        "q": "What is the first stage in the life cycle of a star?",
+        "a": "Main Sequence",
+        "b": "Red Giant",
+        "c": "Protostar",
+        "d": "White Dwarf",
+        "r": "c"
+    },
+    {
+        "q": "The process that powers a star is",
+        "a": "Nuclear Fission",
+        "b": "Nuclear Fusion",
+        "c": "Nuclear Fusion",
+        "d": "Nuclear Fission",
+        "r": "b"
+    },
+    {
+        "q": "In which stage do low-mass stars spend most of their lives?",
+        "a": "Main Sequence",
+        "b": "White Dwarf",
+        "c": "Red Giant",
+        "d": "Supernova",
+        "r": "a"
+    },
+    {
+        "q": "What type of star is our Sun?",
+        "a": "Low-Mass Star",
+        "b": "Medium-Mass Star",
+        "c": "High-Mass Star",
+        "d": "Variable Star",
+        "r": "b"
+    },
+    {
+        "q": "What happens during a supernova?",
+        "a": "A star collapses and becomes a black hole",
+        "b": "A star explodes and releases massive energy",
+        "c": "A star becomes a white dwarf",
+        "d": "A star turns into a red giant",
+        "r": "b"
+    },
+    {
+        "q": "Which element is formed during the last stage of a high-mass star's life?",
+        "a": "Helium",
+        "b": "Oxygen",
+        "c": "Carbon",
+        "d": "Iron",
+        "r": "d"
+    },
+    {
+        "q": "A black hole is formed when",
+        "a": "A low-mass star collapses",
+        "b": "A high-mass star undergoes a supernova",
+        "c": "A neutron star collapses",
+        "d": "A white dwarf gains mass from a companion star",
+        "r": "b"
+    },
+    {
+        "q": "Which star is the hottest?",
+        "a": "Red Dwarf",
+        "b": "White Dwarf",
+        "c": "Blue Giant",
+        "d": "Yellow Star",
+        "r": "c"
+    },
+    {
+        "q": "What is the final stage in the life cycle of a low-mass star?",
+        "a": "Supernova",
+        "b": "Black Hole",
+        "c": "Red Giant",
+        "d": "White Dwarf",
+        "r": "d"
+    },
+    {
+        "q": "The most massive stars end their lives as",
+        "a": "Black Holes",
+        "b": "White Dwarfs",
+        "c": "Neutron Stars",
+        "d": "Red Giants",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary factor that determines the life cycle of a star?",
+        "a": "Luminosity",
+        "b": "Mass",
+        "c": "Temperature",
+        "d": "Distance from Earth",
+        "r": "b"
+    },
+    {
+        "q": "A star reaches the main sequence when",
+        "a": "Nuclear fusion begins in its core",
+        "b": "It becomes a red giant",
+        "c": "It collapses into a black hole",
+        "d": "It enters the protostar stage",
+        "r": "a"
+    },
+    {
+        "q": "Which of these is NOT a stage in the life cycle of a star?",
+        "a": "Nebula",
+        "b": "White Dwarf",
+        "c": "Black Hole",
+        "d": "Red Giant",
+        "r": "c"
+    },
+    {
+        "q": "What is the remnant left behind after a massive star goes supernova?",
+        "a": "Neutron Star",
+        "b": "Brown Dwarf",
+        "c": "Black Hole",
+        "d": "Red Giant",
+        "r": "a"
+    },
+    {
+        "q": "Which of these stars has the longest lifespan?",
+        "a": "Low-mass star",
+        "b": "Medium-mass star",
+        "c": "High-mass star",
+        "d": "Blue Giant",
+        "r": "a"
+    },
+    {
+        "q": "The core of a star contracts while its outer layers expand during which stage?",
+        "a": "Red Giant",
+        "b": "White Dwarf",
+        "c": "Main Sequence",
+        "d": "Protostar",
+        "r": "a"
+    },
+    {
+        "q": "When a low-mass star runs out of fuel, it becomes a",
+        "a": "Black Hole",
+        "b": "White Dwarf",
+        "c": "Neutron Star",
+        "d": "Red Giant",
+        "r": "b"
+    },
+    {
+        "q": "What is the temperature of our Sun's core?",
+        "a": "Around 1,000,000 degrees Celsius",
+        "b": "Around 5,000 degrees Celsius",
+        "c": "Around 15,000,000 degrees Celsius",
+        "d": "Around 27,000,000 degrees Celsius",
+        "r": "c"
+    },
+    {
+        "q": "How does a star's mass affect its life cycle?",
+        "a": "It doesn't affect its life cycle",
+        "b": "Higher mass stars have a shorter life cycle",
+        "c": "Higher mass stars have a longer life cycle",
+        "d": "Lower mass stars have a shorter life cycle",
+        "r": "c"
+    },
+    {
+        "q": "What happens to a low-mass star after it becomes a red giant?",
+        "a": "It explodes in a supernova",
+        "b": "It collapses into a black hole",
+        "c": "It expands and sheds its outer layers",
+        "d": "It forms a planetary nebula",
+        "r": "d"
+    },
+    {
+        "q": "When a star exhausts its nuclear fuel, it may become a",
+        "a": "Neutron Star",
+        "b": "White Dwarf",
+        "c": "Red Giant",
+        "d": "Black Hole",
+        "r": "b"
+    },
+    {
+        "q": "The process that powers our Sun is",
+        "a": "Nuclear Fission",
+        "b": "Nuclear Fusion",
+        "c": "Nuclear Fission",
+        "d": "Nuclear Fusion",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the star cluster where our Sun belongs?",
+        "a": "Orion Nebula",
+        "b": "Pleiades",
+        "c": "Andromeda",
+        "d": "Hyades",
+        "r": "b"
+    },
+    {
+        "q": "The death of a massive star results in the formation of",
+        "a": "A Black Hole",
+        "b": "A White Dwarf",
+        "c": "A Brown Dwarf",
+        "d": "A Neutron Star",
+        "r": "a"
+    },
+    {
+        "q": "What color is a young, hot star?",
+        "a": "Blue",
+        "b": "Red",
+        "c": "Yellow",
+        "d": "White",
+        "r": "a"
+    },
+    {
+        "q": "What process occurs in a star's core to maintain its equilibrium?",
+        "a": "Nuclear Fusion",
+        "b": "Nuclear Fission",
+        "c": "Gravitational Contraction",
+        "d": "Nuclear Decay",
+        "r": "a"
+    },
+    {
+        "q": "A white dwarf is the remnant of a",
+        "a": "High-mass star",
+        "b": "Low-mass star",
+        "c": "Medium-mass star",
+        "d": "Red Giant",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following stages occurs in a star's life after the main sequence?",
+        "a": "White Dwarf",
+        "b": "Red Giant",
+        "c": "Black Hole",
+        "d": "Neutron Star",
+        "r": "b"
+    },
+    {
+        "q": "What happens when a star exhausts its nuclear fuel in its core?",
+        "a": "It collapses under its gravity and explodes",
+        "b": "It expands into a red giant",
+        "c": "It forms a planetary nebula",
+        "d": "It loses mass and becomes a black hole",
+        "r": "a"
+    },
+    {
+        "q": "A protostar is a",
+        "a": "Young star in the early stage of formation",
+        "b": "Aging star near the end of its life",
+        "c": "Star with no nuclear fusion occurring",
+        "d": "Star with no gravitational contraction",
+        "r": "a"
+    },
+    {
+        "q": "What is the ultimate fate of our Sun?",
+        "a": "It will become a black hole",
+        "b": "It will become a red giant",
+        "c": "It will become a white dwarf",
+        "d": "It will become a neutron star",
+        "r": "c"
+    },
+    {
+        "q": "What is the final stage of a massive star's evolution?",
+        "a": "White dwarf",
+        "b": "Neutron star",
+        "c": "Black hole",
+        "d": "Supernova explosion",
+        "r": "c"
+    },
+    {
+        "q": "What is the Schwarzschild radius?",
+        "a": "The radius of a neutron star",
+        "b": "The event horizon of a black hole",
+        "c": "The radius of a white dwarf",
+        "d": "The distance between two black holes",
+        "r": "b"
+    },
+    {
+        "q": "Which process powers a quasar?",
+        "a": "Nuclear fission",
+        "b": "Nuclear fusion",
+        "c": "Gravitational collapse",
+        "d": "Accretion disk around a supermassive black hole",
+        "r": "d"
+    },
+    {
+        "q": "Which of these is formed from the remnants of a massive star?",
+        "a": "White dwarf",
+        "b": "Neutron star",
+        "c": "Black hole",
+        "d": "Red giant",
+        "r": "c"
+    },
+    {
+        "q": "What is the Chandrasekhar limit?",
+        "a": "The maximum size of a neutron star",
+        "b": "The maximum mass a white dwarf can have before collapsing",
+        "c": "The boundary of a black hole's event horizon",
+        "d": "The distance at which a star becomes a black hole",
+        "r": "b"
+    },
+    {
+        "q": "What causes the intense gravitational force of a black hole?",
+        "a": "The mass and density of the black hole",
+        "b": "Its high temperature and luminosity",
+        "c": "The number of neutrons in the black hole",
+        "d": "The speed at which the black hole rotates",
+        "r": "a"
+    },
+    {
+        "q": "Which of these stars can become a black hole?",
+        "a": "Red dwarf",
+        "b": "Yellow dwarf",
+        "c": "Blue giant",
+        "d": "Massive star",
+        "r": "d"
+    },
+    {
+        "q": "What happens at the event horizon of a black hole?",
+        "a": "Light cannot escape from it",
+        "b": "Time moves backward inside the event horizon",
+        "c": "It emits intense radiation",
+        "d": "It contracts and expands periodically",
+        "r": "a"
+    },
+    {
+        "q": "What is a singularity within a black hole?",
+        "a": "A point of infinite density and spacetime curvature",
+        "b": "A region of absolute darkness",
+        "c": "The point where time slows down to a halt",
+        "d": "The center of a black hole where all matter is ejected",
+        "r": "a"
+    },
+    {
+        "q": "Which of these black holes is the smallest in size?",
+        "a": "Stellar black hole",
+        "b": "Intermediate black hole",
+        "c": "Supermassive black hole",
+        "d": "Primordial black hole",
+        "r": "a"
+    },
+    {
+        "q": "What is the gravitational force like at the event horizon?",
+        "a": "Infinite",
+        "b": "Very weak",
+        "c": "Strong but finite",
+        "d": "Strong and repulsive",
+        "r": "a"
+    },
+    {
+        "q": "Which type of black hole is believed to exist at the center of most galaxies?",
+        "a": "Intermediate black hole",
+        "b": "Supermassive black hole",
+        "c": "Stellar black hole",
+        "d": "Primordial black hole",
+        "r": "b"
+    },
+    {
+        "q": "What is the escape velocity at the event horizon called?",
+        "a": "Cosmic speed limit",
+        "b": "The speed of light",
+        "c": "Black hole speed",
+        "d": "Event speed limit",
+        "r": "b"
+    },
+    {
+        "q": "What does a collapsing massive star become just before forming a black hole?",
+        "a": "Red dwarf",
+        "b": "Neutron star",
+        "c": "White dwarf",
+        "d": "Red giant",
+        "r": "b"
+    },
+    {
+        "q": "What causes the X-ray emissions from the accretion disk around a black hole?",
+        "a": "Nuclear reactions",
+        "b": "Frictional heating",
+        "c": "Solar flares",
+        "d": "Cosmic collisions",
+        "r": "b"
+    },
+    {
+        "q": "Which force is stronger than the gravitational force at the quantum level?",
+        "a": "Electromagnetic force",
+        "b": "Weak nuclear force",
+        "c": "Strong nuclear force",
+        "d": "Centripetal force",
+        "r": "c"
+    },
+    {
+        "q": "What is the event horizon of a black hole?",
+        "a": "A point of no return for anything that crosses it",
+        "b": "The point where light is absorbed and disappears",
+        "c": "The surface of the black hole where matter collects",
+        "d": "The boundary between a black hole and a neutron star",
+        "r": "a"
+    },
+    {
+        "q": "What is the remnant of a massive star after a supernova explosion?",
+        "a": "Neutron star",
+        "b": "White dwarf",
+        "c": "Black hole",
+        "d": "Brown dwarf",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the process by which a black hole gains mass?",
+        "a": "Accretion",
+        "b": "Absorption",
+        "c": "Expansion",
+        "d": "Fusion",
+        "r": "a"
+    },
+    {
+        "q": "What causes the intense gravitational force of a neutron star?",
+        "a": "The mass and density of the neutron star",
+        "b": "Its high temperature and luminosity",
+        "c": "The number of protons in the neutron star",
+        "d": "The speed at which the neutron star rotates",
+        "r": "a"
+    },
+    {
+        "q": "What is the event horizon often referred to as?",
+        "a": "Point of no return",
+        "b": "Edge of darkness",
+        "c": "Boundary of spacetime",
+        "d": "Center of the black hole",
+        "r": "a"
+    },
+    {
+        "q": "What is the region inside the event horizon of a black hole called?",
+        "a": "Black zone",
+        "b": "Dark space",
+        "c": "Singularity",
+        "d": "Event space",
+        "r": "c"
+    },
+    {
+        "q": "What prevents a white dwarf from collapsing further?",
+        "a": "Electron degeneracy pressure",
+        "b": "Neutron degeneracy pressure",
+        "c": "Radiation pressure",
+        "d": "Gravity",
+        "r": "a"
+    },
+    {
+        "q": "Which of these is NOT a type of black hole?",
+        "a": "Supermassive black hole",
+        "b": "Stellar black hole",
+        "c": "Nebula black hole",
+        "d": "Intermediate black hole",
+        "r": "c"
+    },
+    {
+        "q": "What happens when a neutron star exceeds the Tolman–Oppenheimer–Volkoff limit?",
+        "a": "It becomes a white dwarf",
+        "b": "It collapses into a black hole",
+        "c": "It transforms into a red giant",
+        "d": "It explodes in a supernova",
+        "r": "b"
+    },
+    {
+        "q": "What is the name given to the boundary surrounding a black hole?",
+        "a": "Event horizon",
+        "b": "Singularity",
+        "c": "Event boundary",
+        "d": "Point of no escape",
+        "r": "a"
+    },
+    {
+        "q": "What is the escape velocity at the event horizon of a black hole?",
+        "a": "Equal to the speed of light",
+        "b": "Less than the speed of light",
+        "c": "Greater than the speed of light",
+        "d": "Zero",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary factor that determines whether a massive star will become a black hole or a neutron star?",
+        "a": "Mass",
+        "b": "Temperature",
+        "c": "Luminosity",
+        "d": "Age",
+        "r": "a"
+    },
+    {
+        "q": "Which of these black holes is the largest in size?",
+        "a": "Stellar black hole",
+        "b": "Intermediate black hole",
+        "c": "Supermassive black hole",
+        "d": "Primordial black hole",
+        "r": "c"
+    },
+    {
+        "q": "What did Karl Schwarzschild discover in 1916?",
+        "a": "The existence of neutron stars",
+        "b": "The equations governing black hole geometry",
+        "c": "The first black hole in the Milky Way",
+        "d": "The event horizon of a black hole",
+        "r": "b"
+    },
+    {
+        "q": "What is the minimum mass required for a star to become a black hole?",
+        "a": "5 times the mass of the Sun",
+        "b": "10 times the mass of the Sun",
+        "c": "20 times the mass of the Sun",
+        "d": "50 times the mass of the Sun",
+        "r": "a"
+    },
+    {
+        "q": "What happens when a black hole and a neutron star collide?",
+        "a": "They merge into a larger black hole",
+        "b": "The black hole evaporates and disappears",
+        "c": "They form a massive supernova explosion",
+        "d": "The neutron star rebounds, and the black hole consumes some of its mass",
+        "r": "a"
+    },
+    {
+        "q": "Which type of black hole is believed to have formed during the early universe?",
+        "a": "Intermediate black hole",
+        "b": "Supermassive black hole",
+        "c": "Stellar black hole",
+        "d": "Primordial black hole",
+        "r": "d"
+    },
+    {
+        "q": "What causes the strong tidal forces near a black hole?",
+        "a": "The curvature of spacetime",
+        "b": "The friction between matter and the event horizon",
+        "c": "The magnetic field of the black hole",
+        "d": "The intense radiation emitted by the black hole",
+        "r": "a"
+    },
+    {
+        "q": "What is the Big Bang Theory?",
+        "a": "The expansion of the universe",
+        "b": "The collapse of the universe",
+        "c": "The steady-state model of the universe",
+        "d": "The creation of galaxies from scratch",
+        "r": "a"
+    },
+    {
+        "q": "Who proposed the Big Bang Theory?",
+        "a": "Edwin Hubble",
+        "b": "Albert Einstein",
+        "c": "Georges Lemaître",
+        "d": "Isaac Newton",
+        "r": "c"
+    },
+    {
+        "q": "What evidence supports the Big Bang Theory?",
+        "a": "Cosmic Microwave Background Radiation",
+        "b": "Solar Flares",
+        "c": "Earthquakes",
+        "d": "Volcanic Eruptions",
+        "r": "a"
+    },
+    {
+        "q": "What does the redshift of galaxies indicate?",
+        "a": "They are moving away from us",
+        "b": "They are moving closer to us",
+        "c": "They are stationary relative to Earth",
+        "d": "They are changing their brightness rapidly",
+        "r": "a"
+    },
+    {
+        "q": "How old is the universe according to the Big Bang Theory?",
+        "a": "Approximately 13.8 billion years",
+        "b": "Approximately 4.5 billion years",
+        "c": "Approximately 6,000 years",
+        "d": "Approximately 1 million years",
+        "r": "a"
+    },
+    {
+        "q": "Which element was formed abundantly during the Big Bang?",
+        "a": "Hydrogen",
+        "b": "Oxygen",
+        "c": "Carbon",
+        "d": "Iron",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the theory that explains the rapid expansion of the universe?",
+        "a": "Inflation Theory",
+        "b": "Gravitational Theory",
+        "c": "Relativity Theory",
+        "d": "Quantum Theory",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the force that opposes gravity and causes the universe's expansion to accelerate?",
+        "a": "Dark Energy",
+        "b": "Dark Matter",
+        "c": "Electromagnetic Force",
+        "d": "Nuclear Force",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the supercontinent that existed during the early universe?",
+        "a": "Pangaea",
+        "b": "Gondwana",
+        "c": "Laurasia",
+        "d": "Rodinia",
+        "r": "d"
+    },
+    {
+        "q": "Which phenomenon is responsible for the formation of galaxies and other large-scale structures in the universe?",
+        "a": "Dark Matter",
+        "b": "Black Holes",
+        "c": "Dark Energy",
+        "d": "Supernovae",
+        "r": "a"
+    },
+    {
+        "q": "What is the most abundant form of matter in the universe?",
+        "a": "Dark Matter",
+        "b": "Baryonic Matter",
+        "c": "Antimatter",
+        "d": "Dark Energy",
+        "r": "b"
+    },
+    {
+        "q": "What is the approximate age of the oldest known star in the universe?",
+        "a": "13.6 billion years",
+        "b": "4.3 billion years",
+        "c": "2.1 billion years",
+        "d": "10 million years",
+        "r": "b"
+    },
+    {
+        "q": "What cosmic event is believed to have created most of the heavy elements in the universe?",
+        "a": "Supernovae",
+        "b": "Solar Flares",
+        "c": "Stellar Nebulae",
+        "d": "Gamma-Ray Bursts",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the space telescope that provides crucial data for cosmological research?",
+        "a": "Hubble Space Telescope",
+        "b": "Spitzer Space Telescope",
+        "c": "Kepler Space Telescope",
+        "d": "James Webb Space Telescope",
+        "r": "a"
+    },
+    {
+        "q": "What does the Cosmic Microwave Background Radiation represent?",
+        "a": "Afterglow of the Big Bang",
+        "b": "Light pollution from Earth",
+        "c": "Radiation from distant galaxies",
+        "d": "Signals from extraterrestrial civilizations",
+        "r": "a"
+    },
+    {
+        "q": "What is the critical density of the universe?",
+        "a": "The density at which the universe is flat",
+        "b": "The density at which the universe collapses",
+        "c": "The density at which dark energy dominates",
+        "d": "The density at which galaxies form",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the galaxy closest to our Milky Way galaxy?",
+        "a": "Andromeda",
+        "b": "Triangulum",
+        "c": "Whirlpool",
+        "d": "Pinwheel",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the hypothetical first black hole formed after the Big Bang?",
+        "a": "Primordial Black Hole",
+        "b": "Stellar Black Hole",
+        "c": "Supermassive Black Hole",
+        "d": "Intermediate Black Hole",
+        "r": "a"
+    },
+    {
+        "q": "Which theory proposes the existence of multiple universes?",
+        "a": "Multiverse Theory",
+        "b": "String Theory",
+        "c": "Big Bounce Theory",
+        "d": "Loop Quantum Gravity",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the mission that provided detailed maps of the Cosmic Microwave Background Radiation?",
+        "a": "Planck Mission",
+        "b": "Kepler Mission",
+        "c": "Voyager Mission",
+        "d": "Rosetta Mission",
+        "r": "a"
+    },
+    {
+        "q": "What is the estimated percentage of the universe's composition that is dark energy?",
+        "a": "68%",
+        "b": "27%",
+        "c": "5%",
+        "d": "99%",
+        "r": "a"
+    },
+    {
+        "q": "Which scientist is known for his/her contribution to the theory of cosmic inflation?",
+        "a": "Alan Guth",
+        "b": "Niels Bohr",
+        "c": "Marie Curie",
+        "d": "Max Planck",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the region within a black hole where gravity is so strong that nothing can escape, not even light?",
+        "a": "Event Horizon",
+        "b": "Singularity",
+        "c": "Photon Sphere",
+        "d": "Ergosphere",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the mission that first discovered evidence of the expanding universe?",
+        "a": "Hubble Space Telescope",
+        "b": "COBE Satellite",
+        "c": "WMAP Satellite",
+        "d": "SOHO Satellite",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the remnant of a massive star after a supernova explosion?",
+        "a": "Neutron Star",
+        "b": "White Dwarf",
+        "c": "Red Giant",
+        "d": "Brown Dwarf",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the mission that studies the cosmic microwave background radiation in more detail?",
+        "a": "CMB-S4",
+        "b": "WMAP Satellite",
+        "c": "SOHO Satellite",
+        "d": "Planck Mission",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the theory that suggests the universe undergoes cycles of expansion and contraction?",
+        "a": "Oscillating Universe",
+        "b": "Steady-State Universe",
+        "c": "Pulsating Universe",
+        "d": "Cyclic Universe",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the hypothetical particle proposed to explain the universe's apparent imbalance between matter and antimatter?",
+        "a": "Baryon",
+        "b": "Photon",
+        "c": "Lepton",
+        "d": "Axion",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the mission that aims to measure the polarization of the Cosmic Microwave Background Radiation?",
+        "a": "LiteBIRD",
+        "b": "COBE Satellite",
+        "c": "WMAP Satellite",
+        "d": "Planck Mission",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the theoretical particle that gives other particles mass and plays a significant role in cosmology?",
+        "a": "Graviton",
+        "b": "Higgs Boson",
+        "c": "Gluon",
+        "d": "Neutrino",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the radiation that is thought to have caused rapid expansion during the inflationary epoch?",
+        "a": "Inflaton",
+        "b": "Dark Energy",
+        "c": "Neutrino",
+        "d": "Graviton",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the boundary that defines the observable universe?",
+        "a": "Observable Horizon",
+        "b": "Hubble Horizon",
+        "c": "Cosmic Horizon",
+        "d": "Event Horizon",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the hypothetical particle proposed as a candidate for dark matter?",
+        "a": "WIMP (Weakly Interacting Massive Particle)",
+        "b": "Axion",
+        "c": "Graviton",
+        "d": "Tachyon",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the mission launched to study cosmic background radiation with higher sensitivity than COBE?",
+        "a": "WMAP Satellite",
+        "b": "Planck Mission",
+        "c": "SOHO Satellite",
+        "d": "Voyager Mission",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the galaxy cluster containing our Milky Way?",
+        "a": "Local Group",
+        "b": "Virgo Cluster",
+        "c": "Coma Cluster",
+        "d": "Fornax Cluster",
+        "r": "a"
+    },
+    {
+        "q": "What is Dark Matter made up of?",
+        "a": "protons",
+        "b": "neutrons",
+        "c": "electrons",
+        "d": "WIMPs",
+        "r": "d"
+    },
+    {
+        "q": "Which scientist proposed the theory of Dark Matter?",
+        "a": "Albert Einstein",
+        "b": "Isaac Newton",
+        "c": "Vera Rubin",
+        "d": "Johannes Kepler",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary evidence for the existence of Dark Matter?",
+        "a": "Gravitational lensing",
+        "b": "Stellar parallax",
+        "c": "Moon phases",
+        "d": "Planetary motion",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a method to detect Dark Matter?",
+        "a": "Particle accelerators",
+        "b": "Direct detection",
+        "c": "Indirect detection",
+        "d": "Colliders",
+        "r": "d"
+    },
+    {
+        "q": "What does the Bullet Cluster demonstrate about Dark Matter?",
+        "a": "It emits light",
+        "b": "It can be seen in telescopes",
+        "c": "It interacts with ordinary matter",
+        "d": "It has mass and affects light",
+        "r": "c"
+    },
+    {
+        "q": "Dark Matter is believed to primarily interact through which force (except gravity)?",
+        "a": "Electromagnetic force",
+        "b": "Weak nuclear force",
+        "c": "Strong nuclear force",
+        "d": "Gravitational force",
+        "r": "b"
+    },
+    {
+        "q": "What is the estimated percentage of Dark Matter in the universe?",
+        "a": "5%",
+        "b": "27%",
+        "c": "68%",
+        "d": "95%",
+        "r": "b"
+    },
+    {
+        "q": "What is the estimated percentage of Dark Energy in the universe?",
+        "a": "5%",
+        "b": "27%",
+        "c": "68%",
+        "d": "95%",
+        "r": "d"
+    },
+    {
+        "q": "Dark Energy is believed to be responsible for the universe's:",
+        "a": "Accelerating expansion",
+        "b": "Slowing down expansion",
+        "c": "Constant size",
+        "d": "Rotational motion",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following best describes the expansion rate of the universe?",
+        "a": "Increasing over time",
+        "b": "Decreasing over time",
+        "c": "Stable over time",
+        "d": "Random over time",
+        "r": "a"
+    },
+    {
+        "q": "The term \"Dark Matter\" was coined by which astronomer?",
+        "a": "Fritz Zwicky",
+        "b": "Edwin Hubble",
+        "c": "Carl Sagan",
+        "d": "Neil Armstrong",
+        "r": "a"
+    },
+    {
+        "q": "What is the most abundant form of Dark Matter in the universe?",
+        "a": "MACHOs",
+        "b": "WIMPs",
+        "c": "Neutrinos",
+        "d": "Axions",
+        "r": "b"
+    },
+    {
+        "q": "Which type of Dark Matter candidates are subatomic particles that rarely interact with normal matter?",
+        "a": "Axions",
+        "b": "MACHOs",
+        "c": "WIMPs",
+        "d": "Neutrinos",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the galaxy that was studied by Vera Rubin and provided evidence for Dark Matter?",
+        "a": "Andromeda",
+        "b": "Triangulum",
+        "c": "Milky Way",
+        "d": "Virgo",
+        "r": "c"
+    },
+    {
+        "q": "The Cosmic Microwave Background (CMB) is the afterglow of the:",
+        "a": "Big Bang",
+        "b": "Supernova explosion",
+        "c": "Planetary collision",
+        "d": "Solar flare",
+        "r": "a"
+    },
+    {
+        "q": "The Wilkinson Microwave Anisotropy Probe (WMAP) measured fluctuations in the CMB to study:",
+        "a": "Dark Matter",
+        "b": "Dark Energy",
+        "c": "Star formation",
+        "d": "Black holes",
+        "r": "a"
+    },
+    {
+        "q": "Which type of Dark Energy is associated with Albert Einstein's Cosmological Constant?",
+        "a": "Quintessence",
+        "b": "Phantom Energy",
+        "c": "Chaplygin Gas",
+        "d": "Lambda (Λ)",
+        "r": "d"
+    },
+    {
+        "q": "What is the hypothetical form of Dark Energy represented by a negative equation of state?",
+        "a": "Quintessence",
+        "b": "Phantom Energy",
+        "c": "Chaplygin Gas",
+        "d": "Tachyonic Field",
+        "r": "b"
+    },
+    {
+        "q": "The accelerated expansion of the universe was first observed through studies of:",
+        "a": "Supernovae",
+        "b": "Solar flares",
+        "c": "Planetary motion",
+        "d": "Lunar phases",
+        "r": "a"
+    },
+    {
+        "q": "What is the critical density of the universe required for it to eventually stop expanding?",
+        "a": "Ω = 0",
+        "b": "Ω = 1",
+        "c": "Ω = 5",
+        "d": "Ω = ∞",
+        "r": "b"
+    },
+    {
+        "q": "The term \"Dark Energy\" was coined by which physicist?",
+        "a": "Albert Einstein",
+        "b": "Stephen Hawking",
+        "c": "Michael Turner",
+        "d": "Richard Feynman",
+        "r": "c"
+    },
+    {
+        "q": "The force of Dark Energy is thought to oppose which fundamental force?",
+        "a": "Electromagnetic force",
+        "b": "Weak nuclear force",
+        "c": "Strong nuclear force",
+        "d": "Gravity",
+        "r": "d"
+    },
+    {
+        "q": "The shape of the universe is currently believed to be:",
+        "a": "Open",
+        "b": "Closed",
+        "c": "Flat",
+        "d": "Spherical",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the galaxy cluster used to study gravitational lensing and Dark Matter distribution?",
+        "a": "Fornax",
+        "b": "Coma",
+        "c": "Hydra",
+        "d": "Perseus",
+        "r": "b"
+    },
+    {
+        "q": "What effect does Dark Matter have on the rotation curves of galaxies?",
+        "a": "Flattens the rotation curves",
+        "b": "Steepens the rotation curves",
+        "c": "No effect on rotation curves",
+        "d": "Randomizes the rotation curves",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary role of Dark Energy in the universe?",
+        "a": "Attracting galaxies together",
+        "b": "Slowing down the expansion of space",
+        "c": "Accelerating the expansion of space",
+        "d": "Generating stars",
+        "r": "c"
+    },
+    {
+        "q": "The \"Great Attractor\" is a region in space known for:",
+        "a": "High concentration of Dark Matter",
+        "b": "Strong gravitational pull",
+        "c": "Bright radiation emissions",
+        "d": "Intense magnetic fields",
+        "r": "b"
+    },
+    {
+        "q": "Which theory suggests that Dark Matter and Dark Energy are not necessary and that our understanding of gravity is incomplete?",
+        "a": "General Relativity",
+        "b": "Quantum Mechanics",
+        "c": "Special Relativity",
+        "d": "Modified Newtonian Dynamics (MOND)",
+        "r": "d"
+    },
+    {
+        "q": "Which type of Dark Matter candidates are astronomical objects like black holes and neutron stars?",
+        "a": "Axions",
+        "b": "MACHOs",
+        "c": "WIMPs",
+        "d": "Neutrinos",
+        "r": "b"
+    },
+    {
+        "q": "Which galaxy is NOT considered a part of the Local Group?",
+        "a": "Andromeda",
+        "b": "Milky Way",
+        "c": "Triangulum",
+        "d": "M81",
+        "r": "d"
+    },
+    {
+        "q": "What is the largest component of the universe in terms of mass-energy content?",
+        "a": "Ordinary matter",
+        "b": "Dark Matter",
+        "c": "Dark Energy",
+        "d": "Photons",
+        "r": "c"
+    },
+    {
+        "q": "What is the age of the universe, according to current estimates?",
+        "a": "4.6 billion years",
+        "b": "13.8 billion years",
+        "c": "21.2 billion years",
+        "d": "100 billion years",
+        "r": "b"
+    },
+    {
+        "q": "The concept of Dark Matter was proposed to explain the observed:",
+        "a": "Rotation curves of galaxies",
+        "b": "Stellar explosions",
+        "c": "Solar flares",
+        "d": "Lunar phases",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary observational tool used to study Dark Energy?",
+        "a": "Telescopes",
+        "b": "Microscopes",
+        "c": "Spectrometers",
+        "d": "Particle accelerators",
+        "r": "a"
+    },
+    {
+        "q": "The Bullet Cluster is an example of two clusters of galaxies undergoing:",
+        "a": "Merging",
+        "b": "Expansion",
+        "c": "Rotation",
+        "d": "Oscillation",
+        "r": "a"
+    },
+    {
+        "q": "What type of matter is considered to have negative energy density?",
+        "a": "Dark Matter",
+        "b": "Dark Energy",
+        "c": "Baryonic Matter",
+        "d": "Exotic Matter",
+        "r": "b"
+    },
+    {
+        "q": "What type of matter is considered to have positive energy density?",
+        "a": "Dark Matter",
+        "b": "Dark Energy",
+        "c": "Baryonic Matter",
+        "d": "Exotic Matter",
+        "r": "c"
+    },
+    {
+        "q": "What is the fate of the universe, considering Dark Energy's influence on expansion?",
+        "a": "Recollapse",
+        "b": "Steady expansion",
+        "c": "Oscillation",
+        "d": "Heat death",
+        "r": "d"
+    },
+    {
+        "q": "Which space agency launched the first artificial satellite, Sputnik 1, in 1957?",
+        "a": "nasa",
+        "b": "esa",
+        "c": "cnsa",
+        "d": "roscosmos",
+        "r": "d"
+    },
+    {
+        "q": "The first human-made object to reach space was launched by which country?",
+        "a": "usa",
+        "b": "russia",
+        "c": "germany",
+        "d": "china",
+        "r": "a"
+    },
+    {
+        "q": "What was the name of the first manned mission to land on the Moon?",
+        "a": "apollo 10",
+        "b": "apollo 11",
+        "c": "apollo 13",
+        "d": "apollo 15",
+        "r": "b"
+    },
+    {
+        "q": "The Hubble Space Telescope is named after which American astronomer?",
+        "a": "carl sagan",
+        "b": "edwin hubble",
+        "c": "johannes kepler",
+        "d": "isaac newton",
+        "r": "b"
+    },
+    {
+        "q": "Which space agency launched the Mars rovers Spirit, Opportunity, and Curiosity?",
+        "a": "nasa",
+        "b": "esa",
+        "c": "roscosmos",
+        "d": "isro",
+        "r": "a"
+    },
+    {
+        "q": "What was the name of the first artificial satellite launched by India?",
+        "a": "aryabhata",
+        "b": "chandrayaan-1",
+        "c": "mars orbiter mission",
+        "d": "astrostat",
+        "r": "a"
+    },
+    {
+        "q": "The New Horizons spacecraft was launched to study which planet in our solar system?",
+        "a": "jupiter",
+        "b": "venus",
+        "c": "mars",
+        "d": "pluto",
+        "r": "d"
+    },
+    {
+        "q": "Which space agency successfully landed the Philae probe on a comet?",
+        "a": "nasa",
+        "b": "cnsa",
+        "c": "esa",
+        "d": "roscosmos",
+        "r": "c"
+    },
+    {
+        "q": "The space mission \"Voyager 2\" is currently in interstellar space and has visited which planets in our solar system?",
+        "a": "jupiter and saturn",
+        "b": "saturn and neptune",
+        "c": "uranus and neptune",
+        "d": "uranus and pluto",
+        "r": "a"
+    },
+    {
+        "q": "What was the name of the first living creature sent into space?",
+        "a": "laika",
+        "b": "hachiko",
+        "c": "toto",
+        "d": "lassie",
+        "r": "a"
+    },
+    {
+        "q": "The International Space Station (ISS) is a joint project involving multiple countries. Which country did not contribute to its construction?",
+        "a": "usa",
+        "b": "russia",
+        "c": "china",
+        "d": "japan",
+        "r": "c"
+    },
+    {
+        "q": "What was the name of the first American woman to fly in space?",
+        "a": "sally ride",
+        "b": "valentina tereshkova",
+        "c": "mae jemison",
+        "d": "eileen collins",
+        "r": "a"
+    },
+    {
+        "q": "The Mars rovers Spirit and Opportunity found evidence of past water activity on the planet. How long was their planned mission duration?",
+        "a": "1 month",
+        "b": "3 months",
+        "c": "6 months",
+        "d": "1 year",
+        "r": "c"
+    },
+    {
+        "q": "The space mission Apollo 13 was intended to land on the Moon, but it encountered an in-flight emergency. What was the cause of the emergency?",
+        "a": "fuel leak",
+        "b": "engine failure",
+        "c": "oxygen tank explosion",
+        "d": "communication failure",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the most famous space telescope, launched in 1990?",
+        "a": "hubble",
+        "b": "spitzer",
+        "c": "chandra",
+        "d": "james webb",
+        "r": "a"
+    },
+    {
+        "q": "The first woman to travel to space was from which country?",
+        "a": "usa",
+        "b": "russia",
+        "c": "china",
+        "d": "india",
+        "r": "b"
+    },
+    {
+        "q": "Which space agency's Mars rover found the presence of methane, hinting at the possibility of past or present life on Mars?",
+        "a": "nasa",
+        "b": "esa",
+        "c": "roscosmos",
+        "d": "isro",
+        "r": "a"
+    },
+    {
+        "q": "The space mission Chang'e 4 was the first to accomplish a soft landing on which celestial body?",
+        "a": "moon",
+        "b": "mars",
+        "c": "venus",
+        "d": "mercury",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of NASA's most famous space shuttle, which tragically disintegrated during re-entry in 2003?",
+        "a": "endeavour",
+        "b": "columbia",
+        "c": "discovery",
+        "d": "atlantis",
+        "r": "b"
+    },
+    {
+        "q": "The \"Pioneer 10\" and \"Pioneer 11\" missions were the first to visit which planet in our solar system?",
+        "a": "saturn",
+        "b": "mars",
+        "c": "neptune",
+        "d": "jupiter",
+        "r": "d"
+    },
+    {
+        "q": "What was the name of the first satellite launched into orbit by Japan?",
+        "a": "tsukuba",
+        "b": "kibo",
+        "c": "sakura",
+        "d": "osumi",
+        "r": "d"
+    },
+    {
+        "q": "The space mission Cassini-Huygens provided valuable data about which planet and its moons?",
+        "a": "jupiter and its moons",
+        "b": "saturn and its moons",
+        "c": "uranus and its moons",
+        "d": "neptune and its moons",
+        "r": "b"
+    },
+    {
+        "q": "Who was the first person to perform a spacewalk (extravehicular activity)?",
+        "a": "alexey leonov",
+        "b": "yuri gagarin",
+        "c": "valentina tereshkova",
+        "d": "neil armstrong",
+        "r": "a"
+    },
+    {
+        "q": "The space mission Juno is dedicated to the study of which planet in our solar system?",
+        "a": "saturn",
+        "b": "venus",
+        "c": "jupiter",
+        "d": "uranus",
+        "r": "c"
+    },
+    {
+        "q": "What was the name of the first privately funded spacecraft to reach orbit?",
+        "a": "falcon 1",
+        "b": "dragon",
+        "c": "orion",
+        "d": "cygnus",
+        "r": "a"
+    },
+    {
+        "q": "Which space agency's mission successfully landed the rover \"Perseverance\" on Mars?",
+        "a": "nasa",
+        "b": "esa",
+        "c": "cnsa",
+        "d": "roscosmos",
+        "r": "a"
+    },
+    {
+        "q": "The space mission Rosetta was launched to study a comet. What was the name of the comet it explored?",
+        "a": "halley",
+        "b": "hale-bopp",
+        "c": "67p/churyumov-gerasimenko",
+        "d": "ison",
+        "r": "c"
+    },
+    {
+        "q": "The space mission Dawn studied and orbited which two celestial bodies in our solar system?",
+        "a": "ceres and vesta",
+        "b": "venus and mars",
+        "c": "uranus and neptune",
+        "d": "jupiter and saturn",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the first reusable spacecraft developed by NASA?",
+        "a": "dream chaser",
+        "b": "orion",
+        "c": "space shuttle",
+        "d": "dragon",
+        "r": "c"
+    },
+    {
+        "q": "The space mission \"Opportunity\" exceeded its planned mission duration and operated on Mars for how many years?",
+        "a": "5 years",
+        "b": "9 years",
+        "c": "14 years",
+        "d": "20 years",
+        "r": "b"
+    },
+    {
+        "q": "What was the name of the first space station launched into orbit by the Soviet Union?",
+        "a": "skylab",
+        "b": "salyut 1",
+        "c": "mir",
+        "d": "tiangong",
+        "r": "b"
+    },
+    {
+        "q": "The space mission Hayabusa2 was launched by which country's space agency?",
+        "a": "japan",
+        "b": "usa",
+        "c": "russia",
+        "d": "china",
+        "r": "a"
+    },
+    {
+        "q": "Which space agency's mission discovered liquid water on one of Jupiter's moons, Europa?",
+        "a": "nasa",
+        "b": "esa",
+        "c": "cnsa",
+        "d": "roscosmos",
+        "r": "a"
+    },
+    {
+        "q": "The space mission \"InSight\" was designed to study the interior of which planet?",
+        "a": "mars",
+        "b": "venus",
+        "c": "jupiter",
+        "d": "saturn",
+        "r": "a"
+    },
+    {
+        "q": "What was the name of the first American space station, launched by NASA?",
+        "a": "skylab",
+        "b": "salyut 1",
+        "c": "mir",
+        "d": "iss",
+        "r": "a"
+    },
+    {
+        "q": "The space mission \"Osiris-Rex\" collected samples from which asteroid for return to Earth?",
+        "a": "bennu",
+        "b": "ceres",
+        "c": "vesta",
+        "d": "pallas",
+        "r": "a"
+    }
+]
