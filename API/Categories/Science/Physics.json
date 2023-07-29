@@ -952,14 +952,6 @@
         "r": "a"
     },
     {
-        "q": "Which of the following is a scalar quantity?",
-        "a": "Mass",
-        "b": "Force",
-        "c": "Displacement",
-        "d": "Acceleration",
-        "r": "a"
-    },
-    {
         "q": "What is the distance between the focal point and the mirror or lens called?",
         "a": "Focal length",
         "b": "Wavelength",
@@ -1358,5 +1350,4149 @@
         "c": "Diffraction",
         "d": "Dispersion",
         "r": "a"
+    },
+    {
+        "q": "What is the study of matter, energy, and forces?",
+        "a": "Physics",
+        "b": "Biology",
+        "c": "Chemistry",
+        "d": "Mathematics",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a fundamental force in nature?",
+        "a": "Gravity",
+        "b": "Electromagnetic force",
+        "c": "Nuclear force",
+        "d": "Friction",
+        "r": "d"
+    },
+    {
+        "q": "What unit is used to measure time in the SI system?",
+        "a": "Seconds",
+        "b": "Hours",
+        "c": "Days",
+        "d": "Minutes",
+        "r": "a"
+    },
+    {
+        "q": "What is the SI unit of mass?",
+        "a": "Kilogram",
+        "b": "Gram",
+        "c": "Pound",
+        "d": "Liter",
+        "r": "a"
+    },
+    {
+        "q": "The energy of motion is known as:",
+        "a": "Kinetic energy",
+        "b": "Potential energy",
+        "c": "Thermal energy",
+        "d": "Magnetic energy",
+        "r": "a"
+    },
+    {
+        "q": "The acceleration due to gravity on the surface of the Earth is approximately:",
+        "a": "9.8 m/s²",
+        "b": "6.3 m/s²",
+        "c": "5.2 m/s²",
+        "d": "7.6 m/s²",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula to calculate speed?",
+        "a": "Speed = Distance / Time",
+        "b": "Speed = Time / Distance",
+        "c": "Speed = Distance * Time",
+        "d": "Speed = Time - Distance",
+        "r": "a"
+    },
+    {
+        "q": "The bending of light when it passes through different mediums is known as:",
+        "a": "Refraction",
+        "b": "Reflection",
+        "c": "Diffraction",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "The property of an object to resist changes in its state of motion is called:",
+        "a": "Inertia",
+        "b": "Gravity",
+        "c": "Friction",
+        "d": "Momentum",
+        "r": "a"
+    },
+    {
+        "q": "The rate of doing work is known as:",
+        "a": "Power",
+        "b": "Energy",
+        "c": "Force",
+        "d": "Pressure",
+        "r": "a"
+    },
+    {
+        "q": "What is the SI unit of electric charge?",
+        "a": "Coulomb",
+        "b": "Ampere",
+        "c": "Ohm",
+        "d": "Volt",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a primary color of light?",
+        "a": "Red",
+        "b": "Yellow",
+        "c": "Green",
+        "d": "Blue",
+        "r": "c"
+    },
+    {
+        "q": "The process by which a gas changes into a liquid is called:",
+        "a": "Condensation",
+        "b": "Evaporation",
+        "c": "Sublimation",
+        "d": "Melting",
+        "r": "a"
+    },
+    {
+        "q": "What is the acceleration of an object at rest?",
+        "a": "0 m/s²",
+        "b": "1 m/s²",
+        "c": "-1 m/s²",
+        "d": "9.8 m/s²",
+        "r": "a"
+    },
+    {
+        "q": "The energy stored in a stretched rubber band is an example of:",
+        "a": "Elastic potential energy",
+        "b": "Chemical potential energy",
+        "c": "Gravitational potential energy",
+        "d": "Magnetic potential energy",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a derived unit?",
+        "a": "Area",
+        "b": "Mass",
+        "c": "Time",
+        "d": "Volume",
+        "r": "a"
+    },
+    {
+        "q": "Which of Newton's laws explains why we feel a backward force when a vehicle accelerates?",
+        "a": "Newton's Third Law",
+        "b": "Newton's Second Law",
+        "c": "Newton's First Law",
+        "d": "Coulomb's Law",
+        "r": "b"
+    },
+    {
+        "q": "What is the force that opposes motion between two surfaces in contact?",
+        "a": "Friction",
+        "b": "Tension",
+        "c": "Gravity",
+        "d": "Elasticity",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a non-contact force?",
+        "a": "Magnetism",
+        "b": "Tension",
+        "c": "Compression",
+        "d": "Friction",
+        "r": "a"
+    },
+    {
+        "q": "The property of a material to return to its original shape after being stretched is called:",
+        "a": "Elasticity",
+        "b": "Inertia",
+        "c": "Conductivity",
+        "d": "Density",
+        "r": "a"
+    },
+    {
+        "q": "What is the speed of light in a vacuum?",
+        "a": "3.00 x 10^8 m/s",
+        "b": "2.45 x 10^8 m/s",
+        "c": "3.45 x 10^8 m/s",
+        "d": "2.88 x 10^8 m/s",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a contact force?",
+        "a": "Tension",
+        "b": "Magnetism",
+        "c": "Electrostatic force",
+        "d": "Gravitational force",
+        "r": "a"
+    },
+    {
+        "q": "The property of a material to allow the flow of electricity is called:",
+        "a": "Conductivity",
+        "b": "Elasticity",
+        "c": "Density",
+        "d": "Inertia",
+        "r": "a"
+    },
+    {
+        "q": "What is the SI unit of power?",
+        "a": "Watt",
+        "b": "Volt",
+        "c": "Joule",
+        "d": "Ampere",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a derived unit of power?",
+        "a": "Horsepower",
+        "b": "Newton",
+        "c": "Kilogram",
+        "d": "Volt",
+        "r": "a"
+    },
+    {
+        "q": "What type of lens is thicker at the center than at the edges?",
+        "a": "Convex lens",
+        "b": "Concave lens",
+        "c": "Biconcave lens",
+        "d": "Biconvex lens",
+        "r": "a"
+    },
+    {
+        "q": "What is the SI unit of work and energy?",
+        "a": "Joule",
+        "b": "Newton-meter",
+        "c": "Watt-hour",
+        "d": "Ampere-hour",
+        "r": "a"
+    },
+    {
+        "q": "Which law of thermodynamics states that energy cannot be created or destroyed?",
+        "a": "First Law",
+        "b": "Second Law",
+        "c": "Third Law",
+        "d": "Zeroth Law",
+        "r": "a"
+    },
+    {
+        "q": "What is the temperature at which all molecular motion ceases?",
+        "a": "Absolute zero",
+        "b": "Boiling point",
+        "c": "Freezing point",
+        "d": "Room temperature",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a contact force?",
+        "a": "Normal force",
+        "b": "Tension",
+        "c": "Magnetic force",
+        "d": "Electrostatic force",
+        "r": "a"
+    },
+    {
+        "q": "What is the bending of waves around obstacles or through openings?",
+        "a": "Diffraction",
+        "b": "Refraction",
+        "c": "Reflection",
+        "d": "Dispersion",
+        "r": "a"
+    },
+    {
+        "q": "Which type of energy is associated with the motion of particles in an object?",
+        "a": "Thermal energy",
+        "b": "Potential energy",
+        "c": "Kinetic energy",
+        "d": "Mechanical energy",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula for density?",
+        "a": "Density = Mass / Volume",
+        "b": "Density = Volume / Mass",
+        "c": "Density = Mass * Volume",
+        "d": "Density = Mass - Volume",
+        "r": "a"
+    },
+    {
+        "q": "The resistance of an object to a change in its state of motion is called:",
+        "a": "Inertia",
+        "b": "Momentum",
+        "c": "Velocity",
+        "d": "Acceleration",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a non-renewable energy source?",
+        "a": "Coal",
+        "b": "Solar",
+        "c": "Wind",
+        "d": "Hydroelectric",
+        "r": "a"
+    },
+    {
+        "q": "The process of a liquid changing into a gas at the surface is called:",
+        "a": "Evaporation",
+        "b": "Condensation",
+        "c": "Sublimation",
+        "d": "Melting",
+        "r": "a"
+    },
+    {
+        "q": "What is the SI unit of speed?",
+        "a": "Meter per second",
+        "b": "Meter per hour",
+        "c": "Meter per minute",
+        "d": "Kilometer per hour",
+        "r": "a"
+    },
+    {
+        "q": "When an object's velocity is constant, what can you say about its acceleration?",
+        "a": "zero",
+        "b": "positive",
+        "c": "negative",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "A ball is thrown vertically upwards. At the highest point, its velocity is:",
+        "a": "zero",
+        "b": "equal to its initial velocity",
+        "c": "equal to its final velocity",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The acceleration due to gravity on the surface of Earth is approximately:",
+        "a": "9.8 m/s²",
+        "b": "5.67 × 10⁻¹¹ Nm²/kg²",
+        "c": "3 × 10⁸ m/s",
+        "d": "6.63 × 10⁻³⁴ Js",
+        "r": "a"
+    },
+    {
+        "q": "When a car takes a turn, what type of force causes this motion?",
+        "a": "centripetal force",
+        "b": "frictional force",
+        "c": "tension force",
+        "d": "magnetic force",
+        "r": "a"
+    },
+    {
+        "q": "Which of Newton's laws states that \"Every object persists in its state of rest or uniform motion unless acted upon by an external unbalanced force\"?",
+        "a": "First Law",
+        "b": "Second Law",
+        "c": "Third Law",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The force required to maintain an object at a constant velocity in free space is:",
+        "a": "zero",
+        "b": "infinity",
+        "c": "variable",
+        "d": "constant",
+        "r": "a"
+    },
+    {
+        "q": "Which of Newton's laws states that \"The acceleration produced by a net force on an object is directly proportional to the magnitude of the net force and inversely proportional to the mass of the object\"?",
+        "a": "Second Law",
+        "b": "First Law",
+        "c": "Third Law",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a conservative force?",
+        "a": "gravity",
+        "b": "friction",
+        "c": "air resistance",
+        "d": "magnetic force",
+        "r": "a"
+    },
+    {
+        "q": "An object with a constant nonzero velocity has a net force acting on it:",
+        "a": "FALSE",
+        "b": "TRUE",
+        "c": "Depends on the object",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "A force of 15 N is applied to an object with a mass of 3 kg. What is the resulting acceleration?",
+        "a": "5 m/s²",
+        "b": "18 m/s²",
+        "c": "45 m/s²",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "What force is responsible for keeping planets in orbit around the Sun?",
+        "a": "gravitational force",
+        "b": "electromagnetic force",
+        "c": "nuclear force",
+        "d": "applied force",
+        "r": "a"
+    },
+    {
+        "q": "When an object is in free fall, its acceleration is:",
+        "a": "9.8 m/s² upwards",
+        "b": "9.8 m/s² downwards",
+        "c": "zero",
+        "d": "variable",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a unit of force?",
+        "a": "joule",
+        "b": "newton",
+        "c": "dyne",
+        "d": "pound-force",
+        "r": "a"
+    },
+    {
+        "q": "The force of friction always acts:",
+        "a": "opposite to the direction of motion",
+        "b": "in the direction of motion",
+        "c": "at an angle of 45 degrees to the direction of motion",
+        "d": "in the upward direction",
+        "r": "a"
+    },
+    {
+        "q": "Which of Newton's laws states that \"For every action, there is an equal and opposite reaction\"?",
+        "a": "Third Law",
+        "b": "First Law",
+        "c": "Second Law",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "A car is moving with a constant velocity. What can you say about the net force acting on the car?",
+        "a": "Zero",
+        "b": "Increasing",
+        "c": "Decreasing",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "In which of the following scenarios, work is being done on the object?",
+        "a": "Lifting a box off the ground",
+        "b": "Holding a book stationary",
+        "c": "Pushing against a stationary wall",
+        "d": "All of the above",
+        "r": "a"
+    },
+    {
+        "q": "The tendency of an object to resist a change in motion is called:",
+        "a": "inertia",
+        "b": "momentum",
+        "c": "acceleration",
+        "d": "gravity",
+        "r": "a"
+    },
+    {
+        "q": "A ball is thrown horizontally from a height. What happens to its vertical velocity as it moves horizontally?",
+        "a": "It remains constant",
+        "b": "It increases",
+        "c": "It decreases",
+        "d": "It becomes zero",
+        "r": "a"
+    },
+    {
+        "q": "What is the net force required to keep a 500 kg object moving with a constant velocity of 20 m/s?",
+        "a": "zero",
+        "b": "10 N",
+        "c": "5000 N",
+        "d": "10000 N",
+        "r": "a"
+    },
+    {
+        "q": "When an object is in equilibrium, what can you say about its acceleration?",
+        "a": "zero",
+        "b": "positive",
+        "c": "negative",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "What type of force opposes the motion of an object through a fluid (liquid or gas)?",
+        "a": "drag force",
+        "b": "frictional force",
+        "c": "normal force",
+        "d": "tension force",
+        "r": "a"
+    },
+    {
+        "q": "When a ball is thrown vertically downwards, its acceleration is:",
+        "a": "9.8 m/s²",
+        "b": "zero",
+        "c": "increasing",
+        "d": "decreasing",
+        "r": "a"
+    },
+    {
+        "q": "What is the weight of an object with a mass of 50 kg on Earth's surface?",
+        "a": "490 N",
+        "b": "500 N",
+        "c": "50 N",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The slope of a velocity-time graph represents:",
+        "a": "acceleration",
+        "b": "displacement",
+        "c": "force",
+        "d": "momentum",
+        "r": "a"
+    },
+    {
+        "q": "An object is moving with a constant velocity. What can you say about the net force acting on the object?",
+        "a": "Zero",
+        "b": "Increasing",
+        "c": "Decreasing",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "The force of gravity on an object is also known as:",
+        "a": "weight",
+        "b": "mass",
+        "c": "inertia",
+        "d": "momentum",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following statements is true about projectile motion?",
+        "a": "The horizontal component of velocity is constant",
+        "b": "The vertical component of velocity is constant",
+        "c": "The acceleration is constant",
+        "d": "All of the above",
+        "r": "a"
+    },
+    {
+        "q": "A person standing on the ground exerts a force on the Earth. How does the magnitude of this force compare to the person's weight?",
+        "a": "Equal to the person's weight",
+        "b": "Greater than the person's weight",
+        "c": "Less than the person's weight",
+        "d": "Depends on the person's mass",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a non-inertial frame of reference?",
+        "a": "accelerating car",
+        "b": "stationary train",
+        "c": "falling ball",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "What force is responsible for the upward motion of a balloon that is released after being filled with helium?",
+        "a": "buoyant force",
+        "b": "tension force",
+        "c": "frictional force",
+        "d": "applied force",
+        "r": "a"
+    },
+    {
+        "q": "A 10 N force is applied to an object with a mass of 2 kg. What is the resulting acceleration?",
+        "a": "5 m/s²",
+        "b": "8 m/s²",
+        "c": "20 m/s²",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "An object moves with a constant speed in a circular path. What can you say about its acceleration?",
+        "a": "It is constant",
+        "b": "It is zero",
+        "c": "It changes direction",
+        "d": "It is impossible to determine without more information",
+        "r": "a"
+    },
+    {
+        "q": "When an object is at rest, its acceleration is:",
+        "a": "zero",
+        "b": "positive",
+        "c": "negative",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "According to Newton's first law of motion, an object will remain at rest or in uniform motion in a straight line unless acted upon by an external force.",
+        "a": "it's at rest.",
+        "b": "it's accelerating.",
+        "c": "it's moving in a circle.",
+        "d": "none of the above.",
+        "r": "a"
+    },
+    {
+        "q": "Newton's second law of motion is represented by the equation:",
+        "a": "F = ma",
+        "b": "F = mv",
+        "c": "F = am",
+        "d": "F = mv^2",
+        "r": "a"
+    },
+    {
+        "q": "Which law of motion states that \"for every action, there is an equal and opposite reaction\"?",
+        "a": "Newton's first law",
+        "b": "Newton's second law",
+        "c": "Newton's third law",
+        "d": "None of the above",
+        "r": "c"
+    },
+    {
+        "q": "A car is moving at a constant velocity. What can you say about the net force acting on the car?",
+        "a": "The net force is zero.",
+        "b": "The net force is increasing.",
+        "c": "The net force is decreasing.",
+        "d": "The net force cannot be determined.",
+        "r": "a"
+    },
+    {
+        "q": "What force opposes the relative motion of two surfaces in contact?",
+        "a": "Friction",
+        "b": "Tension",
+        "c": "Gravity",
+        "d": "Normal",
+        "r": "a"
+    },
+    {
+        "q": "Which law of motion is also known as the \"law of inertia\"?",
+        "a": "Newton's first law",
+        "b": "Newton's second law",
+        "c": "Newton's third law",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "An object has a mass of 50 kg and an acceleration of 10 m/s². What is the force acting on the object?",
+        "a": "500 N",
+        "b": "5 N",
+        "c": "5,000 N",
+        "d": "500 m/s²",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of projectile motion?",
+        "a": "A ball thrown upward",
+        "b": "A car accelerating on a straight road",
+        "c": "A ball rolling down a slope",
+        "d": "A person walking in a park",
+        "r": "a"
+    },
+    {
+        "q": "The force required to maintain the motion of an object in a circular path is known as:",
+        "a": "Centripetal force",
+        "b": "Gravitational force",
+        "c": "Frictional force",
+        "d": "Tension force",
+        "r": "a"
+    },
+    {
+        "q": "Which of Newton's laws explains why seat belts are important in a moving car?",
+        "a": "Newton's first law",
+        "b": "Newton's second law",
+        "c": "Newton's third law",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "If an object has a constant velocity, what can you say about the net force acting on it?",
+        "a": "The net force is zero.",
+        "b": "The net force is increasing.",
+        "c": "The net force is decreasing.",
+        "d": "The net force cannot be determined.",
+        "r": "a"
+    },
+    {
+        "q": "When you push a box across the floor and it moves with a constant velocity, what can you say about the forces acting on the box?",
+        "a": "The applied force equals the frictional force.",
+        "b": "The applied force is less than the frictional force.",
+        "c": "The applied force is greater than the frictional force.",
+        "d": "The frictional force is zero.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following statements is true about mass and weight?",
+        "a": "Mass and weight are the same.",
+        "b": "Mass is the measure of the amount of matter in an object, while weight is the force of gravity acting on it.",
+        "c": "Weight is the measure of the amount of matter in an object, while mass is the force of gravity acting on it.",
+        "d": "None of the above.",
+        "r": "b"
+    },
+    {
+        "q": "What force causes an object to move in a circle at a constant speed?",
+        "a": "Centripetal force",
+        "b": "Tension force",
+        "c": "Friction force",
+        "d": "Gravitational force",
+        "r": "a"
+    },
+    {
+        "q": "A 1000 kg car accelerates at 2 m/s². What is the magnitude of the force required to achieve this acceleration?",
+        "a": "2000 N",
+        "b": "500 N",
+        "c": "200 N",
+        "d": "5000 N",
+        "r": "a"
+    },
+    {
+        "q": "An object weighs 50 N on Earth. What is its mass?",
+        "a": "5 kg",
+        "b": "500 kg",
+        "c": "50 kg",
+        "d": "5000 kg",
+        "r": "c"
+    },
+    {
+        "q": "What is the SI unit of work?",
+        "a": "joule",
+        "b": "newton",
+        "c": "watt",
+        "d": "pascal",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a scalar quantity?",
+        "a": "Energy",
+        "b": "Force",
+        "c": "Displacement",
+        "d": "Velocity",
+        "r": "a"
+    },
+    {
+        "q": "Which type of energy is possessed by a moving car?",
+        "a": "Gravitational potential energy",
+        "b": "Elastic potential energy",
+        "c": "Kinetic energy",
+        "d": "Chemical potential energy",
+        "r": "c"
+    },
+    {
+        "q": "The rate of doing work is known as",
+        "a": "Speed",
+        "b": "Acceleration",
+        "c": "Power",
+        "d": "Force",
+        "r": "c"
+    },
+    {
+        "q": "What is the work done when a force acts on an object, but the object doesn't move?",
+        "a": "Zero",
+        "b": "Positive",
+        "c": "Negative",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following statements is true about work?",
+        "a": "Work is a vector quantity",
+        "b": "Work depends on the path taken",
+        "c": "Work is always positive",
+        "d": "Work and energy are the same thing",
+        "r": "b"
+    },
+    {
+        "q": "Which energy transformation occurs when a battery is used to power a flashlight?",
+        "a": "Chemical energy is converted to light energy",
+        "b": "Electrical energy is converted to light energy",
+        "c": "Light energy is converted to electrical energy",
+        "d": "Light energy is converted to chemical energy",
+        "r": "b"
+    },
+    {
+        "q": "The gravitational potential energy of an object depends on its",
+        "a": "Mass",
+        "b": "Volume",
+        "c": "Shape",
+        "d": "Temperature",
+        "r": "a"
+    },
+    {
+        "q": "A person holding a book is an example of which type of work?",
+        "a": "Negative work",
+        "b": "Positive work",
+        "c": "Zero work",
+        "d": "None of the above",
+        "r": "c"
+    },
+    {
+        "q": "A machine is used to lift a load of 200 N to a height of 4 meters. How much work is done?",
+        "a": "200 J",
+        "b": "400 J",
+        "c": "600 J",
+        "d": "800 J",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of potential energy?",
+        "a": "A rolling ball",
+        "b": "A flying kite",
+        "c": "A stretched rubber band",
+        "d": "A car in motion",
+        "r": "c"
+    },
+    {
+        "q": "Which type of energy transformation occurs when an electric fan is turned on?",
+        "a": "Electrical energy to sound energy",
+        "b": "Electrical energy to mechanical energy",
+        "c": "Mechanical energy to electrical energy",
+        "d": "Sound energy to electrical energy",
+        "r": "b"
+    },
+    {
+        "q": "An object has a kinetic energy of 100 J and a mass of 20 kg. What is its speed?",
+        "a": "2 m/s",
+        "b": "4 m/s",
+        "c": "5 m/s",
+        "d": "10 m/s",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a conservative force?",
+        "a": "Friction",
+        "b": "Gravity",
+        "c": "Air resistance",
+        "d": "Magnetic force",
+        "r": "b"
+    },
+    {
+        "q": "The work-energy principle states that the work done on an object is equal to",
+        "a": "The change in its kinetic energy",
+        "b": "The change in its potential energy",
+        "c": "The change in its mechanical energy",
+        "d": "The change in its thermal energy",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following statements is true about power?",
+        "a": "Power is a scalar quantity",
+        "b": "Power depends on the frame of reference",
+        "c": "Power is the rate of doing work",
+        "d": "Power is independent of time",
+        "r": "c"
+    },
+    {
+        "q": "An object has gravitational potential energy due to its position",
+        "a": "Relative to the object's height above the ground",
+        "b": "Relative to the object's mass",
+        "c": "Relative to the object's speed",
+        "d": "Relative to the object's temperature",
+        "r": "a"
+    },
+    {
+        "q": "Which type of energy transformation occurs when a pendulum swings?",
+        "a": "Potential energy to mechanical energy",
+        "b": "Kinetic energy to potential energy",
+        "c": "Potential energy to heat energy",
+        "d": "Mechanical energy to sound energy",
+        "r": "b"
+    },
+    {
+        "q": "A car with a mass of 1000 kg accelerates at 2 m/s². What is the net force acting on the car?",
+        "a": "2000 N",
+        "b": "1000 N",
+        "c": "500 N",
+        "d": "200 N",
+        "r": "a"
+    },
+    {
+        "q": "The work done by a force can be calculated as the product of",
+        "a": "The distance moved and the force applied",
+        "b": "The mass and the acceleration",
+        "c": "The initial velocity and final velocity",
+        "d": "The change in momentum and time",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a non-conservative force?",
+        "a": "Gravity",
+        "b": "Tension",
+        "c": "Friction",
+        "d": "Elastic force",
+        "r": "c"
+    },
+    {
+        "q": "An object has a potential energy of 50 J and a mass of 10 kg. What is its height?",
+        "a": "5 m",
+        "b": "10 m",
+        "c": "15 m",
+        "d": "20 m",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a unit of power?",
+        "a": "Joule",
+        "b": "Newton",
+        "c": "Watt",
+        "d": "Pascal",
+        "r": "c"
+    },
+    {
+        "q": "Which type of energy transformation occurs in a toaster?",
+        "a": "Electrical energy to heat energy",
+        "b": "Mechanical energy to electrical energy",
+        "c": "Heat energy to electrical energy",
+        "d": "Heat energy to mechanical energy",
+        "r": "a"
+    },
+    {
+        "q": "A force of 30 N is applied to an object, and it moves a distance of 5 meters. How much work is done?",
+        "a": "150 J",
+        "b": "120 J",
+        "c": "100 J",
+        "d": "90 J",
+        "r": "a"
+    },
+    {
+        "q": "The total mechanical energy of an object is the sum of",
+        "a": "Its kinetic energy and potential energy",
+        "b": "Its kinetic energy and thermal energy",
+        "c": "Its kinetic energy and electrical energy",
+        "d": "Its potential energy and electrical energy",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following statements is true about kinetic energy?",
+        "a": "Kinetic energy depends on the object's mass",
+        "b": "Kinetic energy depends on the object's shape",
+        "c": "Kinetic energy depends on the object's speed",
+        "d": "Kinetic energy depends on the object's color",
+        "r": "c"
+    },
+    {
+        "q": "Which type of energy transformation occurs when a guitar string is plucked?",
+        "a": "Mechanical energy to sound energy",
+        "b": "Electrical energy to sound energy",
+        "c": "Sound energy to electrical energy",
+        "d": "Sound energy to mechanical energy",
+        "r": "a"
+    },
+    {
+        "q": "An object has a kinetic energy of 64 J and a mass of 8 kg. What is its speed?",
+        "a": "4 m/s",
+        "b": "6 m/s",
+        "c": "8 m/s",
+        "d": "10 m/s",
+        "r": "a"
+    },
+    {
+        "q": "The work done against friction results in",
+        "a": "A decrease in kinetic energy",
+        "b": "An increase in kinetic energy",
+        "c": "A decrease in potential energy",
+        "d": "An increase in potential energy",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a type of potential energy?",
+        "a": "Gravitational potential energy",
+        "b": "Elastic potential energy",
+        "c": "Chemical potential energy",
+        "d": "Kinetic potential energy",
+        "r": "d"
+    },
+    {
+        "q": "What is the kinetic energy of a 500 kg roller coaster moving at 20 m/s?",
+        "a": "50,000 J",
+        "b": "100,000 J",
+        "c": "150,000 J",
+        "d": "200,000 J",
+        "r": "c"
+    },
+    {
+        "q": "The work done by a force is negative when",
+        "a": "The force and displacement are in the same direction",
+        "b": "The force and displacement are in opposite directions",
+        "c": "The force is zero",
+        "d": "The displacement is zero",
+        "r": "b"
+    },
+    {
+        "q": "What is the force of attraction between two objects with masses M and m, separated by a distance r?",
+        "a": "Gravitational force",
+        "b": "Magnetic force",
+        "c": "Electrical force",
+        "d": "Frictional force",
+        "r": "a"
+    },
+    {
+        "q": "Who formulated the law of universal gravitation?",
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Galileo Galilei",
+        "d": "Archimedes",
+        "r": "a"
+    },
+    {
+        "q": "The law of universal gravitation states that the force between two objects is directly proportional to:",
+        "a": "The product of their masses",
+        "b": "The distance between them",
+        "c": "The square of the distance between them",
+        "d": "The sum of their masses",
+        "r": "a"
+    },
+    {
+        "q": "What is the SI unit of the gravitational force?",
+        "a": "Newton",
+        "b": "Kilogram",
+        "c": "Joule",
+        "d": "Pascal",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT an example of gravitational force?",
+        "a": "Moon pulling tides on Earth",
+        "b": "An apple falling from a tree",
+        "c": "A satellite orbiting the Earth",
+        "d": "A charged particle moving in a magnetic field",
+        "r": "d"
+    },
+    {
+        "q": "What happens to the force of gravitational attraction between two objects when the distance between them is doubled?",
+        "a": "It becomes one-fourth",
+        "b": "It becomes half",
+        "c": "It becomes four times",
+        "d": "It remains the same",
+        "r": "a"
+    },
+    {
+        "q": "Which planet in our solar system has the strongest gravitational force?",
+        "a": "Jupiter",
+        "b": "Earth",
+        "c": "Mars",
+        "d": "Venus",
+        "r": "a"
+    },
+    {
+        "q": "If an object weighs 50 N on the surface of the Earth, what is its mass?",
+        "a": "5 kg",
+        "b": "10 kg",
+        "c": "20 kg",
+        "d": "100 kg",
+        "r": "a"
+    },
+    {
+        "q": "The value of the gravitational constant (G) is approximately:",
+        "a": "6.67 x 10⁻¹¹ N(m/kg)²",
+        "b": "9.8 m/s²",
+        "c": "3.14 m/s²",
+        "d": "1.62 m/s²",
+        "r": "a"
+    },
+    {
+        "q": "What is the direction of the gravitational force between two objects?",
+        "a": "Along the line joining the centers of the objects",
+        "b": "Perpendicular to the line joining the centers of the objects",
+        "c": "Opposite to the direction of the line joining the centers of the objects",
+        "d": "Random direction",
+        "r": "a"
+    },
+    {
+        "q": "Which force is responsible for keeping the planets in orbit around the Sun?",
+        "a": "Gravitational force",
+        "b": "Electrostatic force",
+        "c": "Magnetic force",
+        "d": "Nuclear force",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following best describes weight?",
+        "a": "The force of gravity on an object",
+        "b": "The mass of an object",
+        "c": "The volume of an object",
+        "d": "The density of an object",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of the acceleration due to gravity at the center of the Earth?",
+        "a": "Zero",
+        "b": "9.8 m/s²",
+        "c": "3.14 m/s²",
+        "d": "1.62 m/s²",
+        "r": "a"
+    },
+    {
+        "q": "The mass of an object is measured in:",
+        "a": "Kilograms",
+        "b": "Newtons",
+        "c": "Joules",
+        "d": "Meters",
+        "r": "a"
+    },
+    {
+        "q": "What is the gravitational force between two objects with masses M and m, separated by a distance r, if the distance is doubled?",
+        "a": "1/4 times the original force",
+        "b": "1/2 times the original force",
+        "c": "4 times the original force",
+        "d": "The force remains the same",
+        "r": "a"
+    },
+    {
+        "q": "The weight of an object can be zero when it is placed at:",
+        "a": "The center of the Earth",
+        "b": "The surface of the Earth",
+        "c": "Infinity",
+        "d": "Any point in space",
+        "r": "a"
+    },
+    {
+        "q": "The gravitational force between two objects is doubled. If the distance between them remains the same, how will the force change?",
+        "a": "It will become half",
+        "b": "It will remain the same",
+        "c": "It will become four times",
+        "d": "It will become one-fourth",
+        "r": "c"
+    },
+    {
+        "q": "What is the shape of the path followed by a planet around the Sun?",
+        "a": "Elliptical",
+        "b": "Circular",
+        "c": "Straight line",
+        "d": "Parabolic",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following factors does NOT influence the gravitational force between two objects?",
+        "a": "Charge of the objects",
+        "b": "Mass of the objects",
+        "c": "Distance between the objects",
+        "d": "Gravitational constant (G)",
+        "r": "a"
+    },
+    {
+        "q": "The gravitational force between two objects is 36 N. If the distance between the objects is halved, what will be the new force?",
+        "a": "144 N",
+        "b": "18 N",
+        "c": "72 N",
+        "d": "9 N",
+        "r": "c"
+    },
+    {
+        "q": "What happens to the gravitational force between two objects when the mass of one object is doubled?",
+        "a": "It becomes half",
+        "b": "It remains the same",
+        "c": "It becomes four times",
+        "d": "It becomes twice",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following statements is true about gravitational potential energy?",
+        "a": "It depends on the mass and height of the object",
+        "b": "It depends on the mass and speed of the object",
+        "c": "It depends on the mass and the shape of the object",
+        "d": "It depends on the distance between two objects",
+        "r": "a"
+    },
+    {
+        "q": "Which law explains why a person weighs less at the top of a mountain compared to sea level?",
+        "a": "Law of inertia",
+        "b": "Newton's third law of motion",
+        "c": "Archimedes' principle",
+        "d": "Law of universal gravitation",
+        "r": "d"
+    },
+    {
+        "q": "What is the escape velocity of an object on the surface of the Earth?",
+        "a": "Approximately 11.2 km/s",
+        "b": "Approximately 9.8 m/s",
+        "c": "Approximately 3.14 m/s²",
+        "d": "Approximately 1.62 m/s²",
+        "r": "a"
+    },
+    {
+        "q": "The gravitational force between two objects is 64 N. If the masses of both objects are doubled, what will be the new force between them?",
+        "a": "256 N",
+        "b": "32 N",
+        "c": "128 N",
+        "d": "16 N",
+        "r": "a"
+    },
+    {
+        "q": "The gravitational force between two objects is 100 N. If the distance between the objects is tripled, what will be the new force?",
+        "a": "33.33 N",
+        "b": "200 N",
+        "c": "25 N",
+        "d": "300 N",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a fundamental force of nature?",
+        "a": "Gravitational force",
+        "b": "Electromagnetic force",
+        "c": "Strong nuclear force",
+        "d": "Weak nuclear force",
+        "r": "d"
+    },
+    {
+        "q": "What happens to the force of gravitational attraction between two objects when the distance between them is quadrupled?",
+        "a": "It becomes one-sixteenth",
+        "b": "It becomes one-fourth",
+        "c": "It becomes double",
+        "d": "It becomes half",
+        "r": "a"
+    },
+    {
+        "q": "Which scientist is credited with the concept of escape velocity?",
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Galileo Galilei",
+        "d": "Johannes Kepler",
+        "r": "c"
+    },
+    {
+        "q": "If an object weighs 200 N on Earth, what will be its weight on the Moon?",
+        "a": "Approximately 1/6 times the weight on Earth",
+        "b": "Approximately 6 times the weight on Earth",
+        "c": "Approximately 1/4 times the weight on Earth",
+        "d": "Approximately the same weight on Earth",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a state of matter?",
+        "a": "solid",
+        "b": "liquid",
+        "c": "gas",
+        "d": "ion",
+        "r": "d"
+    },
+    {
+        "q": "What is the SI unit of density?",
+        "a": "kg/m^3",
+        "b": "g/cm^3",
+        "c": "g/m^3",
+        "d": "kg/cm^3",
+        "r": "a"
+    },
+    {
+        "q": "Which property of matter causes it to resist a change in its state of motion?",
+        "a": "mass",
+        "b": "volume",
+        "c": "temperature",
+        "d": "weight",
+        "r": "a"
+    },
+    {
+        "q": "What is the process called when a gas turns into a liquid?",
+        "a": "evaporation",
+        "b": "boiling",
+        "c": "condensation",
+        "d": "sublimation",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is NOT a characteristic of a solid?",
+        "a": "definite shape and volume",
+        "b": "molecules packed closely together",
+        "c": "low compressibility",
+        "d": "takes the shape of its container",
+        "r": "d"
+    },
+    {
+        "q": "What happens to the density of an object if its mass increases while its volume remains the same?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "It cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "What is the melting point of ice in Celsius?",
+        "a": "0°C",
+        "b": "100°C",
+        "c": "273°C",
+        "d": "-100°C",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following statements about liquids is true?",
+        "a": "They have a definite shape",
+        "b": "They have fixed volume",
+        "c": "Their molecules are far apart",
+        "d": "They cannot flow",
+        "r": "b"
+    },
+    {
+        "q": "What happens to the pressure inside a container of gas if its volume decreases while the temperature remains constant?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "It cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "The ability of a liquid to flow is called...?",
+        "a": "buoyancy",
+        "b": "viscosity",
+        "c": "tension",
+        "d": "elasticity",
+        "r": "b"
+    },
+    {
+        "q": "Which state of matter has the highest kinetic energy?",
+        "a": "solid",
+        "b": "liquid",
+        "c": "gas",
+        "d": "plasma",
+        "r": "c"
+    },
+    {
+        "q": "Which property of matter is responsible for a rubber band to stretch when pulled?",
+        "a": "viscosity",
+        "b": "elasticity",
+        "c": "hardness",
+        "d": "density",
+        "r": "b"
+    },
+    {
+        "q": "Which law states that the pressure of a gas is inversely proportional to its volume at constant temperature?",
+        "a": "Boyle's law",
+        "b": "Charles's law",
+        "c": "Gay-Lussac's law",
+        "d": "Archimedes' principle",
+        "r": "a"
+    },
+    {
+        "q": "The density of an object depends on its...?",
+        "a": "mass",
+        "b": "volume",
+        "c": "weight",
+        "d": "both mass and volume",
+        "r": "d"
+    },
+    {
+        "q": "What happens to the boiling point of water at higher altitudes?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "It cannot be determined",
+        "r": "b"
+    },
+    {
+        "q": "What is the SI unit of pressure?",
+        "a": "pascal",
+        "b": "newton",
+        "c": "joule",
+        "d": "watt",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a unit of density?",
+        "a": "g/cm^3",
+        "b": "kg/m^3",
+        "c": "g/L",
+        "d": "N/m^2",
+        "r": "d"
+    },
+    {
+        "q": "The phenomenon of change of a solid directly into a gas is called...?",
+        "a": "melting",
+        "b": "boiling",
+        "c": "sublimation",
+        "d": "condensation",
+        "r": "c"
+    },
+    {
+        "q": "What is the pressure exerted by the atmosphere on the earth's surface called?",
+        "a": "atmospheric pressure",
+        "b": "barometric pressure",
+        "c": "hydrostatic pressure",
+        "d": "ambient pressure",
+        "r": "a"
+    },
+    {
+        "q": "The process of a gas turning into a liquid is known as...?",
+        "a": "condensation",
+        "b": "evaporation",
+        "c": "freezing",
+        "d": "melting",
+        "r": "a"
+    },
+    {
+        "q": "What is the density of water in g/cm^3?",
+        "a": "0.1 g/cm^3",
+        "b": "1 g/cm^3",
+        "c": "10 g/cm^3",
+        "d": "100 g/cm^3",
+        "r": "b"
+    },
+    {
+        "q": "Which property of matter allows it to be hammered into thin sheets?",
+        "a": "ductility",
+        "b": "malleability",
+        "c": "tenacity",
+        "d": "brittleness",
+        "r": "b"
+    },
+    {
+        "q": "The SI unit of temperature is...?",
+        "a": "degree Celsius",
+        "b": "kelvin",
+        "c": "Fahrenheit",
+        "d": "degree Rankine",
+        "r": "b"
+    },
+    {
+        "q": "Which law states that the volume of a gas is directly proportional to its absolute temperature at constant pressure?",
+        "a": "Charles's law",
+        "b": "Boyle's law",
+        "c": "Gay-Lussac's law",
+        "d": "Avogadro's law",
+        "r": "a"
+    },
+    {
+        "q": "The process of a liquid turning into a gas at its boiling point is known as...?",
+        "a": "melting",
+        "b": "sublimation",
+        "c": "freezing",
+        "d": "evaporation",
+        "r": "d"
+    },
+    {
+        "q": "What is the value of the acceleration due to gravity on the surface of the earth approximately?",
+        "a": "10 m/s^2",
+        "b": "100 m/s^2",
+        "c": "9.8 m/s^2",
+        "d": "1 m/s^2",
+        "r": "c"
+    },
+    {
+        "q": "Which state of matter has the least kinetic energy?",
+        "a": "solid",
+        "b": "liquid",
+        "c": "gas",
+        "d": "plasma",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the density of an object if both its mass and volume increase proportionally?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "It cannot be determined",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following materials has the highest density?",
+        "a": "aluminum",
+        "b": "copper",
+        "c": "wood",
+        "d": "gold",
+        "r": "d"
+    },
+    {
+        "q": "What happens to the pressure of a gas inside a container if its temperature increases while the volume remains constant?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "It cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "Which property of matter allows it to be drawn into wires?",
+        "a": "tenacity",
+        "b": "ductility",
+        "c": "hardness",
+        "d": "brittleness",
+        "r": "b"
+    },
+    {
+        "q": "What is the SI unit of kinetic energy?",
+        "a": "joule",
+        "b": "watt",
+        "c": "pascal",
+        "d": "newton",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a characteristic of a liquid?",
+        "a": "definite shape",
+        "b": "takes the shape of its container",
+        "c": "high compressibility",
+        "d": "flows",
+        "r": "c"
+    },
+    {
+        "q": "What happens to the boiling point of a liquid if the pressure on its surface increases?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "It cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "The process of a liquid turning into a solid is known as...?",
+        "a": "evaporation",
+        "b": "boiling",
+        "c": "freezing",
+        "d": "condensation",
+        "r": "c"
+    },
+    {
+        "q": "What is the atmospheric pressure at sea level in pascals?",
+        "a": "10,000 Pa",
+        "b": "100,000 Pa",
+        "c": "760,000 Pa",
+        "d": "1,013,250 Pa",
+        "r": "c"
+    },
+    {
+        "q": "Which state of matter has the shape of its container and high compressibility?",
+        "a": "solid",
+        "b": "liquid",
+        "c": "gas",
+        "d": "plasma",
+        "r": "c"
+    },
+    {
+        "q": "What is the SI unit of elastic potential energy?",
+        "a": "joule",
+        "b": "newton",
+        "c": "watt",
+        "d": "pascal",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a unit of pressure?",
+        "a": "N/m^2",
+        "b": "Pa",
+        "c": "atm",
+        "d": "J",
+        "r": "d"
+    },
+    {
+        "q": "The process of a solid turning into a liquid is known as...?",
+        "a": "sublimation",
+        "b": "condensation",
+        "c": "freezing",
+        "d": "melting",
+        "r": "d"
+    },
+    {
+        "q": "Which law of thermodynamics deals with the conservation of energy?",
+        "a": "first law",
+        "b": "second law",
+        "c": "third law",
+        "d": "zeroth law",
+        "r": "a"
+    },
+    {
+        "q": "The SI unit of heat is ___.",
+        "a": "joule",
+        "b": "calorie",
+        "c": "watt",
+        "d": "kilogram",
+        "r": "a"
+    },
+    {
+        "q": "The internal energy of an ideal gas depends on ___.",
+        "a": "pressure",
+        "b": "temperature",
+        "c": "volume",
+        "d": "mass",
+        "r": "b"
+    },
+    {
+        "q": "The concept of absolute zero is associated with which law of thermodynamics?",
+        "a": "first law",
+        "b": "second law",
+        "c": "third law",
+        "d": "zeroth law",
+        "r": "d"
+    },
+    {
+        "q": "The heat transfer that takes place through electromagnetic waves is called ___.",
+        "a": "conduction",
+        "b": "convection",
+        "c": "radiation",
+        "d": "conduction and convection",
+        "r": "c"
+    },
+    {
+        "q": "Which thermodynamic process involves no exchange of heat with the surroundings?",
+        "a": "isothermal",
+        "b": "adiabatic",
+        "c": "isobaric",
+        "d": "isochoric",
+        "r": "b"
+    },
+    {
+        "q": "The entropy of a system increases in which of the following processes?",
+        "a": "isothermal expansion",
+        "b": "adiabatic compression",
+        "c": "isobaric contraction",
+        "d": "isochoric heating",
+        "r": "a"
+    },
+    {
+        "q": "The second law of thermodynamics is based on which property of a system?",
+        "a": "internal energy",
+        "b": "temperature",
+        "c": "entropy",
+        "d": "pressure",
+        "r": "c"
+    },
+    {
+        "q": "What is the efficiency of a heat engine that absorbs 4000 J of heat and produces 1000 J of work?",
+        "a": "25%",
+        "b": "40%",
+        "c": "20%",
+        "d": "10%",
+        "r": "c"
+    },
+    {
+        "q": "Which statement is true for an isochoric process?",
+        "a": "Work done is zero",
+        "b": "Heat transfer is zero",
+        "c": "Change in internal energy is zero",
+        "d": "All of the above",
+        "r": "d"
+    },
+    {
+        "q": "Which law of thermodynamics states that the entropy of an isolated system always increases?",
+        "a": "first law",
+        "b": "second law",
+        "c": "third law",
+        "d": "zeroth law",
+        "r": "b"
+    },
+    {
+        "q": "The efficiency of a Carnot engine depends on which of the following temperatures?",
+        "a": "High temperature",
+        "b": "Low temperature",
+        "c": "Both high and low temperatures",
+        "d": "None of the above",
+        "r": "c"
+    },
+    {
+        "q": "A thermodynamic process in which the volume remains constant is called ___.",
+        "a": "isothermal",
+        "b": "adiabatic",
+        "c": "isobaric",
+        "d": "isochoric",
+        "r": "d"
+    },
+    {
+        "q": "The heat energy required to raise the temperature of one gram of a substance by one degree Celsius is called ___.",
+        "a": "specific heat capacity",
+        "b": "latent heat",
+        "c": "sensible heat",
+        "d": "heat of fusion",
+        "r": "a"
+    },
+    {
+        "q": "Which law of thermodynamics deals with the concept of absolute temperature?",
+        "a": "first law",
+        "b": "second law",
+        "c": "third law",
+        "d": "zeroth law",
+        "r": "c"
+    },
+    {
+        "q": "The temperature at which the volume of an ideal gas becomes zero is called ___.",
+        "a": "absolute zero",
+        "b": "triple point",
+        "c": "boiling point",
+        "d": "melting point",
+        "r": "a"
+    },
+    {
+        "q": "Which statement is true for an adiabatic process?",
+        "a": "Heat transfer is zero",
+        "b": "Work done is zero",
+        "c": "Change in internal energy is zero",
+        "d": "All of the above",
+        "r": "a"
+    },
+    {
+        "q": "In which of the following processes, the entropy of an ideal gas decreases?",
+        "a": "Adiabatic expansion",
+        "b": "Isothermal compression",
+        "c": "Isobaric heating",
+        "d": "Isochoric cooling",
+        "r": "b"
+    },
+    {
+        "q": "What is the SI unit of entropy?",
+        "a": "J/K",
+        "b": "J/Kg",
+        "c": "K/J",
+        "d": "KJ",
+        "r": "a"
+    },
+    {
+        "q": "The process of conversion of a solid directly into a gas is called ___.",
+        "a": "sublimation",
+        "b": "condensation",
+        "c": "evaporation",
+        "d": "melting",
+        "r": "a"
+    },
+    {
+        "q": "The triple point of water is defined as ___.",
+        "a": "273.16 K",
+        "b": "0.01°C",
+        "c": "32°F",
+        "d": "273.15°C",
+        "r": "d"
+    },
+    {
+        "q": "Which statement is true for an isobaric process?",
+        "a": "Work done is zero",
+        "b": "Heat transfer is zero",
+        "c": "Change in internal energy is zero",
+        "d": "All of the above",
+        "r": "b"
+    },
+    {
+        "q": "What is the specific heat capacity of water?",
+        "a": "1 J/(g°C)",
+        "b": "4.18 J/(g°C)",
+        "c": "2.2 J/(g°C)",
+        "d": "0.5 J/(g°C)",
+        "r": "b"
+    },
+    {
+        "q": "The entropy of a system ___.",
+        "a": "remains constant",
+        "b": "decreases",
+        "c": "increases",
+        "d": "becomes zero",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is NOT a state function?",
+        "a": "Temperature",
+        "b": "Pressure",
+        "c": "Heat",
+        "d": "Internal energy",
+        "r": "c"
+    },
+    {
+        "q": "The point at which a liquid turns into a gas at a constant temperature is called ___.",
+        "a": "boiling point",
+        "b": "melting point",
+        "c": "freezing point",
+        "d": "condensation point",
+        "r": "a"
+    },
+    {
+        "q": "The process of a gas becoming a liquid is called ___.",
+        "a": "condensation",
+        "b": "sublimation",
+        "c": "melting",
+        "d": "evaporation",
+        "r": "a"
+    },
+    {
+        "q": "The heat absorbed or released during a phase change at constant temperature is called ___.",
+        "a": "sensible heat",
+        "b": "latent heat",
+        "c": "specific heat capacity",
+        "d": "heat of fusion",
+        "r": "b"
+    },
+    {
+        "q": "The internal energy of an ideal gas is directly proportional to its ___.",
+        "a": "pressure",
+        "b": "temperature",
+        "c": "volume",
+        "d": "mass",
+        "r": "b"
+    },
+    {
+        "q": "The efficiency of a Carnot engine operating between two temperatures T1 and T2 is given by ___.",
+        "a": "(T1 - T2) / T1",
+        "b": "(T2 - T1) / T2",
+        "c": "(T1 - T2) / T2",
+        "d": "(T2 - T1) / T1",
+        "r": "d"
+    },
+    {
+        "q": "The process of a gas becoming a solid is called ___.",
+        "a": "sublimation",
+        "b": "condensation",
+        "c": "melting",
+        "d": "deposition",
+        "r": "d"
+    },
+    {
+        "q": "Which law of thermodynamics deals with the concept of entropy?",
+        "a": "first law",
+        "b": "second law",
+        "c": "third law",
+        "d": "zeroth law",
+        "r": "b"
+    },
+    {
+        "q": "The point at which a gas turns into a liquid at a constant temperature is called ___.",
+        "a": "boiling point",
+        "b": "melting point",
+        "c": "freezing point",
+        "d": "condensation point",
+        "r": "d"
+    },
+    {
+        "q": "What is the SI unit of specific heat capacity?",
+        "a": "J/g°C",
+        "b": "J/K",
+        "c": "K/J",
+        "d": "J/(Kg°C)",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following processes is represented by a horizontal line on a P-V diagram?",
+        "a": "Isothermal",
+        "b": "Adiabatic",
+        "c": "Isobaric",
+        "d": "Isochoric",
+        "r": "a"
+    },
+    {
+        "q": "The total entropy of an isolated system ___.",
+        "a": "remains constant",
+        "b": "decreases",
+        "c": "increases",
+        "d": "becomes zero",
+        "r": "c"
+    },
+    {
+        "q": "The process of a gas becoming a gas is called ___.",
+        "a": "sublimation",
+        "b": "condensation",
+        "c": "evaporation",
+        "d": "deposition",
+        "r": "c"
+    },
+    {
+        "q": "Which statement is true for an isothermal process?",
+        "a": "Work done is zero",
+        "b": "Heat transfer is zero",
+        "c": "Change in internal energy is zero",
+        "d": "All of the above",
+        "r": "d"
+    },
+    {
+        "q": "what is the term for the maximum displacement of particles in a wave?",
+        "a": "amplitude",
+        "b": "wavelength",
+        "c": "frequency",
+        "d": "velocity",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is a longitudinal wave?",
+        "a": "sound wave",
+        "b": "light wave",
+        "c": "radio wave",
+        "d": "microwaves",
+        "r": "a"
+    },
+    {
+        "q": "which wave property determines the loudness of sound?",
+        "a": "amplitude",
+        "b": "frequency",
+        "c": "wavelength",
+        "d": "velocity",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves can travel through a vacuum?",
+        "a": "electromagnetic waves",
+        "b": "mechanical waves",
+        "c": "transverse waves",
+        "d": "longitudinal waves",
+        "r": "a"
+    },
+    {
+        "q": "what type of wave is a water wave?",
+        "a": "mechanical wave",
+        "b": "electromagnetic wave",
+        "c": "longitudinal wave",
+        "d": "transverse wave",
+        "r": "a"
+    },
+    {
+        "q": "what is the speed of sound in air at room temperature?",
+        "a": "around 343 m/s",
+        "b": "around 299,792,458 m/s",
+        "c": "around 30 cm/s",
+        "d": "around 9.8 m/s",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves require a medium to travel through?",
+        "a": "mechanical waves",
+        "b": "electromagnetic waves",
+        "c": "transverse waves",
+        "d": "longitudinal waves",
+        "r": "a"
+    },
+    {
+        "q": "what phenomenon occurs when two waves combine to form a new wave with a larger amplitude?",
+        "a": "constructive interference",
+        "b": "destructive interference",
+        "c": "diffraction",
+        "d": "refraction",
+        "r": "a"
+    },
+    {
+        "q": "what is the name for the bouncing back of a wave after hitting a barrier?",
+        "a": "reflection",
+        "b": "refraction",
+        "c": "diffraction",
+        "d": "interference",
+        "r": "a"
+    },
+    {
+        "q": "what is the term for the number of cycles a wave completes in one second?",
+        "a": "frequency",
+        "b": "wavelength",
+        "c": "amplitude",
+        "d": "period",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves are used in communication systems such as mobile phones?",
+        "a": "radio waves",
+        "b": "sound waves",
+        "c": "gamma rays",
+        "d": "infrared waves",
+        "r": "a"
+    },
+    {
+        "q": "which property of a wave determines its color in the visible spectrum?",
+        "a": "frequency",
+        "b": "amplitude",
+        "c": "wavelength",
+        "d": "velocity",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves have the highest energy in the electromagnetic spectrum?",
+        "a": "gamma rays",
+        "b": "radio waves",
+        "c": "microwaves",
+        "d": "ultraviolet rays",
+        "r": "a"
+    },
+    {
+        "q": "what is the name for the bending of waves around obstacles or edges?",
+        "a": "diffraction",
+        "b": "reflection",
+        "c": "refraction",
+        "d": "interference",
+        "r": "a"
+    },
+    {
+        "q": "which property of a wave determines its pitch in sound waves?",
+        "a": "frequency",
+        "b": "amplitude",
+        "c": "wavelength",
+        "d": "velocity",
+        "r": "a"
+    },
+    {
+        "q": "what is the term for the distance between two consecutive crests or troughs of a wave?",
+        "a": "wavelength",
+        "b": "frequency",
+        "c": "amplitude",
+        "d": "period",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves are used in x-ray imaging?",
+        "a": "x-rays",
+        "b": "radio waves",
+        "c": "ultraviolet rays",
+        "d": "microwaves",
+        "r": "a"
+    },
+    {
+        "q": "what happens to the pitch of a sound wave when the frequency increases?",
+        "a": "it increases",
+        "b": "it decreases",
+        "c": "it remains the same",
+        "d": "it becomes zero",
+        "r": "a"
+    },
+    {
+        "q": "which of the following waves can be polarized?",
+        "a": "transverse waves",
+        "b": "longitudinal waves",
+        "c": "mechanical waves",
+        "d": "electromagnetic waves",
+        "r": "a"
+    },
+    {
+        "q": "what is the name for the bending of waves as they pass from one medium to another?",
+        "a": "refraction",
+        "b": "reflection",
+        "c": "diffraction",
+        "d": "interference",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves have the longest wavelength in the electromagnetic spectrum?",
+        "a": "radio waves",
+        "b": "gamma rays",
+        "c": "x-rays",
+        "d": "microwaves",
+        "r": "a"
+    },
+    {
+        "q": "what is the term for the time it takes for one full cycle of a wave to pass a point?",
+        "a": "period",
+        "b": "wavelength",
+        "c": "frequency",
+        "d": "amplitude",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves are used in cooking food in microwave ovens?",
+        "a": "microwaves",
+        "b": "ultraviolet rays",
+        "c": "infrared waves",
+        "d": "x-rays",
+        "r": "a"
+    },
+    {
+        "q": "what is the phenomenon where the frequency of a wave increases as the source approaches an observer?",
+        "a": "Doppler effect",
+        "b": "diffraction",
+        "c": "refraction",
+        "d": "interference",
+        "r": "a"
+    },
+    {
+        "q": "which property of a wave determines its energy?",
+        "a": "amplitude",
+        "b": "frequency",
+        "c": "wavelength",
+        "d": "velocity",
+        "r": "a"
+    },
+    {
+        "q": "what is the name for the repeating pattern of compression and rarefaction in a longitudinal wave?",
+        "a": "cycle",
+        "b": "period",
+        "c": "wavelength",
+        "d": "frequency",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves are used in satellite communication?",
+        "a": "microwaves",
+        "b": "ultraviolet rays",
+        "c": "radio waves",
+        "d": "infrared waves",
+        "r": "a"
+    },
+    {
+        "q": "what is the term for the change in the direction of waves as they pass through an opening or around obstacles?",
+        "a": "diffraction",
+        "b": "reflection",
+        "c": "refraction",
+        "d": "interference",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves have the shortest wavelength in the electromagnetic spectrum?",
+        "a": "gamma rays",
+        "b": "radio waves",
+        "c": "x-rays",
+        "d": "ultraviolet rays",
+        "r": "a"
+    },
+    {
+        "q": "what happens to the speed of sound in air when the temperature increases?",
+        "a": "it increases",
+        "b": "it decreases",
+        "c": "it remains the same",
+        "d": "it becomes zero",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is not a property of waves?",
+        "a": "mass",
+        "b": "amplitude",
+        "c": "frequency",
+        "d": "wavelength",
+        "r": "a"
+    },
+    {
+        "q": "what is the name for the phenomenon of waves spreading out as they pass through an opening?",
+        "a": "diffraction",
+        "b": "reflection",
+        "c": "refraction",
+        "d": "interference",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves are used in photography to capture images?",
+        "a": "visible light waves",
+        "b": "sound waves",
+        "c": "infrared waves",
+        "d": "ultraviolet rays",
+        "r": "a"
+    },
+    {
+        "q": "what is the term for the change in the frequency of waves as a source moves relative to an observer?",
+        "a": "Doppler effect",
+        "b": "diffraction",
+        "c": "refraction",
+        "d": "interference",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is not an example of a mechanical wave?",
+        "a": "light wave",
+        "b": "sound wave",
+        "c": "water wave",
+        "d": "seismic wave",
+        "r": "a"
+    },
+    {
+        "q": "what is the name for the distance between two corresponding points on a wave?",
+        "a": "wavelength",
+        "b": "amplitude",
+        "c": "frequency",
+        "d": "period",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves are used in remote control devices?",
+        "a": "infrared waves",
+        "b": "ultraviolet rays",
+        "c": "microwaves",
+        "d": "x-rays",
+        "r": "a"
+    },
+    {
+        "q": "what is the term for the bending of waves when they pass from one medium to another with different velocities?",
+        "a": "refraction",
+        "b": "reflection",
+        "c": "diffraction",
+        "d": "interference",
+        "r": "a"
+    },
+    {
+        "q": "which property of a wave determines its brightness or intensity?",
+        "a": "amplitude",
+        "b": "frequency",
+        "c": "wavelength",
+        "d": "velocity",
+        "r": "a"
+    },
+    {
+        "q": "what is the name for the high point of a wave?",
+        "a": "crest",
+        "b": "trough",
+        "c": "frequency",
+        "d": "amplitude",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves are used in Wi-Fi communication?",
+        "a": "radio waves",
+        "b": "sound waves",
+        "c": "gamma rays",
+        "d": "infrared waves",
+        "r": "a"
+    },
+    {
+        "q": "what is the phenomenon of waves canceling each other out when they meet?",
+        "a": "destructive interference",
+        "b": "constructive interference",
+        "c": "diffraction",
+        "d": "refraction",
+        "r": "a"
+    },
+    {
+        "q": "what is the term for the number of waves passing a point in one second?",
+        "a": "frequency",
+        "b": "wavelength",
+        "c": "amplitude",
+        "d": "period",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves are used in MRI scanning?",
+        "a": "radio waves",
+        "b": "ultraviolet rays",
+        "c": "microwaves",
+        "d": "x-rays",
+        "r": "a"
+    },
+    {
+        "q": "what is the term for the difference between the highest and lowest points of a wave?",
+        "a": "amplitude",
+        "b": "wavelength",
+        "c": "frequency",
+        "d": "period",
+        "r": "a"
+    },
+    {
+        "q": "which type of waves are used in communication systems like television?",
+        "a": "radio waves",
+        "b": "sound waves",
+        "c": "gamma rays",
+        "d": "infrared waves",
+        "r": "a"
+    },
+    {
+        "q": "what is the phenomenon where the frequency of a wave decreases as the source moves away from an observer?",
+        "a": "Doppler effect",
+        "b": "diffraction",
+        "c": "refraction",
+        "d": "interference",
+        "r": "a"
+    },
+    {
+        "q": "which property of a wave determines its loudness?",
+        "a": "amplitude",
+        "b": "frequency",
+        "c": "wavelength",
+        "d": "velocity",
+        "r": "a"
+    },
+    {
+        "q": "what is the name for the low point of a wave?",
+        "a": "trough",
+        "b": "crest",
+        "c": "frequency",
+        "d": "amplitude",
+        "r": "a"
+    },
+    {
+        "q": "The phenomenon of light bending when it passes through a medium is called:",
+        "a": "refraction",
+        "b": "reflection",
+        "c": "diffraction",
+        "d": "interference",
+        "r": "a"
+    },
+    {
+        "q": "The angle of refraction is always:",
+        "a": "less than the angle of incidence",
+        "b": "equal to the angle of incidence",
+        "c": "greater than the angle of incidence",
+        "d": "none of the above",
+        "r": "b"
+    },
+    {
+        "q": "The refractive index of a medium is:",
+        "a": "the ratio of the speed of light in vacuum to the speed of light in the medium",
+        "b": "the ratio of the speed of light in the medium to the speed of light in vacuum",
+        "c": "the ratio of the wavelength of light in vacuum to the wavelength of light in the medium",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "The critical angle for a pair of media is the angle of incidence in the first medium for which the angle of refraction in the second medium is:",
+        "a": "0°",
+        "b": "90°",
+        "c": "45°",
+        "d": "none of the above",
+        "r": "b"
+    },
+    {
+        "q": "Total internal reflection occurs when the angle of incidence in the first medium is:",
+        "a": "greater than the critical angle",
+        "b": "less than the critical angle",
+        "c": "equal to the critical angle",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "The phenomenon of light spreading out when it passes through a small opening is called:",
+        "a": "refraction",
+        "b": "reflection",
+        "c": "diffraction",
+        "d": "interference",
+        "r": "c"
+    },
+    {
+        "q": "The pattern of light produced by diffraction is called:",
+        "a": "interference pattern",
+        "b": "diffraction pattern",
+        "c": "refraction pattern",
+        "d": "reflection pattern",
+        "r": "b"
+    },
+    {
+        "q": "The phenomenon of light waves interfering with each other is called:",
+        "a": "interference",
+        "b": "diffraction",
+        "c": "refraction",
+        "d": "reflection",
+        "r": "a"
+    },
+    {
+        "q": "The principle of superposition of waves states that:",
+        "a": "when two waves meet, they add up to give a resultant wave",
+        "b": "when two waves meet, they subtract from each other to give a resultant wave",
+        "c": "when two waves meet, they cancel each other out",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "The Young's double slit experiment is used to demonstrate:",
+        "a": "interference of light waves",
+        "b": "diffraction of light waves",
+        "c": "refraction of light waves",
+        "d": "reflection of light waves",
+        "r": "a"
+    },
+    {
+        "q": "The Michelson interferometer is used to measure:",
+        "a": "the speed of light",
+        "b": "the wavelength of light",
+        "c": "the refractive index of a medium",
+        "d": "the thickness of a thin film",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a type of mirror?",
+        "a": "plane mirror",
+        "b": "convex mirror",
+        "c": "concave mirror",
+        "d": "diverging mirror",
+        "r": "c"
+    },
+    {
+        "q": "What phenomenon causes light to change direction when passing through a medium?",
+        "a": "reflection",
+        "b": "diffraction",
+        "c": "refraction",
+        "d": "absorption",
+        "r": "c"
+    },
+    {
+        "q": "The bending of light as it passes through a lens is called:",
+        "a": "scattering",
+        "b": "dispersion",
+        "c": "polarization",
+        "d": "refraction",
+        "r": "d"
+    },
+    {
+        "q": "The angle of incidence is equal to the angle of:",
+        "a": "refraction",
+        "b": "reflection",
+        "c": "diffraction",
+        "d": "transmission",
+        "r": "b"
+    },
+    {
+        "q": "Which color of light has the highest frequency?",
+        "a": "blue",
+        "b": "green",
+        "c": "red",
+        "d": "violet",
+        "r": "d"
+    },
+    {
+        "q": "The image formed by a convex lens is always:",
+        "a": "virtual and magnified",
+        "b": "real and magnified",
+        "c": "virtual and reduced",
+        "d": "real and reduced",
+        "r": "b"
+    },
+    {
+        "q": "What is the unit of measurement for the focal length of a lens?",
+        "a": "meters",
+        "b": "diopters",
+        "c": "centimeters",
+        "d": "millimeters",
+        "r": "a"
+    },
+    {
+        "q": "Which type of lens can correct nearsightedness?",
+        "a": "concave lens",
+        "b": "convex lens",
+        "c": "plano-concave lens",
+        "d": "biconcave lens",
+        "r": "a"
+    },
+    {
+        "q": "Which type of mirror can form both real and virtual images?",
+        "a": "concave mirror",
+        "b": "plane mirror",
+        "c": "convex mirror",
+        "d": "diverging mirror",
+        "r": "a"
+    },
+    {
+        "q": "The phenomenon of a rainbow is an example of:",
+        "a": "refraction",
+        "b": "scattering",
+        "c": "diffraction",
+        "d": "interference",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary color of light?",
+        "a": "red",
+        "b": "yellow",
+        "c": "blue",
+        "d": "white",
+        "r": "c"
+    },
+    {
+        "q": "An object placed between the focal point and the lens will form a:",
+        "a": "real and inverted image",
+        "b": "virtual and upright image",
+        "c": "virtual and inverted image",
+        "d": "real and upright image",
+        "r": "c"
+    },
+    {
+        "q": "The bending of light around corners is called:",
+        "a": "scattering",
+        "b": "polarization",
+        "c": "diffraction",
+        "d": "refraction",
+        "r": "c"
+    },
+    {
+        "q": "Which type of lens can be used to focus sunlight to start a fire?",
+        "a": "concave lens",
+        "b": "plano-convex lens",
+        "c": "biconvex lens",
+        "d": "convex lens",
+        "r": "d"
+    },
+    {
+        "q": "What is the angle of reflection for light incident at 30 degrees to a mirror surface?",
+        "a": "30 degrees",
+        "b": "60 degrees",
+        "c": "90 degrees",
+        "d": "120 degrees",
+        "r": "a"
+    },
+    {
+        "q": "The process of light bouncing off a surface is called:",
+        "a": "refraction",
+        "b": "diffraction",
+        "c": "reflection",
+        "d": "transmission",
+        "r": "c"
+    },
+    {
+        "q": "The phenomenon of the bending of light around obstacles is called:",
+        "a": "reflection",
+        "b": "transmission",
+        "c": "refraction",
+        "d": "diffraction",
+        "r": "d"
+    },
+    {
+        "q": "The bending of light as it passes from air into water is an example of:",
+        "a": "reflection",
+        "b": "diffraction",
+        "c": "transmission",
+        "d": "refraction",
+        "r": "d"
+    },
+    {
+        "q": "What is the color of an object that reflects all colors of light?",
+        "a": "black",
+        "b": "white",
+        "c": "red",
+        "d": "green",
+        "r": "b"
+    },
+    {
+        "q": "What happens to the speed of light when it passes from air into glass?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "It depends on the color of the light",
+        "r": "b"
+    },
+    {
+        "q": "The phenomenon of splitting white light into its component colors is called:",
+        "a": "scattering",
+        "b": "dispersion",
+        "c": "refraction",
+        "d": "reflection",
+        "r": "b"
+    },
+    {
+        "q": "The image formed by a plane mirror is always:",
+        "a": "real and inverted image",
+        "b": "virtual and upright image",
+        "c": "virtual and inverted image",
+        "d": "real and upright image",
+        "r": "b"
+    },
+    {
+        "q": "When light is incident at an angle of 0 degrees on a mirror, it will be reflected at an angle of:",
+        "a": "0 degrees",
+        "b": "45 degrees",
+        "c": "90 degrees",
+        "d": "180 degrees",
+        "r": "a"
+    },
+    {
+        "q": "The image formed by a concave mirror when the object is placed at the focal point is:",
+        "a": "real and inverted image",
+        "b": "virtual and upright image",
+        "c": "virtual and inverted image",
+        "d": "real and upright image",
+        "r": "b"
+    },
+    {
+        "q": "Which type of lens is thinner at the center than at the edges?",
+        "a": "concave lens",
+        "b": "plano-concave lens",
+        "c": "biconcave lens",
+        "d": "plano-convex lens",
+        "r": "d"
+    },
+    {
+        "q": "What type of mirror is commonly used in car headlights?",
+        "a": "concave mirror",
+        "b": "plane mirror",
+        "c": "convex mirror",
+        "d": "diverging mirror",
+        "r": "c"
+    },
+    {
+        "q": "The angle of refraction is dependent on:",
+        "a": "the speed of light in the medium",
+        "b": "the color of light",
+        "c": "the angle of incidence",
+        "d": "the intensity of light",
+        "r": "c"
+    },
+    {
+        "q": "The process of light passing through a medium without being absorbed or scattered is called:",
+        "a": "reflection",
+        "b": "transmission",
+        "c": "refraction",
+        "d": "diffraction",
+        "r": "b"
+    },
+    {
+        "q": "Which type of lens can correct farsightedness?",
+        "a": "concave lens",
+        "b": "convex lens",
+        "c": "plano-convex lens",
+        "d": "biconvex lens",
+        "r": "b"
+    },
+    {
+        "q": "The image formed by a concave lens is always:",
+        "a": "virtual and magnified",
+        "b": "real and magnified",
+        "c": "virtual and reduced",
+        "d": "real and reduced",
+        "r": "a"
+    },
+    {
+        "q": "What is the color of an object that absorbs all colors of light?",
+        "a": "black",
+        "b": "white",
+        "c": "blue",
+        "d": "green",
+        "r": "a"
+    },
+    {
+        "q": "What is the angle of incidence for light reflected at 75 degrees?",
+        "a": "15 degrees",
+        "b": "30 degrees",
+        "c": "45 degrees",
+        "d": "75 degrees",
+        "r": "d"
+    },
+    {
+        "q": "The phenomenon of light being scattered by particles in the atmosphere is responsible for:",
+        "a": "rainbows",
+        "b": "mirages",
+        "c": "thunderstorms",
+        "d": "stars twinkling",
+        "r": "a"
+    },
+    {
+        "q": "Which type of lens is used in magnifying glasses?",
+        "a": "convex lens",
+        "b": "concave lens",
+        "c": "plano-convex lens",
+        "d": "biconvex lens",
+        "r": "a"
+    },
+    {
+        "q": "The bending of light as it passes through a prism is an example of:",
+        "a": "reflection",
+        "b": "diffraction",
+        "c": "transmission",
+        "d": "refraction",
+        "r": "d"
+    },
+    {
+        "q": "What is the secondary color of light?",
+        "a": "cyan",
+        "b": "yellow",
+        "c": "magenta",
+        "d": "red",
+        "r": "a"
+    },
+    {
+        "q": "What type of mirror always forms a virtual image?",
+        "a": "plane mirror",
+        "b": "convex mirror",
+        "c": "concave mirror",
+        "d": "diverging mirror",
+        "r": "a"
+    },
+    {
+        "q": "The phenomenon of light being bent when passing from one medium to another is called:",
+        "a": "reflection",
+        "b": "diffraction",
+        "c": "transmission",
+        "d": "refraction",
+        "r": "d"
+    },
+    {
+        "q": "The force between two charged particles is:",
+        "a": "attractive",
+        "b": "repulsive",
+        "c": "both attractive and repulsive",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "The force between two charged particles is inversely proportional to:",
+        "a": "the square of the distance between them",
+        "b": "the distance between them",
+        "c": "the square of the product of their charges",
+        "d": "the product of their charges",
+        "r": "a"
+    },
+    {
+        "q": "The force between two charged particles is directly proportional to:",
+        "a": "the product of their charges",
+        "b": "the square of the product of their charges",
+        "c": "the square of the distance between them",
+        "d": "the distance between them",
+        "r": "b"
+    },
+    {
+        "q": "The unit of electric charge is:",
+        "a": "coulomb",
+        "b": "ampere",
+        "c": "volt",
+        "d": "ohm",
+        "r": "a"
+    },
+    {
+        "q": "The electric field is a region of space around a charged particle where:",
+        "a": "a force is exerted on other charged particles",
+        "b": "a force is not exerted on other charged particles",
+        "c": "a force is exerted on uncharged particles",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "The direction of the electric field is:",
+        "a": "from positive to negative charges",
+        "b": "from negative to positive charges",
+        "c": "does not have a direction",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "The electric field strength is the:",
+        "a": "force per unit charge",
+        "b": "force per unit distance",
+        "c": "charge per unit distance",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "The unit of electric field strength is:",
+        "a": "newton per coulomb",
+        "b": "volt per meter",
+        "c": "ampere per meter",
+        "d": "ohm per meter",
+        "r": "b"
+    },
+    {
+        "q": "The electric potential is the:",
+        "a": "energy per unit charge",
+        "b": "work per unit charge",
+        "c": "potential energy per unit charge",
+        "d": "none of the above",
+        "r": "b"
+    },
+    {
+        "q": "The unit of electric potential is:",
+        "a": "joule per coulomb",
+        "b": "volt",
+        "c": "ampere per meter",
+        "d": "ohm per meter",
+        "r": "b"
+    },
+    {
+        "q": "The electric potential difference between two points is:",
+        "a": "the work done in moving a unit charge from one point to the other",
+        "b": "the energy per unit charge",
+        "c": "the potential energy per unit charge",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "The electric current is the:",
+        "a": "rate of flow of charge",
+        "b": "rate of flow of energy",
+        "c": "rate of flow of potential difference",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "The unit of electric current is:",
+        "a": "ampere",
+        "b": "volt",
+        "c": "coulomb",
+        "d": "ohm",
+        "r": "a"
+    },
+    {
+        "q": "The resistance of a conductor is:",
+        "a": "the ratio of the potential difference across it to the current flowing through it",
+        "b": "the ratio of the current flowing through it to the potential difference across it",
+        "c": "the ratio of the energy dissipated in it to the current flowing through it",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "The unit of resistance is:",
+        "a": "ohm",
+        "b": "ampere",
+        "c": "volt",
+        "d": "coulomb",
+        "r": "a"
+    },
+    {
+        "q": "The resistivity of a material is:",
+        "a": "the ratio of the resistance of a conductor of that material to its length",
+        "b": "the ratio of the resistance of a conductor of that material to its cross-sectional area",
+        "c": "the ratio of the length of a conductor of that material to its resistance",
+        "d": "none of the above",
+        "r": "a"
+    },
+    {
+        "q": "The unit of resistivity is:",
+        "a": "ohm-meter",
+        "b": "ampere-meter",
+        "c": "volt-meter",
+        "d": "coulomb-meter",
+        "r": "a"
+    },
+    {
+        "q": "Which type of charge does an electron have?",
+        "a": "positive",
+        "b": "neutral",
+        "c": "negative",
+        "d": "none of the above",
+        "r": "c"
+    },
+    {
+        "q": "Which material is a good conductor of electricity?",
+        "a": "plastic",
+        "b": "wood",
+        "c": "copper",
+        "d": "glass",
+        "r": "c"
+    },
+    {
+        "q": "The property of a material to resist the flow of electric current is called",
+        "a": "voltage",
+        "b": "resistance",
+        "c": "capacitance",
+        "d": "conductance",
+        "r": "b"
+    },
+    {
+        "q": "What is the direction of conventional current flow?",
+        "a": "from positive to negative",
+        "b": "from negative to positive",
+        "c": "from positive to positive",
+        "d": "from negative to negative",
+        "r": "a"
+    },
+    {
+        "q": "Which law describes the force between two charged particles?",
+        "a": "Newton's First Law",
+        "b": "Ohm's Law",
+        "c": "Coulomb's Law",
+        "d": "Kepler's Law",
+        "r": "c"
+    },
+    {
+        "q": "What happens to the resistance of a wire when its length is increased?",
+        "a": "decreases",
+        "b": "remains the same",
+        "c": "increases",
+        "d": "unpredictable",
+        "r": "c"
+    },
+    {
+        "q": "Which type of magnet is used in compass needles?",
+        "a": "artificial magnet",
+        "b": "electromagnet",
+        "c": "temporary magnet",
+        "d": "permanent magnet",
+        "r": "d"
+    },
+    {
+        "q": "An electric motor converts ________ energy into _________ energy.",
+        "a": "mechanical; electrical",
+        "b": "electrical; mechanical",
+        "c": "kinetic; potential",
+        "d": "potential; kinetic",
+        "r": "b"
+    },
+    {
+        "q": "The phenomenon of producing a voltage in a coil due to the change of magnetic field is called",
+        "a": "electromagnetic induction",
+        "b": "magnetic polarization",
+        "c": "electric conduction",
+        "d": "magnetic repulsion",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for calculating electric power in a circuit?",
+        "a": "P = IV",
+        "b": "P = VI",
+        "c": "P = V/I",
+        "d": "P = I/V",
+        "r": "a"
+    },
+    {
+        "q": "Which device is used to measure electric current?",
+        "a": "ammeter",
+        "b": "voltmeter",
+        "c": "ohmmeter",
+        "d": "thermometer",
+        "r": "a"
+    },
+    {
+        "q": "If the resistance of a circuit is decreased, what happens to the current?",
+        "a": "increases",
+        "b": "decreases",
+        "c": "remains the same",
+        "d": "becomes zero",
+        "r": "a"
+    },
+    {
+        "q": "Which type of current is produced by batteries?",
+        "a": "AC (Alternating Current)",
+        "b": "DC (Direct Current)",
+        "c": "Both AC and DC",
+        "d": "None of the above",
+        "r": "b"
+    },
+    {
+        "q": "Which material is used as the core of an electromagnet?",
+        "a": "steel",
+        "b": "copper",
+        "c": "aluminum",
+        "d": "gold",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit of electric potential difference?",
+        "a": "watt",
+        "b": "joule",
+        "c": "volt",
+        "d": "ohm",
+        "r": "c"
+    },
+    {
+        "q": "Which device is used to protect electrical appliances from sudden high voltages?",
+        "a": "fuse",
+        "b": "resistor",
+        "c": "diode",
+        "d": "capacitor",
+        "r": "a"
+    },
+    {
+        "q": "An electric fan converts electrical energy into which form of energy?",
+        "a": "sound",
+        "b": "light",
+        "c": "mechanical",
+        "d": "heat",
+        "r": "c"
+    },
+    {
+        "q": "The phenomenon of a charged object attracting a neutral object is due to",
+        "a": "conduction",
+        "b": "induction",
+        "c": "polarization",
+        "d": "grounding",
+        "r": "b"
+    },
+    {
+        "q": "What does the electric term \"AC\" stand for?",
+        "a": "Alternating Current",
+        "b": "Always Connected",
+        "c": "Adjustable Current",
+        "d": "Automatic Control",
+        "r": "a"
+    },
+    {
+        "q": "Which law describes the relationship between current, voltage, and resistance?",
+        "a": "Faraday's Law",
+        "b": "Ohm's Law",
+        "c": "Coulomb's Law",
+        "d": "Newton's Law",
+        "r": "b"
+    },
+    {
+        "q": "The property of a material to be magnetized easily is called",
+        "a": "resistance",
+        "b": "capacitance",
+        "c": "permeability",
+        "d": "reluctance",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula for calculating electrical resistance in a circuit?",
+        "a": "R = V/I",
+        "b": "R = I/V",
+        "c": "R = P * I",
+        "d": "R = V * I",
+        "r": "a"
+    },
+    {
+        "q": "The magnetic field lines around a straight current-carrying wire form",
+        "a": "circles",
+        "b": "ellipses",
+        "c": "parabolas",
+        "d": "concentric spheres",
+        "r": "a"
+    },
+    {
+        "q": "Which device is used to store electric charge?",
+        "a": "resistor",
+        "b": "inductor",
+        "c": "capacitor",
+        "d": "diode",
+        "r": "c"
+    },
+    {
+        "q": "What happens to the force between two charges when the distance is doubled?",
+        "a": "becomes four times",
+        "b": "becomes half",
+        "c": "becomes one-fourth",
+        "d": "remains the same",
+        "r": "c"
+    },
+    {
+        "q": "Which device is used to step-up or step-down the voltage in a circuit?",
+        "a": "resistor",
+        "b": "inductor",
+        "c": "transformer",
+        "d": "diode",
+        "r": "c"
+    },
+    {
+        "q": "When a bar magnet is cut into two pieces, the result will be",
+        "a": "two weak magnets",
+        "b": "two strong magnets",
+        "c": "no magnets",
+        "d": "a single strong magnet",
+        "r": "b"
+    },
+    {
+        "q": "What is the direction of the magnetic field inside a bar magnet?",
+        "a": "north to south",
+        "b": "south to north",
+        "c": "east to west",
+        "d": "west to east",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula for calculating electric charge?",
+        "a": "Q = IT",
+        "b": "Q = VI",
+        "c": "Q = V/I",
+        "d": "Q = PT",
+        "r": "b"
+    },
+    {
+        "q": "Which material is used as the standard reference for the relative permittivity?",
+        "a": "air",
+        "b": "copper",
+        "c": "aluminum",
+        "d": "glass",
+        "r": "a"
+    },
+    {
+        "q": "What is the direction of the force on a positive charge moving in the direction of a magnetic field?",
+        "a": "forward",
+        "b": "backward",
+        "c": "upwards",
+        "d": "downwards",
+        "r": "b"
+    },
+    {
+        "q": "What does the magnetic term \"DC\" stand for?",
+        "a": "Direct Current",
+        "b": "Diagnosing Coils",
+        "c": "Dual Circuits",
+        "d": "Direct Control",
+        "r": "a"
+    },
+    {
+        "q": "The property of a material to be unaffected by a magnetic field is called",
+        "a": "magnetic",
+        "b": "non-magnetic",
+        "c": "anti-magnetic",
+        "d": "diamagnetic",
+        "r": "d"
+    },
+    {
+        "q": "What is the unit of magnetic flux density?",
+        "a": "tesla",
+        "b": "gauss",
+        "c": "ohm",
+        "d": "henry",
+        "r": "a"
+    },
+    {
+        "q": "Which device is used to protect circuits from overcurrent?",
+        "a": "resistor",
+        "b": "diode",
+        "c": "capacitor",
+        "d": "fuse",
+        "r": "d"
+    },
+    {
+        "q": "Which law describes the induced voltage due to a change in magnetic flux?",
+        "a": "Faraday's Law",
+        "b": "Ohm's Law",
+        "c": "Coulomb's Law",
+        "d": "Newton's Law",
+        "r": "a"
+    },
+    {
+        "q": "The magnetic field lines around a bar magnet flow from",
+        "a": "north pole to south pole",
+        "b": "south pole to north pole",
+        "c": "east to west",
+        "d": "west to east",
+        "r": "a"
+    },
+    {
+        "q": "Which device is used to measure electric potential difference?",
+        "a": "voltmeter",
+        "b": "ammeter",
+        "c": "ohmmeter",
+        "d": "barometer",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the magnetic field strength when the distance from the magnet increases?",
+        "a": "increases",
+        "b": "decreases",
+        "c": "remains the same",
+        "d": "becomes zero",
+        "r": "b"
+    },
+    {
+        "q": "Which type of electric current is used in most homes and buildings?",
+        "a": "DC",
+        "b": "AC",
+        "c": "Both DC and AC",
+        "d": "None of the above",
+        "r": "b"
+    },
+    {
+        "q": "The electromotive force (EMF) of a cell or battery is measured in",
+        "a": "volts",
+        "b": "amperes",
+        "c": "watts",
+        "d": "ohms",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit of electrical capacitance?",
+        "a": "ohm",
+        "b": "farad",
+        "c": "volt",
+        "d": "watt",
+        "r": "b"
+    },
+    {
+        "q": "Which material is a poor conductor of electricity?",
+        "a": "copper",
+        "b": "aluminum",
+        "c": "plastic",
+        "d": "silver",
+        "r": "c"
+    },
+    {
+        "q": "Which material is commonly used for making electrical wires?",
+        "a": "copper",
+        "b": "aluminum",
+        "c": "silver",
+        "d": "gold",
+        "r": "a"
+    },
+    {
+        "q": "What is the total resistance in a series circuit with resistances of 4 Ohms, 6 Ohms, and 8 Ohms?",
+        "a": "18 Ohms",
+        "b": "24 Ohms",
+        "c": "14 Ohms",
+        "d": "10 Ohms",
+        "r": "a"
+    },
+    {
+        "q": "In a parallel circuit, if one of the resistors is removed, what happens to the total resistance?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "Cannot be determined",
+        "r": "b"
+    },
+    {
+        "q": "What is the potential difference across a 10-ohm resistor carrying a current of 2 amperes?",
+        "a": "5 volts",
+        "b": "20 volts",
+        "c": "2 volts",
+        "d": "12 volts",
+        "r": "b"
+    },
+    {
+        "q": "Which component is used to store electrical energy in a circuit?",
+        "a": "Capacitor",
+        "b": "Diode",
+        "c": "Transistor",
+        "d": "Resistor",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the resistance of a conductor when its length is increased while keeping the cross-sectional area constant?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "Cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "Kirchhoff's first law is based on the conservation of what?",
+        "a": "Charge",
+        "b": "Energy",
+        "c": "Momentum",
+        "d": "Mass",
+        "r": "a"
+    },
+    {
+        "q": "When a circuit is broken, what happens to the current flow?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "It stops",
+        "r": "d"
+    },
+    {
+        "q": "What is the potential difference if 5 coulombs of charge gain 25 joules of energy?",
+        "a": "5 volts",
+        "b": "25 volts",
+        "c": "30 volts",
+        "d": "125 volts",
+        "r": "c"
+    },
+    {
+        "q": "The current flowing through a circuit is 2 amperes. If the resistance is 5 ohms, what is the voltage across the circuit?",
+        "a": "7 volts",
+        "b": "3 volts",
+        "c": "10 volts",
+        "d": "2 volts",
+        "r": "d"
+    },
+    {
+        "q": "Which material is often used as a semiconductor in electronic devices?",
+        "a": "Silicon",
+        "b": "Rubber",
+        "c": "Glass",
+        "d": "Wood",
+        "r": "a"
+    },
+    {
+        "q": "What is the symbol for a fixed resistor in a circuit diagram?",
+        "a": "zigzag line",
+        "b": "wavy line",
+        "c": "straight line",
+        "d": "arrow",
+        "r": "c"
+    },
+    {
+        "q": "In which direction does current flow in a circuit?",
+        "a": "From positive to negative",
+        "b": "From negative to positive",
+        "c": "Randomly",
+        "d": "Cannot be determined",
+        "r": "b"
+    },
+    {
+        "q": "What type of current does a battery provide?",
+        "a": "Alternating current (AC)",
+        "b": "Direct current (DC)",
+        "c": "Variable current",
+        "d": "Pulsating current",
+        "r": "b"
+    },
+    {
+        "q": "Which component allows current to flow in one direction only?",
+        "a": "Diode",
+        "b": "Capacitor",
+        "c": "Inductor",
+        "d": "Transistor",
+        "r": "a"
+    },
+    {
+        "q": "The potential difference across a 15-ohm resistor carrying a current of 3 amperes is?",
+        "a": "18 volts",
+        "b": "5 volts",
+        "c": "45 volts",
+        "d": "2 volts",
+        "r": "a"
+    },
+    {
+        "q": "What is the resistance of a circuit if a voltage of 12 volts allows a current of 4 amperes to flow through it?",
+        "a": "16 ohms",
+        "b": "8 ohms",
+        "c": "48 ohms",
+        "d": "3 ohms",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of a fuse in a circuit?",
+        "a": "To increase resistance",
+        "b": "To decrease resistance",
+        "c": "To interrupt the current flow",
+        "d": "To store energy",
+        "r": "c"
+    },
+    {
+        "q": "Which law is used to determine the direction of the magnetic field around a current-carrying conductor?",
+        "a": "Ampere's circuital law",
+        "b": "Faraday's law of induction",
+        "c": "Ohm's law",
+        "d": "Coulomb's law",
+        "r": "a"
+    },
+    {
+        "q": "What is the relationship between voltage, current, and resistance in an electric circuit?",
+        "a": "V = IR",
+        "b": "V = I / R",
+        "c": "V = I + R",
+        "d": "V = I - R",
+        "r": "a"
+    },
+    {
+        "q": "Which material is an insulator?",
+        "a": "Rubber",
+        "b": "Copper",
+        "c": "Aluminum",
+        "d": "Silver",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the resistance of a conductor when its cross-sectional area is increased while keeping the length constant?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "Cannot be determined",
+        "r": "b"
+    },
+    {
+        "q": "What does a voltmeter measure?",
+        "a": "Voltage",
+        "b": "Current",
+        "c": "Resistance",
+        "d": "Power",
+        "r": "a"
+    },
+    {
+        "q": "Which component stores a charge and can discharge rapidly through a circuit when needed?",
+        "a": "Capacitor",
+        "b": "Resistor",
+        "c": "Inductor",
+        "d": "Diode",
+        "r": "a"
+    },
+    {
+        "q": "If the resistance of a circuit is doubled while the voltage remains constant, what happens to the current?",
+        "a": "It is halved",
+        "b": "It doubles",
+        "c": "It remains the same",
+        "d": "It becomes zero",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of an ammeter in a circuit?",
+        "a": "To measure resistance",
+        "b": "To measure voltage",
+        "c": "To measure current",
+        "d": "To control the flow of current",
+        "r": "c"
+    },
+    {
+        "q": "Which type of circuit has only one path for current to flow?",
+        "a": "Series circuit",
+        "b": "Parallel circuit",
+        "c": "Complex circuit",
+        "d": "Open circuit",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for calculating electrical power?",
+        "a": "P = VI",
+        "b": "P = V / I",
+        "c": "P = V + I",
+        "d": "P = V - I",
+        "r": "a"
+    },
+    {
+        "q": "What is the total resistance in a parallel circuit with resistances of 6 Ohms, 12 Ohms, and 18 Ohms?",
+        "a": "3 Ohms",
+        "b": "10 Ohms",
+        "c": "36 Ohms",
+        "d": "2 Ohms",
+        "r": "d"
+    },
+    {
+        "q": "Which law states that the current flowing through a conductor is directly proportional to the voltage across it, given constant temperature?",
+        "a": "Ohm's law",
+        "b": "Coulomb's law",
+        "c": "Faraday's law of induction",
+        "d": "Newton's law of motion",
+        "r": "a"
+    },
+    {
+        "q": "What is the potential difference across a 20-ohm resistor carrying a current of 5 amperes?",
+        "a": "100 volts",
+        "b": "25 volts",
+        "c": "15 volts",
+        "d": "4 volts",
+        "r": "b"
+    },
+    {
+        "q": "Which component is used to control the flow of current in a circuit?",
+        "a": "Transistor",
+        "b": "Capacitor",
+        "c": "Resistor",
+        "d": "Diode",
+        "r": "a"
+    },
+    {
+        "q": "What is the resistance of a circuit if the voltage is 9 volts and the current is 3 amperes?",
+        "a": "3 ohms",
+        "b": "27 ohms",
+        "c": "6 ohms",
+        "d": "12 ohms",
+        "r": "b"
+    },
+    {
+        "q": "How does the resistance of a conductor change with an increase in temperature?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "Cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "Which law describes the force between two charges?",
+        "a": "Coulomb's law",
+        "b": "Ohm's law",
+        "c": "Newton's law",
+        "d": "Faraday's law",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for electric field intensity?",
+        "a": "E = F / q",
+        "b": "E = V / I",
+        "c": "E = q / t",
+        "d": "E = k * (q1 * q2) / r^2",
+        "r": "a"
+    },
+    {
+        "q": "An electric field points from _____ potential to _____ potential.",
+        "a": "higher to lower",
+        "b": "lower to higher",
+        "c": "positive to negative",
+        "d": "negative to positive",
+        "r": "a"
+    },
+    {
+        "q": "What does an electric dipole consist of?",
+        "a": "Two opposite charges separated by a distance",
+        "b": "Two similar charges separated by a distance",
+        "c": "A single charge",
+        "d": "A neutral object",
+        "r": "a"
+    },
+    {
+        "q": "Which law states that the magnetic field produced by a current-carrying wire forms circles around the wire?",
+        "a": "Ampere's law",
+        "b": "Ohm's law",
+        "c": "Faraday's law",
+        "d": "Gauss's law",
+        "r": "a"
+    },
+    {
+        "q": "The force experienced by a charged particle in a magnetic field is maximum when the angle between the velocity and magnetic field is ______.",
+        "a": "0 degrees",
+        "b": "45 degrees",
+        "c": "90 degrees",
+        "d": "180 degrees",
+        "r": "a"
+    },
+    {
+        "q": "What is the direction of the magnetic field produced by a straight current-carrying conductor?",
+        "a": "Along the conductor",
+        "b": "Opposite to the conductor's direction",
+        "c": "Circular around the conductor",
+        "d": "Random direction",
+        "r": "a"
+    },
+    {
+        "q": "What is the direction of the magnetic field inside a current-carrying solenoid?",
+        "a": "From one end to the other end",
+        "b": "From the outer surface to the inner surface",
+        "c": "From the inner surface to the outer surface",
+        "d": "Random direction",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the resistance of a conductor when its length and cross-sectional area are both doubled?",
+        "a": "Doubled",
+        "b": "Halved",
+        "c": "Quadrupled",
+        "d": "Remains unchanged",
+        "r": "a"
+    },
+    {
+        "q": "Which phenomenon explains how a changing magnetic field induces an electromotive force (EMF) in a coil?",
+        "a": "Faraday's law",
+        "b": "Ampere's law",
+        "c": "Ohm's law",
+        "d": "Coulomb's law",
+        "r": "a"
+    },
+    {
+        "q": "What is the direction of induced current in a coil when the magnetic field through it is increasing?",
+        "a": "Clockwise",
+        "b": "Counterclockwise",
+        "c": "No current is induced",
+        "d": "Random direction",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit of magnetic flux?",
+        "a": "Weber",
+        "b": "Tesla",
+        "c": "Henry",
+        "d": "Gauss",
+        "r": "a"
+    },
+    {
+        "q": "Which device is used to step up or step down AC voltages?",
+        "a": "Transformer",
+        "b": "Diode",
+        "c": "Capacitor",
+        "d": "Resistor",
+        "r": "a"
+    },
+    {
+        "q": "Which type of materials are attracted to magnets?",
+        "a": "Ferromagnetic materials",
+        "b": "Non-magnetic materials",
+        "c": "Diamagnetic materials",
+        "d": "All of the above",
+        "r": "a"
+    },
+    {
+        "q": "The process of charging a body by bringing it near another charged body without direct contact is called _______.",
+        "a": "Induction",
+        "b": "Conduction",
+        "c": "Radiation",
+        "d": "Convection",
+        "r": "a"
+    },
+    {
+        "q": "What is the unit of magnetic field strength (magnetic field intensity)?",
+        "a": "Tesla",
+        "b": "Weber",
+        "c": "Ampere",
+        "d": "Newton",
+        "r": "a"
+    },
+    {
+        "q": "When a positively charged rod is brought close to a neutral electroscope, the leaves of the electroscope _______.",
+        "a": "Remain unchanged",
+        "b": "Spread apart",
+        "c": "Come close together",
+        "d": "First spread apart, then come close together",
+        "r": "a"
+    },
+    {
+        "q": "Which type of electromagnetic waves has the highest frequency?",
+        "a": "Gamma rays",
+        "b": "X-rays",
+        "c": "Ultraviolet rays",
+        "d": "Radio waves",
+        "r": "a"
+    },
+    {
+        "q": "An electric motor works based on which principle of electromagnetism?",
+        "a": "Ampere's law",
+        "b": "Ohm's law",
+        "c": "Faraday's law",
+        "d": "Coulomb's law",
+        "r": "a"
+    },
+    {
+        "q": "What type of current is produced by batteries?",
+        "a": "Direct current (DC)",
+        "b": "Alternating current (AC)",
+        "c": "Both DC and AC",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "What is the direction of the magnetic field inside a permanent magnet?",
+        "a": "From the north pole to the south pole",
+        "b": "From the south pole to the north pole",
+        "c": "Circular around the magnet",
+        "d": "Random direction",
+        "r": "a"
+    },
+    {
+        "q": "Which electromagnetic wave is used in radar systems?",
+        "a": "Microwaves",
+        "b": "Infrared rays",
+        "c": "Ultraviolet rays",
+        "d": "X-rays",
+        "r": "a"
+    },
+    {
+        "q": "What does the left-hand rule for motors state?",
+        "a": "Thumb points in the direction of force, fingers point in the direction of magnetic field, and palm points in the direction of motion.",
+        "b": "Thumb points in the direction of motion, fingers point in the direction of magnetic field, and palm points in the direction of force.",
+        "c": "Thumb points in the direction of magnetic field, fingers point in the direction of force, and palm points in the direction of motion.",
+        "d": "Thumb points in the direction of motion, fingers point in the direction of force, and palm points in the direction of magnetic field.",
+        "r": "a"
+    },
+    {
+        "q": "Which material is commonly used as the core of an electromagnet?",
+        "a": "Iron",
+        "b": "Copper",
+        "c": "Aluminum",
+        "d": "Gold",
+        "r": "a"
+    },
+    {
+        "q": "In a series RL circuit, if the inductance is increased, what happens to the time constant of the circuit?",
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains unchanged",
+        "d": "Becomes zero",
+        "r": "a"
+    },
+    {
+        "q": "What is the direction of the induced current in a coil when the magnetic field through it is decreasing?",
+        "a": "Clockwise",
+        "b": "Counterclockwise",
+        "c": "No current is induced",
+        "d": "Random direction",
+        "r": "a"
+    },
+    {
+        "q": "Which electromagnetic wave has the longest wavelength?",
+        "a": "Radio waves",
+        "b": "Microwaves",
+        "c": "Infrared rays",
+        "d": "Gamma rays",
+        "r": "a"
+    },
+    {
+        "q": "What is the principle behind a transformer's operation?",
+        "a": "Mutual induction",
+        "b": "Self-induction",
+        "c": "Coulomb's law",
+        "d": "Faraday's law",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the resistance of a conductor when its length is halved and cross-sectional area is doubled?",
+        "a": "Doubled",
+        "b": "Halved",
+        "c": "Quadrupled",
+        "d": "Remains unchanged",
+        "r": "a"
+    },
+    {
+        "q": "The electric field lines due to a positive point charge radiate ______ from the charge.",
+        "a": "Outwards",
+        "b": "Inwards",
+        "c": "Circularly",
+        "d": "Randomly",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for calculating the capacitance of a capacitor?",
+        "a": "C = Q / V",
+        "b": "C = R * I",
+        "c": "C = V / I",
+        "d": "C = k * (Q / d)",
+        "r": "a"
+    },
+    {
+        "q": "What type of current is used in most homes and businesses for electrical appliances?",
+        "a": "Alternating current (AC)",
+        "b": "Direct current (DC)",
+        "c": "Both AC and DC",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "Who proposed the theory of relativity?",
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Galileo Galilei",
+        "d": "Max Planck",
+        "r": "b"
+    },
+    {
+        "q": "Which phenomenon explains the emission of electrons from a metal surface when light is incident on it?",
+        "a": "Photoelectric effect",
+        "b": "Compton effect",
+        "c": "Doppler effect",
+        "d": "Faraday effect",
+        "r": "a"
+    },
+    {
+        "q": "What is the equation for energy-mass equivalence, as given by Einstein's theory of relativity?",
+        "a": "E = mc^2",
+        "b": "E = mv^2",
+        "c": "E = mgh",
+        "d": "E = 1/2 mv^2",
+        "r": "a"
+    },
+    {
+        "q": "Which type of radioactivity is the most penetrating and requires thick shielding to block?",
+        "a": "Alpha radiation",
+        "b": "Beta radiation",
+        "c": "Gamma radiation",
+        "d": "X-ray radiation",
+        "r": "c"
+    },
+    {
+        "q": "What does the Schrödinger equation describe in quantum mechanics?",
+        "a": "Motion of planets",
+        "b": "Behavior of light",
+        "c": "Motion of particles",
+        "d": "Flow of electricity",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for a particle and its corresponding antiparticle colliding and annihilating each other, converting their mass into energy?",
+        "a": "Fusion",
+        "b": "Fission",
+        "c": "Pair production",
+        "d": "Annihilation",
+        "r": "d"
+    },
+    {
+        "q": "Which concept explains that certain physical properties, like energy levels in atoms, are quantized and can only take discrete values?",
+        "a": "Theory of relativity",
+        "b": "Quantum theory",
+        "c": "Special theory of relativity",
+        "d": "General theory of relativity",
+        "r": "b"
+    },
+    {
+        "q": "Which type of decay involves the emission of a high-energy photon (gamma ray) from an excited nucleus?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Gamma decay",
+        "d": "Positron decay",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the particle accelerator that uses a circular path to accelerate charged particles?",
+        "a": "Linear accelerator",
+        "b": "Cyclotron",
+        "c": "Synchrotron",
+        "d": "Van de Graaff accelerator",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the fundamental particle that carries the weak nuclear force and is responsible for beta decay?",
+        "a": "Photon",
+        "b": "Neutrino",
+        "c": "Graviton",
+        "d": "Gluon",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the minimum amount of energy required to remove the most loosely bound electron from a metal surface?",
+        "a": "Threshold energy",
+        "b": "Escape energy",
+        "c": "Ionization energy",
+        "d": "Work function",
+        "r": "d"
+    },
+    {
+        "q": "Who discovered X-rays?",
+        "a": "Wilhelm Conrad Roentgen",
+        "b": "Isaac Newton",
+        "c": "Marie Curie",
+        "d": "Galileo Galilei",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of combining the nuclei of lighter atoms to form a heavier nucleus, releasing a large amount of energy?",
+        "a": "Fusion",
+        "b": "Fission",
+        "c": "Pair production",
+        "d": "Annihilation",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a particle and its corresponding antiparticle colliding and producing new particles?",
+        "a": "Fusion",
+        "b": "Fission",
+        "c": "Pair production",
+        "d": "Annihilation",
+        "r": "c"
+    },
+    {
+        "q": "Who proposed the uncertainty principle, stating that it is impossible to simultaneously know the precise position and momentum of a particle?",
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Niels Bohr",
+        "d": "Werner Heisenberg",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the process in which a high-energy photon interacts with a nucleus, producing a particle-antiparticle pair?",
+        "a": "Pair production",
+        "b": "Annihilation",
+        "c": "Fusion",
+        "d": "Fission",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of splitting the nucleus of a heavy atom into two or more lighter nuclei, releasing a large amount of energy?",
+        "a": "Fusion",
+        "b": "Fission",
+        "c": "Pair production",
+        "d": "Annihilation",
+        "r": "b"
+    },
+    {
+        "q": "What does the de Broglie wavelength describe for a particle?",
+        "a": "Its charge",
+        "b": "Its momentum",
+        "c": "Its mass",
+        "d": "Its position",
+        "r": "b"
+    },
+    {
+        "q": "Who proposed the model of the atom with a positively charged nucleus at the center and electrons orbiting around it?",
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Niels Bohr",
+        "d": "Max Planck",
+        "r": "c"
+    },
+    {
+        "q": "Which particle is the antiparticle of an electron?",
+        "a": "Proton",
+        "b": "Neutrino",
+        "c": "Positron",
+        "d": "Photon",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the device used to accelerate charged particles using an oscillating electric field?",
+        "a": "Cyclotron",
+        "b": "Linear accelerator",
+        "c": "Synchrotron",
+        "d": "Van de Graaff accelerator",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the spontaneous decay of a nucleus, emitting an alpha or beta particle and transforming into a more stable nucleus?",
+        "a": "Fusion",
+        "b": "Fission",
+        "c": "Pair production",
+        "d": "Radioactive decay",
+        "r": "d"
+    },
+    {
+        "q": "Which particle is responsible for carrying the strong nuclear force that binds protons and neutrons together in the nucleus?",
+        "a": "Photon",
+        "b": "Neutrino",
+        "c": "Gluon",
+        "d": "Positron",
+        "r": "c"
+    },
+    {
+        "q": "What is the unit used to measure radioactivity?",
+        "a": "Ohm",
+        "b": "Joule",
+        "c": "Watt",
+        "d": "Becquerel",
+        "r": "d"
+    },
+    {
+        "q": "Which type of decay involves the emission of a helium nucleus from a radioactive nucleus?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Gamma decay",
+        "d": "Positron decay",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of a nucleus capturing an electron from its inner electron shells, converting a proton into a neutron?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Electron capture",
+        "d": "Positron emission",
+        "r": "c"
+    },
+    {
+        "q": "Who proposed the model of the atom with electrons existing in quantized energy levels or shells?",
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Niels Bohr",
+        "d": "Max Planck",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the fundamental particle with a negative charge that orbits the nucleus of an atom?",
+        "a": "Proton",
+        "b": "Electron",
+        "c": "Neutron",
+        "d": "Photon",
+        "r": "b"
+    },
+    {
+        "q": "Which type of decay involves the emission of a high-energy electron from a radioactive nucleus?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Gamma decay",
+        "d": "Positron decay",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the process of a nucleus emitting a high-energy photon (gamma ray) without changing its composition?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Gamma decay",
+        "d": "Positron decay",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the elementary particle that carries the electromagnetic force?",
+        "a": "Photon",
+        "b": "Neutrino",
+        "c": "Gluon",
+        "d": "Positron",
+        "r": "a"
+    },
+    {
+        "q": "Who proposed the model of the atom as a positively charged sphere with electrons embedded in it like raisins in a pudding?",
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "J.J. Thomson",
+        "d": "Max Planck",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the elementary particle that carries the gravitational force?",
+        "a": "Photon",
+        "b": "Neutrino",
+        "c": "Graviton",
+        "d": "Positron",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the process of an unstable nucleus splitting into two smaller nuclei, releasing a large amount of energy?",
+        "a": "Fusion",
+        "b": "Fission",
+        "c": "Pair production",
+        "d": "Annihilation",
+        "r": "b"
+    },
+    {
+        "q": "Who proposed the concept of the wave-particle duality of electrons and other particles?",
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Louis de Broglie",
+        "d": "Max Planck",
+        "r": "c"
+    },
+    {
+        "q": "Who discovered the neutron?",
+        "a": "Ernest Rutherford",
+        "b": "James Chadwick",
+        "c": "Niels Bohr",
+        "d": "Marie Curie",
+        "r": "b"
+    },
+    {
+        "q": "What is the total number of protons and neutrons in the nucleus of an atom called?",
+        "a": "Mass number",
+        "b": "Atomic number",
+        "c": "Electron number",
+        "d": "Isotope number",
+        "r": "a"
+    },
+    {
+        "q": "Which type of radioactive decay involves the emission of a high-speed electron from a nucleus?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Gamma decay",
+        "d": "Positron decay",
+        "r": "b"
+    },
+    {
+        "q": "What is the process by which an atom or ion loses energy by emitting electromagnetic radiation?",
+        "a": "Diffraction",
+        "b": "Ionization",
+        "c": "Excitation",
+        "d": "Radiative decay",
+        "r": "d"
+    },
+    {
+        "q": "What does the term \"isotope\" refer to?",
+        "a": "Atoms with different numbers of protons",
+        "b": "Atoms with different numbers of neutrons",
+        "c": "Atoms with different numbers of electrons",
+        "d": "Atoms with different numbers of nucleons",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the model that describes the atom as a central nucleus surrounded by electrons in discrete energy levels?",
+        "a": "Plum pudding model",
+        "b": "Solar system model",
+        "c": "Rutherford model",
+        "d": "Bohr model",
+        "r": "d"
+    },
+    {
+        "q": "Which type of radiation can be stopped by a sheet of paper?",
+        "a": "Alpha radiation",
+        "b": "Beta radiation",
+        "c": "Gamma radiation",
+        "d": "Neutron radiation",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of combining two light atomic nuclei to form a heavier nucleus, releasing energy in the process?",
+        "a": "Fission",
+        "b": "Fusion",
+        "c": "Pair production",
+        "d": "Beta decay",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the time it takes for half of the radioactive nuclei in a sample to decay?",
+        "a": "Decay time",
+        "b": "Half-life",
+        "c": "Radiative period",
+        "d": "Nuclear interval",
+        "r": "b"
+    },
+    {
+        "q": "Which type of radiation has the highest penetrating power and requires thick concrete or lead shielding to block?",
+        "a": "Alpha radiation",
+        "b": "Beta radiation",
+        "c": "Gamma radiation",
+        "d": "Neutron radiation",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of increasing the energy of an electron in an atom, causing it to move to a higher energy level?",
+        "a": "Ionization",
+        "b": "Excitation",
+        "c": "Fusion",
+        "d": "Fission",
+        "r": "b"
+    },
+    {
+        "q": "Who proposed the planetary model of the atom, with electrons moving in fixed circular orbits around the nucleus?",
+        "a": "John Dalton",
+        "b": "J.J. Thomson",
+        "c": "Niels Bohr",
+        "d": "Max Planck",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the process in which an unstable atomic nucleus spontaneously emits alpha or beta particles?",
+        "a": "Radioactive decay",
+        "b": "Nuclear fission",
+        "c": "Nuclear fusion",
+        "d": "Pair production",
+        "r": "a"
+    },
+    {
+        "q": "Which type of radiation consists of high-energy photons and has the highest penetrating power?",
+        "a": "Alpha radiation",
+        "b": "Beta radiation",
+        "c": "Gamma radiation",
+        "d": "Neutron radiation",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the process that occurs in the Sun, where hydrogen nuclei combine to form helium and release energy?",
+        "a": "Fission",
+        "b": "Fusion",
+        "c": "Pair production",
+        "d": "Beta decay",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the number of protons in the nucleus of an atom, determining its chemical properties?",
+        "a": "Mass number",
+        "b": "Atomic number",
+        "c": "Electron number",
+        "d": "Isotope number",
+        "r": "b"
+    },
+    {
+        "q": "Who proposed the model of the atom with electrons distributed in a positively charged sphere like plums in a pudding?",
+        "a": "Ernest Rutherford",
+        "b": "J.J. Thomson",
+        "c": "Niels Bohr",
+        "d": "Max Planck",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the radiation used in medical imaging techniques like X-rays and CT scans?",
+        "a": "Alpha radiation",
+        "b": "Beta radiation",
+        "c": "Gamma radiation",
+        "d": "Neutron radiation",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the process in which a high-speed electron collides with an atom, causing the ejection of an inner electron?",
+        "a": "Decay",
+        "b": "Pair production",
+        "c": "Ionization",
+        "d": "Annihilation",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the fundamental particle that carries a positive electric charge?",
+        "a": "Proton",
+        "b": "Neutron",
+        "c": "Electron",
+        "d": "Photon",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of a heavy atomic nucleus splitting into two or more smaller nuclei, releasing energy?",
+        "a": "Fission",
+        "b": "Fusion",
+        "c": "Pair production",
+        "d": "Beta decay",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the process in which an atomic nucleus captures a neutron and emits a gamma ray?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Gamma decay",
+        "d": "Neutron capture",
+        "r": "d"
+    },
+    {
+        "q": "What is the term for the process of converting an atom or ion into an ion by adding or removing electrons?",
+        "a": "Diffraction",
+        "b": "Pair production",
+        "c": "Ionization",
+        "d": "Annihilation",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the process of a proton-rich nucleus converting a proton into a neutron, emitting a positron and a neutrino?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Electron capture",
+        "d": "Neutron emission",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the process of a nucleus capturing an orbiting electron, converting a proton into a neutron?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Electron capture",
+        "d": "Neutron emission",
+        "r": "c"
+    },
+    {
+        "q": "Who proposed the concept of quantized energy levels of electrons in atoms?",
+        "a": "Niels Bohr",
+        "b": "Max Planck",
+        "c": "J.J. Thomson",
+        "d": "Ernest Rutherford",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of a high-energy photon interacting with a nucleus, producing a particle-antiparticle pair?",
+        "a": "Decay",
+        "b": "Pair production",
+        "c": "Ionization",
+        "d": "Annihilation",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the process of a nucleus emitting a helium nucleus (alpha particle)?",
+        "a": "Alpha decay",
+        "b": "Beta decay",
+        "c": "Gamma decay",
+        "d": "Neutron emission",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the fundamental particle with no electric charge, found in the nucleus of an atom?",
+        "a": "Proton",
+        "b": "Neutron",
+        "c": "Electron",
+        "d": "Photon",
+        "r": "b"
+    },
+    {
+        "q": "Who proposed the wave-particle duality theory, stating that particles exhibit both wave-like and particle-like properties?",
+        "a": "John Dalton",
+        "b": "Max Planck",
+        "c": "J.J. Thomson",
+        "d": "Louis de Broglie",
+        "r": "d"
+    },
+    {
+        "q": "What is the term for the process of combining two light atomic nuclei to form a heavier nucleus, releasing a large amount of energy?",
+        "a": "Fission",
+        "b": "Fusion",
+        "c": "Pair production",
+        "d": "Beta decay",
+        "r": "b"
     }
 ]
