@@ -1,0 +1,5874 @@
+[
+    {
+        "q": "What is the basic unit of a computer system?",
+        "a": "motherboard",
+        "b": "CPU",
+        "c": "monitor",
+        "d": "keyboard",
+        "r": "b"
+    },
+    {
+        "q": "Which component stores data and instructions temporarily for the CPU to access quickly?",
+        "a": "RAM",
+        "b": "Hard Drive",
+        "c": "Graphics Card",
+        "d": "Power Supply",
+        "r": "a"
+    },
+    {
+        "q": "What does CPU stand for?",
+        "a": "Central Processing Unit",
+        "b": "Computer Processing Unit",
+        "c": "Central Power Unit",
+        "d": "Control Processing Unit",
+        "r": "a"
+    },
+    {
+        "q": "What is the binary representation of 10?",
+        "a": "1010",
+        "b": "101",
+        "c": "1101",
+        "d": "100",
+        "r": "a"
+    },
+    {
+        "q": "What do you call a set of step-by-step instructions that a computer follows to solve a problem?",
+        "a": "Algorithm",
+        "b": "Software",
+        "c": "Hardware",
+        "d": "Program",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is known for its simplicity and readability?",
+        "a": "Python",
+        "b": "C++",
+        "c": "Java",
+        "d": "Ruby",
+        "r": "a"
+    },
+    {
+        "q": "What is an operating system?",
+        "a": "Software that manages computer hardware and software resources.",
+        "b": "A type of computer hardware",
+        "c": "A peripheral device that displays output.",
+        "d": "A system for organizing files on a computer.",
+        "r": "a"
+    },
+    {
+        "q": "Which component is responsible for processing graphics and visuals?",
+        "a": "Graphics Card",
+        "b": "CPU",
+        "c": "Motherboard",
+        "d": "RAM",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of an input device?",
+        "a": "To provide data and instructions to the computer.",
+        "b": "To display the output of the computer.",
+        "c": "To process data and perform calculations.",
+        "d": "To store data and programs.",
+        "r": "a"
+    },
+    {
+        "q": "Which storage device uses magnetic storage to store data?",
+        "a": "Hard Drive",
+        "b": "SSD",
+        "c": "Flash Drive",
+        "d": "CD-ROM",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is used for web development?",
+        "a": "HTML",
+        "b": "CSS",
+        "c": "JavaScript",
+        "d": "SQL",
+        "r": "a"
+    },
+    {
+        "q": "What does RAM stand for?",
+        "a": "Random Access Memory",
+        "b": "Read-Only Memory",
+        "c": "Read-And-Modify Memory",
+        "d": "Random Algorithmic Memory",
+        "r": "a"
+    },
+    {
+        "q": "Which component is responsible for displaying visual output to the user?",
+        "a": "Monitor",
+        "b": "CPU",
+        "c": "Graphics Card",
+        "d": "Keyboard",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is commonly used for scientific and mathematical applications?",
+        "a": "MATLAB",
+        "b": "Python",
+        "c": "Java",
+        "d": "C++",
+        "r": "a"
+    },
+    {
+        "q": "What does the 'WWW' stand for in the context of the internet?",
+        "a": "World Wide Web",
+        "b": "World Wide Wares",
+        "c": "Web World Wide",
+        "d": "Wide Web World",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is used for building Android applications?",
+        "a": "Java",
+        "b": "Swift",
+        "c": "C++",
+        "d": "Ruby",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the motherboard?",
+        "a": "To connect all the components of a computer.",
+        "b": "To process graphics and visuals.",
+        "c": "To provide temporary storage for the CPU.",
+        "d": "To display visual output to the user.",
+        "r": "a"
+    },
+    {
+        "q": "What is the binary representation of 111?",
+        "a": "111",
+        "b": "101",
+        "c": "1000",
+        "d": "110",
+        "r": "c"
+    },
+    {
+        "q": "Which type of programming language is closer to human language and easier to read?",
+        "a": "High-level language",
+        "b": "Low-level language",
+        "c": "Machine language",
+        "d": "Assembly language",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of a compiler?",
+        "a": "To translate high-level code into machine code.",
+        "b": "To store data and programs.",
+        "c": "To manage computer resources.",
+        "d": "To display the output of the computer.",
+        "r": "a"
+    },
+    {
+        "q": "Which component is responsible for long-term storage of data?",
+        "a": "Hard Drive",
+        "b": "RAM",
+        "c": "CPU",
+        "d": "Motherboard",
+        "r": "a"
+    },
+    {
+        "q": "What is the binary representation of 1001?",
+        "a": "1100",
+        "b": "1010",
+        "c": "1011",
+        "d": "1000",
+        "r": "c"
+    },
+    {
+        "q": "What does HTML stand for in web development?",
+        "a": "HyperText Markup Language",
+        "b": "HighText Markup Language",
+        "c": "HyperText Modeling Language",
+        "d": "HyperText Machine Language",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is used for game development?",
+        "a": "C++",
+        "b": "Python",
+        "c": "Java",
+        "d": "Ruby",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the power supply unit in a computer?",
+        "a": "To provide power to all computer components.",
+        "b": "To process graphics and visuals.",
+        "c": "To store data and programs.",
+        "d": "To display visual output to the user.",
+        "r": "a"
+    },
+    {
+        "q": "What is the binary representation of 101?",
+        "a": "100",
+        "b": "110",
+        "c": "111",
+        "d": "1",
+        "r": "b"
+    },
+    {
+        "q": "What does SSD stand for in terms of storage devices?",
+        "a": "Solid State Drive",
+        "b": "Super Speed Drive",
+        "c": "Serial Storage Drive",
+        "d": "Secure State Drive",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is used for data analysis and manipulation?",
+        "a": "Python",
+        "b": "C++",
+        "c": "Java",
+        "d": "SQL",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of an output device?",
+        "a": "To display the output of the computer.",
+        "b": "To provide data and instructions to the computer.",
+        "c": "To process data and perform calculations.",
+        "d": "To store data and programs.",
+        "r": "a"
+    },
+    {
+        "q": "Which storage device uses flash memory for data storage?",
+        "a": "Flash Drive",
+        "b": "Hard Drive",
+        "c": "SSD",
+        "d": "CD-ROM",
+        "r": "a"
+    },
+    {
+        "q": "What does CSS stand for in web development?",
+        "a": "Cascading Style Sheets",
+        "b": "Creative Style Sheets",
+        "c": "Computer Style Sheets",
+        "d": "Colorful Style Sheets",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is used for iOS app development?",
+        "a": "Swift",
+        "b": "Java",
+        "c": "Python",
+        "d": "C++",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the CPU in a computer?",
+        "a": "To process data and perform calculations.",
+        "b": "To provide temporary storage for the CPU.",
+        "c": "To manage computer resources.",
+        "d": "To display the output of the computer.",
+        "r": "a"
+    },
+    {
+        "q": "What is the binary representation of 1100?",
+        "a": "1010",
+        "b": "1111",
+        "c": "1000",
+        "d": "110",
+        "r": "d"
+    },
+    {
+        "q": "What does API stand for in programming?",
+        "a": "Application Programming Interface",
+        "b": "Application Program Interface",
+        "c": "Application Processing Interface",
+        "d": "Automatic Programming Interface",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is used for machine learning and AI?",
+        "a": "Python",
+        "b": "C++",
+        "c": "Java",
+        "d": "Ruby",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the graphics card in a computer?",
+        "a": "To process graphics and visuals.",
+        "b": "To store data and programs.",
+        "c": "To connect all the components of a computer.",
+        "d": "To provide power to all computer components.",
+        "r": "a"
+    },
+    {
+        "q": "What is the binary representation of 100?",
+        "a": "1010",
+        "b": "101",
+        "c": "111",
+        "d": "11",
+        "r": "b"
+    },
+    {
+        "q": "What does SQL stand for in database management?",
+        "a": "Structured Query Language",
+        "b": "Sequential Query Language",
+        "c": "System Query Language",
+        "d": "Standard Query Language",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is commonly used for system-level programming?",
+        "a": "C",
+        "b": "Python",
+        "c": "Java",
+        "d": "Ruby",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of an assembler in computer programming?",
+        "a": "To translate assembly code into machine code.",
+        "b": "To manage computer resources.",
+        "c": "To store data and programs.",
+        "d": "To display the output of the computer.",
+        "r": "a"
+    },
+    {
+        "q": "Which component is responsible for executing instructions and performing calculations in a computer?",
+        "a": "CPU",
+        "b": "RAM",
+        "c": "Motherboard",
+        "d": "Graphics Card",
+        "r": "a"
+    },
+    {
+        "q": "What is the binary representation of 1011?",
+        "a": "1000",
+        "b": "100",
+        "c": "1101",
+        "d": "111",
+        "r": "d"
+    },
+    {
+        "q": "What does URL stand for in the context of the internet?",
+        "a": "Uniform Resource Locator",
+        "b": "Universal Resource Locator",
+        "c": "Unified Resource Locator",
+        "d": "Unique Resource Locator",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is used for web design and layout?",
+        "a": "CSS",
+        "b": "Java",
+        "c": "Python",
+        "d": "C++",
+        "r": "a"
+    },
+    {
+        "q": "What is the binary representation of 1110?",
+        "a": "1011",
+        "b": "101",
+        "c": "1010",
+        "d": "110",
+        "r": "c"
+    },
+    {
+        "q": "What does HTTP stand for in the context of the internet?",
+        "a": "Hypertext Transfer Protocol",
+        "b": "Hypertext Transmission Protocol",
+        "c": "Hyperlink Transfer Protocol",
+        "d": "Hyperlink Transmission Protocol",
+        "r": "a"
+    },
+    {
+        "q": "What is the binary representation of 110?",
+        "a": "100",
+        "b": "111",
+        "c": "101",
+        "d": "11",
+        "r": "c"
+    },
+    {
+        "q": "What is the first step in the software development life cycle (SDLC)?",
+        "a": "Requirements gathering and analysis",
+        "b": "Coding",
+        "c": "Testing",
+        "d": "Maintenance",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is known for its readability and simplicity?",
+        "a": "Python",
+        "b": "C++",
+        "c": "Java",
+        "d": "Ruby",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of a loop in programming?",
+        "a": "Repeating a set of statements",
+        "b": "Declaring variables",
+        "c": "Creating functions",
+        "d": "Handling exceptions",
+        "r": "a"
+    },
+    {
+        "q": "What is the correct way to represent a single-line comment in Python?",
+        "a": "# This is a comment",
+        "b": "/* This is a comment */",
+        "c": "// This is a comment",
+        "d": "<!-- This is a comment -->",
+        "r": "a"
+    },
+    {
+        "q": "In binary, what number does the decimal 10 represent?",
+        "a": "1010",
+        "b": "1000",
+        "c": "1100",
+        "d": "1110",
+        "r": "a"
+    },
+    {
+        "q": "What data structure follows the Last-In-First-Out (LIFO) principle?",
+        "a": "Stack",
+        "b": "Queue",
+        "c": "Linked List",
+        "d": "Array",
+        "r": "a"
+    },
+    {
+        "q": "Which programming paradigm focuses on changing the state of objects?",
+        "a": "Object-Oriented Programming (OOP)",
+        "b": "Functional Programming",
+        "c": "Procedural Programming",
+        "d": "Logical Programming",
+        "r": "a"
+    },
+    {
+        "q": "Which type of programming error is detected at compile-time?",
+        "a": "Syntax error",
+        "b": "Runtime error",
+        "c": "Logical error",
+        "d": "Semantic error",
+        "r": "a"
+    },
+    {
+        "q": "Which loop is guaranteed to execute at least once?",
+        "a": "do-while loop",
+        "b": "for loop",
+        "c": "while loop",
+        "d": "repeat-until loop",
+        "r": "a"
+    },
+    {
+        "q": "What is the result of 5 + 3 * 2?",
+        "a": "11",
+        "b": "16",
+        "c": "13",
+        "d": "10",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of finding errors and fixing them in a program called?",
+        "a": "Debugging",
+        "b": "Testing",
+        "c": "Compiling",
+        "d": "Execution",
+        "r": "a"
+    },
+    {
+        "q": "What does HTML stand for in web development?",
+        "a": "Hypertext Markup Language",
+        "b": "Hyperlink and Text Markup Language",
+        "c": "High Text Machine Language",
+        "d": "Hyper Transfer Markup Language",
+        "r": "a"
+    },
+    {
+        "q": "Which operator is used to perform exponentiation in most programming languages?",
+        "a": "**",
+        "b": "^^",
+        "c": "^",
+        "d": "//",
+        "r": "a"
+    },
+    {
+        "q": "What is the output of the following code: print(\"Hello, \" + \"World!\")?",
+        "a": "Hello, World!",
+        "b": "Hello,",
+        "c": "World!",
+        "d": "Hello, + World!",
+        "r": "a"
+    },
+    {
+        "q": "In Python, what is the purpose of the range() function in a for loop?",
+        "a": "To generate a sequence of numbers",
+        "b": "To check the range of a variable",
+        "c": "To repeat a block of code multiple times",
+        "d": "To find the maximum value in a list",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure uses First-In-First-Out (FIFO) ordering?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Array",
+        "r": "a"
+    },
+    {
+        "q": "What does the acronym SQL stand for in database management?",
+        "a": "Structured Query Language",
+        "b": "Simple Query Language",
+        "c": "Standard Query Language",
+        "d": "Sequential Query Language",
+        "r": "a"
+    },
+    {
+        "q": "Which keyword is used in Python to create a function?",
+        "a": "def",
+        "b": "function",
+        "c": "func",
+        "d": "define",
+        "r": "a"
+    },
+    {
+        "q": "In programming, what is an array?",
+        "a": "A collection of elements of different types",
+        "b": "A collection of elements of the same type",
+        "c": "A collection of key-value pairs",
+        "d": "A collection of functions",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the else statement in an if-else block?",
+        "a": "To specify the default case when no condition is met",
+        "b": "To terminate the program",
+        "c": "To break out of the loop",
+        "d": "To handle exceptions",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is often used for artificial intelligence and machine learning?",
+        "a": "Python",
+        "b": "Java",
+        "c": "C++",
+        "d": "Ruby",
+        "r": "a"
+    },
+    {
+        "q": "What does the term \"algorithm\" refer to in programming?",
+        "a": "A step-by-step procedure for solving a problem",
+        "b": "A function in Python",
+        "c": "A data structure in C++",
+        "d": "A collection of data",
+        "r": "a"
+    },
+    {
+        "q": "What is the correct syntax to define a variable in most programming languages?",
+        "a": "var_name = value",
+        "b": "variable value",
+        "c": "var_name: value",
+        "d": "value = var_name",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure is based on the concept of nodes connected by edges?",
+        "a": "Graph",
+        "b": "Stack",
+        "c": "Tree",
+        "d": "Linked List",
+        "r": "a"
+    },
+    {
+        "q": "What does CSS stand for in web development?",
+        "a": "Cascading Style Sheets",
+        "b": "Creative Style Sheets",
+        "c": "Colorful Style Sheets",
+        "d": "Computer Style Sheets",
+        "r": "a"
+    },
+    {
+        "q": "Which operator is used to perform integer division in most programming languages?",
+        "a": "//",
+        "b": "/",
+        "c": "%",
+        "d": "div",
+        "r": "a"
+    },
+    {
+        "q": "What is the output of the following code: print(2 < 5 and 3 > 1)?",
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "2 < 5 and 3 > 1",
+        "d": "2 < 5 && 3 > 1",
+        "r": "a"
+    },
+    {
+        "q": "In Python, what does the len() function return?",
+        "a": "The length of a string or a collection",
+        "b": "The sum of two numbers",
+        "c": "The square root of a number",
+        "d": "The quotient of two numbers",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure allows you to store data in key-value pairs?",
+        "a": "Dictionary",
+        "b": "Array",
+        "c": "Stack",
+        "d": "Queue",
+        "r": "a"
+    },
+    {
+        "q": "What does the acronym API stand for in software development?",
+        "a": "Application Programming Interface",
+        "b": "Advanced Programming Interface",
+        "c": "Application Program Interface",
+        "d": "Automated Programming Interface",
+        "r": "a"
+    },
+    {
+        "q": "Which keyword is used in Python to exit a loop prematurely?",
+        "a": "break",
+        "b": "exit",
+        "c": "continue",
+        "d": "return",
+        "r": "a"
+    },
+    {
+        "q": "In programming, what is the purpose of the modulus operator?",
+        "a": "To find the remainder of division",
+        "b": "To multiply two numbers",
+        "c": "To perform integer division",
+        "d": "To compare two numbers",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the elif statement in Python?",
+        "a": "To check an additional condition after the if statement",
+        "b": "To handle exceptions",
+        "c": "To execute a block of code if no condition is met",
+        "d": "To perform logical AND",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is commonly used for web development?",
+        "a": "JavaScript",
+        "b": "Python",
+        "c": "C++",
+        "d": "PHP",
+        "r": "a"
+    },
+    {
+        "q": "What does the term \"variable scope\" refer to in programming?",
+        "a": "The region of the program where a variable can be accessed",
+        "b": "A function that returns a variable",
+        "c": "The maximum size of a variable",
+        "d": "A function that takes a variable as an argument",
+        "r": "a"
+    },
+    {
+        "q": "What is the correct syntax to define a function in Python?",
+        "a": "def function_name(parameters):",
+        "b": "func function_name(parameters):",
+        "c": "function_name(parameters) def",
+        "d": "function_name(parameters)",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the append() method in Python lists?",
+        "a": "To add an element to the end of the list",
+        "b": "To remove an element from the list",
+        "c": "To sort the list",
+        "d": "To find the length of the list",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure is suitable for implementing a stack?",
+        "a": "array",
+        "b": "linked list",
+        "c": "queue",
+        "d": "tree",
+        "r": "b"
+    },
+    {
+        "q": "What is the time complexity of inserting an element at the end of an array?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n log n)",
+        "r": "a"
+    },
+    {
+        "q": "Which sorting algorithm is known for its average-case time complexity of O(n log n)?",
+        "a": "Bubble Sort",
+        "b": "Selection Sort",
+        "c": "Merge Sort",
+        "d": "Insertion Sort",
+        "r": "c"
+    },
+    {
+        "q": "Which data structure is best suited for quickly finding the minimum and maximum value?",
+        "a": "Queue",
+        "b": "Linked List",
+        "c": "Hash Table",
+        "d": "Binary Search Tree",
+        "r": "d"
+    },
+    {
+        "q": "What is the worst-case time complexity of a linear search algorithm?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n^2)",
+        "r": "c"
+    },
+    {
+        "q": "In which data structure is the 'Last In, First Out' (LIFO) principle followed?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Binary Search Tree",
+        "r": "b"
+    },
+    {
+        "q": "Which data structure is used to implement a priority queue?",
+        "a": "Stack",
+        "b": "Array",
+        "c": "Heap",
+        "d": "Linked List",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of an adjacency list in graph representation?",
+        "a": "To store the vertices and their incident edges.",
+        "b": "To store the vertices and their distances.",
+        "c": "To store the edges and their weights.",
+        "d": "To store the edges and their types.",
+        "r": "a"
+    },
+    {
+        "q": "In the quicksort algorithm, which element is chosen as the pivot?",
+        "a": "The first element of the array.",
+        "b": "The last element of the array.",
+        "c": "The middle element of the array.",
+        "d": "A random element from the array.",
+        "r": "b"
+    },
+    {
+        "q": "Which data structure is suitable for implementing a deque (double-ended queue)?",
+        "a": "Array",
+        "b": "Linked List",
+        "c": "Stack",
+        "d": "Queue",
+        "r": "a"
+    },
+    {
+        "q": "What is the time complexity of a binary search in a sorted array of size n?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n log n)",
+        "r": "b"
+    },
+    {
+        "q": "Which sorting algorithm has the best worst-case time complexity?",
+        "a": "Quick Sort",
+        "b": "Bubble Sort",
+        "c": "Insertion Sort",
+        "d": "Merge Sort",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary purpose of using dynamic programming in algorithms?",
+        "a": "To reduce the time complexity of algorithms.",
+        "b": "To implement complex data structures.",
+        "c": "To improve code readability.",
+        "d": "To handle memory allocation and deallocation efficiently.",
+        "r": "a"
+    },
+    {
+        "q": "In a binary tree, which node is at the topmost level?",
+        "a": "Root",
+        "b": "Leaf",
+        "c": "Child",
+        "d": "Parent",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure is suitable for implementing a hash table?",
+        "a": "Linked List",
+        "b": "Array",
+        "c": "Stack",
+        "d": "Queue",
+        "r": "b"
+    },
+    {
+        "q": "What is the space complexity of the bubble sort algorithm?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n^2)",
+        "r": "a"
+    },
+    {
+        "q": "Which search algorithm requires a sorted array for its operation?",
+        "a": "Linear Search",
+        "b": "Binary Search",
+        "c": "Depth-First Search (DFS)",
+        "d": "Breadth-First Search (BFS)",
+        "r": "b"
+    },
+    {
+        "q": "What is the time complexity of a linear search in the worst-case scenario?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n^2)",
+        "r": "c"
+    },
+    {
+        "q": "In the context of a binary tree, what is a node with no children called?",
+        "a": "Root",
+        "b": "Parent",
+        "c": "Leaf",
+        "d": "Child",
+        "r": "c"
+    },
+    {
+        "q": "Which data structure is used to implement a Breadth-First Search (BFS) algorithm?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Hash Table",
+        "r": "a"
+    },
+    {
+        "q": "What is the time complexity of the selection sort algorithm in the best-case scenario?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n^2)",
+        "r": "d"
+    },
+    {
+        "q": "Which algorithm is used to find the shortest path in an unweighted graph?",
+        "a": "Breadth-First Search (BFS)",
+        "b": "Depth-First Search (DFS)",
+        "c": "Dijkstra's Algorithm",
+        "d": "Kruskal's Algorithm",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure uses First-In, First-Out (FIFO) ordering?",
+        "a": "Stack",
+        "b": "Queue",
+        "c": "Linked List",
+        "d": "Binary Search Tree",
+        "r": "b"
+    },
+    {
+        "q": "What is the worst-case time complexity of a binary search in an array of size n?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n^2)",
+        "r": "b"
+    },
+    {
+        "q": "Which sorting algorithm is known for its simplicity and suitability for small datasets?",
+        "a": "Quick Sort",
+        "b": "Bubble Sort",
+        "c": "Insertion Sort",
+        "d": "Merge Sort",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary objective of the divide and conquer approach in algorithms?",
+        "a": "To improve code readability.",
+        "b": "To reduce the time complexity of algorithms.",
+        "c": "To handle memory allocation and deallocation efficiently.",
+        "d": "To break a problem into smaller subproblems.",
+        "r": "d"
+    },
+    {
+        "q": "In a binary tree, which node is connected by a single edge?",
+        "a": "Root",
+        "b": "Parent",
+        "c": "Leaf",
+        "d": "Child",
+        "r": "d"
+    },
+    {
+        "q": "Which data structure is suitable for implementing a breadth-first search (BFS)?",
+        "a": "Array",
+        "b": "Linked List",
+        "c": "Stack",
+        "d": "Queue",
+        "r": "d"
+    },
+    {
+        "q": "What is the space complexity of the insertion sort algorithm?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n^2)",
+        "r": "a"
+    },
+    {
+        "q": "Which search algorithm is based on the principle of 'divide and conquer'?",
+        "a": "Linear Search",
+        "b": "Binary Search",
+        "c": "Depth-First Search (DFS)",
+        "d": "Breadth-First Search (BFS)",
+        "r": "b"
+    },
+    {
+        "q": "What is the time complexity of a binary search in the average-case scenario?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n^2)",
+        "r": "b"
+    },
+    {
+        "q": "In the context of a binary tree, what is a node with exactly two children called?",
+        "a": "Root",
+        "b": "Parent",
+        "c": "Leaf",
+        "d": "Internal Node",
+        "r": "d"
+    },
+    {
+        "q": "Which data structure is used for implementing a Depth-First Search (DFS) algorithm?",
+        "a": "Stack",
+        "b": "Queue",
+        "c": "Linked List",
+        "d": "Binary Search Tree",
+        "r": "a"
+    },
+    {
+        "q": "What is the time complexity of the bubble sort algorithm in the average-case scenario?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n^2)",
+        "r": "d"
+    },
+    {
+        "q": "Which algorithm is used to find the minimum spanning tree in a connected graph?",
+        "a": "Breadth-First Search (BFS)",
+        "b": "Depth-First Search (DFS)",
+        "c": "Dijkstra's Algorithm",
+        "d": "Kruskal's Algorithm",
+        "r": "d"
+    },
+    {
+        "q": "Which data structure follows the LIFO rule?",
+        "a": "stack",
+        "b": "queue",
+        "c": "linkedlist",
+        "d": "array",
+        "r": "a"
+    },
+    {
+        "q": "What is the time complexity of binary search?",
+        "a": "O(log n)",
+        "b": "O(n)",
+        "c": "O(n^2)",
+        "d": "O(1)",
+        "r": "a"
+    },
+    {
+        "q": "Which sorting algorithm has the best average-case time complexity?",
+        "a": "merge sort",
+        "b": "bubble sort",
+        "c": "quicksort",
+        "d": "insertion sort",
+        "r": "a"
+    },
+    {
+        "q": "What is the worst-case time complexity of quicksort?",
+        "a": "O(n^2)",
+        "b": "O(n log n)",
+        "c": "O(log n)",
+        "d": "O(n)",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure uses the First-In-First-Out (FIFO) rule?",
+        "a": "queue",
+        "b": "stack",
+        "c": "tree",
+        "d": "linkedlist",
+        "r": "a"
+    },
+    {
+        "q": "In a binary tree, a node with no children is called a/an:",
+        "a": "leaf node",
+        "b": "parent node",
+        "c": "root node",
+        "d": "child node",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary advantage of a linked list over an array?",
+        "a": "Dynamic size",
+        "b": "Constant time access",
+        "c": "Random access",
+        "d": "Lower memory consumption",
+        "r": "a"
+    },
+    {
+        "q": "Which searching algorithm requires a sorted array for its implementation?",
+        "a": "binary search",
+        "b": "linear search",
+        "c": "interpolation search",
+        "d": "breadth-first search",
+        "r": "a"
+    },
+    {
+        "q": "The process of inserting an element at the end of a queue is called:",
+        "a": "Enqueue",
+        "b": "Dequeue",
+        "c": "Push",
+        "d": "Pop",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure uses the concept of a \"last-in, first-out\" approach?",
+        "a": "stack",
+        "b": "queue",
+        "c": "linkedlist",
+        "d": "array",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not an example of a linear data structure?",
+        "a": "tree",
+        "b": "stack",
+        "c": "queue",
+        "d": "linkedlist",
+        "r": "a"
+    },
+    {
+        "q": "In a binary search tree, which sub-tree is rooted at the node's left child?",
+        "a": "left sub-tree",
+        "b": "right sub-tree",
+        "c": "parent sub-tree",
+        "d": "sibling sub-tree",
+        "r": "a"
+    },
+    {
+        "q": "Which algorithm is used to find the shortest path in a weighted graph?",
+        "a": "Dijkstra's algorithm",
+        "b": "Breadth-first search (BFS)",
+        "c": "Depth-first search (DFS)",
+        "d": "Prim's algorithm",
+        "r": "a"
+    },
+    {
+        "q": "Which sorting algorithm works by repeatedly swapping adjacent elements if they are in the wrong order?",
+        "a": "bubble sort",
+        "b": "merge sort",
+        "c": "quicksort",
+        "d": "insertion sort",
+        "r": "a"
+    },
+    {
+        "q": "The process of removing an element from the front of a queue is called:",
+        "a": "dequeue",
+        "b": "enqueue",
+        "c": "pop",
+        "d": "push",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure is based on the principle of Last-In-First-Out (LIFO)?",
+        "a": "stack",
+        "b": "queue",
+        "c": "linkedlist",
+        "d": "array",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a non-linear data structure?",
+        "a": "tree",
+        "b": "stack",
+        "c": "queue",
+        "d": "linkedlist",
+        "r": "a"
+    },
+    {
+        "q": "Which algorithm is used to find the maximum flow in a flow network?",
+        "a": "Ford-Fulkerson algorithm",
+        "b": "Kruskal's algorithm",
+        "c": "Prim's algorithm",
+        "d": "Dijkstra's algorithm",
+        "r": "a"
+    },
+    {
+        "q": "What is the main concept of OOP?",
+        "a": "Abstraction",
+        "b": "Encapsulation",
+        "c": "Polymorphism",
+        "d": "Inheritance",
+        "r": "a"
+    },
+    {
+        "q": "Which OOP principle restricts access to certain class members?",
+        "a": "Inheritance",
+        "b": "Polymorphism",
+        "c": "Abstraction",
+        "d": "Encapsulation",
+        "r": "d"
+    },
+    {
+        "q": "Which OOP principle promotes code reusability?",
+        "a": "Abstraction",
+        "b": "Encapsulation",
+        "c": "Inheritance",
+        "d": "Polymorphism",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of creating an object called?",
+        "a": "Instantiation",
+        "b": "Inheritance",
+        "c": "Abstraction",
+        "d": "Encapsulation",
+        "r": "a"
+    },
+    {
+        "q": "Which OOP concept allows a class to inherit properties and behavior from another class?",
+        "a": "Polymorphism",
+        "b": "Inheritance",
+        "c": "Encapsulation",
+        "d": "Abstraction",
+        "r": "b"
+    },
+    {
+        "q": "Which keyword is used to define a class in Python?",
+        "a": "class",
+        "b": "def",
+        "c": "object",
+        "d": "this",
+        "r": "a"
+    },
+    {
+        "q": "What does the 'self' keyword refer to in Python class methods?",
+        "a": "Class name",
+        "b": "Current instance",
+        "c": "Parent class",
+        "d": "Subclass",
+        "r": "b"
+    },
+    {
+        "q": "Which OOP principle groups data and methods that operate on the data?",
+        "a": "Inheritance",
+        "b": "Encapsulation",
+        "c": "Abstraction",
+        "d": "Polymorphism",
+        "r": "b"
+    },
+    {
+        "q": "Which access modifier allows a class to be inherited by another class?",
+        "a": "protected",
+        "b": "public",
+        "c": "private",
+        "d": "final",
+        "r": "a"
+    },
+    {
+        "q": "In OOP, what do we call the process of hiding the internal implementation details of an object?",
+        "a": "Encapsulation",
+        "b": "Abstraction",
+        "c": "Inheritance",
+        "d": "Polymorphism",
+        "r": "a"
+    },
+    {
+        "q": "Which OOP principle allows one function to have multiple forms?",
+        "a": "Abstraction",
+        "b": "Polymorphism",
+        "c": "Encapsulation",
+        "d": "Inheritance",
+        "r": "b"
+    },
+    {
+        "q": "In Python, what is used to create an instance of a class?",
+        "a": "new",
+        "b": "create",
+        "c": "make",
+        "d": "constructor",
+        "r": "d"
+    },
+    {
+        "q": "Which keyword is used to call the parent class's constructor inside a subclass in Python?",
+        "a": "parent()",
+        "b": "super()",
+        "c": "base()",
+        "d": "this.parent()",
+        "r": "b"
+    },
+    {
+        "q": "What is the term used to describe the ability of a class to have multiple subclasses?",
+        "a": "Inheritance",
+        "b": "Polymorphism",
+        "c": "Abstraction",
+        "d": "Encapsulation",
+        "r": "a"
+    },
+    {
+        "q": "Which OOP principle allows a class to have multiple methods with the same name but different parameters?",
+        "a": "Polymorphism",
+        "b": "Abstraction",
+        "c": "Encapsulation",
+        "d": "Inheritance",
+        "r": "a"
+    },
+    {
+        "q": "In Python, how do you create a new instance variable inside a class?",
+        "a": "self.var_name = value",
+        "b": "new var_name = value",
+        "c": "this.var_name = value",
+        "d": "var_name = value",
+        "r": "a"
+    },
+    {
+        "q": "Which access modifier allows a class member to be accessed only within its own class?",
+        "a": "protected",
+        "b": "public",
+        "c": "private",
+        "d": "internal",
+        "r": "c"
+    },
+    {
+        "q": "What is the term used to describe the process of creating a new class from an existing class?",
+        "a": "Abstraction",
+        "b": "Polymorphism",
+        "c": "Inheritance",
+        "d": "Encapsulation",
+        "r": "c"
+    },
+    {
+        "q": "Which OOP concept allows a class to have more than one superclass?",
+        "a": "Multiple Inheritance",
+        "b": "Single Inheritance",
+        "c": "Multi-level Inheritance",
+        "d": "Hierarchical Inheritance",
+        "r": "a"
+    },
+    {
+        "q": "In Python, how do you create a class method that can be called on the class itself?",
+        "a": "@classmethod",
+        "b": "@staticmethod",
+        "c": "@instance_method",
+        "d": "@staticmethod",
+        "r": "a"
+    },
+    {
+        "q": "What does the 'init' method do in Python classes?",
+        "a": "Initializes the class object",
+        "b": "Defines the class attributes",
+        "c": "Calls the parent class constructor",
+        "d": "Creates a new instance of the class",
+        "r": "a"
+    },
+    {
+        "q": "Which OOP principle is based on the concept of \"one class, multiple interfaces\"?",
+        "a": "Abstraction",
+        "b": "Encapsulation",
+        "c": "Polymorphism",
+        "d": "Inheritance",
+        "r": "c"
+    },
+    {
+        "q": "Which protocol operates on the application layer?",
+        "a": "http",
+        "b": "udp",
+        "c": "smtp",
+        "d": "icmp",
+        "r": "a"
+    },
+    {
+        "q": "What does DNS stand for?",
+        "a": "domain name system",
+        "b": "dynamic network service",
+        "c": "digital networking system",
+        "d": "data name server",
+        "r": "a"
+    },
+    {
+        "q": "Which device is used to connect two networks together?",
+        "a": "hub",
+        "b": "switch",
+        "c": "modem",
+        "d": "router",
+        "r": "d"
+    },
+    {
+        "q": "What does IP stand for?",
+        "a": "internet protocol",
+        "b": "internal processor",
+        "c": "internet provider",
+        "d": "information process",
+        "r": "a"
+    },
+    {
+        "q": "Which topology is most suitable for large networks?",
+        "a": "star",
+        "b": "bus",
+        "c": "ring",
+        "d": "mesh",
+        "r": "d"
+    },
+    {
+        "q": "Which type of network topology has a central node?",
+        "a": "bus",
+        "b": "mesh",
+        "c": "star",
+        "d": "ring",
+        "r": "c"
+    },
+    {
+        "q": "Which device operates at the Physical Layer of OSI model?",
+        "a": "hub",
+        "b": "router",
+        "c": "switch",
+        "d": "modem",
+        "r": "a"
+    },
+    {
+        "q": "What is the maximum data rate of the Ethernet standard?",
+        "a": "10 Mbps",
+        "b": "100 Mbps",
+        "c": "1 Gbps",
+        "d": "10 Gbps",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a network topology with a central hub?",
+        "a": "Star",
+        "b": "Ring",
+        "c": "Mesh",
+        "d": "Bus",
+        "r": "a"
+    },
+    {
+        "q": "What is the subnet mask for the IP address 192.168.1.10 with a /24 prefix?",
+        "a": "255.255.0.0",
+        "b": "255.255.255.0",
+        "c": "255.0.0.0",
+        "d": "255.255.255.255",
+        "r": "b"
+    },
+    {
+        "q": "Which protocol is used for secure communication over a computer network?",
+        "a": "HTTP",
+        "b": "FTPS",
+        "c": "SMTP",
+        "d": "HTTPS",
+        "r": "d"
+    },
+    {
+        "q": "Which network device operates at the Data Link Layer of OSI model?",
+        "a": "Bridge",
+        "b": "Repeater",
+        "c": "Gateway",
+        "d": "Firewall",
+        "r": "a"
+    },
+    {
+        "q": "What is the default port number for HTTP?",
+        "a": "80",
+        "b": "443",
+        "c": "22",
+        "d": "21",
+        "r": "a"
+    },
+    {
+        "q": "Which routing algorithm uses the Distance Vector approach?",
+        "a": "OSPF",
+        "b": "RIP",
+        "c": "BGP",
+        "d": "EIGRP",
+        "r": "b"
+    },
+    {
+        "q": "What does DNS stand for in the context of computer networks?",
+        "a": "Domain Name Service",
+        "b": "Data Network Service",
+        "c": "Digital Network System",
+        "d": "Dynamic Name System",
+        "r": "a"
+    },
+    {
+        "q": "Which wireless standard allows the highest data transfer rates?",
+        "a": "802.11a",
+        "b": "802.11b",
+        "c": "802.11g",
+        "d": "802.11ac",
+        "r": "d"
+    },
+    {
+        "q": "Which type of addressing is used in IPv6?",
+        "a": "32-bit addressing",
+        "b": "48-bit addressing",
+        "c": "64-bit addressing",
+        "d": "128-bit addressing",
+        "r": "c"
+    },
+    {
+        "q": "Which type of network is limited to a small geographic area such as an office or a building?",
+        "a": "PAN",
+        "b": "LAN",
+        "c": "MAN",
+        "d": "WAN",
+        "r": "b"
+    },
+    {
+        "q": "Which protocol is used for sending and receiving email?",
+        "a": "FTP",
+        "b": "SMTP",
+        "c": "SNMP",
+        "d": "HTTP",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of NAT (Network Address Translation)?",
+        "a": "To convert public IP addresses to private IP addresses",
+        "b": "To convert private IP addresses to public IP addresses",
+        "c": "To convert IP addresses to MAC addresses",
+        "d": "To convert IPv4 addresses to IPv6 addresses",
+        "r": "b"
+    },
+    {
+        "q": "Which device connects multiple networks together and forwards data based on the destination IP address?",
+        "a": "Router",
+        "b": "Hub",
+        "c": "Switch",
+        "d": "Repeater",
+        "r": "a"
+    },
+    {
+        "q": "What does FTP stand for in the context of computer networks?",
+        "a": "File Transfer Protocol",
+        "b": "Fast Transfer Protocol",
+        "c": "Folder Transfer Protocol",
+        "d": "File Transport Protocol",
+        "r": "a"
+    },
+    {
+        "q": "Which network topology provides redundancy and fault tolerance?",
+        "a": "Mesh",
+        "b": "Bus",
+        "c": "Star",
+        "d": "Ring",
+        "r": "a"
+    },
+    {
+        "q": "Which IP address range is reserved for loopback addresses?",
+        "a": "127.0.0.0 - 127.255.255.255",
+        "b": "192.168.0.0 - 192.168.255.255",
+        "c": "10.0.0.0 - 10.255.255.255",
+        "d": "172.16.0.0 - 172.31.255.255",
+        "r": "a"
+    },
+    {
+        "q": "Which protocol is used for securely accessing a remote server?",
+        "a": "FTPS",
+        "b": "TFTP",
+        "c": "SSH",
+        "d": "HTTP",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of ARP (Address Resolution Protocol)?",
+        "a": "To resolve domain names to IP addresses",
+        "b": "To resolve IP addresses to MAC addresses",
+        "c": "To resolve MAC addresses to IP addresses",
+        "d": "To resolve public IP addresses to private IP addresses",
+        "r": "b"
+    },
+    {
+        "q": "Which wireless standard operates in the 2.4 GHz frequency band?",
+        "a": "802.11a",
+        "b": "802.11b",
+        "c": "802.11g",
+        "d": "802.11n",
+        "r": "c"
+    },
+    {
+        "q": "In the OSI model, which layer is responsible for error detection and correction?",
+        "a": "Physical Layer",
+        "b": "Data Link Layer",
+        "c": "Network Layer",
+        "d": "Transport Layer",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of a firewall in a computer network?",
+        "a": "To block unauthorized access and control network traffic",
+        "b": "To amplify network signals",
+        "c": "To convert public IP addresses to private IP addresses",
+        "d": "To translate domain names to IP addresses",
+        "r": "a"
+    },
+    {
+        "q": "Which protocol is used for securely transferring files over a network?",
+        "a": "FTPS",
+        "b": "SMTP",
+        "c": "SNMP",
+        "d": "HTTP",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of DHCP (Dynamic Host Configuration Protocol)?",
+        "a": "To translate domain names to IP addresses",
+        "b": "To resolve IP addresses to MAC addresses",
+        "c": "To automatically assign IP addresses to devices",
+        "d": "To resolve public IP addresses to private IP addresses",
+        "r": "c"
+    },
+    {
+        "q": "Which networking device operates at the Physical Layer of OSI model?",
+        "a": "Router",
+        "b": "Hub",
+        "c": "Switch",
+        "d": "Repeater",
+        "r": "b"
+    },
+    {
+        "q": "What does HTTP stand for in the context of computer networks?",
+        "a": "HyperText Transport Protocol",
+        "b": "HyperText Transfer Protocol",
+        "c": "High-speed Transfer Protocol",
+        "d": "Hyper Transport Protocol",
+        "r": "b"
+    },
+    {
+        "q": "Which network topology connects all devices in a linear manner?",
+        "a": "Star",
+        "b": "Ring",
+        "c": "Mesh",
+        "d": "Bus",
+        "r": "d"
+    },
+    {
+        "q": "What is the default port number for HTTPS?",
+        "a": "80",
+        "b": "443",
+        "c": "22",
+        "d": "21",
+        "r": "b"
+    },
+    {
+        "q": "Which routing algorithm uses link cost and network topology to find the best path?",
+        "a": "OSPF",
+        "b": "RIP",
+        "c": "BGP",
+        "d": "EIGRP",
+        "r": "a"
+    },
+    {
+        "q": "What does LAN stand for in the context of computer networks?",
+        "a": "Local Access Network",
+        "b": "Local Area Network",
+        "c": "Large Area Network",
+        "d": "Long Access Network",
+        "r": "b"
+    },
+    {
+        "q": "Which wireless standard provides the longest range?",
+        "a": "802.11a",
+        "b": "802.11b",
+        "c": "802.11g",
+        "d": "802.11n",
+        "r": "d"
+    },
+    {
+        "q": "Which type of addressing is used in IPv4?",
+        "a": "32-bit addressing",
+        "b": "48-bit addressing",
+        "c": "64-bit addressing",
+        "d": "128-bit addressing",
+        "r": "a"
+    },
+    {
+        "q": "Which type of network covers a larger geographic area, such as a city or country?",
+        "a": "PAN",
+        "b": "LAN",
+        "c": "MAN",
+        "d": "WAN",
+        "r": "c"
+    },
+    {
+        "q": "Which protocol is used for transferring files between a client and a server?",
+        "a": "FTP",
+        "b": "SMTP",
+        "c": "SNMP",
+        "d": "HTTP",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of a gateway in a computer network?",
+        "a": "To connect two different networks and facilitate communication between them",
+        "b": "To amplify network signals",
+        "c": "To convert public IP addresses to private IP addresses",
+        "d": "To translate domain names to IP addresses",
+        "r": "a"
+    },
+    {
+        "q": "Which device operates at the Data Link Layer of OSI model?",
+        "a": "Router",
+        "b": "Hub",
+        "c": "Switch",
+        "d": "Repeater",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of SMTP (Simple Mail Transfer Protocol)?",
+        "a": "To transfer files securely over a network",
+        "b": "To send and receive emails",
+        "c": "To manage network devices",
+        "d": "To resolve public IP addresses to private IP addresses",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT an operating system?",
+        "a": "Windows",
+        "b": "macOS",
+        "c": "Linux",
+        "d": "Microsoft Word",
+        "r": "d"
+    },
+    {
+        "q": "The core component of an operating system that manages memory is called:",
+        "a": "Kernel",
+        "b": "CPU",
+        "c": "RAM",
+        "d": "Monitor",
+        "r": "a"
+    },
+    {
+        "q": "Which scheduling algorithm assigns the CPU to the processes based on priority?",
+        "a": "Priority Scheduling",
+        "b": "Round Robin Scheduling",
+        "c": "First-Come-First-Serve Scheduling",
+        "d": "Shortest Job Next Scheduling",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of virtual memory?",
+        "a": "To provide more RAM to the computer",
+        "b": "To allow running multiple virtual machines",
+        "c": "To provide a large address space for processes",
+        "d": "To run applications in isolation",
+        "r": "c"
+    },
+    {
+        "q": "The process of swapping data between RAM and disk is known as:",
+        "a": "Paging",
+        "b": "Fragmentation",
+        "c": "Thrashing",
+        "d": "Multitasking",
+        "r": "a"
+    },
+    {
+        "q": "What is a critical section in the context of an operating system?",
+        "a": "A section of code that must be executed atomically",
+        "b": "A section of code that is not important",
+        "c": "A section of code that causes system crashes",
+        "d": "A section of code that is executed in user mode",
+        "r": "a"
+    },
+    {
+        "q": "Which file system is used by default in Windows operating systems?",
+        "a": "NTFS",
+        "b": "FAT32",
+        "c": "ext4",
+        "d": "HFS+",
+        "r": "a"
+    },
+    {
+        "q": "The process of dividing the main memory into fixed-sized blocks to manage memory is called:",
+        "a": "Segmentation",
+        "b": "Partitioning",
+        "c": "Fragmentation",
+        "d": "Paging",
+        "r": "d"
+    },
+    {
+        "q": "In a multi-user operating system, what ensures that one user cannot access another user's data?",
+        "a": "Process Isolation",
+        "b": "User Authentication",
+        "c": "File Encryption",
+        "d": "Firewalls",
+        "r": "a"
+    },
+    {
+        "q": "Which type of operating system allows multiple tasks to execute concurrently?",
+        "a": "Multi-tasking",
+        "b": "Single-tasking",
+        "c": "Real-time",
+        "d": "Multi-user",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of an interrupt in an operating system?",
+        "a": "To stop a running process",
+        "b": "To handle system errors",
+        "c": "To request CPU time from the kernel",
+        "d": "To pause a program's execution",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is NOT a function of an operating system?",
+        "a": "Memory Management",
+        "b": "File Management",
+        "c": "Peripheral Management",
+        "d": "Data Encryption",
+        "r": "d"
+    },
+    {
+        "q": "The process of bringing a page from disk to RAM is called:",
+        "a": "Paging In",
+        "b": "Paging Out",
+        "c": "Swapping In",
+        "d": "Swapping Out",
+        "r": "a"
+    },
+    {
+        "q": "Which scheduling algorithm is considered fair and prevents starvation of processes?",
+        "a": "Round Robin Scheduling",
+        "b": "Priority Scheduling",
+        "c": "First-Come-First-Serve Scheduling",
+        "d": "Shortest Job Next Scheduling",
+        "r": "a"
+    },
+    {
+        "q": "What is the main purpose of a command-line interface in an operating system?",
+        "a": "To provide a graphical user interface",
+        "b": "To make the operating system more user-friendly",
+        "c": "To enable users to interact with the system using commands",
+        "d": "To allow multiple users to share the system",
+        "r": "c"
+    },
+    {
+        "q": "Which memory management scheme uses variable-sized partitions?",
+        "a": "Segmentation",
+        "b": "Paging",
+        "c": "Partitioning",
+        "d": "Fragmentation",
+        "r": "a"
+    },
+    {
+        "q": "What does the abbreviation 'PID' stand for in the context of operating systems?",
+        "a": "Process Identifier",
+        "b": "Parent ID",
+        "c": "Program ID",
+        "d": "Process ID",
+        "r": "d"
+    },
+    {
+        "q": "Which file system is commonly used in Linux-based operating systems?",
+        "a": "ext4",
+        "b": "NTFS",
+        "c": "FAT32",
+        "d": "HFS+",
+        "r": "a"
+    },
+    {
+        "q": "In which state does a process wait for its turn to be executed?",
+        "a": "Ready",
+        "b": "Running",
+        "c": "Blocked",
+        "d": "Terminate",
+        "r": "c"
+    },
+    {
+        "q": "Which type of operating system is used in embedded systems and real-time applications?",
+        "a": "Real-time",
+        "b": "Multi-user",
+        "c": "Single-user",
+        "d": "Multi-tasking",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of a context switch in an operating system?",
+        "a": "To save the process state before switching to another process",
+        "b": "To switch from user mode to kernel mode",
+        "c": "To terminate a process",
+        "d": "To allocate more memory to a process",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a non-volatile storage device?",
+        "a": "Hard Disk Drive",
+        "b": "Random Access Memory (RAM)",
+        "c": "Solid State Drive (SSD)",
+        "d": "USB Flash Drive",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary goal of memory management in an operating system?",
+        "a": "To allocate CPU time to processes efficiently",
+        "b": "To provide a user-friendly interface",
+        "c": "To maximize the utilization of RAM",
+        "d": "To prevent unauthorized access to files",
+        "r": "c"
+    },
+    {
+        "q": "Which scheduling algorithm is suitable for time-sharing systems?",
+        "a": "Round Robin Scheduling",
+        "b": "Priority Scheduling",
+        "c": "First-Come-First-Serve Scheduling",
+        "d": "Shortest Job Next Scheduling",
+        "r": "a"
+    },
+    {
+        "q": "In a multi-programming operating system, what allows the CPU to switch between processes?",
+        "a": "Context Switching",
+        "b": "Time Slicing",
+        "c": "Interrupt Handling",
+        "d": "Task Switching",
+        "r": "a"
+    },
+    {
+        "q": "What is the main function of the Memory Management Unit (MMU)?",
+        "a": "To control the execution of processes",
+        "b": "To allocate memory to processes efficiently",
+        "c": "To provide virtual memory",
+        "d": "To communicate with peripheral devices",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT an example of an operating system?",
+        "a": "Ubuntu",
+        "b": "Android",
+        "c": "Microsoft Office",
+        "d": "macOS",
+        "r": "c"
+    },
+    {
+        "q": "Which memory management scheme uses fixed-sized partitions?",
+        "a": "Partitioning",
+        "b": "Segmentation",
+        "c": "Paging",
+        "d": "Fragmentation",
+        "r": "a"
+    },
+    {
+        "q": "What does the abbreviation 'CPU' stand for in the context of operating systems?",
+        "a": "Central Processing Unit",
+        "b": "Core Processing Unit",
+        "c": "Computer Processing Unit",
+        "d": "Central Power Unit",
+        "r": "a"
+    },
+    {
+        "q": "In which state is a process waiting for some event to occur before it can continue execution?",
+        "a": "Blocked",
+        "b": "Ready",
+        "c": "Running",
+        "d": "Terminate",
+        "r": "a"
+    },
+    {
+        "q": "Which type of operating system is designed for a single user at a time?",
+        "a": "Single-user",
+        "b": "Multi-user",
+        "c": "Real-time",
+        "d": "Multi-tasking",
+        "r": "a"
+    },
+    {
+        "q": "What is the role of a device driver in an operating system?",
+        "a": "To manage the main memory",
+        "b": "To provide a user-friendly interface",
+        "c": "To control peripheral devices",
+        "d": "To schedule processes",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is NOT an example of secondary storage?",
+        "a": "RAM",
+        "b": "Hard Disk Drive",
+        "c": "Solid State Drive (SSD)",
+        "d": "USB Flash Drive",
+        "r": "a"
+    },
+    {
+        "q": "The process of dividing the main memory into fixed-sized partitions is called:",
+        "a": "Partitioning",
+        "b": "Segmentation",
+        "c": "Fragmentation",
+        "d": "Paging",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'ls' command in Unix-based operating systems?",
+        "a": "To create a new directory",
+        "b": "To list the contents of a directory",
+        "c": "To remove a file or directory",
+        "d": "To display system information",
+        "r": "b"
+    },
+    {
+        "q": "Which type of operating system is used in medical devices and industrial control systems?",
+        "a": "Real-time",
+        "b": "Multi-user",
+        "c": "Single-user",
+        "d": "Multi-tasking",
+        "r": "a"
+    },
+    {
+        "q": "What is the function of the 'grep' command in Unix-based operating systems?",
+        "a": "To search for a pattern in a file",
+        "b": "To display system information",
+        "c": "To create a new directory",
+        "d": "To list the contents of a directory",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a process scheduling algorithm?",
+        "a": "Thrashing",
+        "b": "Round Robin Scheduling",
+        "c": "First-Come-First-Serve Scheduling",
+        "d": "Shortest Job Next Scheduling",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of an input device?",
+        "a": "Keyboard",
+        "b": "Printer",
+        "c": "Monitor",
+        "d": "Hard Disk Drive",
+        "r": "a"
+    },
+    {
+        "q": "In a multi-programming operating system, what enables a process to temporarily halt its execution?",
+        "a": "Blocking System Call",
+        "b": "Context Switching",
+        "c": "Time Slicing",
+        "d": "Task Switching",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a DBMS software?",
+        "a": "mysql",
+        "b": "oracle",
+        "c": "photoshop",
+        "d": "microsoft access",
+        "r": "c"
+    },
+    {
+        "q": "What does SQL stand for?",
+        "a": "Standard Query Language",
+        "b": "Structured Query Language",
+        "c": "Semi-structured Query Language",
+        "d": "Specific Query Language",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a non-relational DBMS?",
+        "a": "MongoDB",
+        "b": "MySQL",
+        "c": "PostgreSQL",
+        "d": "Oracle",
+        "r": "a"
+    },
+    {
+        "q": "Which database model uses a graph-like structure?",
+        "a": "Hierarchical",
+        "b": "Relational",
+        "c": "Network",
+        "d": "NoSQL",
+        "r": "c"
+    },
+    {
+        "q": "What does ACID stand for in the context of databases?",
+        "a": "Atomicity, Consistency, Isolation, Durability",
+        "b": "Association, Consistency, Isolation, Durability",
+        "c": "Atomicity, Completeness, Isolation, Durability",
+        "d": "Association, Completeness, Isolation, Durability",
+        "r": "a"
+    },
+    {
+        "q": "Which SQL command is used to retrieve data from a database?",
+        "a": "GET",
+        "b": "FETCH",
+        "c": "SELECT",
+        "d": "SEARCH",
+        "r": "c"
+    },
+    {
+        "q": "In a relational database, what is a row called?",
+        "a": "Cell",
+        "b": "Field",
+        "c": "Record",
+        "d": "Column",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a data type in SQL?",
+        "a": "INT",
+        "b": "VARCHAR",
+        "c": "FLOAT",
+        "d": "CHARACTER",
+        "r": "d"
+    },
+    {
+        "q": "What is a primary key in a database table?",
+        "a": "A key that uniquely identifies each row in a table",
+        "b": "A key used for encryption",
+        "c": "A key used for sorting data",
+        "d": "A key used for database backup",
+        "r": "a"
+    },
+    {
+        "q": "Which SQL clause is used to filter records?",
+        "a": "ORDER BY",
+        "b": "FILTER",
+        "c": "WHERE",
+        "d": "GROUP BY",
+        "r": "c"
+    },
+    {
+        "q": "What is a foreign key in a database table?",
+        "a": "A key used for accessing the database",
+        "b": "A key that uniquely identifies each row in a table",
+        "c": "A key used for sorting data",
+        "d": "A key used to link two tables",
+        "r": "d"
+    },
+    {
+        "q": "Which SQL command is used to add data to a database?",
+        "a": "ADD",
+        "b": "INSERT",
+        "c": "UPDATE",
+        "d": "ATTACH",
+        "r": "b"
+    },
+    {
+        "q": "What is the full form of DDL in the context of databases?",
+        "a": "Data Definition Language",
+        "b": "Data Design Language",
+        "c": "Database Description Language",
+        "d": "Dynamic Definition Language",
+        "r": "a"
+    },
+    {
+        "q": "In a relational database, what is a column called?",
+        "a": "Cell",
+        "b": "Field",
+        "c": "Record",
+        "d": "Attribute",
+        "r": "d"
+    },
+    {
+        "q": "Which SQL clause is used to sort records?",
+        "a": "ORDER BY",
+        "b": "GROUP BY",
+        "c": "SORT",
+        "d": "ARRANGE",
+        "r": "a"
+    },
+    {
+        "q": "What does the 'C' stand for in ACID?",
+        "a": "Commit",
+        "b": "Change",
+        "c": "Constraint",
+        "d": "Consistency",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of a NoSQL database?",
+        "a": "MySQL",
+        "b": "MongoDB",
+        "c": "Oracle",
+        "d": "PostgreSQL",
+        "r": "b"
+    },
+    {
+        "q": "What does the 'I' stand for in ACID?",
+        "a": "Isolation",
+        "b": "Insertion",
+        "c": "Integration",
+        "d": "Integrity",
+        "r": "a"
+    },
+    {
+        "q": "What does the 'D' stand for in ACID?",
+        "a": "Durability",
+        "b": "Durableness",
+        "c": "Duration",
+        "d": "Duration",
+        "r": "a"
+    },
+    {
+        "q": "Which SQL command is used to delete data from a database?",
+        "a": "DELETE",
+        "b": "DROP",
+        "c": "REMOVE",
+        "d": "ERASE",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a role of a DBMS?",
+        "a": "Data storage",
+        "b": "Data retrieval",
+        "c": "Data manipulation",
+        "d": "Data encryption",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the 'GROUP BY' clause in SQL?",
+        "a": "To group records based on a column",
+        "b": "To filter records based on a condition",
+        "c": "To sort records in ascending order",
+        "d": "To update records in a table",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a benefit of using a DBMS?",
+        "a": "Data redundancy reduction",
+        "b": "Improved data security",
+        "c": "Data isolation",
+        "d": "Increased data complexity",
+        "r": "d"
+    },
+    {
+        "q": "Which SQL command is used to modify data in a database?",
+        "a": "ALTER",
+        "b": "CHANGE",
+        "c": "UPDATE",
+        "d": "MODIFY",
+        "r": "c"
+    },
+    {
+        "q": "What does the 'A' stand for in ACID?",
+        "a": "Authorization",
+        "b": "Accuracy",
+        "c": "Atomicity",
+        "d": "Association",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of the 'HAVING' clause in SQL?",
+        "a": "To specify search conditions for records",
+        "b": "To filter records based on a condition",
+        "c": "To sort records in ascending order",
+        "d": "To specify search conditions for groups of records",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a feature of a relational database?",
+        "a": "Data consistency",
+        "b": "Data integrity",
+        "c": "Data validation",
+        "d": "Data flexibility",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of HTML?",
+        "a": "to define the structure of a web page",
+        "b": "to style the web page",
+        "c": "to create interactive elements on a webpage",
+        "d": "to manage server-side operations",
+        "r": "a"
+    },
+    {
+        "q": "Which language is used for styling web pages?",
+        "a": "HTML",
+        "b": "JavaScript",
+        "c": "Python",
+        "d": "CSS",
+        "r": "d"
+    },
+    {
+        "q": "What is the full form of CSS?",
+        "a": "Cascading Style Sheet",
+        "b": "Creative Style Sheet",
+        "c": "Computer Style Sheet",
+        "d": "Colorful Style Sheet",
+        "r": "a"
+    },
+    {
+        "q": "Which HTML tag is used for creating a hyperlink?",
+        "a": "<a>",
+        "b": "<link>",
+        "c": "<href>",
+        "d": "<hyperlink>",
+        "r": "a"
+    },
+    {
+        "q": "What is the correct HTML tag for inserting an image?",
+        "a": "<img>",
+        "b": "<image>",
+        "c": "<picture>",
+        "d": "<src>",
+        "r": "a"
+    },
+    {
+        "q": "What does the 'href' attribute in the <a> tag specify?",
+        "a": "target location of the hyperlink",
+        "b": "image source",
+        "c": "hyperlink text",
+        "d": "link destination",
+        "r": "d"
+    },
+    {
+        "q": "Which property is used in CSS to change the text color?",
+        "a": "color",
+        "b": "font-color",
+        "c": "text-color",
+        "d": "text-style",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the JavaScript programming language?",
+        "a": "to create dynamic and interactive web pages",
+        "b": "to define the structure of a web page",
+        "c": "to style the web page",
+        "d": "to manage server-side operations",
+        "r": "a"
+    },
+    {
+        "q": "How can you add a comment in JavaScript?",
+        "a": "// this is a comment",
+        "b": "<!-- this is a comment -->",
+        "c": "/* this is a comment */",
+        "d": "<comment>",
+        "r": "a"
+    },
+    {
+        "q": "Which operator is used to concatenate two strings in JavaScript?",
+        "a": "#ERROR!",
+        "b": "&",
+        "c": "<>",
+        "d": "~",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'defer' attribute in the <script> tag?",
+        "a": "delays the execution of the script",
+        "b": "loads an external script file",
+        "c": "defines a function",
+        "d": "creates a loop",
+        "r": "a"
+    },
+    {
+        "q": "Which JavaScript function is used to display a dialog box with a message?",
+        "a": "alert()",
+        "b": "prompt()",
+        "c": "confirm()",
+        "d": "dialog()",
+        "r": "a"
+    },
+    {
+        "q": "What does API stand for in web development?",
+        "a": "Application Programming Interface",
+        "b": "Advanced Programming Interface",
+        "c": "Application Protocol Interface",
+        "d": "All Purpose Interface",
+        "r": "a"
+    },
+    {
+        "q": "Which HTTP method is used to retrieve data from a server?",
+        "a": "GET",
+        "b": "POST",
+        "c": "DELETE",
+        "d": "UPDATE",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the PHP programming language?",
+        "a": "to create dynamic and interactive web pages",
+        "b": "to define the structure of a web page",
+        "c": "to style the web page",
+        "d": "to manage server-side operations",
+        "r": "a"
+    },
+    {
+        "q": "Which PHP function is used to open a file for reading?",
+        "a": "fopen()",
+        "b": "readfile()",
+        "c": "file_open()",
+        "d": "file_read()",
+        "r": "a"
+    },
+    {
+        "q": "What does SQL stand for in web development?",
+        "a": "Structured Query Language",
+        "b": "Sequential Query Language",
+        "c": "Software Query Language",
+        "d": "Structured Quick Language",
+        "r": "a"
+    },
+    {
+        "q": "Which SQL keyword is used to retrieve data from a database table?",
+        "a": "SELECT",
+        "b": "RETRIEVE",
+        "c": "SEARCH",
+        "d": "FIND",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'action' attribute in the <form> tag?",
+        "a": "specifies the URL where form data is sent",
+        "b": "defines a function",
+        "c": "creates a loop",
+        "d": "opens a dialog box",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is often used for server-side scripting?",
+        "a": "PHP",
+        "b": "HTML",
+        "c": "JavaScript",
+        "d": "CSS",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'viewport' meta tag in HTML?",
+        "a": "to control the scale of the web page",
+        "b": "to define the structure of a web page",
+        "c": "to style the web page",
+        "d": "to manage server-side operations",
+        "r": "a"
+    },
+    {
+        "q": "Which CSS property is used to create rounded corners on elements?",
+        "a": "border-radius",
+        "b": "border-style",
+        "c": "border-width",
+        "d": "border-color",
+        "r": "a"
+    },
+    {
+        "q": "Which HTML tag is used for creating an unordered list?",
+        "a": "<ul>",
+        "b": "<ol>",
+        "c": "<li>",
+        "d": "<list>",
+        "r": "a"
+    },
+    {
+        "q": "What does the 'src' attribute in the <script> tag specify?",
+        "a": "the source file of the script",
+        "b": "hyperlink text",
+        "c": "target location of the hyperlink",
+        "d": "image source",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'type' attribute in the <link> tag?",
+        "a": "specifies the MIME type of the linked resource",
+        "b": "defines a function",
+        "c": "creates a loop",
+        "d": "opens a dialog box",
+        "r": "a"
+    },
+    {
+        "q": "Which JavaScript function is used to change the content of an HTML element?",
+        "a": "document.getElementById()",
+        "b": "document.querySelector()",
+        "c": "document.getElementByClass()",
+        "d": "document.createElement()",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'method' attribute in the <form> tag?",
+        "a": "specifies the HTTP method to be used",
+        "b": "defines a function",
+        "c": "creates a loop",
+        "d": "opens a dialog box",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'float' property in CSS?",
+        "a": "to position an element along the left or right side",
+        "b": "to define the structure of a web page",
+        "c": "to style the web page",
+        "d": "to manage server-side operations",
+        "r": "a"
+    },
+    {
+        "q": "Which PHP function is used to send email?",
+        "a": "mail()",
+        "b": "sendmail()",
+        "c": "email()",
+        "d": "php_mail",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of planning, designing, developing, and testing software?",
+        "a": "Software development",
+        "b": "Software engineering",
+        "c": "Software design",
+        "d": "Software architecture",
+        "r": "r"
+    },
+    {
+        "q": "Which of the following is not a phase of the software development life cycle?",
+        "a": "Maintenance",
+        "b": "Implementation",
+        "c": "Testing",
+        "d": "Design",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of identifying and fixing defects in software?",
+        "a": "Software testing",
+        "b": "Software design",
+        "c": "Software development",
+        "d": "Software maintenance",
+        "r": "r"
+    },
+    {
+        "q": "Which of the following is not a software development methodology?",
+        "a": "Waterfall",
+        "b": "Agile",
+        "c": "Spiral",
+        "d": "V-shaped",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a software quality attribute?",
+        "a": "Functionality",
+        "b": "Reliability",
+        "c": "Usability",
+        "d": "Efficiency",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software metric?",
+        "a": "Lines of code",
+        "b": "Function points",
+        "c": "Cyclomatic complexity",
+        "d": "Halstead metrics",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a software defect?",
+        "a": "Syntax error",
+        "b": "Logic error",
+        "c": "Run-time error",
+        "d": "Design error",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a software testing technique?",
+        "a": "Unit testing",
+        "b": "Integration testing",
+        "c": "System testing",
+        "d": "Acceptance testing",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a software maintenance activity?",
+        "a": "Corrective maintenance",
+        "b": "Adaptive maintenance",
+        "c": "Perfective maintenance",
+        "d": "Preventive maintenance",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a software engineering role?",
+        "a": "Software architect",
+        "b": "Software engineer",
+        "c": "Software tester",
+        "d": "Software manager",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a software engineering tool?",
+        "a": "Compiler",
+        "b": "IDE",
+        "c": "Version control system",
+        "d": "Bug tracking system",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of creating, testing, and deploying software?",
+        "a": "software engineering",
+        "b": "software development",
+        "c": "software designing",
+        "d": "software implementation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a phase of software engineering?",
+        "a": "maintenance",
+        "b": "analysis",
+        "c": "design",
+        "d": "coding",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a software engineering principle?",
+        "a": "software should be easy to use",
+        "b": "software should be reliable",
+        "c": "software should be maintainable",
+        "d": "software should be reusable",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software engineering process?",
+        "a": "waterfall model",
+        "b": "spiral model",
+        "c": "incremental model",
+        "d": "agile model",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a software engineering tool?",
+        "a": "UML",
+        "b": "CASE tools",
+        "c": "debugger",
+        "d": "compiler",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software engineering activity?",
+        "a": "requirements gathering",
+        "b": "software design",
+        "c": "software testing",
+        "d": "software deployment",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a software engineering artifact?",
+        "a": "use case",
+        "b": "class diagram",
+        "c": "sequence diagram",
+        "d": "activity diagram",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software engineering metric?",
+        "a": "cyclomatic complexity",
+        "b": "lines of code",
+        "c": "number of defects",
+        "d": "number of features",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a software engineering quality attribute?",
+        "a": "correctness",
+        "b": "reliability",
+        "c": "maintainability",
+        "d": "efficiency",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a software engineering risk?",
+        "a": "technical risk",
+        "b": "schedule risk",
+        "c": "budget risk",
+        "d": "resource risk",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software engineering process improvement technique?",
+        "a": "code reviews",
+        "b": "unit testing",
+        "c": "integration testing",
+        "d": "system testing",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a software engineering certification?",
+        "a": "CIW Associate",
+        "b": "PMP",
+        "c": "CISSP",
+        "d": "C++ Certified Professional",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of converting the requirements into a detailed design?",
+        "a": "System design",
+        "b": "Software design",
+        "c": "Architectural design",
+        "d": "Logical design",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a software development methodology?",
+        "a": "Waterfall model",
+        "b": "Agile model",
+        "c": "V-model",
+        "d": "Spiral model",
+        "r": "a"
+    },
+    {
+        "q": "What is the first phase of the software development life cycle?",
+        "a": "Planning",
+        "b": "Requirements gathering",
+        "c": "Analysis",
+        "d": "Design",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of finding and fixing bugs in software?",
+        "a": "Software testing",
+        "b": "Software debugging",
+        "c": "Software verification",
+        "d": "Software validation",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a software metric?",
+        "a": "Number of lines of code",
+        "b": "Cyclomatic complexity",
+        "c": "Halstead metrics",
+        "d": "Maintainability index",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software development tool?",
+        "a": "IDE",
+        "b": "Compiler",
+        "c": "Debugger",
+        "d": "Version control system",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of ensuring that the software meets the requirements?",
+        "a": "Software verification",
+        "b": "Software validation",
+        "c": "Software testing",
+        "d": "Software debugging",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a software configuration item?",
+        "a": "Source code",
+        "b": "Documentation",
+        "c": "Binary files",
+        "d": "Test cases",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of managing the changes to software?",
+        "a": "Software configuration management",
+        "b": "Software version control",
+        "c": "Software release management",
+        "d": "Software quality assurance",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a software quality assurance activity?",
+        "a": "Testing",
+        "b": "Inspection",
+        "c": "Review",
+        "d": "Audit",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of identifying and documenting the requirements for a software system?",
+        "a": "Requirements gathering",
+        "b": "Requirements analysis",
+        "c": "Requirements specification",
+        "d": "Requirements validation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a software requirement?",
+        "a": "Functional requirement",
+        "b": "Non-functional requirement",
+        "c": "Technical requirement",
+        "d": "Business requirement",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of creating a model of the software system?",
+        "a": "Software design",
+        "b": "Software architecture",
+        "c": "Software modeling",
+        "d": "Software prototyping",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a software architecture style?",
+        "a": "Layered architecture",
+        "b": "Pipes and filters architecture",
+        "c": "Microservices architecture",
+        "d": "Monolithic architecture",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of implementing the software system?",
+        "a": "Coding",
+        "b": "Testing",
+        "c": "Deployment",
+        "d": "Maintenance",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a software testing technique?",
+        "a": "White box testing",
+        "b": "Black box testing",
+        "c": "Unit testing",
+        "d": "Integration testing",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of deploying the software system to production?",
+        "a": "Deployment",
+        "b": "Installation",
+        "c": "Configuration",
+        "d": "Maintenance",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of ensuring that the software is reliable?",
+        "a": "Fault tolerance",
+        "b": "Error handling",
+        "c": "Recovery",
+        "d": "Robustness",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of ensuring that the software is easy to use?",
+        "a": "Usability",
+        "b": "Efficiency",
+        "c": "Maintainability",
+        "d": "Reusability",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a software development process model?",
+        "a": "Predictive model",
+        "b": "Iterative model",
+        "c": "Adaptive model",
+        "d": "Prototyping model",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a software development artifact?",
+        "a": "Requirements specification",
+        "b": "Design document",
+        "c": "Code",
+        "d": "Test cases",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software development tool?",
+        "a": "Bug tracking system",
+        "b": "Requirements management system",
+        "c": "Configuration management system",
+        "d": "Software quality assurance system",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software quality characteristic?",
+        "a": "Correctness",
+        "b": "Completeness",
+        "c": "Consistency",
+        "d": "Reusability",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software maintenance activity?",
+        "a": "Documentation maintenance",
+        "b": "Code refactoring",
+        "c": "Performance tuning",
+        "d": "Data migration",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software metric?",
+        "a": "Fault density",
+        "b": "Mean time to failure",
+        "c": "Mean time to repair",
+        "d": "Number of defects per thousand lines of code",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a software configuration item?",
+        "a": "Work products",
+        "b": "Tools",
+        "c": "Environment",
+        "d": "Data",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of managing the risks to software?",
+        "a": "Software risk management",
+        "b": "Software quality assurance",
+        "c": "Software configuration management",
+        "d": "Software version control",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a software quality assurance activity?",
+        "a": "Training",
+        "b": "Education",
+        "c": "Awareness",
+        "d": "Communication",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software development process?",
+        "a": "Iterative development",
+        "b": "Waterfall development",
+        "c": "Prototyping",
+        "d": "Spiral development",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a software architecture style?",
+        "a": "Layered architecture",
+        "b": "Microservice architecture",
+        "c": "Monolithic architecture",
+        "d": "Client-server architecture",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software design pattern?",
+        "a": "Singleton pattern",
+        "b": "Factory pattern",
+        "c": "Strategy pattern",
+        "d": "MVC pattern",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software development tool?",
+        "a": "UML modeling tool",
+        "b": "Requirements management tool",
+        "c": "Test management tool",
+        "d": "Code coverage tool",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software quality assurance technique?",
+        "a": "Static analysis",
+        "b": "Dynamic analysis",
+        "c": "Usability testing",
+        "d": "Performance testing",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a software metric?",
+        "a": "Cyclomatic complexity",
+        "b": "Halstead metrics",
+        "c": "Maintainability index",
+        "d": "Software reliability growth model",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a software maintenance activity?",
+        "a": "Data migration",
+        "b": "Performance tuning",
+        "c": "Code refactoring",
+        "d": "Software reengineering",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a software configuration item?",
+        "a": "Build scripts",
+        "b": "Deployment scripts",
+        "c": "Test data",
+        "d": "User documentation",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a software version control system?",
+        "a": "Git",
+        "b": "SVN",
+        "c": "CVS",
+        "d": "ClearCase",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a software release management activity?",
+        "a": "Testing",
+        "b": "Deployment",
+        "c": "Documentation",
+        "d": "Training",
+        "r": "d"
+    },
+    {
+        "q": "What is the field of study that deals with the creation of intelligent agents?",
+        "a": "Artificial intelligence",
+        "b": "Machine learning",
+        "c": "Natural language processing",
+        "d": "Computer vision",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a type of artificial intelligence?",
+        "a": "Narrow AI",
+        "b": "General AI",
+        "c": "Super AI",
+        "d": "Artificial consciousness",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of training a machine learning model?",
+        "a": "Data acquisition",
+        "b": "Data cleaning",
+        "c": "Feature engineering",
+        "d": "Model training",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a machine learning algorithm?",
+        "a": "Linear regression",
+        "b": "Logistic regression",
+        "c": "Decision trees",
+        "d": "Neural networks",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of predicting the output of a machine learning model?",
+        "a": "Model evaluation",
+        "b": "Model deployment",
+        "c": "Model retraining",
+        "d": "Model tuning",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a challenge in artificial intelligence?",
+        "a": "Data scarcity",
+        "b": "Bias",
+        "c": "Complexity",
+        "d": "Generalization",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of ensuring that a machine learning model is fair and unbiased?",
+        "a": "Bias mitigation",
+        "b": "Data cleaning",
+        "c": "Feature engineering",
+        "d": "Model evaluation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a potential application of artificial intelligence?",
+        "a": "Self-driving cars",
+        "b": "Virtual assistants",
+        "c": "Medical diagnosis",
+        "d": "Chatbots",
+        "r": "c"
+    },
+    {
+        "q": "What is the field of study that deals with the creation of machines that can understand and generate human language?",
+        "a": "Natural language processing",
+        "b": "Machine learning",
+        "c": "Artificial intelligence",
+        "d": "Computer vision",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a natural language processing task?",
+        "a": "Text classification",
+        "b": "Text summarization",
+        "c": "Machine translation",
+        "d": "Speech recognition",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of converting text into a machine-readable format?",
+        "a": "Tokenization",
+        "b": "Stemming",
+        "c": "Lemmatization",
+        "d": "Part-of-speech tagging",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a challenge in natural language processing?",
+        "a": "Ambiguity",
+        "b": "Noise",
+        "c": "Incompleteness",
+        "d": "Redundancy",
+        "r": "d"
+    },
+    {
+        "q": "What is the field of study that deals with the creation of machines that can see and understand the world around them?",
+        "a": "Computer vision",
+        "b": "Machine learning",
+        "c": "Artificial intelligence",
+        "d": "Natural language processing",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of identifying objects in an image?",
+        "a": "Object detection",
+        "b": "Image classification",
+        "c": "Image segmentation",
+        "d": "Scene understanding",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a challenge in computer vision?",
+        "a": "Occlusion",
+        "b": "Illumination",
+        "c": "Scale",
+        "d": "Rotation",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a type of artificial intelligence?",
+        "a": "Narrow AI",
+        "b": "General AI",
+        "c": "Super AI",
+        "d": "Artificial general intelligence",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not an example of an intelligent agent?",
+        "a": "A chess player",
+        "b": "A spam filter",
+        "c": "A self-driving car",
+        "d": "A search engine",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a goal of artificial intelligence?",
+        "a": "To create machines that can think like humans",
+        "b": "To create machines that can learn from experience",
+        "c": "To create machines that can reason and solve problems",
+        "d": "To create machines that can interact with the world in a natural way",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a technique used in machine learning?",
+        "a": "Supervised learning",
+        "b": "Reinforcement learning",
+        "c": "Unsupervised learning",
+        "d": "Natural language processing",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a type of supervised learning?",
+        "a": "Classification",
+        "b": "Regression",
+        "c": "Reinforcement learning",
+        "d": "Clustering",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a type of reinforcement learning?",
+        "a": "Q-learning",
+        "b": "Temporal difference learning",
+        "c": "SARSA",
+        "d": "Dyna-Q",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a type of unsupervised learning?",
+        "a": "Clustering",
+        "b": "Association rule learning",
+        "c": "Principal component analysis",
+        "d": "Anomaly detection",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a natural language processing task?",
+        "a": "Machine translation",
+        "b": "Text summarization",
+        "c": "Question answering",
+        "d": "Sentiment analysis",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a computer vision task?",
+        "a": "Object detection",
+        "b": "Image classification",
+        "c": "Facial recognition",
+        "d": "Scene understanding",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a challenge in artificial intelligence?",
+        "a": "The difficulty of creating intelligent agents",
+        "b": "The difficulty of scaling up artificial intelligence systems",
+        "c": "The difficulty of making artificial intelligence systems robust to noise and uncertainty",
+        "d": "The difficulty of making artificial intelligence systems ethical",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of giving computers the ability to learn and make decisions?",
+        "a": "Machine learning",
+        "b": "Artificial intelligence",
+        "c": "Natural language processing",
+        "d": "Computer vision",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of converting text into a format that a computer can understand?",
+        "a": "Natural language processing",
+        "b": "Machine learning",
+        "c": "Artificial intelligence",
+        "d": "Computer vision",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a computer vision algorithm?",
+        "a": "Edge detection",
+        "b": "Object recognition",
+        "c": "Image segmentation",
+        "d": "Face detection",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of creating a computer program that can play a game?",
+        "a": "Game AI",
+        "b": "Machine learning",
+        "c": "Artificial intelligence",
+        "d": "Natural language processing",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a type of game AI?",
+        "a": "Minimax",
+        "b": "Alpha-beta pruning",
+        "c": "Monte Carlo tree search",
+        "d": "Reinforcement learning",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of creating a computer program that can simulate human behavior?",
+        "a": "Agent-based modeling",
+        "b": "Artificial intelligence",
+        "c": "Machine learning",
+        "d": "Natural language processing",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a type of agent-based modeling?",
+        "a": "Cellular automata",
+        "b": "Particle swarm optimization",
+        "c": "Genetic algorithms",
+        "d": "Neural networks",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of creating a computer program that can reason and solve problems?",
+        "a": "Logic programming",
+        "b": "Prolog",
+        "c": "Lisp",
+        "d": "Prolog",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a type of logic programming language?",
+        "a": "Prolog",
+        "b": "Lisp",
+        "c": "Python",
+        "d": "Java",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of creating a computer program that can understand and generate human language?",
+        "a": "Natural language processing",
+        "b": "Machine learning",
+        "c": "Artificial intelligence",
+        "d": "Computer vision",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary goal of Artificial Intelligence?",
+        "a": "create intelligent machines",
+        "b": "mimic human behavior",
+        "c": "replace human intelligence with machines",
+        "d": "automate all human tasks",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is commonly used in AI?",
+        "a": "Java",
+        "b": "C++",
+        "c": "Python",
+        "d": "Ruby",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for AI systems learning from data?",
+        "a": "Supervised learning",
+        "b": "Reinforcement learning",
+        "c": "Unsupervised learning",
+        "d": "Deep learning",
+        "r": "c"
+    },
+    {
+        "q": "Which AI technique is used for decision-making?",
+        "a": "Natural Language Processing",
+        "b": "Genetic Algorithms",
+        "c": "Expert Systems",
+        "d": "Fuzzy Logic",
+        "r": "c"
+    },
+    {
+        "q": "What is the Turing Test used for in AI?",
+        "a": "Determine if a machine can exhibit human intelligence",
+        "b": "Measure processing speed of a machine",
+        "c": "Check for memory leaks in AI systems",
+        "d": "Verify the correctness of AI algorithms",
+        "r": "a"
+    },
+    {
+        "q": "Which AI subfield focuses on emotion recognition?",
+        "a": "Machine Vision",
+        "b": "Natural Language Processing",
+        "c": "Affective Computing",
+        "d": "Speech Recognition",
+        "r": "c"
+    },
+    {
+        "q": "Which AI system defeated the world chess champion?",
+        "a": "Watson",
+        "b": "AlphaGo",
+        "c": "Deep Blue",
+        "d": "Siri",
+        "r": "c"
+    },
+    {
+        "q": "What type of AI can understand human emotions?",
+        "a": "Weak AI",
+        "b": "Strong AI",
+        "c": "General AI",
+        "d": "Emotional AI",
+        "r": "b"
+    },
+    {
+        "q": "Which AI application can generate human-like art?",
+        "a": "Image recognition",
+        "b": "Machine translation",
+        "c": "Neural Style Transfer",
+        "d": "Speech synthesis",
+        "r": "c"
+    },
+    {
+        "q": "Which AI approach is inspired by the brain's neurons?",
+        "a": "Genetic Algorithms",
+        "b": "Artificial Neural Networks",
+        "c": "Fuzzy Logic",
+        "d": "Support Vector Machines",
+        "r": "b"
+    },
+    {
+        "q": "What type of learning is self-modifying in nature?",
+        "a": "Reinforcement learning",
+        "b": "Deep learning",
+        "c": "Unsupervised learning",
+        "d": "Self-supervised learning",
+        "r": "a"
+    },
+    {
+        "q": "Which AI system is designed to engage in conversation?",
+        "a": "Alexa",
+        "b": "Roomba",
+        "c": "Tesla Autopilot",
+        "d": "Boston Dynamics' Spot",
+        "r": "a"
+    },
+    {
+        "q": "What is the goal of Genetic Algorithms in AI?",
+        "a": "Minimize computation time",
+        "b": "Maximize efficiency",
+        "c": "Optimize solutions",
+        "d": "Improve natural language understanding",
+        "r": "c"
+    },
+    {
+        "q": "What type of AI is Siri, the virtual assistant?",
+        "a": "Strong AI",
+        "b": "Weak AI",
+        "c": "General AI",
+        "d": "Narrow AI",
+        "r": "d"
+    },
+    {
+        "q": "Which AI approach uses decision trees for classification?",
+        "a": "K-nearest neighbors",
+        "b": "Decision Trees",
+        "c": "K-means clustering",
+        "d": "Support Vector Machines",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of training a neural network called?",
+        "a": "Inference",
+        "b": "Decoding",
+        "c": "Backpropagation",
+        "d": "Compilation",
+        "r": "c"
+    },
+    {
+        "q": "Which AI application is used in self-driving cars?",
+        "a": "Facial recognition",
+        "b": "Lane detection",
+        "c": "Sentiment analysis",
+        "d": "Object detection",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary drawback of Expert Systems in AI?",
+        "a": "Limited knowledge base",
+        "b": "High maintenance cost",
+        "c": "Slow processing speed",
+        "d": "Inability to learn from data",
+        "r": "a"
+    },
+    {
+        "q": "What is the main focus of Natural Language Processing?",
+        "a": "Speech recognition",
+        "b": "Text-to-speech conversion",
+        "c": "Language understanding",
+        "d": "Sentiment analysis",
+        "r": "c"
+    },
+    {
+        "q": "Which AI system is trained to play the game of Go?",
+        "a": "Watson",
+        "b": "Deep Blue",
+        "c": "AlphaGo",
+        "d": "Siri",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of imitating human behavior in AI?",
+        "a": "Reinforcement learning",
+        "b": "Pattern recognition",
+        "c": "Neural Style Transfer",
+        "d": "Simulation-based learning",
+        "r": "a"
+    },
+    {
+        "q": "Which AI technique is used for image classification?",
+        "a": "K-means clustering",
+        "b": "Convolutional Neural Networks",
+        "c": "Support Vector Machines",
+        "d": "Decision Trees",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of Recurrent Neural Networks (RNN)?",
+        "a": "Speech recognition",
+        "b": "Natural language understanding",
+        "c": "Sequence data analysis",
+        "d": "Object detection",
+        "r": "c"
+    },
+    {
+        "q": "Which AI application is used in language translation?",
+        "a": "Image recognition",
+        "b": "Speech recognition",
+        "c": "Machine translation",
+        "d": "Text-to-speech conversion",
+        "r": "c"
+    },
+    {
+        "q": "What type of AI is designed to perform a specific task?",
+        "a": "General AI",
+        "b": "Narrow AI",
+        "c": "Strong AI",
+        "d": "Weak AI",
+        "r": "b"
+    },
+    {
+        "q": "Which AI approach uses logic to simulate human reasoning?",
+        "a": "Genetic Algorithms",
+        "b": "Expert Systems",
+        "c": "Reinforcement learning",
+        "d": "Deep learning",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary goal of machine learning in AI?",
+        "a": "Replicate human thought processes",
+        "b": "Enhance computer hardware capabilities",
+        "c": "Improve programming skills",
+        "d": "Enable machines to learn from data",
+        "r": "d"
+    },
+    {
+        "q": "Which AI system is known for defeating top Go players?",
+        "a": "Watson",
+        "b": "Deep Blue",
+        "c": "AlphaGo",
+        "d": "Siri",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of clustering in AI?",
+        "a": "Group similar data points together",
+        "b": "Enhance data visualization",
+        "c": "Classify data into two groups",
+        "d": "Find the optimal solution in a search space",
+        "r": "a"
+    },
+    {
+        "q": "Which AI application is used for speech-to-text conversion?",
+        "a": "Image recognition",
+        "b": "Speech recognition",
+        "c": "Machine translation",
+        "d": "Text-to-speech conversion",
+        "r": "b"
+    },
+    {
+        "q": "What type of learning does a baby learn from experience?",
+        "a": "Supervised learning",
+        "b": "Unsupervised learning",
+        "c": "Reinforcement learning",
+        "d": "Deep learning",
+        "r": "c"
+    },
+    {
+        "q": "Which AI approach is used for sentiment analysis?",
+        "a": "Decision Trees",
+        "b": "Natural Language Processing",
+        "c": "Support Vector Machines",
+        "d": "K-means clustering",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary concern in developing Strong AI?",
+        "a": "High computing power requirements",
+        "b": "Ethical implications",
+        "c": "Uncertainty in decision-making",
+        "d": "Lack of real-world applications",
+        "r": "b"
+    },
+    {
+        "q": "Which AI technique is used for optimization problems?",
+        "a": "Genetic Algorithms",
+        "b": "Reinforcement learning",
+        "c": "Convolutional Neural Networks",
+        "d": "Fuzzy Logic",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of AI in robotics?",
+        "a": "Data analysis",
+        "b": "Human-computer interaction",
+        "c": "Improve visual perception",
+        "d": "Automation and autonomous operation",
+        "r": "d"
+    },
+    {
+        "q": "Which AI system is known for its natural language processing?",
+        "a": "Watson",
+        "b": "Deep Blue",
+        "c": "AlphaGo",
+        "d": "Siri",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary goal of search algorithms in AI?",
+        "a": "Pattern recognition",
+        "b": "Minimize resource utilization",
+        "c": "Maximize the number of search paths",
+        "d": "Find an optimal solution in a large search space",
+        "r": "d"
+    },
+    {
+        "q": "Which AI application is used in medical diagnosis?",
+        "a": "Image recognition",
+        "b": "Speech recognition",
+        "c": "Disease prediction",
+        "d": "Language translation",
+        "r": "c"
+    },
+    {
+        "q": "What type of AI is designed to outperform human intelligence?",
+        "a": "Weak AI",
+        "b": "Narrow AI",
+        "c": "Strong AI",
+        "d": "General AI",
+        "r": "c"
+    },
+    {
+        "q": "Which AI approach is used for pattern recognition?",
+        "a": "Deep learning",
+        "b": "Genetic Algorithms",
+        "c": "Support Vector Machines",
+        "d": "Expert Systems",
+        "r": "a"
+    },
+    {
+        "q": "What is the main focus of computer vision in AI?",
+        "a": "Object detection",
+        "b": "Speech recognition",
+        "c": "Sentiment analysis",
+        "d": "Text generation",
+        "r": "a"
+    },
+    {
+        "q": "Which AI system is designed to understand and respond to emotions?",
+        "a": "Alexa",
+        "b": "Roomba",
+        "c": "Aibo",
+        "d": "Spot",
+        "r": "c"
+    },
+    {
+        "q": "What type of learning involves labeled training data?",
+        "a": "Supervised learning",
+        "b": "Unsupervised learning",
+        "c": "Reinforcement learning",
+        "d": "Deep learning",
+        "r": "a"
+    },
+    {
+        "q": "What is the first step in the cybersecurity risk management process?",
+        "a": "vulnerability assessment",
+        "b": "risk identification",
+        "c": "risk analysis",
+        "d": "risk mitigation",
+        "r": "b"
+    },
+    {
+        "q": "Which type of encryption uses the same key for both encryption and decryption?",
+        "a": "asymmetric encryption",
+        "b": "symmetric encryption",
+        "c": "public-key encryption",
+        "d": "private-key encryption",
+        "r": "b"
+    },
+    {
+        "q": "In a public-key infrastructure (PKI), what does a certificate authority (CA) do?",
+        "a": "Encrypt data",
+        "b": "Issue digital certificates",
+        "c": "Manage firewalls",
+        "d": "Conduct penetration testing",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of a firewall in a network security system?",
+        "a": "Protect against physical threats",
+        "b": "Detect and remove viruses",
+        "c": "Monitor network traffic",
+        "d": "Control incoming and outgoing traffic",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of converting plaintext into ciphertext called?",
+        "a": "Decryption",
+        "b": "Encryption",
+        "c": "Hashing",
+        "d": "Salting",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary purpose of using a VPN (Virtual Private Network)?",
+        "a": "Accessing restricted websites anonymously",
+        "b": "Bypassing network security restrictions",
+        "c": "Encrypting internet traffic",
+        "d": "Preventing malware infections",
+        "r": "c"
+    },
+    {
+        "q": "Which cybersecurity attack involves flooding a network or server with excessive traffic to make it unavailable?",
+        "a": "Phishing",
+        "b": "DDoS attack",
+        "c": "Ransomware attack",
+        "d": "Man-in-the-middle attack",
+        "r": "b"
+    },
+    {
+        "q": "What is the weakest link in most cybersecurity systems?",
+        "a": "Antivirus software",
+        "b": "Firewall",
+        "c": "Human error",
+        "d": "Encryption",
+        "r": "c"
+    },
+    {
+        "q": "Which type of cybersecurity attack involves tricking individuals into revealing sensitive information?",
+        "a": "Malware attack",
+        "b": "Social engineering attack",
+        "c": "SQL injection attack",
+        "d": "Cross-site scripting attack",
+        "r": "b"
+    },
+    {
+        "q": "Which cryptographic algorithm is used in SSL/TLS to secure internet communication?",
+        "a": "AES",
+        "b": "RSA",
+        "c": "SHA",
+        "d": "MD5",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of systematically finding weaknesses in a computer system?",
+        "a": "Encryption analysis",
+        "b": "Penetration testing",
+        "c": "Malware detection",
+        "d": "Network monitoring",
+        "r": "b"
+    },
+    {
+        "q": "Which type of encryption uses a pair of keys, one public and one private?",
+        "a": "RSA encryption",
+        "b": "AES encryption",
+        "c": "DES encryption",
+        "d": "Triple-DES encryption",
+        "r": "a"
+    },
+    {
+        "q": "What does the term \"phishing\" refer to in cybersecurity?",
+        "a": "A type of malware",
+        "b": "A physical security device",
+        "c": "A social engineering attack",
+        "d": "A cryptographic algorithm",
+        "r": "c"
+    },
+    {
+        "q": "Which cybersecurity measure helps prevent a brute force attack?",
+        "a": "Two-factor authentication",
+        "b": "Firewall",
+        "c": "Data encryption",
+        "d": "Intrusion detection system",
+        "r": "a"
+    },
+    {
+        "q": "Which security protocol is used to secure email communication?",
+        "a": "HTTPS",
+        "b": "TLS",
+        "c": "FTPS",
+        "d": "SMTP",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of using CAPTCHA in online forms?",
+        "a": "To prevent spam and automated submissions",
+        "b": "To encrypt data",
+        "c": "To authenticate users",
+        "d": "To secure database",
+        "r": "a"
+    },
+    {
+        "q": "Which type of encryption is used in WPA/WPA2 to secure Wi-Fi networks?",
+        "a": "RSA",
+        "b": "AES",
+        "c": "DES",
+        "d": "MD5",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary purpose of an intrusion detection system (IDS)?",
+        "a": "To encrypt data during transmission",
+        "b": "To prevent unauthorized access to a network",
+        "c": "To detect and respond to cyber threats",
+        "d": "To manage digital certificates",
+        "r": "c"
+    },
+    {
+        "q": "Which cybersecurity attack involves malicious software that takes control of a user's computer?",
+        "a": "Phishing",
+        "b": "Ransomware attack",
+        "c": "Man-in-the-middle attack",
+        "d": "Botnet attack",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of converting ciphertext back into plaintext called?",
+        "a": "Decryption",
+        "b": "Encryption",
+        "c": "Hashing",
+        "d": "Salting",
+        "r": "a"
+    },
+    {
+        "q": "Which cybersecurity measure can help protect against SQL injection attacks?",
+        "a": "Regularly updating software",
+        "b": "Using strong passwords",
+        "c": "Enabling firewall protection",
+        "d": "Input validation",
+        "r": "d"
+    },
+    {
+        "q": "Which cryptographic hash function is considered to be secure for storing passwords?",
+        "a": "SHA-1",
+        "b": "SHA-256",
+        "c": "MD5",
+        "d": "CRC32",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of using a proxy server in cybersecurity?",
+        "a": "To mask the user's IP address",
+        "b": "To encrypt internet traffic",
+        "c": "To manage digital certificates",
+        "d": "To prevent DDoS attacks",
+        "r": "a"
+    },
+    {
+        "q": "Which type of cybersecurity attack involves intercepting and altering communication between two parties?",
+        "a": "Phishing",
+        "b": "Ransomware attack",
+        "c": "Man-in-the-middle attack",
+        "d": "SQL injection attack",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of verifying the identity of a user or system?",
+        "a": "Authorization",
+        "b": "Authentication",
+        "c": "Encryption",
+        "d": "Decryption",
+        "r": "b"
+    },
+    {
+        "q": "Which cybersecurity measure can help prevent malware infections?",
+        "a": "Using strong passwords",
+        "b": "Installing a firewall",
+        "c": "Regularly updating software",
+        "d": "Enabling port forwarding",
+        "r": "c"
+    },
+    {
+        "q": "Which type of encryption is considered to be the strongest and most secure?",
+        "a": "RSA",
+        "b": "AES",
+        "c": "DES",
+        "d": "Triple-DES",
+        "r": "b"
+    },
+    {
+        "q": "What does the term \"firewall\" refer to in cybersecurity?",
+        "a": "A physical security device",
+        "b": "A type of malware",
+        "c": "A social engineering attack",
+        "d": "A cryptographic algorithm",
+        "r": "a"
+    },
+    {
+        "q": "Which cybersecurity measure can help protect against cross-site scripting (XSS) attacks?",
+        "a": "Input validation",
+        "b": "Using strong passwords",
+        "c": "Enabling port forwarding",
+        "d": "Regularly updating software",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of using SSL/TLS certificates on websites?",
+        "a": "To prevent DDoS attacks",
+        "b": "To encrypt data during transmission",
+        "c": "To manage digital certificates",
+        "d": "To detect malware infections",
+        "r": "b"
+    },
+    {
+        "q": "Which cryptographic algorithm is commonly used for digital signatures?",
+        "a": "RSA",
+        "b": "AES",
+        "c": "SHA",
+        "d": "MD5",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of using biometric authentication in cybersecurity?",
+        "a": "To encrypt data",
+        "b": "To verify a user's identity",
+        "c": "To prevent phishing attacks",
+        "d": "To manage digital certificates",
+        "r": "b"
+    },
+    {
+        "q": "Which cybersecurity attack involves encrypting a user's files and demanding a ransom for decryption?",
+        "a": "Phishing",
+        "b": "Ransomware attack",
+        "c": "Man-in-the-middle attack",
+        "d": "Botnet attack",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of encoding data in a way that only authorized parties can access it?",
+        "a": "Encryption",
+        "b": "Decryption",
+        "c": "Hashing",
+        "d": "Salting",
+        "r": "a"
+    },
+    {
+        "q": "Which type of encryption is used to protect data on mobile devices?",
+        "a": "RSA",
+        "b": "AES",
+        "c": "DES",
+        "d": "Triple-DES",
+        "r": "b"
+    },
+    {
+        "q": "What does the term \"malware\" refer to in cybersecurity?",
+        "a": "A type of encryption",
+        "b": "A physical security device",
+        "c": "A malicious software",
+        "d": "A cryptographic algorithm",
+        "r": "c"
+    },
+    {
+        "q": "Which cybersecurity measure can help protect against phishing attacks?",
+        "a": "Using strong passwords",
+        "b": "Enabling port forwarding",
+        "c": "Regularly updating software",
+        "d": "Email filtering",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of using a hardware security module (HSM) in cryptography?",
+        "a": "To mask the user's IP address",
+        "b": "To securely store cryptographic keys",
+        "c": "To manage digital certificates",
+        "d": "To prevent DDoS attacks",
+        "r": "b"
+    },
+    {
+        "q": "Which type of cybersecurity attack involves exploiting a vulnerability in a web application?",
+        "a": "Phishing",
+        "b": "Ransomware attack",
+        "c": "SQL injection attack",
+        "d": "Cross-site scripting attack",
+        "r": "c"
+    },
+    {
+        "q": "What is the most popular programming language for mobile app development?",
+        "a": "Java",
+        "b": "Kotlin",
+        "c": "Swift",
+        "d": "Objective-C",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a mobile app development platform?",
+        "a": "Android",
+        "b": "iOS",
+        "c": "Windows",
+        "d": "Web",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a mobile app development framework?",
+        "a": "Flutter",
+        "b": "React Native",
+        "c": "Xamarin",
+        "d": "Ionic",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of converting a website into a mobile app?",
+        "a": "Progressive web app",
+        "b": "Hybrid app",
+        "c": "Native app",
+        "d": "Web app",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a type of mobile app?",
+        "a": "Native app",
+        "b": "Hybrid app",
+        "c": "Progressive web app",
+        "d": "Web app",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of testing a mobile app on different devices?",
+        "a": "Cross-platform testing",
+        "b": "Emulator testing",
+        "c": "Simulator testing",
+        "d": "Unit testing",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a mobile app distribution platform?",
+        "a": "Google Play Store",
+        "b": "App Store",
+        "c": "Amazon Appstore",
+        "d": "Windows Store",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of monitoring the performance of a mobile app?",
+        "a": "Firebase",
+        "b": "AppDynamics",
+        "c": "New Relic",
+        "d": "Dynatrace",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a mobile app analytics tool?",
+        "a": "Google Analytics",
+        "b": "Firebase",
+        "c": "AppDynamics",
+        "d": "New Relic",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of optimizing a mobile app for performance?",
+        "a": "Code optimization",
+        "b": "Resource management",
+        "c": "Memory management",
+        "d": "Battery management",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a mobile app security issue?",
+        "a": "Malware",
+        "b": "Phishing",
+        "c": "Data breach",
+        "d": "Data loss",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of protecting a mobile app from security threats?",
+        "a": "App security testing",
+        "b": "Code signing",
+        "c": "Data encryption",
+        "d": "Device security",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of developing mobile apps?",
+        "a": "Mobile app development",
+        "b": "Mobile app programming",
+        "c": "Mobile app engineering",
+        "d": "Mobile app creation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a mobile app platform?",
+        "a": "Android",
+        "b": "iOS",
+        "c": "Windows Phone",
+        "d": "Blackberry",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a mobile app development framework?",
+        "a": "Android Studio",
+        "b": "Xcode",
+        "c": "Visual Studio",
+        "d": "Eclipse",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a mobile app programming language?",
+        "a": "Java",
+        "b": "Swift",
+        "c": "Objective-C",
+        "d": "C++",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of designing the user interface of a mobile app?",
+        "a": "User interface design",
+        "b": "User experience design",
+        "c": "User interface engineering",
+        "d": "User experience engineering",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a mobile app prototyping tool?",
+        "a": "Adobe XD",
+        "b": "Figma",
+        "c": "Sketch",
+        "d": "InVision",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a mobile app testing tool?",
+        "a": "Appium",
+        "b": "Espresso",
+        "c": "Calabash",
+        "d": "Robotium",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of deploying a mobile app to the app store?",
+        "a": "App store deployment",
+        "b": "App store publishing",
+        "c": "App store release",
+        "d": "App store distribution",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a mobile app marketing strategy?",
+        "a": "App store optimization",
+        "b": "Social media marketing",
+        "c": "Search engine optimization",
+        "d": "Content marketing",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of measuring the success of a mobile app?",
+        "a": "Mobile app analytics",
+        "b": "Mobile app metrics",
+        "c": "Mobile app KPIs",
+        "d": "Mobile app evaluation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a mobile app analytics tool?",
+        "a": "Google Analytics",
+        "b": "App Annie",
+        "c": "Flurry Analytics",
+        "d": "Mixpanel",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of creating a mobile app that is specifically designed for a particular platform?",
+        "a": "Native app",
+        "b": "Hybrid app",
+        "c": "Progressive web app",
+        "d": "Web app",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a framework for developing native apps?",
+        "a": "React Native",
+        "b": "Flutter",
+        "c": "Xamarin",
+        "d": "Ionic",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of creating a mobile app that can run on multiple platforms using a single codebase?",
+        "a": "Hybrid app",
+        "b": "Progressive web app",
+        "c": "Web app",
+        "d": "Native app",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a framework for developing hybrid apps?",
+        "a": "Ionic",
+        "b": "Cordova",
+        "c": "React Native",
+        "d": "Xamarin",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of creating a mobile app that is built on web technologies and can be accessed from a web browser?",
+        "a": "Progressive web app",
+        "b": "Web app",
+        "c": "Native app",
+        "d": "Hybrid app",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a framework for developing progressive web apps?",
+        "a": "React PWA",
+        "b": "Angular PWA",
+        "c": "Vue PWA",
+        "d": "Svelte PWA",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of creating a mobile app that is hosted on a web server and can be accessed from a mobile device?",
+        "a": "Web app",
+        "b": "Native app",
+        "c": "Hybrid app",
+        "d": "Progressive web app",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a programming language for mobile app development?",
+        "a": "Java",
+        "b": "Kotlin",
+        "c": "Swift",
+        "d": "Python",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of testing a mobile app on a real device?",
+        "a": "Manual testing",
+        "b": "Automated testing",
+        "c": "Unit testing",
+        "d": "Integration testing",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a type of mobile app testing?",
+        "a": "Functional testing",
+        "b": "Performance testing",
+        "c": "Security testing",
+        "d": "Usability testing",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a platform for distributing mobile apps?",
+        "a": "App Store Connect",
+        "b": "Google Play Console",
+        "c": "Windows Store",
+        "d": "Amazon Appstore",
+        "r": "d"
+    },
+    {
+        "q": "Which programming language is commonly used for mobile app development?",
+        "a": "Java",
+        "b": "Python",
+        "c": "Swift",
+        "d": "C#",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of a layout in mobile app development?",
+        "a": "Handle network requests",
+        "b": "Define the app's user interface",
+        "c": "Manage databases",
+        "d": "Create animations",
+        "r": "b"
+    },
+    {
+        "q": "Which platform allows the development of apps for both iOS and Android?",
+        "a": "Flutter",
+        "b": "Xamarin",
+        "c": "React Native",
+        "d": "JavaFX",
+        "r": "c"
+    },
+    {
+        "q": "Which mobile app component handles user interactions?",
+        "a": "Activity",
+        "b": "Fragment",
+        "c": "Service",
+        "d": "BroadcastReceiver",
+        "r": "a"
+    },
+    {
+        "q": "What does APK stand for in Android app development?",
+        "a": "Android Package Kit",
+        "b": "Application Package Kit",
+        "c": "Android Program Kit",
+        "d": "App Package",
+        "r": "b"
+    },
+    {
+        "q": "Which programming language is the foundation of iOS app development?",
+        "a": "Swift",
+        "b": "Objective-C",
+        "c": "Ruby",
+        "d": "Kotlin",
+        "r": "b"
+    },
+    {
+        "q": "In Android development, what file is used to describe the app's user interface?",
+        "a": "styles.xml",
+        "b": "layout.xml",
+        "c": "strings.xml",
+        "d": "colors.xml",
+        "r": "b"
+    },
+    {
+        "q": "What type of mobile app is designed to work on multiple platforms without modification?",
+        "a": "Native",
+        "b": "Hybrid",
+        "c": "Web",
+        "d": "Cross-platform",
+        "r": "b"
+    },
+    {
+        "q": "Which component is responsible for managing a device's camera in a mobile app?",
+        "a": "CameraX",
+        "b": "CameraManager",
+        "c": "CameraDevice",
+        "d": "CameraController",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of using intents in Android app development?",
+        "a": "Display images",
+        "b": "Switch between activities",
+        "c": "Manage background tasks",
+        "d": "Retrieve location information",
+        "r": "b"
+    },
+    {
+        "q": "Which mobile app development framework is built using JavaScript and React?",
+        "a": "Flutter",
+        "b": "Xamarin",
+        "c": "Ionic",
+        "d": "React Native",
+        "r": "d"
+    },
+    {
+        "q": "What does iOS stand for in the context of mobile app development?",
+        "a": "International Operating System",
+        "b": "Intelligent Operating System",
+        "c": "iPhone Operating System",
+        "d": "Apple OS",
+        "r": "c"
+    },
+    {
+        "q": "What is the minimum number of activities required for an Android app?",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "r": "a"
+    },
+    {
+        "q": "In mobile app development, what does API stand for?",
+        "a": "Application Programming Interface",
+        "b": "Advanced Programming Interface",
+        "c": "App Package Interface",
+        "d": "Android Package Interface",
+        "r": "a"
+    },
+    {
+        "q": "Which mobile operating system uses the Play Store to distribute apps?",
+        "a": "iOS",
+        "b": "Android",
+        "c": "Windows Phone",
+        "d": "BlackBerry",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of using a manifest file in Android development?",
+        "a": "Define app permissions",
+        "b": "Store app data",
+        "c": "Manage app resources",
+        "d": "Execute app logic",
+        "r": "a"
+    },
+    {
+        "q": "Which mobile app development framework is created by Apple?",
+        "a": "Xamarin",
+        "b": "SwiftUI",
+        "c": "React Native",
+        "d": "Ionic",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the \"gradle\" file in Android Studio projects?",
+        "a": "Define project dependencies",
+        "b": "Configure app theme",
+        "c": "Implement navigation",
+        "d": "Set up app permissions",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is commonly used for web app development?",
+        "a": "Java",
+        "b": "C#",
+        "c": "JavaScript",
+        "d": "Ruby",
+        "r": "c"
+    },
+    {
+        "q": "What type of mobile app development requires an internet connection?",
+        "a": "Native",
+        "b": "Hybrid",
+        "c": "Web",
+        "d": "Offline",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary function of the \"MainActivity\" in Android apps?",
+        "a": "Display notifications",
+        "b": "Manage app permissions",
+        "c": "Start the app",
+        "d": "Handle user interactions",
+        "r": "c"
+    },
+    {
+        "q": "In Android app development, what is the purpose of a \"drawable\" folder?",
+        "a": "Store app icons",
+        "b": "Manage app layouts",
+        "c": "Store database files",
+        "d": "Store strings and colors",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary programming language used in React Native?",
+        "a": "JavaScript",
+        "b": "Java",
+        "c": "C#",
+        "d": "Swift",
+        "r": "a"
+    },
+    {
+        "q": "Which mobile app development framework is created by Google?",
+        "a": "Swift",
+        "b": "Flutter",
+        "c": "Xamarin",
+        "d": "React Native",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the \"AppDelegate\" in iOS app development?",
+        "a": "Handle app permissions",
+        "b": "Manage app layout",
+        "c": "Handle app navigation",
+        "d": "Initialize app on startup",
+        "r": "d"
+    },
+    {
+        "q": "Which mobile app component is designed for long-running tasks?",
+        "a": "Activity",
+        "b": "Service",
+        "c": "BroadcastReceiver",
+        "d": "ContentProvider",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of a \"theme\" in mobile app development?",
+        "a": "Define app layout",
+        "b": "Manage app resources",
+        "c": "Implement app logic",
+        "d": "Control app appearance",
+        "r": "d"
+    },
+    {
+        "q": "Which platform allows the development of apps using C# and .NET?",
+        "a": "Xamarin",
+        "b": "Flutter",
+        "c": "React Native",
+        "d": "JavaFX",
+        "r": "a"
+    },
+    {
+        "q": "What does IDE stand for in the context of mobile app development?",
+        "a": "Integrated Development Environment",
+        "b": "Intelligent Design Engine",
+        "c": "Interactive Development Environment",
+        "d": "Integrated Design Experience",
+        "r": "a"
+    },
+    {
+        "q": "In Android app development, what is the purpose of a \"RecyclerView\"?",
+        "a": "Display images in a grid",
+        "b": "Manage user input",
+        "c": "Manage app permissions",
+        "d": "Display a list of items",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of using \"AsyncTask\" in Android app development?",
+        "a": "Manage background tasks",
+        "b": "Implement UI layouts",
+        "c": "Store app data",
+        "d": "Handle user authentication",
+        "r": "a"
+    },
+    {
+        "q": "Which mobile app development framework is created by Microsoft?",
+        "a": "Swift",
+        "b": "Xamarin",
+        "c": "React Native",
+        "d": "Flutter",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary purpose of using a \"Toast\" in Android apps?",
+        "a": "Display images",
+        "b": "Show a notification message",
+        "c": "Manage app layout",
+        "d": "Handle user interactions",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary function of the \"info.plist\" file in iOS apps?",
+        "a": "Define app permissions",
+        "b": "Store app data",
+        "c": "Configure app settings",
+        "d": "Set up app navigation",
+        "r": "c"
+    },
+    {
+        "q": "Which mobile app component represents a single screen with a user interface?",
+        "a": "Service",
+        "b": "BroadcastReceiver",
+        "c": "Activity",
+        "d": "ContentProvider",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of using \"SwiftUI\" in iOS app development?",
+        "a": "Manage app permissions",
+        "b": "Implement app layouts",
+        "c": "Store app data",
+        "d": "Handle networking tasks",
+        "r": "b"
+    },
+    {
+        "q": "Which programming language is commonly used for cross-platform app development?",
+        "a": "Java",
+        "b": "Swift",
+        "c": "JavaScript",
+        "d": "Kotlin",
+        "r": "c"
+    },
+    {
+        "q": "In Android app development, what does \"ADB\" stand for?",
+        "a": "Android Debug Bridge",
+        "b": "App Data Backup",
+        "c": "Application Development Bridge",
+        "d": "Android Database Browser",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of using the \"useState\" hook in React Native?",
+        "a": "Handle user input",
+        "b": "Manage app navigation",
+        "c": "Update component state",
+        "d": "Display images",
+        "r": "c"
+    },
+    {
+        "q": "Which platform allows the development of apps using HTML, CSS, and JavaScript?",
+        "a": "React Native",
+        "b": "Flutter",
+        "c": "Xamarin",
+        "d": "Ionic",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of using the \"Core Data\" framework in iOS development?",
+        "a": "Manage app data",
+        "b": "Implement app navigation",
+        "c": "Display app content",
+        "d": "Handle networking tasks",
+        "r": "a"
+    },
+    {
+        "q": "Which mobile app component is used to communicate with other apps?",
+        "a": "Activity",
+        "b": "BroadcastReceiver",
+        "c": "Service",
+        "d": "Fragment",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of using a \"provider\" in Flutter?",
+        "a": "Manage app state",
+        "b": "Implement app navigation",
+        "c": "Store app data",
+        "d": "Display UI components",
+        "r": "a"
+    },
+    {
+        "q": "Which mobile app development framework is based on AngularJS?",
+        "a": "Flutter",
+        "b": "Xamarin",
+        "c": "React Native",
+        "d": "Ionic",
+        "r": "d"
+    },
+    {
+        "q": "In Android app development, what is the purpose of the \"res\" folder?",
+        "a": "Store app resources",
+        "b": "Implement app logic",
+        "c": "Define app permissions",
+        "d": "Handle app navigation",
+        "r": "a"
+    },
+    {
+        "q": "What does SDK stand for in the context of mobile app development?",
+        "a": "Software Development Kit",
+        "b": "System Development Kit",
+        "c": "Software Distribution Kit",
+        "d": "System Distribution Kit",
+        "r": "a"
+    },
+    {
+        "q": "What does SaaS stand for in cloud computing?",
+        "a": "software-as-a-service (SaaS)",
+        "b": "system-as-a-service (Saas)",
+        "c": "storage-as-a-service (STaaS)",
+        "d": "server-as-a-service (SeaaS)",
+        "r": "a"
+    },
+    {
+        "q": "Which cloud deployment model offers the highest level of control to the users?",
+        "a": "private cloud",
+        "b": "public cloud",
+        "c": "hybrid cloud",
+        "d": "community cloud",
+        "r": "a"
+    },
+    {
+        "q": "Which cloud service model involves the delivery of computing infrastructure over the internet?",
+        "a": "Infrastructure-as-a-Service (IaaS)",
+        "b": "Platform-as-a-Service (PaaS)",
+        "c": "Software-as-a-Service (SaaS)",
+        "d": "Network-as-a-Service (NaaS)",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary benefit of auto-scaling in cloud computing?",
+        "a": "It ensures high availability and fault tolerance.",
+        "b": "It reduces the overall cost of cloud services.",
+        "c": "It increases security and data protection.",
+        "d": "It automatically adjusts resources based on demand.",
+        "r": "d"
+    },
+    {
+        "q": "Which cloud computing characteristic ensures that users can access cloud services over the internet?",
+        "a": "On-demand self-service",
+        "b": "Broad network access",
+        "c": "Resource pooling",
+        "d": "Rapid elasticity",
+        "r": "b"
+    },
+    {
+        "q": "What is the main purpose of a load balancer in cloud computing?",
+        "a": "To distribute network traffic evenly across servers",
+        "b": "To optimize the cost of cloud services.",
+        "c": "To ensure data security and encryption.",
+        "d": "To analyze big data in the cloud.",
+        "r": "a"
+    },
+    {
+        "q": "Which cloud deployment model shares computing resources among several organizations with a common interest?",
+        "a": "Hybrid cloud",
+        "b": "Public cloud",
+        "c": "Private cloud",
+        "d": "Community cloud",
+        "r": "d"
+    },
+    {
+        "q": "What cloud service model provides virtualized computing resources over the internet?",
+        "a": "SaaS",
+        "b": "PaaS",
+        "c": "IaaS",
+        "d": "DaaS",
+        "r": "c"
+    },
+    {
+        "q": "Which cloud computing characteristic refers to the ability to rapidly increase or decrease resources as needed?",
+        "a": "On-demand self-service",
+        "b": "Broad network access",
+        "c": "Resource pooling",
+        "d": "Rapid elasticity",
+        "r": "d"
+    },
+    {
+        "q": "What is the main security concern in cloud computing?",
+        "a": "Data breaches and unauthorized access",
+        "b": "Power outages and service downtime",
+        "c": "Network bandwidth limitations",
+        "d": "Lack of cloud provider options in the market.",
+        "r": "a"
+    },
+    {
+        "q": "Which cloud service model allows developers to build, deploy, and manage applications without worrying about infrastructure management?",
+        "a": "SaaS",
+        "b": "PaaS",
+        "c": "IaaS",
+        "d": "XaaS",
+        "r": "b"
+    },
+    {
+        "q": "Which cloud deployment model provides cloud services to anyone on the internet?",
+        "a": "Public cloud",
+        "b": "Private cloud",
+        "c": "Hybrid cloud",
+        "d": "Community cloud",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of a hypervisor in cloud computing?",
+        "a": "To manage virtual machines and their resources",
+        "b": "To synchronize data across different cloud providers",
+        "c": "To analyze big data in real-time.",
+        "d": "To improve network performance.",
+        "r": "a"
+    },
+    {
+        "q": "Which cloud computing characteristic enables multiple customers to share a pool of computing resources?",
+        "a": "On-demand self-service",
+        "b": "Broad network access",
+        "c": "Resource pooling",
+        "d": "Rapid elasticity",
+        "r": "c"
+    },
+    {
+        "q": "Which cloud service model offers the lowest level of control to the users?",
+        "a": "SaaS",
+        "b": "PaaS",
+        "c": "IaaS",
+        "d": "XaaS",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary advantage of multi-cloud deployment?",
+        "a": "Enhanced data security and redundancy",
+        "b": "Simplified deployment and management of resources.",
+        "c": "Cost-effective data storage and backup.",
+        "d": "Improved user experience with better UI.",
+        "r": "a"
+    },
+    {
+        "q": "In cloud computing, what does the term \"Elasticity\" refer to?",
+        "a": "The ability to scale resources up and down as needed",
+        "b": "The ability to analyze large datasets in the cloud.",
+        "c": "The ability to encrypt data in transit and at rest.",
+        "d": "The ability to provide real-time updates.",
+        "r": "a"
+    },
+    {
+        "q": "Which cloud deployment model offers a dedicated cloud environment for a single organization?",
+        "a": "Hybrid cloud",
+        "b": "Public cloud",
+        "c": "Private cloud",
+        "d": "Community cloud",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary responsibility of a cloud service provider in the SaaS model?",
+        "a": "Managing and maintaining the software application",
+        "b": "Providing hardware and virtualized resources",
+        "c": "Ensuring network security and data privacy.",
+        "d": "Developing applications for end-users.",
+        "r": "a"
+    },
+    {
+        "q": "Which cloud computing characteristic provides seamless access to services from various devices?",
+        "a": "On-demand self-service",
+        "b": "Broad network access",
+        "c": "Resource pooling",
+        "d": "Ubiquitous network access",
+        "r": "d"
+    },
+    {
+        "q": "What cloud service model offers ready-to-use software applications delivered over the internet?",
+        "a": "SaaS",
+        "b": "PaaS",
+        "c": "IaaS",
+        "d": "XaaS",
+        "r": "a"
+    },
+    {
+        "q": "Which cloud deployment model is suitable for applications with sensitive data and regulatory compliance requirements?",
+        "a": "Hybrid cloud",
+        "b": "Public cloud",
+        "c": "Private cloud",
+        "d": "Community cloud",
+        "r": "c"
+    },
+    {
+        "q": "What is the role of a Content Delivery Network (CDN) in cloud computing?",
+        "a": "To deliver content to users from the nearest server",
+        "b": "To manage virtual machines and their resources",
+        "c": "To provide data encryption and security.",
+        "d": "To optimize the cloud infrastructure.",
+        "r": "a"
+    },
+    {
+        "q": "Which cloud service model provides virtualized computing resources over the internet?",
+        "a": "SaaS",
+        "b": "PaaS",
+        "c": "IaaS",
+        "d": "DaaS",
+        "r": "c"
+    },
+    {
+        "q": "What cloud computing characteristic ensures that cloud resources are assigned and reassigned automatically based on demand?",
+        "a": "On-demand self-service",
+        "b": "Broad network access",
+        "c": "Resource pooling",
+        "d": "Rapid elasticity",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary advantage of using containers in cloud computing?",
+        "a": "Efficient utilization of resources and rapid deployment",
+        "b": "Improved network security and data protection.",
+        "c": "Enhanced compatibility across different platforms.",
+        "d": "Increased scalability and portability.",
+        "r": "a"
+    },
+    {
+        "q": "Which cloud deployment model combines the features of public and private clouds?",
+        "a": "Hybrid cloud",
+        "b": "Public cloud",
+        "c": "Private cloud",
+        "d": "Community cloud",
+        "r": "a"
+    },
+    {
+        "q": "In cloud computing, what does the term \"Virtualization\" refer to?",
+        "a": "The creation of virtual versions of physical resources",
+        "b": "The ability to analyze large datasets in the cloud.",
+        "c": "The process of encrypting data in transit.",
+        "d": "The ability to scale resources up and down.",
+        "r": "a"
+    },
+    {
+        "q": "Which type of machine learning algorithm is used when the output variable is continuous?",
+        "a": "regression",
+        "b": "classification",
+        "c": "clustering",
+        "d": "association",
+        "r": "a"
+    },
+    {
+        "q": "Which algorithm is commonly used for image recognition tasks in machine learning?",
+        "a": "K-Nearest Neighbors (KNN)",
+        "b": "Support Vector Machine (SVM)",
+        "c": "Random Forest",
+        "d": "Naive Bayes",
+        "r": "b"
+    },
+    {
+        "q": "In which step of the machine learning pipeline do we split the dataset into training and testing sets?",
+        "a": "Feature Selection",
+        "b": "Model Training",
+        "c": "Data Preprocessing",
+        "d": "Model Evaluation",
+        "r": "c"
+    },
+    {
+        "q": "Which machine learning algorithm is inspired by the behavior of ants and bees?",
+        "a": "K-Means Clustering",
+        "b": "Particle Swarm Optimization (PSO)",
+        "c": "Ant Colony Optimization",
+        "d": "Genetic Algorithm",
+        "r": "c"
+    },
+    {
+        "q": "What is the main drawback of the k-nearest neighbors (KNN) algorithm?",
+        "a": "It is sensitive to the scale of the features",
+        "b": "It is computationally expensive",
+        "c": "It cannot handle large datasets",
+        "d": "It only works for binary classification problems",
+        "r": "a"
+    },
+    {
+        "q": "Which evaluation metric is commonly used for imbalanced classification problems?",
+        "a": "Mean Absolute Error (MAE)",
+        "b": "Area Under the ROC Curve (AUC-ROC)",
+        "c": "Mean Squared Error (MSE)",
+        "d": "R-squared (R2)",
+        "r": "b"
+    },
+    {
+        "q": "Which machine learning algorithm is known for its interpretability, where each decision is explicit?",
+        "a": "Decision Tree",
+        "b": "Gradient Boosting Machine (GBM)",
+        "c": "Artificial Neural Network (ANN)",
+        "d": "K-Nearest Neighbors (KNN)",
+        "r": "a"
+    },
+    {
+        "q": "Which technique is used to handle missing data in a dataset?",
+        "a": "Feature Scaling",
+        "b": "Data Imputation",
+        "c": "Principal Component Analysis (PCA)",
+        "d": "One-Hot Encoding",
+        "r": "b"
+    },
+    {
+        "q": "In machine learning, what does the term \"overfitting\" refer to?",
+        "a": "The model performs well on the test set",
+        "b": "The model generalizes well to unseen data",
+        "c": "The model learns noise from the training data",
+        "d": "The model has high bias and low variance",
+        "r": "c"
+    },
+    {
+        "q": "Which algorithm is a type of ensemble learning method based on the idea of \"bagging\"?",
+        "a": "Naive Bayes",
+        "b": "Support Vector Machine (SVM)",
+        "c": "Random Forest",
+        "d": "K-Means Clustering",
+        "r": "c"
+    },
+    {
+        "q": "Which type of machine learning algorithm is used for finding patterns or groups in unlabeled data?",
+        "a": "Regression",
+        "b": "Classification",
+        "c": "Clustering",
+        "d": "Association",
+        "r": "c"
+    },
+    {
+        "q": "Which technique is used to reduce the dimensionality of the feature space in machine learning?",
+        "a": "Data Imputation",
+        "b": "Feature Scaling",
+        "c": "Principal Component Analysis (PCA)",
+        "d": "One-Hot Encoding",
+        "r": "c"
+    },
+    {
+        "q": "Which algorithm is commonly used for natural language processing tasks in machine learning?",
+        "a": "Decision Tree",
+        "b": "Artificial Neural Network (ANN)",
+        "c": "K-Nearest Neighbors (KNN)",
+        "d": "Support Vector Machine (SVM)",
+        "r": "b"
+    },
+    {
+        "q": "In which step of the machine learning pipeline do we encode categorical variables into numerical values?",
+        "a": "Feature Selection",
+        "b": "Model Training",
+        "c": "Data Preprocessing",
+        "d": "Model Evaluation",
+        "r": "c"
+    },
+    {
+        "q": "What is the main drawback of the decision tree algorithm?",
+        "a": "It is sensitive to the scale of the features",
+        "b": "It is computationally expensive",
+        "c": "It cannot handle large datasets",
+        "d": "It tends to overfit on training data",
+        "r": "d"
+    },
+    {
+        "q": "Which evaluation metric is commonly used for regression problems?",
+        "a": "Mean Absolute Error (MAE)",
+        "b": "Area Under the ROC Curve (AUC-ROC)",
+        "c": "Mean Squared Error (MSE)",
+        "d": "R-squared (R2)",
+        "r": "a"
+    },
+    {
+        "q": "Which machine learning algorithm is known for its ability to handle sequential data, such as time series?",
+        "a": "Decision Tree",
+        "b": "Artificial Neural Network (ANN)",
+        "c": "K-Means Clustering",
+        "d": "Recurrent Neural Network (RNN)",
+        "r": "d"
+    },
+    {
+        "q": "Which technique is used to transform numerical features to a standard scale?",
+        "a": "Data Imputation",
+        "b": "Feature Scaling",
+        "c": "Principal Component Analysis (PCA)",
+        "d": "One-Hot Encoding",
+        "r": "b"
+    },
+    {
+        "q": "In machine learning, what does the term \"underfitting\" refer to?",
+        "a": "The model performs well on the test set",
+        "b": "The model generalizes well to unseen data",
+        "c": "The model learns noise from the training data",
+        "d": "The model has high bias and low variance",
+        "r": "c"
+    },
+    {
+        "q": "Which algorithm is a type of ensemble learning method based on the idea of \"boosting\"?",
+        "a": "Naive Bayes",
+        "b": "Support Vector Machine (SVM)",
+        "c": "Gradient Boosting Machine (GBM)",
+        "d": "K-Means Clustering",
+        "r": "c"
+    },
+    {
+        "q": "Which type of machine learning algorithm is used for assigning labels to input data?",
+        "a": "Regression",
+        "b": "Classification",
+        "c": "Clustering",
+        "d": "Association",
+        "r": "b"
+    },
+    {
+        "q": "Which technique is used to handle high-dimensional data by identifying the most important features?",
+        "a": "Data Imputation",
+        "b": "Feature Selection",
+        "c": "Principal Component Analysis (PCA)",
+        "d": "One-Hot Encoding",
+        "r": "b"
+    },
+    {
+        "q": "Which algorithm is commonly used for anomaly detection tasks in machine learning?",
+        "a": "K-Nearest Neighbors (KNN)",
+        "b": "Support Vector Machine (SVM)",
+        "c": "Isolation Forest",
+        "d": "Naive Bayes",
+        "r": "c"
+    },
+    {
+        "q": "In which step of the machine learning pipeline do we apply feature scaling to the data?",
+        "a": "Feature Selection",
+        "b": "Model Training",
+        "c": "Data Preprocessing",
+        "d": "Model Evaluation",
+        "r": "c"
+    },
+    {
+        "q": "What is the main drawback of the support vector machine (SVM) algorithm?",
+        "a": "It is sensitive to the scale of the features",
+        "b": "It is computationally expensive",
+        "c": "It cannot handle large datasets",
+        "d": "It is not suitable for multi-class classification",
+        "r": "b"
+    },
+    {
+        "q": "Which evaluation metric is commonly used for clustering performance evaluation?",
+        "a": "Mean Absolute Error (MAE)",
+        "b": "Silhouette Score",
+        "c": "Mean Squared Error (MSE)",
+        "d": "R-squared (R2)",
+        "r": "b"
+    },
+    {
+        "q": "Which machine learning algorithm is known for its ability to classify text data?",
+        "a": "Decision Tree",
+        "b": "Artificial Neural Network (ANN)",
+        "c": "K-Nearest Neighbors (KNN)",
+        "d": "Naive Bayes",
+        "r": "d"
+    },
+    {
+        "q": "Which technique is used to handle categorical variables by creating binary columns for each category?",
+        "a": "Data Imputation",
+        "b": "Feature Scaling",
+        "c": "Principal Component Analysis (PCA)",
+        "d": "One-Hot Encoding",
+        "r": "d"
+    },
+    {
+        "q": "In machine learning, what does the term \"bias-variance tradeoff\" refer to?",
+        "a": "The tradeoff between training time and prediction time",
+        "b": "The tradeoff between model complexity and interpretability",
+        "c": "The tradeoff between model complexity and model performance",
+        "d": "The tradeoff between model flexibility and generalization",
+        "r": "c"
+    },
+    {
+        "q": "Which algorithm is a type of unsupervised learning used for density estimation?",
+        "a": "Naive Bayes",
+        "b": "Support Vector Machine (SVM)",
+        "c": "K-Means Clustering",
+        "d": "Gaussian Mixture Model (GMM)",
+        "r": "d"
+    },
+    {
+        "q": "What does IoT stand for?",
+        "a": "Internet of Technology",
+        "b": "Internet of Things",
+        "c": "Internet of Thinking",
+        "d": "Internet of Transformation",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not an example of IoT?",
+        "a": "Smartwatch",
+        "b": "Self-driving car",
+        "c": "Microwave oven",
+        "d": "Smartphone",
+        "r": "c"
+    },
+    {
+        "q": "IoT is a network of physical devices connected to...",
+        "a": "The Internet",
+        "b": "A Local Area Network",
+        "c": "Bluetooth",
+        "d": "The Cloud",
+        "r": "a"
+    },
+    {
+        "q": "What technology enables communication between IoT...",
+        "a": "Wi-Fi",
+        "b": "Bluetooth",
+        "c": "NFC",
+        "d": "Ethernet",
+        "r": "b"
+    },
+    {
+        "q": "Which layer in the IoT architecture is responsible...",
+        "a": "Perception Layer",
+        "b": "Application Layer",
+        "c": "Network Layer",
+        "d": "Physical Layer",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a sensor u...",
+        "a": "Camera",
+        "b": "Speaker",
+        "c": "Display",
+        "d": "Keyboard",
+        "r": "a"
+    },
+    {
+        "q": "Which wireless technology is specifically designe...",
+        "a": "Zigbee",
+        "b": "Z-Wave",
+        "c": "Wi-Fi",
+        "d": "Bluetooth",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a benefit of IoT?",
+        "a": "Improved Efficiency",
+        "b": "Increased Privacy",
+        "c": "Enhanced Decision Making",
+        "d": "Real-time Monitoring",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of converting analog data into...",
+        "a": "Digitization",
+        "b": "Encryption",
+        "c": "Decryption",
+        "d": "Compression",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a challenge in the i...",
+        "a": "Data Privacy and Security",
+        "b": "Interoperability",
+        "c": "Limited Processing Power",
+        "d": "High Energy Consumption",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of wearable t...",
+        "a": "Smart Ring",
+        "b": "Smart Fridge",
+        "c": "Smart TV",
+        "d": "Smart Oven",
+        "r": "a"
+    },
+    {
+        "q": "Which IoT communication model involves a one-to-on...",
+        "a": "Point-to-Point Communication",
+        "b": "Broadcast Communication",
+        "c": "Multi-point Communication",
+        "d": "Narrowband Communication",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following protocols is commonly used ...",
+        "a": "HTTP",
+        "b": "SMTP",
+        "c": "FTP",
+        "d": "MQTT",
+        "r": "d"
+    },
+    {
+        "q": "In the context of IoT, what does \"M2M\" stand for?",
+        "a": "Man-to-Man",
+        "b": "Machine-to-Machine",
+        "c": "Machine-to-Mobile",
+        "d": "Man-to-Mobile",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a popular open-source pl...",
+        "a": "Android Things",
+        "b": "Windows IoT Core",
+        "c": "Arduino",
+        "d": "Raspberry Pi",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary purpose of the actuator in an ...",
+        "a": "To sense the surrounding environment",
+        "b": "To process data",
+        "c": "To receive and store data",
+        "d": "To perform actions based on data",
+        "r": "d"
+    },
+    {
+        "q": "What is the minimum number of devices required to ...",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "0",
+        "r": "b"
+    },
+    {
+        "q": "What type of IoT device would a smart thermostat b...",
+        "a": "Actuator",
+        "b": "Sensor",
+        "c": "Gateway",
+        "d": "Controller",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following statements is true about IP...",
+        "a": "IPv4 addresses are 128-bit long",
+        "b": "IPv6 addresses are 32-bit long",
+        "c": "IPv6 addresses are 128-bit long",
+        "d": "IPv4 addresses are 32-bit long",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of using edge computing in the...",
+        "a": "To offload data processing from the cloud",
+        "b": "To connect IoT devices to the network",
+        "c": "To provide real-time analytics",
+        "d": "To increase the security of IoT devices",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following IoT devices would be involv...",
+        "a": "Smart Home Security Camera",
+        "b": "Smart Refrigerator",
+        "c": "Smart Fitness Tracker",
+        "d": "All of the above",
+        "r": "d"
+    },
+    {
+        "q": "What is the range of NFC (Near Field Communication...",
+        "a": "Up to 1 meter",
+        "b": "Up to 10 meters",
+        "c": "Up to 100 meters",
+        "d": "Up to 1000 meters",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a wearable...",
+        "a": "Smart Glasses",
+        "b": "Smart Thermostat",
+        "c": "Smart Lock",
+        "d": "Smart Doorbell",
+        "r": "a"
+    },
+    {
+        "q": "Which IoT communication model allows all devices t...",
+        "a": "Point-to-Point Communication",
+        "b": "Broadcast Communication",
+        "c": "Multi-point Communication",
+        "d": "Full-Duplex Communication",
+        "r": "b"
+    },
+    {
+        "q": "What is the role of MQTT (Message Queuing Telemetr...",
+        "a": "It is a communication protocol for IoT devices",
+        "b": "It is a wearable IoT device",
+        "c": "It is an IoT platform",
+        "d": "It is an IoT sensor",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a crucial element of a s...",
+        "a": "Energy Efficiency",
+        "b": "Complex User Interface",
+        "c": "High Latency",
+        "d": "Large Data Storage Capacity",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of a gateway in an IoT network?",
+        "a": "To convert analog signals to digital signals",
+        "b": "To process data",
+        "c": "To store data",
+        "d": "To act as a bridge between IoT devices and the cloud",
+        "r": "d"
+    },
+    {
+        "q": "Which IoT layer deals with data processing and ana...",
+        "a": "Perception Layer",
+        "b": "Application Layer",
+        "c": "Network Layer",
+        "d": "Analytics Layer",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following statements is true about LP...",
+        "a": "LPWAN can transmit data over long distances",
+        "b": "LPWAN has high power consumption",
+        "c": "LPWAN is suitable for high-bandwidth applications",
+        "d": "LPWAN uses Wi-Fi technology",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a non-functional require...",
+        "a": "Data Encryption",
+        "b": "Data Processing Speed",
+        "c": "Data Accuracy",
+        "d": "Data Volume",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of a Unique Identifier (UID) i...",
+        "a": "To represent a single device in a network",
+        "b": "To establish an internet connection",
+        "c": "To identify an IoT gateway",
+        "d": "To authenticate a user on a website",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a commonly used comm...",
+        "a": "UART",
+        "b": "I2C",
+        "c": "USB",
+        "d": "HDMI",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of a RESTful API in the context...",
+        "a": "To connect IoT devices to the network",
+        "b": "To process data",
+        "c": "To provide a user interface",
+        "d": "To enable communication between devices and servers",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following IoT devices is designed to ...",
+        "a": "Smart Bulb",
+        "b": "Smart Refrigerator",
+        "c": "Smart Speaker",
+        "d": "Smart Camera",
+        "r": "a"
+    },
+    {
+        "q": "Which IoT communication model allows communication...",
+        "a": "Point-to-Point Communication",
+        "b": "Broadcast Communication",
+        "c": "Multi-point Communication",
+        "d": "Half-Duplex Communication",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of MQTT-SN (MQTT for Sensor Ne...",
+        "a": "To reduce power consumption in sensors",
+        "b": "To enable communication between IoT devices",
+        "c": "To store data",
+        "d": "To encrypt MQTT messages",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a security concern i...",
+        "a": "Data Privacy",
+        "b": "Data Integrity",
+        "c": "Unauthorized Access",
+        "d": "Data Accuracy",
+        "r": "d"
+    },
+    {
+        "q": "What type of IoT device would a smart lock be?",
+        "a": "Actuator",
+        "b": "Sensor",
+        "c": "Gateway",
+        "d": "Controller",
+        "r": "a"
+    },
+    {
+        "q": "Which IoT layer is responsible for interfacing wit...",
+        "a": "Perception Layer",
+        "b": "Application Layer",
+        "c": "Network Layer",
+        "d": "Middleware Layer",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary goal of Data Science?",
+        "a": "To analyze and interpret large datasets",
+        "b": "To design algorithms for data processing",
+        "c": "To create new datasets by merging existing data",
+        "d": "To visualize data using graphs and charts",
+        "r": "a"
+    },
+    {
+        "q": "Which programming language is commonly used in Data Science?",
+        "a": "Python",
+        "b": "Java",
+        "c": "C++",
+        "d": "JavaScript",
+        "r": "a"
+    },
+    {
+        "q": "What is Big Data?",
+        "a": "Data that requires large storage space",
+        "b": "Data that has a high level of complexity",
+        "c": "Data that is difficult to process",
+        "d": "Data that is too large to be handled by traditional databases",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of converting data into a tabular form called?",
+        "a": "Data normalization",
+        "b": "Data analysis",
+        "c": "Data visualization",
+        "d": "Data wrangling",
+        "r": "d"
+    },
+    {
+        "q": "Which technique is used to uncover hidden patterns in data?",
+        "a": "Machine Learning",
+        "b": "Data Mining",
+        "c": "Data Cleansing",
+        "d": "Data Aggregation",
+        "r": "b"
+    },
+    {
+        "q": "Which type of data analysis is used to make predictions about future events?",
+        "a": "Descriptive Analysis",
+        "b": "Diagnostic Analysis",
+        "c": "Predictive Analysis",
+        "d": "Prescriptive Analysis",
+        "r": "c"
+    },
+    {
+        "q": "In Data Science, what is used to represent the relationship between two continuous variables?",
+        "a": "Pie Chart",
+        "b": "Scatter Plot",
+        "c": "Bar Graph",
+        "d": "Histogram",
+        "r": "b"
+    },
+    {
+        "q": "Which method is used to impute missing values in a dataset?",
+        "a": "Regression",
+        "b": "Classification",
+        "c": "Clustering",
+        "d": "Mean/Median",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of converting unstructured data into structured data called?",
+        "a": "Data Wrangling",
+        "b": "Data Integration",
+        "c": "Data Transformation",
+        "d": "Data Normalization",
+        "r": "a"
+    },
+    {
+        "q": "Which type of Machine Learning algorithm is used for classification tasks?",
+        "a": "Decision Trees",
+        "b": "Linear Regression",
+        "c": "K-Means Clustering",
+        "d": "Principal Component Analysis",
+        "r": "a"
+    },
+    {
+        "q": "What does SQL stand for?",
+        "a": "Standard Query Language",
+        "b": "Structured Query Language",
+        "c": "Simple Query Language",
+        "d": "Systematic Query Language",
+        "r": "b"
+    },
+    {
+        "q": "Which step in the Data Science process involves defining the problem and objectives?",
+        "a": "Data Collection",
+        "b": "Data Cleaning",
+        "c": "Data Exploration",
+        "d": "Data Understanding",
+        "r": "d"
+    },
+    {
+        "q": "Which type of data is typically represented using a tree-like structure?",
+        "a": "Hierarchical Data",
+        "b": "Relational Data",
+        "c": "Time Series Data",
+        "d": "Spatial Data",
+        "r": "a"
+    },
+    {
+        "q": "Which Data Science method is used to reduce the dimensionality of data?",
+        "a": "Principal Component Analysis (PCA)",
+        "b": "Decision Trees",
+        "c": "Linear Regression",
+        "d": "Naive Bayes",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of transforming categorical data into numerical values called?",
+        "a": "Data Encoding",
+        "b": "Data Binning",
+        "c": "Data Normalization",
+        "d": "Data Imputation",
+        "r": "a"
+    },
+    {
+        "q": "Which statistical measure represents the average value of a dataset?",
+        "a": "Standard Deviation",
+        "b": "Median",
+        "c": "Mode",
+        "d": "Mean",
+        "r": "d"
+    },
+    {
+        "q": "Which visualization method is used to show the distribution of data?",
+        "a": "Line Plot",
+        "b": "Box Plot",
+        "c": "Area Chart",
+        "d": "Scatter Plot",
+        "r": "b"
+    },
+    {
+        "q": "Which type of data analysis involves finding patterns in data that were not previously known?",
+        "a": "Descriptive Analysis",
+        "b": "Diagnostic Analysis",
+        "c": "Predictive Analysis",
+        "d": "Exploratory Analysis",
+        "r": "d"
+    },
+    {
+        "q": "In Machine Learning, which step involves measuring a model's performance on unseen data?",
+        "a": "Training",
+        "b": "Testing",
+        "c": "Evaluation",
+        "d": "Validation",
+        "r": "c"
+    },
+    {
+        "q": "Which type of data analytics involves summarizing and describing past events?",
+        "a": "Descriptive Analytics",
+        "b": "Predictive Analytics",
+        "c": "Diagnostic Analytics",
+        "d": "Prescriptive Analytics",
+        "r": "a"
+    },
+    {
+        "q": "Which method is used to divide a dataset into training and testing sets?",
+        "a": "Clustering",
+        "b": "Regression",
+        "c": "Random Sampling",
+        "d": "Cross-Validation",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of finding and fixing errors in a dataset called?",
+        "a": "Data Wrangling",
+        "b": "Data Cleaning",
+        "c": "Data Exploration",
+        "d": "Data Validation",
+        "r": "b"
+    },
+    {
+        "q": "Which type of algorithm is used to group similar data points together?",
+        "a": "Decision Trees",
+        "b": "Clustering",
+        "c": "Regression",
+        "d": "Support Vector Machines",
+        "r": "b"
+    },
+    {
+        "q": "Which technique is used to find frequent itemsets in transactional data?",
+        "a": "Clustering",
+        "b": "Regression",
+        "c": "Association Rules",
+        "d": "Decision Trees",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of transforming numerical data into a specific range called?",
+        "a": "Data Imputation",
+        "b": "Data Scaling",
+        "c": "Data Normalization",
+        "d": "Data Encoding",
+        "r": "b"
+    },
+    {
+        "q": "Which type of data analysis aims to identify the cause of a specific event?",
+        "a": "Descriptive Analysis",
+        "b": "Diagnostic Analysis",
+        "c": "Predictive Analysis",
+        "d": "Prescriptive Analysis",
+        "r": "b"
+    },
+    {
+        "q": "Which evaluation metric is used to assess the performance of classification models?",
+        "a": "R-squared",
+        "b": "F1-score",
+        "c": "Mean Absolute Error",
+        "d": "Root Mean Squared Error",
+        "r": "b"
+    },
+    {
+        "q": "In Data Science, what is used to represent the relationship between two categorical variables?",
+        "a": "Pie Chart",
+        "b": "Scatter Plot",
+        "c": "Bar Graph",
+        "d": "Cross Tabulation",
+        "r": "d"
+    },
+    {
+        "q": "Which step in the Data Science process involves removing errors and inconsistencies from data?",
+        "a": "Data Collection",
+        "b": "Data Cleaning",
+        "c": "Data Exploration",
+        "d": "Data Preprocessing",
+        "r": "b"
+    },
+    {
+        "q": "What does NLP stand for?",
+        "a": "Natural Language Processing",
+        "b": "Numerical Language Processing",
+        "c": "New Linguistic Process",
+        "d": "Normalized Language Patterns",
+        "r": "a"
+    },
+    {
+        "q": "Which type of data is represented using a network-like structure?",
+        "a": "Hierarchical Data",
+        "b": "Relational Data",
+        "c": "Graph Data",
+        "d": "Spatial Data",
+        "r": "c"
+    },
+    {
+        "q": "Which Machine Learning algorithm is used for anomaly detection?",
+        "a": "K-Nearest Neighbors (KNN)",
+        "b": "Decision Trees",
+        "c": "Support Vector Machines",
+        "d": "Isolation Forest",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of selecting relevant features for a model called?",
+        "a": "Feature Engineering",
+        "b": "Feature Extraction",
+        "c": "Feature Selection",
+        "d": "Feature Encoding",
+        "r": "c"
+    },
+    {
+        "q": "Which statistical measure represents the spread of data in a dataset?",
+        "a": "Median",
+        "b": "Standard Deviation",
+        "c": "Mode",
+        "d": "Mean",
+        "r": "b"
+    },
+    {
+        "q": "Which visualization method is used to show the relationship between two variables?",
+        "a": "Line Plot",
+        "b": "Box Plot",
+        "c": "Area Chart",
+        "d": "Scatter Plot",
+        "r": "d"
+    },
+    {
+        "q": "Which type of data analysis involves building models to make predictions?",
+        "a": "Descriptive Analysis",
+        "b": "Diagnostic Analysis",
+        "c": "Predictive Analysis",
+        "d": "Prescriptive Analysis",
+        "r": "c"
+    },
+    {
+        "q": "In Machine Learning, which step involves adjusting model parameters to improve performance?",
+        "a": "Training",
+        "b": "Testing",
+        "c": "Evaluation",
+        "d": "Tuning",
+        "r": "d"
+    },
+    {
+        "q": "Which type of data analytics involves recommending the best course of action?",
+        "a": "Descriptive Analytics",
+        "b": "Predictive Analytics",
+        "c": "Diagnostic Analytics",
+        "d": "Prescriptive Analytics",
+        "r": "d"
+    },
+    {
+        "q": "Which method is used to estimate unknown values based on other known data points?",
+        "a": "Clustering",
+        "b": "Regression",
+        "c": "Imputation",
+        "d": "Classification",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of detecting and correcting errors in data called?",
+        "a": "Data Wrangling",
+        "b": "Data Cleaning",
+        "c": "Data Exploration",
+        "d": "Data Validation",
+        "r": "b"
+    },
+    {
+        "q": "Which type of algorithm is used for regression tasks?",
+        "a": "Decision Trees",
+        "b": "Clustering",
+        "c": "Regression",
+        "d": "Support Vector Machines",
+        "r": "c"
+    },
+    {
+        "q": "Which technique is used to recommend similar items to users?",
+        "a": "Clustering",
+        "b": "Regression",
+        "c": "Collaborative Filtering",
+        "d": "Decision Trees",
+        "r": "c"
+    },
+    {
+        "q": "Which type of data analysis aims to identify relationships between variables?",
+        "a": "Descriptive Analysis",
+        "b": "Diagnostic Analysis",
+        "c": "Predictive Analysis",
+        "d": "Exploratory Analysis",
+        "r": "d"
+    },
+    {
+        "q": "Which evaluation metric is used to assess the performance of regression models?",
+        "a": "R-squared",
+        "b": "F1-score",
+        "c": "Mean Absolute Error",
+        "d": "Root Mean Squared Error",
+        "r": "a"
+    },
+    {
+        "q": "In Data Science, what is used to represent the relationship between a numerical and a categorical variable?",
+        "a": "Pie Chart",
+        "b": "Scatter Plot",
+        "c": "Bar Graph",
+        "d": "Box Plot",
+        "r": "b"
+    },
+    {
+        "q": "Which step in the Data Science process involves transforming data into a usable format?",
+        "a": "Data Collection",
+        "b": "Data Cleaning",
+        "c": "Data Exploration",
+        "d": "Data Preprocessing",
+        "r": "d"
+    },
+    {
+        "q": "What does AI stand for?",
+        "a": "Advanced Intelligence",
+        "b": "Artificial Intelligence",
+        "c": "Automated Inference",
+        "d": "Augmented Information",
+        "r": "b"
+    },
+    {
+        "q": "Which type of data is represented using a matrix-like structure?",
+        "a": "Hierarchical Data",
+        "b": "Relational Data",
+        "c": "Time Series Data",
+        "d": "Tabular Data",
+        "r": "d"
+    },
+    {
+        "q": "Which Machine Learning algorithm is used for text classification tasks?",
+        "a": "K-Nearest Neighbors (KNN)",
+        "b": "Decision Trees",
+        "c": "Support Vector Machines",
+        "d": "Naive Bayes",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of creating new features from existing data called?",
+        "a": "Feature Engineering",
+        "b": "Feature Extraction",
+        "c": "Feature Selection",
+        "d": "Feature Encoding",
+        "r": "a"
+    },
+    {
+        "q": "Which statistical measure represents the most common value in a dataset?",
+        "a": "Median",
+        "b": "Standard Deviation",
+        "c": "Mode",
+        "d": "Mean",
+        "r": "c"
+    },
+    {
+        "q": "Which visualization method is used to show the distribution and outliers of data?",
+        "a": "Line Plot",
+        "b": "Box Plot",
+        "c": "Area Chart",
+        "d": "Scatter Plot",
+        "r": "b"
+    },
+    {
+        "q": "Which type of data analysis involves testing hypotheses and theories?",
+        "a": "Descriptive Analysis",
+        "b": "Diagnostic Analysis",
+        "c": "Predictive Analysis",
+        "d": "Inferential Analysis",
+        "r": "d"
+    },
+    {
+        "q": "In Machine Learning, which step involves dividing the dataset into inputs and outputs?",
+        "a": "Training",
+        "b": "Testing",
+        "c": "Splitting",
+        "d": "Preprocessing",
+        "r": "c"
+    },
+    {
+        "q": "Which type of data analytics involves optimizing processes and maximizing efficiency?",
+        "a": "Descriptive Analytics",
+        "b": "Predictive Analytics",
+        "c": "Diagnostic Analytics",
+        "d": "Prescriptive Analytics",
+        "r": "d"
+    },
+    {
+        "q": "Which method is used to classify data into predefined categories?",
+        "a": "Clustering",
+        "b": "Regression",
+        "c": "Classification",
+        "d": "Association Rules",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of converting data into a consistent format called?",
+        "a": "Data Wrangling",
+        "b": "Data Cleaning",
+        "c": "Data Exploration",
+        "d": "Data Normalization",
+        "r": "d"
+    },
+    {
+        "q": "Which type of algorithm is used for unsupervised clustering tasks?",
+        "a": "Decision Trees",
+        "b": "Clustering",
+        "c": "Regression",
+        "d": "K-Nearest Neighbors (KNN)",
+        "r": "b"
+    },
+    {
+        "q": "Which technique is used to discover sequential patterns in data?",
+        "a": "Clustering",
+        "b": "Regression",
+        "c": "Association Rules",
+        "d": "Decision Trees",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of transforming data into a numerical representation called?",
+        "a": "Data Encoding",
+        "b": "Data Binning",
+        "c": "Data Normalization",
+        "d": "Data Imputation",
+        "r": "a"
+    },
+    {
+        "q": "Which type of data analysis aims to determine the relationship between variables?",
+        "a": "Descriptive Analysis",
+        "b": "Diagnostic Analysis",
+        "c": "Predictive Analysis",
+        "d": "Correlation Analysis",
+        "r": "d"
+    },
+    {
+        "q": "Which evaluation metric is used to assess the performance of clustering algorithms?",
+        "a": "Silhouette Score",
+        "b": "F1-score",
+        "c": "Mean Absolute Error",
+        "d": "Root Mean Squared Error",
+        "r": "a"
+    },
+    {
+        "q": "In Data Science, what is used to represent the relationship between two numerical variables?",
+        "a": "Pie Chart",
+        "b": "Scatter Plot",
+        "c": "Bar Graph",
+        "d": "Line Plot",
+        "r": "b"
+    },
+    {
+        "q": "Which step in the Data Science process involves collecting data from various sources?",
+        "a": "Data Collection",
+        "b": "Data Cleaning",
+        "c": "Data Exploration",
+        "d": "Data Understanding",
+        "r": "a"
+    },
+    {
+        "q": "What does ML stand for?",
+        "a": "Machine Learning",
+        "b": "Model Learning",
+        "c": "Mechanized Language",
+        "d": "Meta Learning",
+        "r": "a"
+    },
+    {
+        "q": "Which type of data is represented using a flat, tabular structure?",
+        "a": "Hierarchical Data",
+        "b": "Relational Data",
+        "c": "Time Series Data",
+        "d": "Tabular Data",
+        "r": "b"
+    },
+    {
+        "q": "Which Machine Learning algorithm is used for collaborative filtering in recommendation systems?",
+        "a": "K-Nearest Neighbors (KNN)",
+        "b": "Decision Trees",
+        "c": "Support Vector Machines",
+        "d": "Matrix Factorization",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of selecting the most important features for a model called?",
+        "a": "Feature Engineering",
+        "b": "Feature Extraction",
+        "c": "Feature Selection",
+        "d": "Feature Encoding",
+        "r": "c"
+    },
+    {
+        "q": "Which statistical measure represents the middle value of a dataset?",
+        "a": "Median",
+        "b": "Standard Deviation",
+        "c": "Mode",
+        "d": "Mean",
+        "r": "a"
+    },
+    {
+        "q": "Which visualization method is used to show trends and patterns over time?",
+        "a": "Line Plot",
+        "b": "Box Plot",
+        "c": "Area Chart",
+        "d": "Scatter Plot",
+        "r": "a"
+    },
+    {
+        "q": "Which type of data analysis involves testing cause-and-effect relationships?",
+        "a": "Descriptive Analysis",
+        "b": "Diagnostic Analysis",
+        "c": "Predictive Analysis",
+        "d": "Causal Analysis",
+        "r": "d"
+    },
+    {
+        "q": "In Machine Learning, which step involves using the model to make predictions?",
+        "a": "Training",
+        "b": "Testing",
+        "c": "Evaluation",
+        "d": "Inference",
+        "r": "d"
+    },
+    {
+        "q": "Which type of data analytics involves optimizing future outcomes?",
+        "a": "Descriptive Analytics",
+        "b": "Predictive Analytics",
+        "c": "Diagnostic Analytics",
+        "d": "Prescriptive Analytics",
+        "r": "b"
+    },
+    {
+        "q": "Which method is used to predict a numerical value based on other known values?",
+        "a": "Clustering",
+        "b": "Regression",
+        "c": "Imputation",
+        "d": "Classification",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of verifying the accuracy and reliability of data called?",
+        "a": "Data Wrangling",
+        "b": "Data Cleaning",
+        "c": "Data Exploration",
+        "d": "Data Validation",
+        "r": "d"
+    },
+    {
+        "q": "Which type of algorithm is used for time series forecasting?",
+        "a": "Decision Trees",
+        "b": "Clustering",
+        "c": "Regression",
+        "d": "ARIMA",
+        "r": "d"
+    },
+    {
+        "q": "Which technique is used to find rules that predict the occurrence of an event based on conditions?",
+        "a": "Clustering",
+        "b": "Regression",
+        "c": "Association Rules",
+        "d": "Decision Trees",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of transforming data into a standardized format called?",
+        "a": "Data Imputation",
+        "b": "Data Scaling",
+        "c": "Data Normalization",
+        "d": "Data Encoding",
+        "r": "c"
+    },
+    {
+        "q": "Which type of data analysis aims to uncover insights and patterns in data?",
+        "a": "Descriptive Analysis",
+        "b": "Diagnostic Analysis",
+        "c": "Predictive Analysis",
+        "d": "Exploratory Analysis",
+        "r": "d"
+    }
+]
