@@ -1,0 +1,4002 @@
+[
+    {
+        "q": "Which of the following is not a greenhouse gas?",
+        "a": "CO2",
+        "b": "CH4",
+        "c": "O2",
+        "d": "N2",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a renewable resource?",
+        "a": "Coal",
+        "b": "Wind",
+        "c": "Natural Gas",
+        "d": "Petroleum",
+        "r": "b"
+    },
+    {
+        "q": "What is the main cause of ozone depletion?",
+        "a": "Carbon Monoxide",
+        "b": "Volcanic Eruptions",
+        "c": "Chlorofluorocarbons",
+        "d": "Methane",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of eutrophication?",
+        "a": "Oil Spill",
+        "b": "Deforestation",
+        "c": "Excessive Algal Growth",
+        "d": "Acid Rain",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the variety of life on Earth?",
+        "a": "Biosphere",
+        "b": "Biodiversity",
+        "c": "Ecological Footprint",
+        "d": "Greenhouse Effect",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a non-point source of pollution?",
+        "a": "Factory Emissions",
+        "b": "Sewage Treatment Plant",
+        "c": "Agricultural Runoff",
+        "d": "Oil Spill",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary source of energy in most ecosystems?",
+        "a": "Sun",
+        "b": "Wind",
+        "c": "Geothermal",
+        "d": "Coal",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of converting waste materials into reusable materials?",
+        "a": "Recycling",
+        "b": "Incineration",
+        "c": "Landfill",
+        "d": "Composting",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a major greenhouse gas?",
+        "a": "Nitrous Oxide",
+        "b": "Oxygen",
+        "c": "Hydrogen",
+        "d": "Helium",
+        "r": "a"
+    },
+    {
+        "q": "What is the main cause of acid rain?",
+        "a": "Sulfur Dioxide",
+        "b": "Carbon Dioxide",
+        "c": "Nitrogen Oxides",
+        "d": "Methane",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of plants absorbing water and releasing it into the atmosphere?",
+        "a": "Transpiration",
+        "b": "Photosynthesis",
+        "c": "Evaporation",
+        "d": "Condensation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a primary air pollutant?",
+        "a": "Ozone",
+        "b": "Particulate Matter",
+        "c": "Volatile Organic Compounds",
+        "d": "Carbon Monoxide",
+        "r": "d"
+    },
+    {
+        "q": "What is the layer of the Earth's atmosphere that absorbs most of the harmful ultraviolet radiation?",
+        "a": "Troposphere",
+        "b": "Stratosphere",
+        "c": "Mesosphere",
+        "d": "Thermosphere",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a source of renewable energy?",
+        "a": "Nuclear Power",
+        "b": "Biomass",
+        "c": "Fossil Fuels",
+        "d": "Natural Gas",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the loss of fertile soil due to water or wind erosion?",
+        "a": "Desertification",
+        "b": "Deforestation",
+        "c": "Salinization",
+        "d": "Soil Degradation",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a major cause of deforestation?",
+        "a": "Urbanization",
+        "b": "Logging",
+        "c": "Mining",
+        "d": "Industrialization",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the process of water vapor turning into liquid water?",
+        "a": "Condensation",
+        "b": "Transpiration",
+        "c": "Evaporation",
+        "d": "Precipitation",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of a point source of pollution?",
+        "a": "Agricultural Runoff",
+        "b": "Factory Emissions",
+        "c": "Sewage Treatment Plant",
+        "d": "Oil Spill",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the increase in the Earth's average temperature due to human activities?",
+        "a": "Global Warming",
+        "b": "Greenhouse Effect",
+        "c": "Climate Change",
+        "d": "Ozone Depletion",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of carbon dioxide being absorbed by plants during photosynthesis?",
+        "a": "Respiration",
+        "b": "Decomposition",
+        "c": "Combustion",
+        "d": "Sequestration",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a greenhouse gas?",
+        "a": "Nitrogen",
+        "b": "Oxygen",
+        "c": "Methane",
+        "d": "Argon",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the process of converting sunlight into electricity?",
+        "a": "Photosynthesis",
+        "b": "Solar Power",
+        "c": "Wind Power",
+        "d": "Geothermal Power",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a primary cause of water pollution?",
+        "a": "Oil Spill",
+        "b": "Urban Runoff",
+        "c": "Acid Rain",
+        "d": "Greenhouse Gas Emissions",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the destruction of forests to clear land for agriculture or development?",
+        "a": "Desertification",
+        "b": "Deforestation",
+        "c": "Soil Erosion",
+        "d": "Salinization",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a source of non-renewable energy?",
+        "a": "Wind Power",
+        "b": "Natural Gas",
+        "c": "Biomass",
+        "d": "Coal",
+        "r": "d"
+    },
+    {
+        "q": "What is the term for the process of harmful substances building up in the food chain?",
+        "a": "Biomagnification",
+        "b": "Photosynthesis",
+        "c": "Decomposition",
+        "d": "Eutrophication",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a major air pollutant in smog?",
+        "a": "Ozone",
+        "b": "Carbon Dioxide",
+        "c": "Nitrogen Oxides",
+        "d": "Sulfur Dioxide",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of planting trees to restore or create forests?",
+        "a": "Afforestation",
+        "b": "Reforestation",
+        "c": "Desertification",
+        "d": "Deforestation",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a major cause of air pollution in urban areas?",
+        "a": "Industrial Emissions",
+        "b": "Agricultural Runoff",
+        "c": "Volcanic Eruptions",
+        "d": "Greenhouse Gas Emissions",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the layer of the atmosphere where weather occurs?",
+        "a": "Troposphere",
+        "b": "Stratosphere",
+        "c": "Mesosphere",
+        "d": "Thermosphere",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a non-renewable resource?",
+        "a": "Wind Power",
+        "b": "Geothermal",
+        "c": "Natural Gas",
+        "d": "Coal",
+        "r": "d"
+    },
+    {
+        "q": "What is the term for the process of water evaporating from the leaves of plants?",
+        "a": "Transpiration",
+        "b": "Condensation",
+        "c": "Precipitation",
+        "d": "Evaporation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a primary air pollutant in smoke?",
+        "a": "Particulate Matter",
+        "b": "Ozone",
+        "c": "Volatile Organic Compounds",
+        "d": "Carbon Monoxide",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the layer of the atmosphere that contains the ozone layer?",
+        "a": "Stratosphere",
+        "b": "Troposphere",
+        "c": "Mesosphere",
+        "d": "Thermosphere",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of carbon dioxide being released into the atmosphere?",
+        "a": "Respiration",
+        "b": "Decomposition",
+        "c": "Combustion",
+        "d": "Sequestration",
+        "r": "c"
+    },
+    {
+        "q": "which term refers to a biological community of interacting organisms and their physical environment?",
+        "a": "ecosystem",
+        "b": "biosphere",
+        "c": "biodiversity",
+        "d": "trophic level",
+        "r": "a"
+    },
+    {
+        "q": "what is the primary source of energy in most ecosystems?",
+        "a": "sunlight",
+        "b": "wind",
+        "c": "water",
+        "d": "coal",
+        "r": "a"
+    },
+    {
+        "q": "which level of the ecological pyramid has the most energy available?",
+        "a": "producers",
+        "b": "primary consumers",
+        "c": "secondary consumers",
+        "d": "tertiary consumers",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is not a type of ecological relationship?",
+        "a": "commensalism",
+        "b": "mutualism",
+        "c": "parasitism",
+        "d": "adaptationism",
+        "r": "d"
+    },
+    {
+        "q": "what is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll in their cells?",
+        "a": "photosynthesis",
+        "b": "respiration",
+        "c": "transpiration",
+        "d": "digestion",
+        "r": "a"
+    },
+    {
+        "q": "which type of biodiversity refers to the variety of genes within a species?",
+        "a": "genetic biodiversity",
+        "b": "species biodiversity",
+        "c": "ecosystem biodiversity",
+        "d": "community biodiversity",
+        "r": "a"
+    },
+    {
+        "q": "which term describes a group of individuals of the same species living in the same area at the same time?",
+        "a": "population",
+        "b": "community",
+        "c": "ecosystem",
+        "d": "biosphere",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is not a greenhouse gas?",
+        "a": "carbon dioxide (CO2)",
+        "b": "methane (CH4)",
+        "c": "water vapor (H2O)",
+        "d": "nitrogen (N2)",
+        "r": "d"
+    },
+    {
+        "q": "what is the main cause of the loss of biodiversity?",
+        "a": "habitat destruction",
+        "b": "climate change",
+        "c": "pollution",
+        "d": "overpopulation",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is an abiotic factor in an ecosystem?",
+        "a": "sunlight",
+        "b": "bacteria",
+        "c": "fungi",
+        "d": "plants",
+        "r": "a"
+    },
+    {
+        "q": "what is the term used to describe the role of a species in an ecosystem?",
+        "a": "ecological niche",
+        "b": "food chain",
+        "c": "trophic level",
+        "d": "biodiversity",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is an example of a decomposer?",
+        "a": "bacteria",
+        "b": "herbivore",
+        "c": "carnivore",
+        "d": "omnivore",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is not a terrestrial biome?",
+        "a": "tundra",
+        "b": "desert",
+        "c": "coral reef",
+        "d": "grassland",
+        "r": "c"
+    },
+    {
+        "q": "what is the process by which water vapor is released from the surface of plants into the atmosphere?",
+        "a": "transpiration",
+        "b": "condensation",
+        "c": "precipitation",
+        "d": "evaporation",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is an example of an invasive species?",
+        "a": "zebra mussels in North America",
+        "b": "polar bears in the Arctic",
+        "c": "kangaroos in Australia",
+        "d": "penguins in Antarctica",
+        "r": "a"
+    },
+    {
+        "q": "what is the term used to describe the variety of different ecosystems on Earth or within a geographic area?",
+        "a": "ecosystem biodiversity",
+        "b": "habitat diversity",
+        "c": "landscape diversity",
+        "d": "ecosystem services",
+        "r": "b"
+    },
+    {
+        "q": "which of the following is a keystone species?",
+        "a": "sea otter",
+        "b": "house cat",
+        "c": "goldfish",
+        "d": "parrot",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is an example of primary succession?",
+        "a": "colonization of a newly formed volcanic island",
+        "b": "reforestation after a forest fire",
+        "c": "regrowth of a lawn after mowing",
+        "d": "growth of grass on a riverbank",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is not a human activity that contributes to biodiversity loss?",
+        "a": "deforestation",
+        "b": "hunting and poaching",
+        "c": "conservation efforts",
+        "d": "pollution",
+        "r": "c"
+    },
+    {
+        "q": "which type of biodiversity refers to the variety of ecosystems present in the biosphere?",
+        "a": "ecosystem biodiversity",
+        "b": "genetic biodiversity",
+        "c": "species biodiversity",
+        "d": "ecological diversity",
+        "r": "a"
+    },
+    {
+        "q": "what is the term used to describe the place where an organism lives and can find all the things it needs to survive?",
+        "a": "habitat",
+        "b": "ecosystem",
+        "c": "niche",
+        "d": "biosphere",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is a renewable resource?",
+        "a": "solar energy",
+        "b": "coal",
+        "c": "oil",
+        "d": "natural gas",
+        "r": "a"
+    },
+    {
+        "q": "what is the term used to describe the variety of different species in an ecosystem or on Earth?",
+        "a": "species biodiversity",
+        "b": "genetic biodiversity",
+        "c": "ecosystem biodiversity",
+        "d": "habitat diversity",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is not a primary consumer?",
+        "a": "herbivore",
+        "b": "carnivore",
+        "c": "omnivore",
+        "d": "producer",
+        "r": "d"
+    },
+    {
+        "q": "what is the process by which plants and animals release carbon dioxide into the atmosphere?",
+        "a": "respiration",
+        "b": "photosynthesis",
+        "c": "transpiration",
+        "d": "digestion",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is an example of a pioneer species?",
+        "a": "mosses and lichens",
+        "b": "oak trees",
+        "c": "rabbits",
+        "d": "wolves",
+        "r": "a"
+    },
+    {
+        "q": "what is the main cause of the current mass extinction of species?",
+        "a": "human activities",
+        "b": "natural disasters",
+        "c": "climate change",
+        "d": "solar radiation",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is a biotic factor in an ecosystem?",
+        "a": "plants",
+        "b": "sunlight",
+        "c": "temperature",
+        "d": "rocks",
+        "r": "a"
+    },
+    {
+        "q": "what is the term used to describe the variety of life on Earth or within a specific geographic area?",
+        "a": "biodiversity",
+        "b": "species richness",
+        "c": "ecosystem diversity",
+        "d": "genetic diversity",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is an example of a secondary consumer?",
+        "a": "snake eating a mouse",
+        "b": "grasshopper eating grass",
+        "c": "rabbit eating a carrot",
+        "d": "human eating a salad",
+        "r": "a"
+    },
+    {
+        "q": "what is the term used to describe the process of one organism feeding on another?",
+        "a": "predation",
+        "b": "competition",
+        "c": "mutualism",
+        "d": "parasitism",
+        "r": "a"
+    },
+    {
+        "q": "what is the term used to describe the variety of different ecosystems, species, and genetic variation within a geographic area?",
+        "a": "biodiversity",
+        "b": "habitat diversity",
+        "c": "ecosystem diversity",
+        "d": "genetic diversity",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is an example of a decomposer?",
+        "a": "fungi",
+        "b": "bear",
+        "c": "deer",
+        "d": "grasshopper",
+        "r": "a"
+    },
+    {
+        "q": "what is the term used to describe the variety of different species in an ecosystem or on Earth?",
+        "a": "species diversity",
+        "b": "genetic diversity",
+        "c": "ecosystem diversity",
+        "d": "habitat diversity",
+        "r": "a"
+    },
+    {
+        "q": "which type of biodiversity refers to the variety of different ecosystems on Earth or within a geographic area?",
+        "a": "ecosystem diversity",
+        "b": "genetic diversity",
+        "c": "species diversity",
+        "d": "ecological diversity",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is a keystone species?",
+        "a": "beaver",
+        "b": "rabbit",
+        "c": "squirrel",
+        "d": "oak tree",
+        "r": "a"
+    },
+    {
+        "q": "what is the term used to describe the process of one organism living on or in another organism and obtaining its food from it?",
+        "a": "parasitism",
+        "b": "mutualism",
+        "c": "commensalism",
+        "d": "predation",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is not a greenhouse gas?",
+        "a": "oxygen (O2)",
+        "b": "carbon dioxide (CO2)",
+        "c": "methane (CH4)",
+        "d": "nitrous oxide (N2O)",
+        "r": "a"
+    },
+    {
+        "q": "what is the main cause of habitat destruction?",
+        "a": "human activities",
+        "b": "volcanic eruptions",
+        "c": "earthquakes",
+        "d": "meteor impacts",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is an example of an endangered species?",
+        "a": "black rhinoceros",
+        "b": "domestic cat",
+        "c": "common carp",
+        "d": "sunflower",
+        "r": "a"
+    },
+    {
+        "q": "what is the term used to describe the variety of different ecosystems on Earth?",
+        "a": "ecosystem diversity",
+        "b": "habitat diversity",
+        "c": "species diversity",
+        "d": "genetic diversity",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is a primary consumer?",
+        "a": "herbivore",
+        "b": "carnivore",
+        "c": "omnivore",
+        "d": "producer",
+        "r": "a"
+    },
+    {
+        "q": "what is the term used to describe the role of a species in an ecosystem?",
+        "a": "ecological niche",
+        "b": "food web",
+        "c": "trophic level",
+        "d": "biodiversity",
+        "r": "a"
+    },
+    {
+        "q": "which of the following is not a factor contributing to climate change?",
+        "a": "deforestation",
+        "b": "burning fossil fuels",
+        "c": "volcanic eruptions",
+        "d": "industrial emissions",
+        "r": "c"
+    },
+    {
+        "q": "what is the process by which water vapor cools and changes back into liquid water?",
+        "a": "condensation",
+        "b": "evaporation",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a major source of air pollution?",
+        "a": "Deforestation",
+        "b": "Burning fossil fuels",
+        "c": "Organic farming",
+        "d": "Recycling plastics",
+        "r": "b"
+    },
+    {
+        "q": "Acid rain is mainly caused by the emission of:",
+        "a": "Sulfur dioxide",
+        "b": "Carbon monoxide",
+        "c": "Nitrous oxide",
+        "d": "Methane",
+        "r": "a"
+    },
+    {
+        "q": "The ozone layer is located in the:",
+        "a": "Troposphere",
+        "b": "Stratosphere",
+        "c": "Mesosphere",
+        "d": "Exosphere",
+        "r": "b"
+    },
+    {
+        "q": "Greenhouse gases trap heat and cause:",
+        "a": "Cooling of the Earth's surface",
+        "b": "Decreased precipitation",
+        "c": "Global warming",
+        "d": "Reduced atmospheric pressure",
+        "r": "c"
+    },
+    {
+        "q": "The primary cause of ocean acidification is:",
+        "a": "Industrial waste disposal",
+        "b": "Overfishing",
+        "c": "Deforestation",
+        "d": "Increased carbon dioxide emissions",
+        "r": "d"
+    },
+    {
+        "q": "Which pollutant is a product of incomplete combustion?",
+        "a": "Carbon dioxide",
+        "b": "Carbon monoxide",
+        "c": "Sulfur dioxide",
+        "d": "Methane",
+        "r": "b"
+    },
+    {
+        "q": "What is the most significant factor contributing to deforestation?",
+        "a": "Urbanization",
+        "b": "Agriculture",
+        "c": "Renewable energy",
+        "d": "Afforestation",
+        "r": "b"
+    },
+    {
+        "q": "The primary cause of the hole in the ozone layer is:",
+        "a": "Chlorofluorocarbons",
+        "b": "Volcanic eruptions",
+        "c": "Nitrogen oxides",
+        "d": "Carbon dioxide",
+        "r": "a"
+    },
+    {
+        "q": "Noise pollution can have adverse effects on:",
+        "a": "Wildlife",
+        "b": "Vegetation",
+        "c": "Air quality",
+        "d": "Water quality",
+        "r": "a"
+    },
+    {
+        "q": "Eutrophication is often caused by excessive:",
+        "a": "Sedimentation",
+        "b": "Nutrient runoff",
+        "c": "Pesticide use",
+        "d": "Oil spills",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an anthropogenic greenhouse gas?",
+        "a": "Nitrous oxide",
+        "b": "Oxygen",
+        "c": "Argon",
+        "d": "Water vapor",
+        "r": "a"
+    },
+    {
+        "q": "The depletion of the ozone layer can lead to:",
+        "a": "Acid rain",
+        "b": "Global warming",
+        "c": "Increased UV radiation",
+        "d": "Reduced sea levels",
+        "r": "c"
+    },
+    {
+        "q": "Which greenhouse gas is released during rice paddies cultivation?",
+        "a": "Carbon dioxide",
+        "b": "Methane",
+        "c": "Nitrous oxide",
+        "d": "Ozone",
+        "r": "b"
+    },
+    {
+        "q": "The process of converting waste materials into reusable materials is called:",
+        "a": "Composting",
+        "b": "Incineration",
+        "c": "Landfilling",
+        "d": "Recycling",
+        "r": "d"
+    },
+    {
+        "q": "Which air pollutant is responsible for causing respiratory problems?",
+        "a": "Carbon monoxide",
+        "b": "Sulfur dioxide",
+        "c": "Ozone",
+        "d": "Nitrogen dioxide",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a primary source of mercury pollution in water bodies?",
+        "a": "Coal-fired power plants",
+        "b": "Wind energy",
+        "c": "Solar energy",
+        "d": "Natural gas",
+        "r": "a"
+    },
+    {
+        "q": "The main cause of the enhanced greenhouse effect is:",
+        "a": "Increased solar radiation",
+        "b": "Deforestation",
+        "c": "Excessive use of air conditioning",
+        "d": "Greenhouse gas emissions",
+        "r": "d"
+    },
+    {
+        "q": "Ground-level ozone is formed by the reaction of:",
+        "a": "Oxygen and water vapor",
+        "b": "Nitrogen oxides and volatile organic compounds",
+        "c": "Carbon dioxide and nitrogen oxides",
+        "d": "Sulfur dioxide and oxygen",
+        "r": "b"
+    },
+    {
+        "q": "What is a major environmental impact of mining activities?",
+        "a": "Land degradation",
+        "b": "Reduced energy consumption",
+        "c": "Increased biodiversity",
+        "d": "Enhanced soil fertility",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary greenhouse gas?",
+        "a": "carbon dioxide (CO2)",
+        "b": "methane (CH4)",
+        "c": "nitrous oxide (N2O)",
+        "d": "water vapor (H2O)",
+        "r": "a"
+    },
+    {
+        "q": "Which human activity contributes most to CO2 emissions?",
+        "a": "burning fossil fuels (e.g., coal, oil, and gas)",
+        "b": "deforestation",
+        "c": "industrial processes",
+        "d": "transportation",
+        "r": "a"
+    },
+    {
+        "q": "What does the greenhouse effect do?",
+        "a": "Traps heat in the Earth's atmosphere",
+        "b": "Accelerates Earth's rotation",
+        "c": "Blocks sunlight from reaching the Earth's surface",
+        "d": "Decreases global temperatures",
+        "r": "a"
+    },
+    {
+        "q": "What is the main source of methane emissions?",
+        "a": "Livestock farming (cattle, sheep, etc.)",
+        "b": "Landfills",
+        "c": "Rice paddies",
+        "d": "Natural gas production",
+        "r": "a"
+    },
+    {
+        "q": "What are the consequences of global warming?",
+        "a": "Melting glaciers and polar ice caps",
+        "b": "Increased biodiversity",
+        "c": "Reduced frequency of extreme weather events",
+        "d": "Expansion of sea ice",
+        "r": "a"
+    },
+    {
+        "q": "Which type of radiation is trapped by greenhouse gases?",
+        "a": "Infrared radiation",
+        "b": "Ultraviolet radiation",
+        "c": "X-ray radiation",
+        "d": "Gamma radiation",
+        "r": "a"
+    },
+    {
+        "q": "Which country is the largest emitter of greenhouse gases?",
+        "a": "China",
+        "b": "United States",
+        "c": "India",
+        "d": "Russia",
+        "r": "a"
+    },
+    {
+        "q": "How do aerosols affect climate change?",
+        "a": "They can cool or warm the Earth",
+        "b": "They have no impact on climate change",
+        "c": "They only cool the Earth",
+        "d": "They only warm the Earth",
+        "r": "a"
+    },
+    {
+        "q": "What is the main cause of rising sea levels?",
+        "a": "Melting ice caps and glaciers",
+        "b": "Increased rainfall",
+        "c": "Changes in ocean currents",
+        "d": "Excessive groundwater extraction",
+        "r": "a"
+    },
+    {
+        "q": "Which sector contributes the most to deforestation?",
+        "a": "Agriculture",
+        "b": "Mining",
+        "c": "Construction",
+        "d": "Energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the major consequence of coral bleaching?",
+        "a": "Coral death",
+        "b": "Increased coral growth",
+        "c": "Enhanced biodiversity",
+        "d": "Decreased ocean acidity",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is responsible for the hole in the ozone layer?",
+        "a": "Chlorofluorocarbons (CFCs)",
+        "b": "Carbon dioxide (CO2)",
+        "c": "Nitrogen oxides (NOx)",
+        "d": "Sulfur dioxide (SO2)",
+        "r": "a"
+    },
+    {
+        "q": "What is the main source of nitrous oxide emissions?",
+        "a": "Agricultural activities",
+        "b": "Burning fossil fuels",
+        "c": "Volcanic eruptions",
+        "d": "Industrial waste disposal",
+        "r": "a"
+    },
+    {
+        "q": "Which phenomenon leads to \"ocean acidification\"?",
+        "a": "Increased carbon dioxide absorption by the oceans",
+        "b": "Release of sulfur dioxide into the atmosphere",
+        "c": "Decreased carbon dioxide levels in the atmosphere",
+        "d": "Melting ice caps",
+        "r": "a"
+    },
+    {
+        "q": "What does the Keeling Curve represent?",
+        "a": "The increase in atmospheric CO2 over time",
+        "b": "The decrease in atmospheric CO2 over time",
+        "c": "The variations in Earth's magnetic field",
+        "d": "The change in ocean temperature",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of the enhanced greenhouse effect?",
+        "a": "Human activities",
+        "b": "Solar radiation",
+        "c": "Natural disasters",
+        "d": "Volcanic eruptions",
+        "r": "a"
+    },
+    {
+        "q": "Which energy source is considered carbon-neutral?",
+        "a": "Solar energy",
+        "b": "Coal",
+        "c": "Natural gas",
+        "d": "Oil",
+        "r": "a"
+    },
+    {
+        "q": "What is the main factor contributing to the urban heat island effect?",
+        "a": "Human activities",
+        "b": "Urban forests",
+        "c": "High levels of precipitation",
+        "d": "Proximity to water bodies",
+        "r": "a"
+    },
+    {
+        "q": "Which ocean is most affected by the El Niño Southern Oscillation (ENSO)?",
+        "a": "Pacific Ocean",
+        "b": "Atlantic Ocean",
+        "c": "Indian Ocean",
+        "d": "Southern Ocean",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of the melting of Arctic sea ice?",
+        "a": "Global warming",
+        "b": "Volcanic activity",
+        "c": "Ocean currents",
+        "d": "Deforestation",
+        "r": "a"
+    },
+    {
+        "q": "Which gas constitutes the largest percentage in the Earth's atmosphere?",
+        "a": "Nitrogen",
+        "b": "Oxygen",
+        "c": "Carbon dioxide (CO2)",
+        "d": "Argon",
+        "r": "a"
+    },
+    {
+        "q": "Which phenomenon is associated with the melting of glaciers?",
+        "a": "Rising sea levels",
+        "b": "Decreased sea levels",
+        "c": "Expansion of polar ice caps",
+        "d": "Formation of icebergs",
+        "r": "a"
+    },
+    {
+        "q": "What are the consequences of the shrinking ozone layer?",
+        "a": "Increased risk of skin cancer",
+        "b": "Decreased risk of skin cancer",
+        "c": "More heat reaching the Earth's surface",
+        "d": "Reduced greenhouse gas emissions",
+        "r": "a"
+    },
+    {
+        "q": "What is the main greenhouse gas emitted from landfills?",
+        "a": "Methane (CH4)",
+        "b": "Carbon dioxide (CO2)",
+        "c": "Nitrous oxide (N2O)",
+        "d": "Hydrofluorocarbons (HFCs)",
+        "r": "a"
+    },
+    {
+        "q": "What is a \"tipping point\" concerning climate change?",
+        "a": "A threshold beyond which irreversible changes occur",
+        "b": "A brief period of stable climate",
+        "c": "A temporary decrease in temperature",
+        "d": "An ice age",
+        "r": "a"
+    },
+    {
+        "q": "How do greenhouse gases affect the Earth's temperature?",
+        "a": "Trap heat and warm the Earth",
+        "b": "Reflect sunlight and cool the Earth",
+        "c": "Emit cold air and lower the Earth's temperature",
+        "d": "Absorb water vapor and regulate temperature",
+        "r": "a"
+    },
+    {
+        "q": "Which action can help mitigate climate change?",
+        "a": "Transition to renewable energy sources",
+        "b": "Increase livestock farming",
+        "c": "Expand deforestation",
+        "d": "Introduce plastic production bans",
+        "r": "a"
+    },
+    {
+        "q": "Which renewable energy source uses flowing water to generate electricity?",
+        "a": "Hydropower",
+        "b": "Solar power",
+        "c": "Wind power",
+        "d": "Geothermal energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the largest source of water vapor in the atmosphere?",
+        "a": "Evaporation from oceans",
+        "b": "Evaporation from lakes and rivers",
+        "c": "Evapotranspiration from plants",
+        "d": "Industrial processes",
+        "r": "a"
+    },
+    {
+        "q": "What is the relationship between climate change and extreme weather events?",
+        "a": "Climate change increases the frequency and intensity",
+        "b": "Climate change has no impact on extreme events",
+        "c": "Extreme events are not related to climate change",
+        "d": "Climate change decreases the occurrence of events",
+        "r": "a"
+    },
+    {
+        "q": "Which greenhouse gas is released during livestock digestion?",
+        "a": "Methane (CH4)",
+        "b": "Carbon dioxide (CO2)",
+        "c": "Nitrous oxide (N2O)",
+        "d": "Water vapor (H2O)",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of deforestation in tropical rainforests?",
+        "a": "Agricultural expansion",
+        "b": "Industrial development",
+        "c": "Afforestation",
+        "d": "Urbanization",
+        "r": "a"
+    },
+    {
+        "q": "How do aerosols affect cloud formation?",
+        "a": "They act as cloud condensation nuclei",
+        "b": "They prevent cloud formation",
+        "c": "They have no impact on cloud formation",
+        "d": "They absorb clouds and disperse rain",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of increased greenhouse gases in the atmosphere?",
+        "a": "Human activities",
+        "b": "Natural variations in Earth's temperature",
+        "c": "Volcanic eruptions",
+        "d": "Changes in ocean currents",
+        "r": "a"
+    },
+    {
+        "q": "Which region is expected to experience more frequent and severe droughts due to climate change?",
+        "a": "Mediterranean",
+        "b": "Amazon rainforest",
+        "c": "Siberia",
+        "d": "Antarctica",
+        "r": "a"
+    },
+    {
+        "q": "Which action contributes to the loss of carbon sinks?",
+        "a": "Deforestation",
+        "b": "Afforestation",
+        "c": "Reducing meat consumption",
+        "d": "Implementing energy-efficient technologies",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a non-renewable resource?",
+        "a": "Coal",
+        "b": "Solar Energy",
+        "c": "Wind Energy",
+        "d": "Water",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is the primary cause of global warming?",
+        "a": "Carbon Dioxide",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "Deforestation leads to an increase in which gas in the atmosphere?",
+        "a": "Carbon Dioxide",
+        "b": "Oxygen",
+        "c": "Nitrogen",
+        "d": "Hydrogen",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of converting waste materials into reusable materials called?",
+        "a": "Recycling",
+        "b": "Incineration",
+        "c": "Landfilling",
+        "d": "Composting",
+        "r": "a"
+    },
+    {
+        "q": "Which type of energy is derived from the Earth's internal heat?",
+        "a": "Geothermal Energy",
+        "b": "Biomass Energy",
+        "c": "Tidal Energy",
+        "d": "Nuclear Energy",
+        "r": "a"
+    },
+    {
+        "q": "The excessive use of fertilizers leads to what environmental issue?",
+        "a": "Eutrophication",
+        "b": "Global Warming",
+        "c": "Deforestation",
+        "d": "Acid Rain",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a fossil fuel?",
+        "a": "Natural Gas",
+        "b": "Wind Energy",
+        "c": "Hydroelectric Energy",
+        "d": "Solar Energy",
+        "r": "a"
+    },
+    {
+        "q": "Which international agreement aims to reduce greenhouse gas emissions?",
+        "a": "Paris Agreement",
+        "b": "Kyoto Protocol",
+        "c": "Montreal Protocol",
+        "d": "Vienna Convention",
+        "r": "a"
+    },
+    {
+        "q": "Which type of pollution is caused by excessive noise?",
+        "a": "Noise Pollution",
+        "b": "Air Pollution",
+        "c": "Water Pollution",
+        "d": "Soil Pollution",
+        "r": "a"
+    },
+    {
+        "q": "The conversion of a forested area into non-forest land is called?",
+        "a": "Deforestation",
+        "b": "Reforestation",
+        "c": "Afforestation",
+        "d": "Desertification",
+        "r": "a"
+    },
+    {
+        "q": "What is the main cause of ozone depletion in the stratosphere?",
+        "a": "Chlorofluorocarbons (CFCs)",
+        "b": "Carbon Dioxide",
+        "c": "Methane",
+        "d": "Nitrous Oxide",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of water turning into vapor called?",
+        "a": "Evaporation",
+        "b": "Condensation",
+        "c": "Precipitation",
+        "d": "Infiltration",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a non-renewable resource?",
+        "a": "Petroleum",
+        "b": "Solar Energy",
+        "c": "Biomass Energy",
+        "d": "Wind Energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the warming of the Earth due to greenhouse gas emissions?",
+        "a": "Global Warming",
+        "b": "Climate Change",
+        "c": "Ozone Depletion",
+        "d": "Acid Rain",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is released by burning fossil fuels and contributes to acid rain?",
+        "a": "Sulfur Dioxide",
+        "b": "Carbon Dioxide",
+        "c": "Nitrogen Oxides",
+        "d": "Methane",
+        "r": "a"
+    },
+    {
+        "q": "The process of planting trees in deforested areas is called?",
+        "a": "Reforestation",
+        "b": "Afforestation",
+        "c": "Deforestation",
+        "d": "Desertification",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of purifying saltwater to make it suitable for drinking?",
+        "a": "Desalination",
+        "b": "Filtration",
+        "c": "Distillation",
+        "d": "Aeration",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a cause of soil erosion?",
+        "a": "Deforestation",
+        "b": "Recycling",
+        "c": "Solar Energy",
+        "d": "Wind Energy",
+        "r": "a"
+    },
+    {
+        "q": "Which renewable energy source uses the gravitational pull of the moon?",
+        "a": "Tidal Energy",
+        "b": "Solar Energy",
+        "c": "Wind Energy",
+        "d": "Biomass Energy",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is responsible for the \"ozone hole\" in the stratosphere?",
+        "a": "Chlorofluorocarbons (CFCs)",
+        "b": "Carbon Dioxide",
+        "c": "Methane",
+        "d": "Nitrous Oxide",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of converting sunlight into electricity?",
+        "a": "Photovoltaic Conversion",
+        "b": "Combustion",
+        "c": "Fermentation",
+        "d": "Fission",
+        "r": "a"
+    },
+    {
+        "q": "The term \"biodiversity\" refers to the variety of what on Earth?",
+        "a": "Life forms",
+        "b": "Minerals",
+        "c": "Water bodies",
+        "d": "Mountains",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a non-renewable energy source?",
+        "a": "Coal",
+        "b": "Geothermal Energy",
+        "c": "Wind Energy",
+        "d": "Solar Energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of water falling from the atmosphere to the Earth's surface?",
+        "a": "Precipitation",
+        "b": "Condensation",
+        "c": "Evaporation",
+        "d": "Infiltration",
+        "r": "a"
+    },
+    {
+        "q": "Which international agreement aimed to protect the ozone layer?",
+        "a": "Montreal Protocol",
+        "b": "Paris Agreement",
+        "c": "Kyoto Protocol",
+        "d": "Vienna Convention",
+        "r": "a"
+    },
+    {
+        "q": "Which type of pollution is caused by the release of harmful chemicals into the air?",
+        "a": "Air Pollution",
+        "b": "Noise Pollution",
+        "c": "Water Pollution",
+        "d": "Soil Pollution",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of soil degradation?",
+        "a": "Deforestation",
+        "b": "Pollution",
+        "c": "Overgrazing",
+        "d": "Mining",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a form of renewable energy?",
+        "a": "Hydroelectric Energy",
+        "b": "Natural Gas",
+        "c": "Petroleum",
+        "d": "Coal",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of converting organic waste into nutrient-rich material?",
+        "a": "Composting",
+        "b": "Recycling",
+        "c": "Incineration",
+        "d": "Landfilling",
+        "r": "a"
+    },
+    {
+        "q": "Which renewable energy source uses the heat from the Earth's interior?",
+        "a": "Geothermal Energy",
+        "b": "Solar Energy",
+        "c": "Wind Energy",
+        "d": "Biomass Energy",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is released by cattle and contributes to greenhouse gas emissions?",
+        "a": "Methane",
+        "b": "Carbon Dioxide",
+        "c": "Nitrogen Oxides",
+        "d": "Sulfur Dioxide",
+        "r": "a"
+    },
+    {
+        "q": "The planting of trees in an area that was not previously forested is called?",
+        "a": "Afforestation",
+        "b": "Reforestation",
+        "c": "Deforestation",
+        "d": "Desertification",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the long-term change in Earth's climate patterns?",
+        "a": "Climate Change",
+        "b": "Global Warming",
+        "c": "Ozone Depletion",
+        "d": "Acid Rain",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is responsible for causing respiratory problems and air pollution?",
+        "a": "Nitrogen Dioxide",
+        "b": "Carbon Dioxide",
+        "c": "Methane",
+        "d": "Hydrogen Sulfide",
+        "r": "a"
+    },
+    {
+        "q": "The restoration of degraded or destroyed ecosystems is called?",
+        "a": "Ecological Restoration",
+        "b": "Conservation",
+        "c": "Preservation",
+        "d": "Environmental Remediation",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of removing pollutants from water to make it safe for consumption?",
+        "a": "Water Purification",
+        "b": "Filtration",
+        "c": "Desalination",
+        "d": "Distillation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a primary air pollutant?",
+        "a": "sulfur dioxide",
+        "b": "carbon monoxide",
+        "c": "nitrogen dioxide",
+        "d": "ozone",
+        "r": "b"
+    },
+    {
+        "q": "Which gas is the most abundant in Earth's atmosphere?",
+        "a": "carbon dioxide",
+        "b": "nitrogen",
+        "c": "oxygen",
+        "d": "argon",
+        "r": "b"
+    },
+    {
+        "q": "The \"ozone layer\" is found in which layer of the atmosphere?",
+        "a": "exosphere",
+        "b": "thermosphere",
+        "c": "stratosphere",
+        "d": "troposphere",
+        "r": "c"
+    },
+    {
+        "q": "Acid rain is mainly caused by emissions of which two gases?",
+        "a": "nitrogen oxides and sulfur dioxide",
+        "b": "carbon dioxide and methane",
+        "c": "carbon monoxide and ozone",
+        "d": "hydrogen sulfide and ammonia",
+        "r": "a"
+    },
+    {
+        "q": "The Air Quality Index (AQI) is used to measure what?",
+        "a": "water quality",
+        "b": "air pollution levels",
+        "c": "soil fertility",
+        "d": "noise pollution",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary source of mercury in water bodies?",
+        "a": "volcanic eruptions",
+        "b": "industrial emissions",
+        "c": "agricultural runoff",
+        "d": "natural weathering",
+        "r": "b"
+    },
+    {
+        "q": "Smog is a combination of which two words?",
+        "a": "smoke and fog",
+        "b": "smelly and fog",
+        "c": "smudge and fog",
+        "d": "smolt and fog",
+        "r": "a"
+    },
+    {
+        "q": "What is the main cause of the hole in the ozone layer?",
+        "a": "deforestation",
+        "b": "vehicle emissions",
+        "c": "chlorofluorocarbons (CFCs)",
+        "d": "volcanic eruptions",
+        "r": "c"
+    },
+    {
+        "q": "What is the acceptable pH range for drinking water?",
+        "a": "7-Mar",
+        "b": "8-Jun",
+        "c": "14-Jul",
+        "d": "7",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a waterborne disease?",
+        "a": "cholera",
+        "b": "typhoid fever",
+        "c": "malaria",
+        "d": "hepatitis",
+        "r": "c"
+    },
+    {
+        "q": "Eutrophication is caused by an excess of which nutrient in water bodies?",
+        "a": "nitrogen",
+        "b": "carbon",
+        "c": "oxygen",
+        "d": "phosphorus",
+        "r": "a"
+    },
+    {
+        "q": "Which gas is responsible for the \"rotten egg\" smell of some water sources?",
+        "a": "hydrogen sulfide",
+        "b": "carbon dioxide",
+        "c": "ammonia",
+        "d": "nitrogen dioxide",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a point source of water pollution?",
+        "a": "agricultural runoff",
+        "b": "industrial wastewater",
+        "c": "stormwater runoff",
+        "d": "septic tank leakage",
+        "r": "b"
+    },
+    {
+        "q": "What is the main source of thermal water pollution?",
+        "a": "volcanic activity",
+        "b": "industrial discharges",
+        "c": "deforestation",
+        "d": "sunlight absorption",
+        "r": "b"
+    },
+    {
+        "q": "The process of converting liquid water into water vapor is called...",
+        "a": "evaporation",
+        "b": "condensation",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "a"
+    },
+    {
+        "q": "The term BOD stands for...",
+        "a": "Biological Oxygen Demand",
+        "b": "Basic Organic Dioxide",
+        "c": "Bacterial Oxidation Demand",
+        "d": "Biochemical Oxygen Decline",
+        "r": "a"
+    },
+    {
+        "q": "The pH scale ranges from...",
+        "a": "0-14",
+        "b": "10-Jan",
+        "c": "12-Jan",
+        "d": "0-10",
+        "r": "a"
+    },
+    {
+        "q": "What is the largest source of marine oil pollution?",
+        "a": "oil spills",
+        "b": "natural seepage",
+        "c": "shipwrecks",
+        "d": "industrial discharges",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a primary source of indoor air pollution?",
+        "a": "tobacco smoke",
+        "b": "radon",
+        "c": "household cleaning products",
+        "d": "outdoor pollen",
+        "r": "d"
+    },
+    {
+        "q": "Ground-level ozone is harmful to which part of the human body?",
+        "a": "Liver",
+        "b": "Lungs",
+        "c": "Kidneys",
+        "d": "Heart",
+        "r": "b"
+    },
+    {
+        "q": "The Clean Air Act is a federal law of which country?",
+        "a": "United States",
+        "b": "Canada",
+        "c": "Australia",
+        "d": "United Kingdom",
+        "r": "a"
+    },
+    {
+        "q": "The process of water soaking into the ground is called...",
+        "a": "percolation",
+        "b": "infiltration",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "b"
+    },
+    {
+        "q": "The main cause of the \"hole\" in the ozone layer is...",
+        "a": "forest fires",
+        "b": "aerosol sprays",
+        "c": "greenhouse gases",
+        "d": "chlorofluorocarbons",
+        "r": "d"
+    },
+    {
+        "q": "What is the main source of mercury emissions?",
+        "a": "burning of fossil fuels",
+        "b": "volcanic eruptions",
+        "c": "wastewater treatment plants",
+        "d": "ocean currents",
+        "r": "a"
+    },
+    {
+        "q": "What is the normal pH range of rainwater?",
+        "a": "4.5-5.5",
+        "b": "5.5-6.5",
+        "c": "6.5-7.5",
+        "d": "7",
+        "r": "c"
+    },
+    {
+        "q": "The process of converting water vapor into liquid water is called...",
+        "a": "evaporation",
+        "b": "condensation",
+        "c": "precipitation",
+        "d": "transpiration",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a non-point source of water pollution?",
+        "a": "oil spills",
+        "b": "leaking underground storage tanks",
+        "c": "industrial discharges",
+        "d": "sewage treatment plant discharge",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary cause of thermal water pollution?",
+        "a": "industrial discharges",
+        "b": "agricultural runoff",
+        "c": "deforestation",
+        "d": "global warming",
+        "r": "a"
+    },
+    {
+        "q": "What is the most abundant gas in the Earth's atmosphere?",
+        "a": "methane",
+        "b": "carbon dioxide",
+        "c": "nitrogen",
+        "d": "oxygen",
+        "r": "c"
+    },
+    {
+        "q": "Ground-level ozone is a result of the reaction between...",
+        "a": "carbon dioxide and oxygen",
+        "b": "nitrogen oxides and volatile organic compounds (VOCs)",
+        "c": "sulfur dioxide and water",
+        "d": "carbon monoxide and sunlight",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a primary pollutant?",
+        "a": "carbon monoxide",
+        "b": "ozone",
+        "c": "sulfur dioxide",
+        "d": "particulate matter",
+        "r": "b"
+    },
+    {
+        "q": "The burning of fossil fuels releases which gas into the atmosphere?",
+        "a": "nitrogen dioxide",
+        "b": "sulfur dioxide",
+        "c": "carbon monoxide",
+        "d": "carbon dioxide",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary source of indoor air pollution in households?",
+        "a": "tobacco smoke",
+        "b": "radon",
+        "c": "outdoor pollution",
+        "d": "household cleaning products",
+        "r": "d"
+    },
+    {
+        "q": "The main source of thermal water pollution is...",
+        "a": "volcanic activity",
+        "b": "industrial discharges",
+        "c": "deforestation",
+        "d": "sunlight absorption",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary goal of waste management?",
+        "a": "Minimizing waste generation",
+        "b": "Burning waste in open dumps",
+        "c": "Dumping waste in water bodies",
+        "d": "Composting waste to produce fertilizer",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a non-biodegradable waste?",
+        "a": "Food waste",
+        "b": "Paper waste",
+        "c": "Plastic waste",
+        "d": "Yard waste",
+        "r": "c"
+    },
+    {
+        "q": "Which type of recycling involves turning waste materials into new products of the same type?",
+        "a": "Primary recycling",
+        "b": "Secondary recycling",
+        "c": "Tertiary recycling",
+        "d": "Quaternary recycling",
+        "r": "a"
+    },
+    {
+        "q": "What is the process of breaking down organic waste through the action of microorganisms into nutrient-rich compost?",
+        "a": "Incineration",
+        "b": "Landfilling",
+        "c": "Composting",
+        "d": "Recycling",
+        "r": "c"
+    },
+    {
+        "q": "Which method of waste disposal releases harmful greenhouse gases like methane into the atmosphere?",
+        "a": "Incineration",
+        "b": "Landfilling",
+        "c": "Composting",
+        "d": "Recycling",
+        "r": "b"
+    },
+    {
+        "q": "Which type of waste can be converted into energy through processes like incineration?",
+        "a": "E-waste",
+        "b": "Plastic waste",
+        "c": "Hazardous waste",
+        "d": "Biomass waste",
+        "r": "d"
+    },
+    {
+        "q": "What does the 'Reduce' in the 'Reduce, Reuse, Recycle' mantra refer to?",
+        "a": "Decreasing waste generation",
+        "b": "Repurposing waste materials",
+        "c": "Recycling waste materials",
+        "d": "Incinerating waste materials",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a commonly used method for recycling paper?",
+        "a": "Shredding paper",
+        "b": "Burning paper",
+        "c": "Landfilling paper",
+        "d": "Composting paper",
+        "r": "a"
+    },
+    {
+        "q": "Which of the 3 R's focuses on using items multiple times to extend their lifespan?",
+        "a": "Reduce",
+        "b": "Reuse",
+        "c": "Recycle",
+        "d": "Recover",
+        "r": "b"
+    },
+    {
+        "q": "What does the recycling symbol with a number inside indicate?",
+        "a": "The type of material used in the product",
+        "b": "The number of times the product can be recycled",
+        "c": "The brand of the product",
+        "d": "The recycling facility where it's processed",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a renewable energy source derived from organic waste?",
+        "a": "Solar energy",
+        "b": "Wind energy",
+        "c": "Geothermal energy",
+        "d": "Biogas",
+        "r": "d"
+    },
+    {
+        "q": "What is the proper way to dispose of used batteries?",
+        "a": "Recycle them with paper waste",
+        "b": "Throw them in the regular trash bin",
+        "c": "Recycle them with plastic waste",
+        "d": "Take them to a battery recycling center",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a common environmental problem associated with improper waste disposal?",
+        "a": "Air pollution",
+        "b": "Soil erosion",
+        "c": "Deforestation",
+        "d": "Ocean acidification",
+        "r": "a"
+    },
+    {
+        "q": "What is the first step in the recycling process?",
+        "a": "Sorting the recyclables",
+        "b": "Cleaning the recyclables",
+        "c": "Melting the recyclables",
+        "d": "Collecting the recyclables",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is NOT a benefit of recycling?",
+        "a": "Conservation of energy",
+        "b": "Reduction of greenhouse gas emissions",
+        "c": "Decreased demand for raw materials",
+        "d": "Increased landfill space",
+        "r": "d"
+    },
+    {
+        "q": "Which type of waste poses a significant risk to human health and the environment if not managed properly?",
+        "a": "Hazardous waste",
+        "b": "E-waste",
+        "c": "Organic waste",
+        "d": "Biodegradable waste",
+        "r": "a"
+    },
+    {
+        "q": "What is the main disadvantage of landfilling as a waste disposal method?",
+        "a": "Produces harmful emissions",
+        "b": "Requires extensive land use",
+        "c": "Inefficient use of resources",
+        "d": "Requires high-tech equipment for operation",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a greenhouse gas released during the decomposition of organic waste in landfills?",
+        "a": "Carbon dioxide",
+        "b": "Nitrogen dioxide",
+        "c": "Methane",
+        "d": "Hydrogen sulfide",
+        "r": "c"
+    },
+    {
+        "q": "How can individuals contribute to waste reduction?",
+        "a": "Avoiding single-use products",
+        "b": "Buying more packaged goods instead of bulk",
+        "c": "Throwing all waste into the same bin",
+        "d": "Using disposable products instead of durable",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of an 'open dump'?",
+        "a": "Recycling waste materials",
+        "b": "Safely disposing of hazardous waste",
+        "c": "Burning waste to generate electricity",
+        "d": "Dumping waste without proper containment",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following materials is NOT commonly recycled?",
+        "a": "Glass",
+        "b": "Aluminum",
+        "c": "Paper",
+        "d": "Styrofoam",
+        "r": "d"
+    },
+    {
+        "q": "What is the most environmentally friendly way to dispose of yard waste?",
+        "a": "Landfilling",
+        "b": "Incineration",
+        "c": "Composting",
+        "d": "Dumping in water bodies",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary reason for the increase in electronic waste (e-waste)?",
+        "a": "Rapid technological advancements",
+        "b": "Decreased consumer demand",
+        "c": "Longer product lifespans",
+        "d": "Limited availability of raw materials",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of 'upcycling'?",
+        "a": "Donating old clothes to charity",
+        "b": "Reusing a glass bottle as a flower vase",
+        "c": "Recycling paper to make new paper",
+        "d": "Disposing of used batteries properly",
+        "r": "b"
+    },
+    {
+        "q": "What is the main advantage of recycling plastics?",
+        "a": "Reduced landfill usage",
+        "b": "Reduced greenhouse gas emissions",
+        "c": "Reduced need for plastic production",
+        "d": "Reduced recycling facility costs",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a biodegradable waste?",
+        "a": "Styrofoam",
+        "b": "Banana peels",
+        "c": "Aluminum foil",
+        "d": "Glass bottles",
+        "r": "b"
+    },
+    {
+        "q": "What is the final step in the recycling process for most materials?",
+        "a": "Melting the recyclables",
+        "b": "Sorting the recyclables",
+        "c": "Collecting the recyclables",
+        "d": "Cleaning the recyclables",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a common method of hazardous waste disposal?",
+        "a": "Incineration",
+        "b": "Landfilling",
+        "c": "Recycling",
+        "d": "Deep-well injection",
+        "r": "c"
+    },
+    {
+        "q": "How can composting benefit soil in gardens and agriculture?",
+        "a": "Increase soil fertility",
+        "b": "Increase soil erosion",
+        "c": "Increase soil contamination",
+        "d": "Increase soil compaction",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of Waste-to-Energy (WTE) facilities?",
+        "a": "Landfilling waste",
+        "b": "Composting waste",
+        "c": "Recycling waste materials",
+        "d": "Generating energy from waste",
+        "r": "d"
+    },
+    {
+        "q": "Which type of recycling involves converting waste materials into new products with different functionalities?",
+        "a": "Primary recycling",
+        "b": "Secondary recycling",
+        "c": "Tertiary recycling",
+        "d": "Quaternary recycling",
+        "r": "c"
+    },
+    {
+        "q": "What happens to plastic bottles that are properly recycled?",
+        "a": "They are incinerated",
+        "b": "They are melted and reformed into new bottles",
+        "c": "They are mixed with other waste and discarded",
+        "d": "They are dumped in water bodies",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary advantage of anaerobic digestion of organic waste?",
+        "a": "Production of methane gas",
+        "b": "Reduced greenhouse gas emissions",
+        "c": "Reduced landfill usage",
+        "d": "Production of carbon dioxide",
+        "r": "a"
+    },
+    {
+        "q": "What is the main benefit of recycling aluminum?",
+        "a": "Energy savings through reduced production",
+        "b": "Increased demand for raw materials",
+        "c": "Decreased recycling facility costs",
+        "d": "Reduced greenhouse gas emissions",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a problem associated with improper disposal of electronic waste (e-waste)?",
+        "a": "Release of toxic chemicals into the environment",
+        "b": "Increased demand for raw materials",
+        "c": "Decreased energy consumption",
+        "d": "Creation of new job opportunities",
+        "r": "a"
+    },
+    {
+        "q": "How can individuals contribute to waste reduction in the office or workplace?",
+        "a": "Using single-use utensils for meals",
+        "b": "Printing all documents on paper",
+        "c": "Recycling paper and plastic waste",
+        "d": "Encouraging digital documentation",
+        "r": "d"
+    },
+    {
+        "q": "Which type of recycling involves converting waste materials into secondary raw materials for manufacturing?",
+        "a": "Primary recycling",
+        "b": "Secondary recycling",
+        "c": "Tertiary recycling",
+        "d": "Quaternary recycling",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary purpose of a materials recovery facility (MRF)?",
+        "a": "Sorting recyclables",
+        "b": "Recycling hazardous waste",
+        "c": "Landfilling waste materials",
+        "d": "Composting organic waste",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a common method of recycling electronic waste (e-waste)?",
+        "a": "Burning e-waste",
+        "b": "Landfilling e-waste",
+        "c": "Exporting e-waste to developing countries",
+        "d": "Shredding e-waste for raw materials",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the \"Bottle Bill\" or container deposit legislation?",
+        "a": "Encourage recycling of plastic bottles",
+        "b": "Encourage landfilling of plastic bottles",
+        "c": "Encourage incineration of plastic bottles",
+        "d": "Encourage reuse of plastic bottles",
+        "r": "a"
+    },
+    {
+        "q": "Which type of waste includes items like broken glass, ceramics, and mirrors?",
+        "a": "Biodegradable waste",
+        "b": "Plastic waste",
+        "c": "Hazardous waste",
+        "d": "Non-recyclable waste",
+        "r": "d"
+    },
+    {
+        "q": "How does recycling help conserve energy?",
+        "a": "Reducing the need for raw material extraction",
+        "b": "Increasing greenhouse gas emissions",
+        "c": "Reducing the efficiency of recycling processes",
+        "d": "Increasing the use of landfills",
+        "r": "a"
+    },
+    {
+        "q": "What is the main environmental concern associated with the recycling of some electronic waste (e-waste)?",
+        "a": "Generation of hazardous by-products",
+        "b": "Water pollution from recycling facilities",
+        "c": "Release of radioactive substances",
+        "d": "Increased energy consumption",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a source of electronic waste (e-waste)?",
+        "a": "Computers",
+        "b": "Mobile phones",
+        "c": "Refrigerators",
+        "d": "Newspapers",
+        "r": "d"
+    },
+    {
+        "q": "How can individuals contribute to reducing plastic waste?",
+        "a": "Using reusable bags",
+        "b": "Throwing plastic waste in water bodies",
+        "c": "Buying single-use plastic products",
+        "d": "Disposing of plastic waste in regular trash bins",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of a landfill's liner system?",
+        "a": "Preventing leachate from contaminating soil",
+        "b": "Enhancing methane production",
+        "c": "Encouraging rapid decomposition of waste",
+        "d": "Facilitating waste sorting and recycling",
+        "r": "a"
+    },
+    {
+        "q": "Which type of waste is a major contributor to marine pollution?",
+        "a": "E-waste",
+        "b": "Plastic waste",
+        "c": "Hazardous waste",
+        "d": "Biodegradable waste",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary reason for recycling paper and cardboard?",
+        "a": "Reducing deforestation",
+        "b": "Conserving water resources",
+        "c": "Reducing the need for landfill space",
+        "d": "Reducing air pollution",
+        "r": "a"
+    },
+    {
+        "q": "How can individuals reduce food waste at home?",
+        "a": "Buying food in bulk",
+        "b": "Using smaller plates and bowls for meals",
+        "c": "Throwing away expired food",
+        "d": "Storing leftovers in airtight containers",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary purpose of composting?",
+        "a": "Reducing waste generation",
+        "b": "Generating energy from organic waste",
+        "c": "Producing organic fertilizers",
+        "d": "Recycling plastics",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is NOT a benefit of anaerobic digestion of organic waste?",
+        "a": "Production of methane gas",
+        "b": "Reduced greenhouse gas emissions",
+        "c": "Production of compost for soil enrichment",
+        "d": "Reduced landfill usage",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary advantage of recycling glass?",
+        "a": "Infinite recyclability",
+        "b": "Reduced energy consumption",
+        "c": "Increased demand for raw materials",
+        "d": "Reduced greenhouse gas emissions",
+        "r": "a"
+    },
+    {
+        "q": "How can individuals contribute to reducing electronic waste (e-waste)?",
+        "a": "Upgrading electronic devices less frequently",
+        "b": "Disposing of electronic waste in regular trash bins",
+        "c": "Buying more electronic devices",
+        "d": "Keeping electronic devices turned on at all times",
+        "r": "a"
+    },
+    {
+        "q": "Which type of waste includes items like batteries, paints, and pesticides?",
+        "a": "Biodegradable waste",
+        "b": "Plastic waste",
+        "c": "Hazardous waste",
+        "d": "Non-recyclable waste",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of a waste audit?",
+        "a": "Assessing waste generation patterns",
+        "b": "Encouraging waste dumping in open areas",
+        "c": "Promoting excessive consumption",
+        "d": "Analyzing landfill composition",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following materials is commonly used for composting?",
+        "a": "Plastics",
+        "b": "Metals",
+        "c": "Yard waste",
+        "d": "Styrofoam",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary reason for recycling aluminum cans?",
+        "a": "Conservation of natural resources",
+        "b": "Reduced landfill costs",
+        "c": "Decreased demand for aluminum production",
+        "d": "Increased greenhouse gas emissions",
+        "r": "a"
+    },
+    {
+        "q": "How can individuals contribute to reducing energy waste?",
+        "a": "Leaving appliances and lights on when not in use",
+        "b": "Using energy-efficient appliances and lighting",
+        "c": "Keeping windows and doors open all the time",
+        "d": "Taking long showers and baths",
+        "r": "b"
+    },
+    {
+        "q": "What is the main advantage of recycling paper?",
+        "a": "Reducing the demand for fresh water",
+        "b": "Creating biodegradable materials",
+        "c": "Reducing greenhouse gas emissions",
+        "d": "Promoting deforestation",
+        "r": "c"
+    },
+    {
+        "q": "Which type of recycling involves converting waste materials into energy?",
+        "a": "Primary recycling",
+        "b": "Secondary recycling",
+        "c": "Tertiary recycling",
+        "d": "Quaternary recycling",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of hazardous waste disposal?",
+        "a": "Reducing waste generation",
+        "b": "Minimizing health and environmental risks",
+        "c": "Generating energy from hazardous waste",
+        "d": "Recycling hazardous waste materials",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a benefit of recycling organic waste through composting?",
+        "a": "Reducing greenhouse gas emissions",
+        "b": "Releasing toxic substances into the environment",
+        "c": "Increasing methane production from landfills",
+        "d": "Creating harmful by-products",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary goal of waste reduction strategies?",
+        "a": "Maximizing waste generation",
+        "b": "Reducing the need for waste disposal",
+        "c": "Increasing the amount of waste generated",
+        "d": "Encouraging landfilling of waste",
+        "r": "b"
+    },
+    {
+        "q": "Which act aims to protect and conserve natural resources in the United States?",
+        "a": "Clean Air Act",
+        "b": "Clean Water Act",
+        "c": "National Environmental Policy Act",
+        "d": "Endangered Species Act",
+        "r": "c"
+    },
+    {
+        "q": "The Montreal Protocol is an international treaty designed to protect the ozone layer by phasing out the production of which substances?",
+        "a": "Greenhouse gases",
+        "b": "CFCs",
+        "c": "VOCs",
+        "d": "Methane",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary goal of the Kyoto Protocol?",
+        "a": "Promote sustainable development",
+        "b": "Reduce greenhouse gas emissions",
+        "c": "Phase out ozone-depleting substances",
+        "d": "Preserve biodiversity",
+        "r": "b"
+    },
+    {
+        "q": "Which law is responsible for regulating the discharge of pollutants into U.S. waters?",
+        "a": "Clean Air Act",
+        "b": "Clean Water Act",
+        "c": "Resource Conservation and Recovery Act",
+        "d": "Comprehensive Environmental Response, Compensation, and Liability Act",
+        "r": "b"
+    },
+    {
+        "q": "The Endangered Species Act aims to protect and recover endangered and threatened species and their habitats in which country?",
+        "a": "Canada",
+        "b": "United States",
+        "c": "Australia",
+        "d": "India",
+        "r": "b"
+    },
+    {
+        "q": "Which treaty was formed in 1987 to address the depletion of the ozone layer?",
+        "a": "Basel Convention",
+        "b": "Montreal Protocol",
+        "c": "Kyoto Protocol",
+        "d": "Paris Agreement",
+        "r": "b"
+    },
+    {
+        "q": "The National Environmental Policy Act (NEPA) requires federal agencies to do what before taking any major action that could significantly affect the environment?",
+        "a": "Conduct an environmental impact assessment",
+        "b": "Obtain approval from the President",
+        "c": "Seek funding from private organizations",
+        "d": "Obtain consent from the affected communities",
+        "r": "a"
+    },
+    {
+        "q": "The Paris Agreement is an international treaty that aims to combat climate change by limiting global warming to well below what temperature?",
+        "a": "1 degree Celsius",
+        "b": "1.5 degrees Celsius",
+        "c": "2 degrees Celsius",
+        "d": "2.5 degrees Celsius",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary goal of the Clean Water Act?",
+        "a": "Limiting greenhouse gas emissions",
+        "b": "Promoting sustainable agriculture",
+        "c": "Ensuring access to clean drinking water",
+        "d": "Regulating the discharge of pollutants",
+        "r": "d"
+    },
+    {
+        "q": "The Basel Convention aims to regulate the international trade of which hazardous wastes?",
+        "a": "Radioactive wastes",
+        "b": "E-waste",
+        "c": "Plastic waste",
+        "d": "Biodegradable waste",
+        "r": "b"
+    },
+    {
+        "q": "Which U.S. legislation aims to protect public health and the environment from hazardous waste contamination?",
+        "a": "Clean Air Act",
+        "b": "Clean Water Act",
+        "c": "Resource Conservation and Recovery Act",
+        "d": "Comprehensive Environmental Response, Compensation, and Liability Act",
+        "r": "d"
+    },
+    {
+        "q": "The concept of 'polluter pays' principle is commonly associated with which environmental policy approach?",
+        "a": "Command and control",
+        "b": "Market-based incentives",
+        "c": "Voluntary compliance",
+        "d": "Public awareness campaigns",
+        "r": "b"
+    },
+    {
+        "q": "Which law requires the preparation of an Environmental Impact Statement (EIS) for major federal actions significantly affecting the environment?",
+        "a": "Clean Air Act",
+        "b": "Clean Water Act",
+        "c": "National Environmental Policy Act",
+        "d": "Resource Conservation and Recovery Act",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of the Basel Convention?",
+        "a": "Addressing marine pollution",
+        "b": "Promoting sustainable agriculture",
+        "c": "Regulating the trade of hazardous wastes",
+        "d": "Addressing deforestation",
+        "r": "c"
+    },
+    {
+        "q": "The concept of 'cap and trade' is commonly associated with the regulation of which environmental issue?",
+        "a": "Air pollution",
+        "b": "Water pollution",
+        "c": "Hazardous waste",
+        "d": "Climate change",
+        "r": "d"
+    },
+    {
+        "q": "Which law was passed in the United States to regulate the management of solid and hazardous waste?",
+        "a": "Clean Air Act",
+        "b": "Clean Water Act",
+        "c": "Resource Conservation and Recovery Act",
+        "d": "Comprehensive Environmental Response, Compensation, and Liability Act",
+        "r": "c"
+    },
+    {
+        "q": "Which international agreement aims to promote biodiversity conservation and sustainable use of natural resources?",
+        "a": "Kyoto Protocol",
+        "b": "Paris Agreement",
+        "c": "Convention on Biological Diversity",
+        "d": "Montreal Protocol",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary goal of the Resource Conservation and Recovery Act (RCRA)?",
+        "a": "Reduce greenhouse gas emissions",
+        "b": "Manage and regulate hazardous waste",
+        "c": "Promote energy efficiency",
+        "d": "Protect endangered species",
+        "r": "b"
+    },
+    {
+        "q": "The concept of 'emission trading' is a market-based approach to controlling which environmental issue?",
+        "a": "Air pollution",
+        "b": "Water pollution",
+        "c": "Hazardous waste",
+        "d": "Deforestation",
+        "r": "a"
+    },
+    {
+        "q": "Which act aims to protect and improve air quality in the United States?",
+        "a": "Clean Air Act",
+        "b": "Clean Water Act",
+        "c": "National Environmental Policy Act",
+        "d": "Endangered Species Act",
+        "r": "a"
+    },
+    {
+        "q": "The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) aims to regulate the international trade of what?",
+        "a": "Endangered and threatened species",
+        "b": "Hazardous waste",
+        "c": "Plastic waste",
+        "d": "Radioactive waste",
+        "r": "a"
+    },
+    {
+        "q": "Which U.S. law requires federal agencies to incorporate environmental considerations into their decision-making processes?",
+        "a": "Clean Air Act",
+        "b": "Clean Water Act",
+        "c": "National Environmental Policy Act",
+        "d": "Resource Conservation and Recovery Act",
+        "r": "c"
+    },
+    {
+        "q": "The concept of 'carbon offset' is associated with which environmental policy approach?",
+        "a": "Command and control",
+        "b": "Market-based incentives",
+        "c": "Voluntary compliance",
+        "d": "Public awareness campaigns",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary goal of the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA)?",
+        "a": "Promote energy efficiency",
+        "b": "Manage and regulate hazardous waste",
+        "c": "Reduce greenhouse gas emissions",
+        "d": "Protect endangered species",
+        "r": "b"
+    },
+    {
+        "q": "The Convention on Biological Diversity (CBD) was adopted during the United Nations Conference on Environment and Development held in which city?",
+        "a": "Stockholm",
+        "b": "Rio de Janeiro",
+        "c": "Kyoto",
+        "d": "Paris",
+        "r": "b"
+    },
+    {
+        "q": "Which law in the United States aims to protect and conserve natural resources and historic sites on federal lands?",
+        "a": "Clean Air Act",
+        "b": "Clean Water Act",
+        "c": "National Environmental Policy Act",
+        "d": "National Historic Preservation Act",
+        "r": "d"
+    },
+    {
+        "q": "The concept of 'greenwashing' refers to the practice of companies doing what?",
+        "a": "Engaging in sustainable practices",
+        "b": "Overstating their environmental accomplishments",
+        "c": "Investing in renewable energy projects",
+        "d": "Complying with environmental laws",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary goal of the Clean Air Act?",
+        "a": "Limiting greenhouse gas emissions",
+        "b": "Reducing air pollution",
+        "c": "Promoting sustainable agriculture",
+        "d": "Regulating the discharge of pollutants",
+        "r": "b"
+    },
+    {
+        "q": "The concept of 'sustainable development' seeks to balance what two aspects?",
+        "a": "Economic growth and social progress",
+        "b": "Air pollution and water pollution",
+        "c": "Climate change and biodiversity conservation",
+        "d": "Environmental protection and economic growth",
+        "r": "a"
+    },
+    {
+        "q": "What is the main goal of the Stockholm Convention on Persistent Organic Pollutants (POPs)?",
+        "a": "Promote sustainable agriculture",
+        "b": "Eliminate the production and use of POPs",
+        "c": "Regulate the trade of hazardous wastes",
+        "d": "Address marine pollution",
+        "r": "b"
+    },
+    {
+        "q": "The concept of 'corporate social responsibility' refers to businesses taking responsibility for their impact on what?",
+        "a": "Employees",
+        "b": "Local communities",
+        "c": "Environment",
+        "d": "Shareholders",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of the National Environmental Policy Act (NEPA)?",
+        "a": "Regulate the discharge of pollutants",
+        "b": "Promote sustainable development",
+        "c": "Assess and mitigate the environmental impacts",
+        "d": "Protect endangered species",
+        "r": "c"
+    },
+    {
+        "q": "The concept of 'biodiversity hotspot' refers to areas that are characterized by what?",
+        "a": "High levels of economic development",
+        "b": "High species diversity and high conservation priority",
+        "c": "Low levels of human impact",
+        "d": "Low levels of species diversity",
+        "r": "b"
+    },
+    {
+        "q": "What is the main purpose of the United Nations Framework Convention on Climate Change (UNFCCC)?",
+        "a": "Regulate the trade of hazardous wastes",
+        "b": "Reduce greenhouse gas emissions",
+        "c": "Promote sustainable agriculture",
+        "d": "Protect endangered species",
+        "r": "b"
+    },
+    {
+        "q": "The concept of 'carbon footprint' refers to the total amount of what emitted by an individual, organization, or product?",
+        "a": "Greenhouse gases",
+        "b": "Hazardous wastes",
+        "c": "Plastic waste",
+        "d": "Radioactive waste",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary goal of the National Historic Preservation Act (NHPA) in the United States?",
+        "a": "Promote sustainable development",
+        "b": "Protect and preserve historic and cultural resources",
+        "c": "Manage and regulate hazardous waste",
+        "d": "Reduce greenhouse gas emissions",
+        "r": "b"
+    },
+    {
+        "q": "Which international agreement sets legally binding emission reduction targets for developed countries?",
+        "a": "Montreal Protocol",
+        "b": "Paris Agreement",
+        "c": "Kyoto Protocol",
+        "d": "Basel Convention",
+        "r": "c"
+    },
+    {
+        "q": "The concept of 'sustainability' is often described as meeting the needs of the present without compromising the ability of future generations to do what?",
+        "a": "Preserve biodiversity",
+        "b": "Regulate hazardous waste",
+        "c": "Produce renewable energy",
+        "d": "Meet their own needs",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary goal of the Basel Convention?",
+        "a": "Reduce greenhouse gas emissions",
+        "b": "Manage and regulate hazardous waste",
+        "c": "Promote energy efficiency",
+        "d": "Protect endangered species",
+        "r": "b"
+    },
+    {
+        "q": "The concept of 'tragedy of the commons' refers to the depletion of shared resources due to what?",
+        "a": "Overpopulation",
+        "b": "Pollution",
+        "c": "Unsustainable use",
+        "d": "Natural disasters",
+        "r": "c"
+    },
+    {
+        "q": "Which law in the United States aims to protect and restore the nation's water resources?",
+        "a": "Clean Air Act",
+        "b": "Clean Water Act",
+        "c": "National Environmental Policy Act",
+        "d": "Endangered Species Act",
+        "r": "b"
+    },
+    {
+        "q": "The United Nations Conference on Environment and Development (UNCED), also known as the Earth Summit, was held in which city?",
+        "a": "Stockholm",
+        "b": "Rio de Janeiro",
+        "c": "Kyoto",
+        "d": "Johannesburg",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary goal of the United Nations Convention on the Law of the Sea (UNCLOS)?",
+        "a": "Promote sustainable fishing practices",
+        "b": "Regulate the use of hazardous chemicals in the ocean",
+        "c": "Address marine pollution",
+        "d": "Establish maritime boundaries",
+        "r": "c"
+    },
+    {
+        "q": "The concept of 'invasive species' refers to non-native species that do what?",
+        "a": "Positively impact the local ecosystem",
+        "b": "Improve soil fertility",
+        "c": "Coexist harmoniously with native species",
+        "d": "Negatively affect the local ecosystem",
+        "r": "d"
+    },
+    {
+        "q": "What is the main purpose of the United Nations Convention to Combat Desertification (UNCCD)?",
+        "a": "Promote sustainable agriculture",
+        "b": "Address marine pollution",
+        "c": "Combat the spread of invasive species",
+        "d": "Combat land degradation",
+        "r": "d"
+    },
+    {
+        "q": "Which law in the United States aims to ensure the safety of public drinking water supplies?",
+        "a": "Clean Air Act",
+        "b": "Clean Water Act",
+        "c": "Safe Drinking Water Act",
+        "d": "Endangered Species Act",
+        "r": "c"
+    },
+    {
+        "q": "The concept of 'environmental justice' refers to the fair treatment and meaningful involvement of all people in what?",
+        "a": "Environmental decision-making",
+        "b": "Voting processes",
+        "c": "Economic development",
+        "d": "Political campaigns",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary goal of the Stockholm Convention on Persistent Organic Pollutants (POPs)?",
+        "a": "Promote sustainable agriculture",
+        "b": "Eliminate the production and use of POPs",
+        "c": "Regulate the trade of hazardous wastes",
+        "d": "Address marine pollution",
+        "r": "b"
+    },
+    {
+        "q": "What is the main goal of the United Nations Framework Convention on Climate Change (UNFCCC)?",
+        "a": "Regulate the trade of hazardous wastes",
+        "b": "Reduce greenhouse gas emissions",
+        "c": "Promote sustainable agriculture",
+        "d": "Protect endangered species",
+        "r": "b"
+    },
+    {
+        "q": "What is an example of a non-renewable energy source?",
+        "a": "Solar energy",
+        "b": "Wind energy",
+        "c": "Natural gas",
+        "d": "Biomass energy",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a renewable energy source?",
+        "a": "Coal",
+        "b": "Nuclear energy",
+        "c": "Geothermal energy",
+        "d": "Oil",
+        "r": "c"
+    },
+    {
+        "q": "What type of energy is derived from the heat of the Earth's interior?",
+        "a": "Geothermal energy",
+        "b": "Fossil fuels",
+        "c": "Hydroelectric energy",
+        "d": "Biomass energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary advantage of renewable energy sources over non-renewable sources?",
+        "a": "Lower greenhouse gas emissions",
+        "b": "Unlimited availability",
+        "c": "Higher energy density",
+        "d": "Lower initial cost",
+        "r": "a"
+    },
+    {
+        "q": "Which renewable energy source harnesses the energy of ocean tides?",
+        "a": "Tidal energy",
+        "b": "Geothermal energy",
+        "c": "Hydroelectric energy",
+        "d": "Biomass energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the main environmental concern associated with extracting fossil fuels?",
+        "a": "Air pollution from burning fossil fuels",
+        "b": "Depletion of the ozone layer",
+        "c": "Soil erosion from mining activities",
+        "d": "Water contamination from drilling operations",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a renewable resource?",
+        "a": "Natural gas",
+        "b": "Coal",
+        "c": "Uranium (for nuclear power)",
+        "d": "Sunlight",
+        "r": "d"
+    },
+    {
+        "q": "What is the process of converting sunlight directly into electricity using photovoltaic cells?",
+        "a": "Solar thermal energy",
+        "b": "Solar photovoltaic energy",
+        "c": "Solar heating energy",
+        "d": "Solar concentrated energy",
+        "r": "b"
+    },
+    {
+        "q": "Which type of renewable energy is produced from organic matter such as plants and animal waste?",
+        "a": "Geothermal energy",
+        "b": "Biomass energy",
+        "c": "Wind energy",
+        "d": "Hydroelectric energy",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary advantage of wind energy?",
+        "a": "Abundance and renewable nature of wind",
+        "b": "Non-polluting and always available",
+        "c": "Low setup and maintenance costs",
+        "d": "Constant energy production throughout the day",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary disadvantage of using nuclear energy?",
+        "a": "High potential for radioactive waste",
+        "b": "Limited availability and intermittent nature",
+        "c": "High greenhouse gas emissions",
+        "d": "High setup and maintenance costs",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary renewable energy source used for heating water and spaces in residential and commercial buildings?",
+        "a": "Biomass energy",
+        "b": "Geothermal energy",
+        "c": "Solar energy",
+        "d": "Wind energy",
+        "r": "c"
+    },
+    {
+        "q": "Which type of renewable energy is generated from the movement of water in rivers and oceans?",
+        "a": "Tidal energy",
+        "b": "Geothermal energy",
+        "c": "Hydroelectric energy",
+        "d": "Biomass energy",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary disadvantage of biomass energy?",
+        "a": "Air pollution from burning biomass",
+        "b": "High setup costs",
+        "c": "Limited availability",
+        "d": "High maintenance costs",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a renewable energy source?",
+        "a": "Oil",
+        "b": "Solar energy",
+        "c": "Wind energy",
+        "d": "Geothermal energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the main environmental benefit of using renewable energy sources?",
+        "a": "Reduced greenhouse gas emissions",
+        "b": "Increased land and habitat destruction",
+        "c": "Reduced water usage",
+        "d": "Increased air pollution from burning fossil fuels",
+        "r": "a"
+    },
+    {
+        "q": "Which renewable energy source uses the Earth's internal heat to generate electricity?",
+        "a": "Geothermal energy",
+        "b": "Biomass energy",
+        "c": "Tidal energy",
+        "d": "Solar energy",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary disadvantage of solar energy?",
+        "a": "High setup costs and intermittent availability",
+        "b": "High greenhouse gas emissions",
+        "c": "Depletion of ozone layer",
+        "d": "Limited space for solar panels",
+        "r": "a"
+    },
+    {
+        "q": "Which type of energy is produced by burning wood, crop residues, and animal waste?",
+        "a": "Solar energy",
+        "b": "Geothermal energy",
+        "c": "Biomass energy",
+        "d": "Wind energy",
+        "r": "c"
+    },
+    {
+        "q": "What is the main environmental concern associated with large-scale hydropower projects?",
+        "a": "Disruption of aquatic ecosystems",
+        "b": "Greenhouse gas emissions",
+        "c": "Land degradation from dams",
+        "d": "Noise pollution from turbines",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary disadvantage of tidal energy?",
+        "a": "Limited availability and high setup costs",
+        "b": "Intermittent nature",
+        "c": "Harmful greenhouse gas emissions",
+        "d": "Disruption of marine ecosystems",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary advantage of nuclear energy?",
+        "a": "High energy density and low greenhouse gas emissions",
+        "b": "Abundance and renewable nature",
+        "c": "Low setup costs and minimal environmental impact",
+        "d": "Constant energy production throughout the day",
+        "r": "a"
+    },
+    {
+        "q": "Which type of renewable energy harnesses the heat from the Earth's interior?",
+        "a": "Tidal energy",
+        "b": "Geothermal energy",
+        "c": "Biomass energy",
+        "d": "Hydroelectric energy",
+        "r": "b"
+    },
+    {
+        "q": "What is the main environmental benefit of wind energy?",
+        "a": "No greenhouse gas emissions during operation",
+        "b": "High energy density",
+        "c": "Low setup and maintenance costs",
+        "d": "Constant energy production throughout the day",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary advantage of hydropower energy?",
+        "a": "Low greenhouse gas emissions and long lifespan",
+        "b": "Abundance and unlimited availability",
+        "c": "No environmental impact during operation",
+        "d": "High energy density",
+        "r": "a"
+    },
+    {
+        "q": "Which renewable energy source involves converting biomass into liquid biofuels?",
+        "a": "Wind energy",
+        "b": "Biomass energy",
+        "c": "Solar energy",
+        "d": "Geothermal energy",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary disadvantage of hydroelectric energy?",
+        "a": "Disruption of aquatic ecosystems and land degradation",
+        "b": "Intermittent nature",
+        "c": "High greenhouse gas emissions",
+        "d": "Limited availability and high setup costs",
+        "r": "a"
+    },
+    {
+        "q": "What is the main advantage of solar energy?",
+        "a": "Abundance and renewable nature of sunlight",
+        "b": "No greenhouse gas emissions during operation",
+        "c": "High setup and maintenance costs",
+        "d": "Low energy density",
+        "r": "a"
+    },
+    {
+        "q": "Which type of renewable energy is generated by capturing the energy of moving air?",
+        "a": "Geothermal energy",
+        "b": "Solar energy",
+        "c": "Wind energy",
+        "d": "Biomass energy",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary environmental concern associated with large-scale solar farms?",
+        "a": "Land use and habitat disruption",
+        "b": "Greenhouse gas emissions",
+        "c": "Water contamination from solar panels",
+        "d": "Noise pollution from solar panels",
+        "r": "a"
+    },
+    {
+        "q": "Which renewable energy source uses the heat from the Earth's interior to produce electricity?",
+        "a": "Wind energy",
+        "b": "Geothermal energy",
+        "c": "Tidal energy",
+        "d": "Solar energy",
+        "r": "b"
+    },
+    {
+        "q": "What is the main environmental benefit of using wind energy?",
+        "a": "No greenhouse gas emissions during operation",
+        "b": "High energy density",
+        "c": "Low setup and maintenance costs",
+        "d": "Constant energy production throughout the day",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following best defines sustainable development?",
+        "a": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+        "b": "Development that focuses on economic growth at the expense of environmental and social concerns.",
+        "c": "Development that prioritizes short-term gains without considering long-term consequences.",
+        "d": "Development that only considers the needs of the current generation.",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary goal of sustainable development?",
+        "a": "To achieve a balance between economic, environmental, and social goals.",
+        "b": "To maximize economic growth at all costs.",
+        "c": "To exploit natural resources for immediate gains.",
+        "d": "To disregard environmental and social factors for economic progress.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a green practice in agriculture?",
+        "a": "Implementing organic farming methods to reduce chemical use.",
+        "b": "Clearing large areas of forests for monoculture farming.",
+        "c": "Using excessive amounts of chemical fertilizers and pesticides.",
+        "d": "Disposing of agricultural waste in rivers and water bodies.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a pillar of sustainable development?",
+        "a": "Negligence of social and economic factors.",
+        "b": "Environmental sustainability.",
+        "c": "Social equity and justice.",
+        "d": "Economic development.",
+        "r": "a"
+    },
+    {
+        "q": "How can individuals contribute to sustainable development in their daily lives?",
+        "a": "By reducing water and energy consumption.",
+        "b": "By increasing waste production.",
+        "c": "By using single-use plastics extensively.",
+        "d": "By promoting deforestation.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following energy sources is considered green and sustainable?",
+        "a": "Solar energy.",
+        "b": "Coal.",
+        "c": "Natural gas.",
+        "d": "Oil.",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'Reduce, Reuse, Recycle' mantra in sustainable development?",
+        "a": "To minimize waste generation and promote resource conservation.",
+        "b": "To encourage excessive consumption and waste generation.",
+        "c": "To exhaust natural resources quickly.",
+        "d": "To increase pollution levels.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a sustainable transportation option?",
+        "a": "Electric vehicles charged with renewable energy.",
+        "b": "Diesel-powered vehicles with low fuel efficiency.",
+        "c": "Air travel for short distances.",
+        "d": "Promoting single-occupancy car usage.",
+        "r": "a"
+    },
+    {
+        "q": "Why is biodiversity important for sustainable development?",
+        "a": "It provides essential ecosystem services and supports human well-being.",
+        "b": "It is not significant for sustainable development.",
+        "c": "It poses a threat to the environment.",
+        "d": "It leads to economic losses.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a green building practice that promotes energy efficiency?",
+        "a": "Installing solar panels and using energy-efficient lighting.",
+        "b": "Relying solely on traditional energy sources.",
+        "c": "Using energy-intensive appliances without regulation.",
+        "d": "Wasting energy in buildings.",
+        "r": "a"
+    },
+    {
+        "q": "How can industries promote sustainability?",
+        "a": "By adopting cleaner production methods and reducing waste generation.",
+        "b": "By increasing resource consumption and pollution.",
+        "c": "By ignoring environmental regulations.",
+        "d": "By depleting natural resources without consideration.",
+        "r": "a"
+    },
+    {
+        "q": "What is the concept of 'circular economy'?",
+        "a": "An economic model that aims to minimize waste and make the most of resources.",
+        "b": "An economic model that encourages excessive consumption and waste.",
+        "c": "An economic model that promotes single-use products.",
+        "d": "An economic model that ignores environmental impact.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a non-renewable resource?",
+        "a": "Fossil fuels like coal and oil.",
+        "b": "Solar energy.",
+        "c": "Wind energy.",
+        "d": "Timber from sustainably managed forests.",
+        "r": "a"
+    },
+    {
+        "q": "What is the role of government in promoting sustainable development?",
+        "a": "Developing policies and regulations that support sustainability initiatives.",
+        "b": "Ignoring environmental concerns for economic growth.",
+        "c": "Encouraging wasteful consumption.",
+        "d": "Focusing solely on short-term economic gains.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a green practice for water conservation?",
+        "a": "Harvesting rainwater and using water-efficient appliances.",
+        "b": "Wasting water without any conservation efforts.",
+        "c": "Polluting water bodies with industrial waste.",
+        "d": "Increasing water usage without any restrictions.",
+        "r": "a"
+    },
+    {
+        "q": "What is the concept of 'zero-waste' in sustainable development?",
+        "a": "A lifestyle that aims to reduce waste generation to a minimum.",
+        "b": "A lifestyle that promotes excessive waste generation.",
+        "c": "A lifestyle that ignores environmental concerns.",
+        "d": "A lifestyle that encourages littering.",
+        "r": "a"
+    },
+    {
+        "q": "How does deforestation impact sustainable development?",
+        "a": "It leads to loss of biodiversity and contributes to climate change.",
+        "b": "It has no significant impact on the environment.",
+        "c": "It promotes environmental conservation.",
+        "d": "It helps to restore ecosystems.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a renewable energy source?",
+        "a": "Wind energy.",
+        "b": "Nuclear energy.",
+        "c": "Coal energy.",
+        "d": "Petroleum energy.",
+        "r": "a"
+    },
+    {
+        "q": "Why is it essential to involve local communities in sustainable development projects?",
+        "a": "They have valuable knowledge of the local environment and its needs.",
+        "b": "They hinder progress in sustainable development projects.",
+        "c": "They are not affected by the project outcomes.",
+        "d": "They lack interest in environmental conservation.",
+        "r": "a"
+    },
+    {
+        "q": "What is the concept of 'fair trade' in sustainable development?",
+        "a": "An approach that ensures fair wages and working conditions for producers in developing countries.",
+        "b": "An approach that exploits workers in developing countries.",
+        "c": "An approach that ignores environmental concerns.",
+        "d": "An approach that focuses on excessive profits.",
+        "r": "a"
+    },
+    {
+        "q": "How can educational institutions promote green practices among students?",
+        "a": "By incorporating sustainability education into the curriculum.",
+        "b": "By avoiding any discussion of environmental issues.",
+        "c": "By promoting wasteful consumption among students.",
+        "d": "By encouraging littering on campus.",
+        "r": "a"
+    },
+    {
+        "q": "What are the advantages of sustainable agriculture over conventional agriculture?",
+        "a": "Sustainable agriculture reduces environmental impacts and promotes long-term food security.",
+        "b": "Conventional agriculture is more sustainable than sustainable agriculture.",
+        "c": "Sustainable agriculture increases greenhouse gas emissions.",
+        "d": "Conventional agriculture relies heavily on chemical inputs.",
+        "r": "a"
+    },
+    {
+        "q": "What is the impact of air pollution on sustainable development?",
+        "a": "Air pollution hinders sustainable development by harming human health and the environment.",
+        "b": "Air pollution has no impact on sustainable development.",
+        "c": "Air pollution supports sustainable development by promoting economic growth.",
+        "d": "Air pollution only affects developed countries.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a factor affecting population growth?",
+        "a": "Availability of resources",
+        "b": "Birth rate",
+        "c": "Death rate",
+        "d": "Migration rate",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a density-dependent factor influencing population growth?",
+        "a": "Disease outbreak",
+        "b": "Volcanic eruption",
+        "c": "Earthquake",
+        "d": "Forest fire",
+        "r": "a"
+    },
+    {
+        "q": "The human population growth rate is currently declining in many countries due to:",
+        "a": "Decreasing fertility rates",
+        "b": "Increasing fertility rates",
+        "c": "No access to healthcare",
+        "d": "Immigration",
+        "r": "a"
+    },
+    {
+        "q": "Which factor is primarily responsible for the exponential growth of populations?",
+        "a": "Limited resources",
+        "b": "Carrying capacity",
+        "c": "Reproductive potential",
+        "d": "Natural disasters",
+        "r": "c"
+    },
+    {
+        "q": "What is the doubling time of a population growing at a rate of 2% per year?",
+        "a": "20 years",
+        "b": "25 years",
+        "c": "30 years",
+        "d": "50 years",
+        "r": "a"
+    },
+    {
+        "q": "What does the demographic transition model explain?",
+        "a": "Changes in population density over time",
+        "b": "Changes in birth and death rates over time",
+        "c": "Changes in immigration rates over time",
+        "d": "Changes in disease prevalence over time",
+        "r": "b"
+    },
+    {
+        "q": "A country with a TFR (Total Fertility Rate) below 2.1 is likely to experience:",
+        "a": "A decreasing population size",
+        "b": "A stable population size",
+        "c": "An increasing population size",
+        "d": "No change in population size",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a method to control population growth?",
+        "a": "Family planning",
+        "b": "Access to education",
+        "c": "One-child policy",
+        "d": "Forced sterilization",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following factors leads to a decline in the death rate?",
+        "a": "Improved healthcare facilities",
+        "b": "Increased environmental pollution",
+        "c": "Reduced access to clean water",
+        "d": "Political instability",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a density-independent factor?",
+        "a": "Competition for resources",
+        "b": "Disease outbreak",
+        "c": "Predation",
+        "d": "Earthquake",
+        "r": "d"
+    },
+    {
+        "q": "Which stage of the demographic transition model is characterized by high birth rates and high death rates?",
+        "a": "Pre-industrial stage",
+        "b": "Transitional stage",
+        "c": "Industrial stage",
+        "d": "Post-industrial stage",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a negative consequence of an aging population?",
+        "a": "Increased workforce productivity",
+        "b": "Increased demand for healthcare services",
+        "c": "Decreased pension liabilities",
+        "d": "Decreased life expectancy",
+        "r": "b"
+    },
+    {
+        "q": "A population with a pyramid-shaped age structure diagram is indicative of:",
+        "a": "Rapid population growth",
+        "b": "Stable population growth",
+        "c": "Declining population growth",
+        "d": "Stable birth and death rates",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a renewable resource?",
+        "a": "Fossil fuels",
+        "b": "Natural gas",
+        "c": "Coal",
+        "d": "Solar energy",
+        "r": "d"
+    },
+    {
+        "q": "What is the main cause of deforestation?",
+        "a": "Industrial growth",
+        "b": "Urbanization",
+        "c": "Agriculture",
+        "d": "Reforestation",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of a point source of pollution?",
+        "a": "Agricultural runoff",
+        "b": "Factory emissions",
+        "c": "Vehicular emissions",
+        "d": "Waste dumping",
+        "r": "b"
+    },
+    {
+        "q": "The Sustainable Development Goals (SDGs) are a collection of",
+        "a": "10 goals",
+        "b": "15 goals",
+        "c": "17 goals",
+        "d": "20 goals",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a consequence of overfishing?",
+        "a": "Increased fish populations",
+        "b": "Disruption of marine ecosystems",
+        "c": "Improved fishing industry profitability",
+        "d": "Expansion of marine reserves",
+        "r": "b"
+    },
+    {
+        "q": "The process of converting saltwater into freshwater is called",
+        "a": "Condensation",
+        "b": "Desalination",
+        "c": "Transpiration",
+        "d": "Precipitation",
+        "r": "b"
+    },
+    {
+        "q": "Acid rain is primarily caused by emissions of which gas?",
+        "a": "Carbon dioxide",
+        "b": "Methane",
+        "c": "Sulfur dioxide",
+        "d": "Nitrogen oxide",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of the ozone layer in the atmosphere?",
+        "a": "Regulating temperature",
+        "b": "Filtering ultraviolet (UV) radiation",
+        "c": "Facilitating photosynthesis",
+        "d": "Absorbing carbon dioxide",
+        "r": "b"
+    },
+    {
+        "q": "The \"Tragedy of the Commons\" refers to:",
+        "a": "Overconsumption of resources",
+        "b": "Collective management of resources",
+        "c": "Sustainable use of resources",
+        "d": "Degradation of shared resources",
+        "r": "a"
+    },
+    {
+        "q": "What is the current global human population estimated to be?",
+        "a": "Around 3 billion",
+        "b": "Around 5 billion",
+        "c": "Around 7 billion",
+        "d": "Around 10 billion",
+        "r": "c"
+    },
+    {
+        "q": "The IPAT equation is used to calculate the impact of human activities on the environment. What does \"I\" represent in this equation?",
+        "a": "Impact",
+        "b": "Income",
+        "c": "Innovation",
+        "d": "Inequality",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a strategy to promote environmental sustainability?",
+        "a": "Encouraging monoculture farming",
+        "b": "Implementing single-use plastics",
+        "c": "Promoting renewable energy sources",
+        "d": "Deforestation",
+        "r": "c"
+    },
+    {
+        "q": "The concept of \"carrying capacity\" refers to:",
+        "a": "The maximum number of individuals an area can support",
+        "b": "The maximum rate at which a population can grow",
+        "c": "The number of births in a population",
+        "d": "The number of deaths in a population",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a renewable source of energy generated by the Earth's heat?",
+        "a": "Solar energy",
+        "b": "Wind energy",
+        "c": "Geothermal energy",
+        "d": "Biomass",
+        "r": "c"
+    },
+    {
+        "q": "The Earth's human population is expected to stabilize due to:",
+        "a": "Increased birth rates",
+        "b": "Decreased access to healthcare services",
+        "c": "Decreased life expectancy",
+        "d": "Social and economic development",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of a positive feedback loop in population growth?",
+        "a": "Increasing birth rates due to prosperity",
+        "b": "Decreasing birth rates due to prosperity",
+        "c": "Increasing death rates due to disease",
+        "d": "Decreasing death rates due to disease",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a method of reducing the ecological footprint?",
+        "a": "Recycling waste",
+        "b": "Landfilling waste",
+        "c": "Encouraging excessive consumption",
+        "d": "Increasing water usage",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a biotic factor that affects population growth?",
+        "a": "Temperature",
+        "b": "Soil pH",
+        "c": "Food availability",
+        "d": "Precipitation",
+        "r": "c"
+    },
+    {
+        "q": "The \"Rule of 70\" is used to:",
+        "a": "Predict earthquakes",
+        "b": "Calculate population growth rate",
+        "c": "Estimate the impact of pollution on ecosystems",
+        "d": "Determine the carrying capacity of an area",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following statements about urbanization is true?",
+        "a": "It reduces the demand for resources",
+        "b": "It decreases the human ecological footprint",
+        "c": "It leads to a decrease in population density",
+        "d": "It increases the concentration of pollutants",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following best defines population density?",
+        "a": "The number of individuals in a given area",
+        "b": "The number of species in a given area",
+        "c": "The number of births in a given area",
+        "d": "The number of deaths in a given area",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a renewable source of energy derived from living organisms?",
+        "a": "Wind energy",
+        "b": "Natural gas",
+        "c": "Biomass",
+        "d": "Coal",
+        "r": "c"
+    },
+    {
+        "q": "The \"IPCC\" stands for:",
+        "a": "International Panel on Climate Change",
+        "b": "International Program for Carbon Control",
+        "c": "International Pollution and Climate Council",
+        "d": "International Protocol for Climate Compliance",
+        "r": "a"
+    },
+    {
+        "q": "The extinction of a particular population from a specific area is called:",
+        "a": "Endangerment",
+        "b": "Extinction",
+        "c": "Deforestation",
+        "d": "Erosion",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a non-point source of pollution?",
+        "a": "Factory discharge",
+        "b": "Sewage treatment plant discharge",
+        "c": "Oil spill",
+        "d": "Pesticide application",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an abiotic factor that affects population growth?",
+        "a": "Predators",
+        "b": "Disease",
+        "c": "Climate",
+        "d": "Food availability",
+        "r": "c"
+    },
+    {
+        "q": "The \"Millennium Ecosystem Assessment\" is a global initiative that focuses on:",
+        "a": "Assessing the impact of human activities on ecosystems",
+        "b": "Identifying environmental issues",
+        "c": "Promoting fossil fuel use",
+        "d": "Mitigating climate change",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary cause of the current increase in atmospheric carbon dioxide levels?",
+        "a": "Deforestation",
+        "b": "Volcanic eruptions",
+        "c": "Human activities",
+        "d": "Earth's natural processes",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a non-renewable energy source formed from ancient plant and animal remains?",
+        "a": "Solar energy",
+        "b": "Geothermal energy",
+        "c": "Coal",
+        "d": "Wind energy",
+        "r": "c"
+    },
+    {
+        "q": "What is the term used to describe the process of Earth's average temperature increasing due to human activities?",
+        "a": "Global warming",
+        "b": "Photosynthesis",
+        "c": "Greenhouse effect",
+        "d": "Ozone depletion",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of an anthropogenic source of air pollution?",
+        "a": "Forest fire",
+        "b": "Volcanic eruption",
+        "c": "Vehicle emissions",
+        "d": "Ocean spray",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a strategy for achieving environmental sustainability?",
+        "a": "Reducing waste production",
+        "b": "Increasing fossil fuel consumption",
+        "c": "Encouraging deforestation",
+        "d": "Expanding urbanization",
+        "r": "a"
+    },
+    {
+        "q": "The \"Kyoto Protocol\" is an international agreement aimed at reducing emissions of which gas?",
+        "a": "Carbon dioxide",
+        "b": "Methane",
+        "c": "Nitrous oxide",
+        "d": "Sulfur dioxide",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a negative effect of soil erosion?",
+        "a": "Increased fertility of the soil",
+        "b": "Decreased water pollution",
+        "c": "Loss of arable land",
+        "d": "Improved crop yields",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a renewable energy source that harnesses energy from the sun?",
+        "a": "Geothermal energy",
+        "b": "Biomass",
+        "c": "Solar energy",
+        "d": "Nuclear power",
+        "r": "c"
+    },
+    {
+        "q": "What does the \"Keeling Curve\" graphically represent?",
+        "a": "Deforestation trends",
+        "b": "Population growth trends",
+        "c": "Carbon dioxide concentration trends",
+        "d": "Temperature fluctuations trends",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a direct consequence of a declining population growth rate?",
+        "a": "Increased competition for resources",
+        "b": "Decreased pressure on healthcare facilities",
+        "c": "Increased demand for consumer goods",
+        "d": "Reduced strain on infrastructure",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a common effect of water pollution?",
+        "a": "Decreased waterborne diseases",
+        "b": "Improved aquatic ecosystem health",
+        "c": "Increased biodiversity",
+        "d": "Enhanced water clarity",
+        "r": "a"
+    },
+    {
+        "q": "What is the main source of anthropogenic methane emissions?",
+        "a": "Landfills",
+        "b": "Oceans",
+        "c": "Forests",
+        "d": "Volcanic activity",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a part of the water cycle?",
+        "a": "Evaporation",
+        "b": "Condensation",
+        "c": "Precipitation",
+        "d": "Photosynthesis",
+        "r": "d"
+    },
+    {
+        "q": "What is the most significant factor contributing to human population growth in developing countries?",
+        "a": "Economic status",
+        "b": "Access to education",
+        "c": "Cultural beliefs",
+        "d": "Government policies",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a renewable energy source generated by wind motion?",
+        "a": "Geothermal energy",
+        "b": "Solar energy",
+        "c": "Biomass",
+        "d": "Wind energy",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a biotic factor that influences population growth?",
+        "a": "Temperature",
+        "b": "Soil pH",
+        "c": "Predation",
+        "d": "Precipitation",
+        "r": "c"
+    },
+    {
+        "q": "The \"Paris Agreement\" aims to combat:",
+        "a": "Overpopulation",
+        "b": "Desertification",
+        "c": "Deforestation",
+        "d": "Climate change",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following best defines biodiversity?",
+        "a": "The variety of life on Earth",
+        "b": "The number of species on Earth",
+        "c": "The number of individuals in a given area",
+        "d": "The variety of ecosystems on Earth",
+        "r": "a"
+    },
+    {
+        "q": "What is the main cause of the \"ozone hole\" over Antarctica?",
+        "a": "Industrial emissions",
+        "b": "CFCs (Chlorofluorocarbons)",
+        "c": "Deforestation",
+        "d": "Acid rain",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a non-renewable resource?",
+        "a": "Wind energy",
+        "b": "Natural gas",
+        "c": "Solar energy",
+        "d": "Fossil fuels",
+        "r": "d"
+    },
+    {
+        "q": "What is the main cause of the greenhouse effect?",
+        "a": "Volcanic activity",
+        "b": "Solar radiation",
+        "c": "Human activities",
+        "d": "Photosynthesis",
+        "r": "c"
+    },
+    {
+        "q": "The process of using natural resources in a way that meets the needs of the present generation without compromising the ability of future generations to meet their needs is known as:",
+        "a": "Sustainable development",
+        "b": "Environmental conservation",
+        "c": "Resource depletion",
+        "d": "Ecological footprint",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a renewable energy source?",
+        "a": "Coal",
+        "b": "Oil",
+        "c": "Natural gas",
+        "d": "Solar energy",
+        "r": "d"
+    },
+    {
+        "q": "What is the primary cause of the loss of biodiversity?",
+        "a": "Climate change",
+        "b": "Deforestation",
+        "c": "Overpopulation",
+        "d": "Pollution",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a renewable source of energy derived from the movement of water?",
+        "a": "Geothermal energy",
+        "b": "Biomass",
+        "c": "Solar energy",
+        "d": "Hydropower",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following refers to the study of ethical principles and values that apply to the relationship between humans and the environment?",
+        "a": "environmental ethics",
+        "b": "social responsibility",
+        "c": "environmental science",
+        "d": "ecological ethics",
+        "r": "a"
+    },
+    {
+        "q": "The belief that all living and non-living entities on Earth are interconnected and interdependent is known as:",
+        "a": "environmental interconnectedness",
+        "b": "ecological holism",
+        "c": "environmental holism",
+        "d": "ecosystemic interconnectedness",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the principle that states we should act in a way that benefits the most people or provides the greatest good for the greatest number?",
+        "a": "sustainability",
+        "b": "utilitarianism",
+        "c": "environmentalism",
+        "d": "anthropocentrism",
+        "r": "b"
+    },
+    {
+        "q": "The ethical perspective that places intrinsic value on all living organisms, regardless of their usefulness to humans, is called:",
+        "a": "anthropocentrism",
+        "b": "biocentrism",
+        "c": "ecocentrism",
+        "d": "speciesism",
+        "r": "b"
+    },
+    {
+        "q": "Which ethical approach views the environment as having value because it benefits humans in various ways?",
+        "a": "intrinsic value",
+        "b": "utilitarianism",
+        "c": "instrumental value",
+        "d": "anthropocentrism",
+        "r": "c"
+    },
+    {
+        "q": "According to the ethical principle of 'intergenerational equity,' what do we have an obligation to do?",
+        "a": "Preserve natural resources for future generations",
+        "b": "Protect endangered species for future generations",
+        "c": "Reduce greenhouse gas emissions for future generations",
+        "d": "Provide healthcare for future generations",
+        "r": "a"
+    },
+    {
+        "q": "What does the 'precautionary principle' suggest in environmental decision-making?",
+        "a": "Make decisions based on scientific evidence only",
+        "b": "Avoid actions that may harm the environment if the outcomes are uncertain",
+        "c": "Prioritize economic development over environmental protection",
+        "d": "Take preventive measures in the face of uncertain environmental risks",
+        "r": "d"
+    },
+    {
+        "q": "The ethical principle that advocates for decision-making that meets the needs of the present without compromising the ability of future generations to meet their own needs is known as:",
+        "a": "environmental stewardship",
+        "b": "sustainable development",
+        "c": "ecological integrity",
+        "d": "anthropocentrism",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a form of anthropocentrism?",
+        "a": "Technocentrism",
+        "b": "Biocentrism",
+        "c": "Ecocentrism",
+        "d": "Ethnocentrism",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of an environmental stewardship action?",
+        "a": "Planting trees to restore a degraded forest",
+        "b": "Clear-cutting a forest to make way for urban development",
+        "c": "Disposing of hazardous waste in an open landfill",
+        "d": "Extracting natural resources without any regulation",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the belief that humans have a superior status and value compared to other living beings?",
+        "a": "human exceptionalism",
+        "b": "biocentrism",
+        "c": "environmental ethics",
+        "d": "ecological holism",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a characteristic of sustainable development?",
+        "a": "Meeting the needs of the present generation only",
+        "b": "Promoting economic growth at the expense of the environment",
+        "c": "Protecting natural resources for future generations",
+        "d": "Promoting social equity and justice",
+        "r": "a"
+    },
+    {
+        "q": "Which ethical approach focuses on the well-being and interests of individual living organisms?",
+        "a": "Anthropocentrism",
+        "b": "Biocentrism",
+        "c": "Ecocentrism",
+        "d": "Speciesism",
+        "r": "b"
+    },
+    {
+        "q": "The term 'biodiversity' refers to:",
+        "a": "The variety of life on Earth",
+        "b": "The study of biological organisms",
+        "c": "The genetic material found in organisms",
+        "d": "The abundance of a specific species in an ecosystem",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a type of biodiversity?",
+        "a": "Genetic biodiversity",
+        "b": "Species biodiversity",
+        "c": "Ecosystem biodiversity",
+        "d": "Anthropogenic biodiversity",
+        "r": "d"
+    },
+    {
+        "q": "The process of converting forests into non-forest land for urban use or agriculture is known as:",
+        "a": "Afforestation",
+        "b": "Deforestation",
+        "c": "Reforestation",
+        "d": "Affirmative action",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for a company's commitment to conduct business in an environmentally responsible manner?",
+        "a": "Greenwashing",
+        "b": "Sustainable business",
+        "c": "Corporate sustainability",
+        "d": "Environmental auditing",
+        "r": "c"
+    },
+    {
+        "q": "The 'tragedy of the commons' refers to:",
+        "a": "Overexploitation of shared resources",
+        "b": "Mismanagement of public lands",
+        "c": "Excessive taxation on natural resources",
+        "d": "Uncontrolled deforestation",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the ethical perspective that considers the well-being of the entire ecosystem, including both living and non-living elements?",
+        "a": "Anthropocentrism",
+        "b": "Biocentrism",
+        "c": "Ecocentrism",
+        "d": "Technocentrism",
+        "r": "c"
+    },
+    {
+        "q": "The concept of 'extended producer responsibility' (EPR) holds manufacturers accountable for:",
+        "a": "Reducing the production of goods",
+        "b": "Proper disposal of waste",
+        "c": "Eliminating all production waste",
+        "d": "Monitoring employee working hours",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT an example of sustainable consumption?",
+        "a": "Using reusable shopping bags",
+        "b": "Composting food waste",
+        "c": "Purchasing products with excessive packaging",
+        "d": "Opting for public transportation",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the act of bringing a degraded ecosystem back to its original ecological state?",
+        "a": "Ecological restoration",
+        "b": "Environmental rehabilitation",
+        "c": "Ecosystem rejuvenation",
+        "d": "Environmental remediation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of environmental justice?",
+        "a": "A company paying compensation for polluting a river",
+        "b": "A country imposing a ban on single-use plastic bags",
+        "c": "A community implementing water conservation practices",
+        "d": "A government subsidizing fossil fuel industries",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the maximum number of individuals of a species that an ecosystem can support sustainably?",
+        "a": "Carrying capacity",
+        "b": "Sustainability capacity",
+        "c": "Biodiversity capacity",
+        "d": "Population threshold capacity",
+        "r": "a"
+    },
+    {
+        "q": "The concept of 'cradle to cradle' in design and manufacturing promotes:",
+        "a": "A linear economy",
+        "b": "Planned obsolescence",
+        "c": "Sustainable consumption",
+        "d": "The continuous reuse of materials in a closed-loop system",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is NOT a component of the 'triple bottom line' concept for sustainability?",
+        "a": "Profit",
+        "b": "People",
+        "c": "Planet",
+        "d": "Product",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following environmental issues specifically deals with the emission of greenhouse gases and their impact on the planet?",
+        "a": "Climate change",
+        "b": "Biodiversity loss",
+        "c": "Deforestation",
+        "d": "Soil erosion",
+        "r": "a"
+    },
+    {
+        "q": "The process of converting saltwater into freshwater is known as:",
+        "a": "Desalination",
+        "b": "Filtration",
+        "c": "Purification",
+        "d": "Condensation",
+        "r": "a"
+    },
+    {
+        "q": "Which international treaty aims to protect the ozone layer by phasing out the production and consumption of ozone-depleting substances?",
+        "a": "Kyoto Protocol",
+        "b": "Paris Agreement",
+        "c": "Vienna Convention",
+        "d": "Montreal Protocol",
+        "r": "d"
+    },
+    {
+        "q": "What is the term for a product's entire lifecycle from raw material extraction to final disposal?",
+        "a": "Life cycle analysis",
+        "b": "Environmental impact assessment",
+        "c": "Product sustainability analysis",
+        "d": "Ecological footprint analysis",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a positive externality related to the environment?",
+        "a": "A factory releasing pollutants into the air",
+        "b": "Planting trees that improve air quality",
+        "c": "Construction of a new highway that leads to deforestation",
+        "d": "A company overusing water resources for production",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the practice of removing minerals, metals, and other valuable resources from the Earth's crust?",
+        "a": "Deforestation",
+        "b": "Mining",
+        "c": "Quarrying",
+        "d": "Drilling",
+        "r": "b"
+    },
+    {
+        "q": "The concept of 'sustainable development goals' (SDGs) was established by:",
+        "a": "The World Bank",
+        "b": "The United Nations",
+        "c": "The International Monetary Fund",
+        "d": "The World Trade Organization",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT an environmental consequence of deforestation?",
+        "a": "Soil erosion",
+        "b": "Loss of biodiversity",
+        "c": "Increased carbon sequestration",
+        "d": "Disruption of the water cycle",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the process of removing salt and other minerals from seawater to make it suitable for drinking and irrigation?",
+        "a": "Filtration",
+        "b": "Purification",
+        "c": "Desalination",
+        "d": "Condensation",
+        "r": "c"
+    },
+    {
+        "q": "The 'polluter-pays principle' suggests that:",
+        "a": "Those who pollute should bear the costs of pollution",
+        "b": "The government should pay for all pollution control measures",
+        "c": "The cost of pollution should be divided equally among all citizens",
+        "d": "Polluters should be exempt from any penalties",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a characteristic of a sustainable society?",
+        "a": "High levels of resource consumption",
+        "b": "Social equity and justice",
+        "c": "Economic stability",
+        "d": "Environmental protection",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a group of individuals of the same species living in the same area?",
+        "a": "Ecosystem",
+        "b": "Community",
+        "c": "Population",
+        "d": "Biome",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of a point source of pollution?",
+        "a": "A factory releasing industrial waste into a river",
+        "b": "Diffuse runoff from agricultural fields",
+        "c": "Urban stormwater runoff",
+        "d": "Emissions from vehicle exhaust",
+        "r": "a"
+    },
+    {
+        "q": "The practice of reducing waste by using only what is necessary is known as:",
+        "a": "Conservation",
+        "b": "Preservation",
+        "c": "Sustainability",
+        "d": "Minimalism",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following statements is NOT consistent with the concept of environmental justice?",
+        "a": "Environmental issues disproportionately affect disadvantaged communities",
+        "b": "Low-income communities often face higher levels of pollution",
+        "c": "Sustainable practices can be implemented at a local level",
+        "d": "Indigenous communities have a unique relationship with nature",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the long-term average weather conditions in a specific region or on Earth as a whole?",
+        "a": "Climate",
+        "b": "Weather",
+        "c": "Atmosphere",
+        "d": "Microclimate",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a negative environmental impact of conventional agriculture?",
+        "a": "Soil erosion and degradation",
+        "b": "Enhanced soil fertility",
+        "c": "Promotion of biodiversity",
+        "d": "Reduced water usage",
+        "r": "a"
+    },
+    {
+        "q": "The principle of 'conservation of biodiversity' emphasizes:",
+        "a": "The need to protect endangered species",
+        "b": "The importance of preserving genetic diversity",
+        "c": "The maintenance of ecological balance",
+        "d": "The prevention of species extinction",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for the ethical perspective that values the entire natural environment, including all species and ecosystems?",
+        "a": "Anthropocentrism",
+        "b": "Biocentrism",
+        "c": "Ecocentrism",
+        "d": "Technocentrism",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of a greenhouse gas?",
+        "a": "Oxygen (O2)",
+        "b": "Nitrogen (N2)",
+        "c": "Carbon dioxide (CO2)",
+        "d": "Water vapor (H2O)",
+        "r": "c"
+    },
+    {
+        "q": "The idea of 'deep ecology' advocates for:",
+        "a": "Human-centric environmentalism",
+        "b": "Ecological principles and intrinsic value of nature",
+        "c": "Technological solutions to environmental issues",
+        "d": "Exploitation of natural resources",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for a sudden and significant decline in the population of a species?",
+        "a": "Deforestation",
+        "b": "Extinction",
+        "c": "Biodiversity loss",
+        "d": "Mass extinction",
+        "r": "b"
+    },
+    {
+        "q": "The 'polluter-pays principle' is based on the idea of:",
+        "a": "Externalities",
+        "b": "Sustainability",
+        "c": "Environmental ethics",
+        "d": "Market failure",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the total amount of greenhouse gases produced directly and indirectly by human activities?",
+        "a": "Greenhouse gas footprint",
+        "b": "Carbon footprint",
+        "c": "Ecological footprint",
+        "d": "Anthropogenic emissions",
+        "r": "b"
+    },
+    {
+        "q": "The concept of 'ecological footprint' measures:",
+        "a": "The biodiversity of a specific area",
+        "b": "The number of species living in a habitat",
+        "c": "The environmental impact of a product or service",
+        "d": "The ecological resources required to support human activities",
+        "r": "d"
+    },
+    {
+        "q": "What is the term for the act of reusing materials or products to create new items, reducing waste and resource consumption?",
+        "a": "Recycling",
+        "b": "Upcycling",
+        "c": "Downcycling",
+        "d": "Reclamation",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a potential ethical concern related to genetic engineering and biotechnology?",
+        "a": "Patenting genes and organisms",
+        "b": "Enhancing agricultural productivity",
+        "c": "Creating disease-resistant crops",
+        "d": "Expanding food production to address world hunger",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the loss of fertile land caused by factors like deforestation, overgrazing, and agricultural activities?",
+        "a": "Desertification",
+        "b": "Eutrophication",
+        "c": "Salinization",
+        "d": "Desert encroachment",
+        "r": "a"
+    },
+    {
+        "q": "The concept of 'environmental justice' addresses:",
+        "a": "The fair distribution of environmental benefits and burdens",
+        "b": "The implementation of international environmental treaties",
+        "c": "The need to prioritize economic development over environmental protection",
+        "d": "The protection of endangered species",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of non-point source pollution?",
+        "a": "Industrial discharge into a river",
+        "b": "Sewage treatment plant discharge",
+        "c": "Oil spill from a tanker",
+        "d": "Agricultural runoff",
+        "r": "d"
+    },
+    {
+        "q": "The principle of 'intergenerational equity' implies that:",
+        "a": "Future generations have the same rights as the present generation",
+        "b": "Future generations have no rights",
+        "c": "The present generation has no responsibility to future generations",
+        "d": "Future generations should pay for the mistakes of the present generation",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for a species that plays a crucial role in maintaining the structure and function of an ecosystem?",
+        "a": "Keystone species",
+        "b": "Indicator species",
+        "c": "Endemic species",
+        "d": "Invasive species",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT an example of a renewable resource?",
+        "a": "Freshwater",
+        "b": "Wind energy",
+        "c": "Timber",
+        "d": "Natural gas",
+        "r": "d"
+    },
+    {
+        "q": "What is the term for a legal, binding agreement between two or more parties to perform specific actions or refrain from certain activities?",
+        "a": "Protocol",
+        "b": "Treaty",
+        "c": "Accord",
+        "d": "Alliance",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a negative externality related to the environment?",
+        "a": "A company implementing eco-friendly practices",
+        "b": "A factory emitting pollutants that affect nearby communities",
+        "c": "A government subsidizing renewable energy technologies",
+        "d": "A household recycling paper and plastic",
+        "r": "b"
+    },
+    {
+        "q": "The concept of 'green design' focuses on:",
+        "a": "Reducing energy consumption in buildings",
+        "b": "Designing products with excessive packaging",
+        "c": "Increasing waste production through planned obsolescence",
+        "d": "Using toxic materials in manufacturing processes",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of turning waste materials into reusable objects or substances?",
+        "a": "Recycling",
+        "b": "Reusing",
+        "c": "Reducing",
+        "d": "Regenerating",
+        "r": "a"
+    }
+]
