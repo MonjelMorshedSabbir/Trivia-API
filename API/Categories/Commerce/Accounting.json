@@ -1,0 +1,4042 @@
+[
+    {
+        "q": "What is the primary purpose of accounting?",
+        "a": "to record financial transactions",
+        "b": "to analyze business operations",
+        "c": "to prepare tax returns",
+        "d": "to promote a company's products",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an external user of financial information?",
+        "a": "creditors",
+        "b": "managers",
+        "c": "employees",
+        "d": "suppliers",
+        "r": "a"
+    },
+    {
+        "q": "What is the accounting equation?",
+        "a": "Assets = Liabilities + Equity",
+        "b": "Assets = Liabilities - Equity",
+        "c": "Assets = Liabilities * Equity",
+        "d": "Assets = Liabilities / Equity",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement reports a company's financial position on a specific date?",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Retained Earnings",
+        "r": "b"
+    },
+    {
+        "q": "What does the term 'GAAP' stand for in accounting?",
+        "a": "Generally Accepted Accounting Principles",
+        "b": "Generally Applied Accounting Policies",
+        "c": "Generally Acknowledged Accounting Practices",
+        "d": "General Accounting and Analysis Procedures",
+        "r": "a"
+    },
+    {
+        "q": "A company purchased new equipment for $10,000. How would this transaction affect the accounting equation?",
+        "a": "Increase Assets",
+        "b": "Increase Liabilities",
+        "c": "Decrease Assets",
+        "d": "Decrease Equity",
+        "r": "a"
+    },
+    {
+        "q": "Which accounting principle states that expenses should be matched with the revenues they generate?",
+        "a": "Consistency",
+        "b": "Materiality",
+        "c": "Going Concern",
+        "d": "Matching",
+        "r": "d"
+    },
+    {
+        "q": "Which financial statement shows the net income or net loss of a company for a specific period?",
+        "a": "Balance Sheet",
+        "b": "Statement of Cash Flows",
+        "c": "Income Statement",
+        "d": "Statement of Changes in Equity",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of a trial balance in accounting?",
+        "a": "To identify errors in financial statements",
+        "b": "To calculate the company's profitability",
+        "c": "To record adjusting entries",
+        "d": "To prepare tax returns",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following accounts would typically be classified as a current liability?",
+        "a": "Accounts Receivable",
+        "b": "Prepaid Rent",
+        "c": "Notes Payable",
+        "d": "Buildings",
+        "r": "c"
+    },
+    {
+        "q": "Which accounting concept assumes that a company will continue to operate indefinitely?",
+        "a": "Materiality",
+        "b": "Consistency",
+        "c": "Going Concern",
+        "d": "Conservatism",
+        "r": "c"
+    },
+    {
+        "q": "If a company pays $5,000 cash for rent expenses for the next six months, how would this transaction affect the accounting equation?",
+        "a": "Decrease Assets",
+        "b": "Decrease Liabilities",
+        "c": "Increase Expenses",
+        "d": "Increase Equity",
+        "r": "a"
+    },
+    {
+        "q": "The revenue recognition principle dictates that revenue should be recognized when:",
+        "a": "Cash is received",
+        "b": "The product is delivered",
+        "c": "Services are rendered",
+        "d": "The customer is billed",
+        "r": "c"
+    },
+    {
+        "q": "Which financial statement shows the changes in equity for a specific period?",
+        "a": "Balance Sheet",
+        "b": "Income Statement",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Retained Earnings",
+        "r": "d"
+    },
+    {
+        "q": "A company purchases inventory on credit. How does this transaction affect the accounting equation?",
+        "a": "Increase Assets",
+        "b": "Increase Liabilities",
+        "c": "Decrease Assets",
+        "d": "Decrease Equity",
+        "r": "a"
+    },
+    {
+        "q": "Which accounting principle requires companies to use the same accounting methods and principles from period to period?",
+        "a": "Materiality",
+        "b": "Consistency",
+        "c": "Going Concern",
+        "d": "Matching",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the Income Statement in accounting?",
+        "a": "To report a company's financial position",
+        "b": "To show the changes in equity",
+        "c": "To present the company's cash flows",
+        "d": "To report revenues, expenses, and net income",
+        "r": "d"
+    },
+    {
+        "q": "Which financial statement reports the cash inflows and outflows of a company for a specific period?",
+        "a": "Balance Sheet",
+        "b": "Income Statement",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Retained Earnings",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following accounts is an example of an intangible asset?",
+        "a": "Buildings",
+        "b": "Inventory",
+        "c": "Accounts Receivable",
+        "d": "Goodwill",
+        "r": "d"
+    },
+    {
+        "q": "If a company collects $1,000 in cash from a customer, how would this transaction affect the accounting equation?",
+        "a": "Increase Assets",
+        "b": "Decrease Liabilities",
+        "c": "Increase Revenue",
+        "d": "Decrease Equity",
+        "r": "a"
+    },
+    {
+        "q": "The matching principle requires that expenses be recorded:",
+        "a": "When cash is paid",
+        "b": "When they are incurred",
+        "c": "When they are approved",
+        "d": "When the product is sold",
+        "r": "b"
+    },
+    {
+        "q": "Which financial statement shows the changes in a company's cash balance for a specific period?",
+        "a": "Balance Sheet",
+        "b": "Income Statement",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Retained Earnings",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of the Balance Sheet in accounting?",
+        "a": "To report a company's financial position",
+        "b": "To show the changes in equity",
+        "c": "To present the company's cash flows",
+        "d": "To report revenues, expenses, and net income",
+        "r": "a"
+    },
+    {
+        "q": "A company borrows $20,000 from a bank. How does this transaction affect the accounting equation?",
+        "a": "Increase Assets",
+        "b": "Increase Liabilities",
+        "c": "Decrease Assets",
+        "d": "Decrease Equity",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following accounts would be classified as a long-term liability?",
+        "a": "Notes Payable",
+        "b": "Prepaid Rent",
+        "c": "Accounts Payable",
+        "d": "Supplies",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the Statement of Cash Flows in accounting?",
+        "a": "To report a company's financial position",
+        "b": "To show the changes in equity",
+        "c": "To present the company's cash flows",
+        "d": "To report the cash inflows and outflows",
+        "r": "d"
+    },
+    {
+        "q": "Under the accrual basis of accounting, when is revenue recognized?",
+        "a": "When cash is received",
+        "b": "When the product is delivered",
+        "c": "When services are rendered",
+        "d": "When the customer is billed",
+        "r": "c"
+    },
+    {
+        "q": "Which financial statement shows the distribution of dividends to shareholders?",
+        "a": "Balance Sheet",
+        "b": "Income Statement",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Retained Earnings",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the Statement of Retained Earnings in accounting?",
+        "a": "To report a company's financial position",
+        "b": "To show the changes in equity",
+        "c": "To present the company's cash flows",
+        "d": "To report changes in retained earnings",
+        "r": "d"
+    },
+    {
+        "q": "A company purchases inventory for $1,000 on credit. How does this transaction affect the accounting equation?",
+        "a": "Increase Assets",
+        "b": "Increase Liabilities",
+        "c": "Decrease Assets",
+        "d": "Decrease Equity",
+        "r": "a"
+    },
+    {
+        "q": "Which accounting principle requires companies to report all relevant information that could affect users' decisions?",
+        "a": "Materiality",
+        "b": "Consistency",
+        "c": "Full Disclosure",
+        "d": "Going Concern",
+        "r": "c"
+    },
+    {
+        "q": "If a company pays $2,000 in cash for advertising expenses, how would this transaction affect the accounting equation?",
+        "a": "Decrease Assets",
+        "b": "Decrease Liabilities",
+        "c": "Decrease Expenses",
+        "d": "Increase Equity",
+        "r": "a"
+    },
+    {
+        "q": "The revenue recognition principle requires that revenue should be recognized when:",
+        "a": "Cash is received",
+        "b": "The product is delivered",
+        "c": "Services are rendered",
+        "d": "The customer places an order",
+        "r": "c"
+    },
+    {
+        "q": "Which financial statement shows the beginning and ending balances of a company's retained earnings?",
+        "a": "Balance Sheet",
+        "b": "Income Statement",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Retained Earnings",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the Statement of Changes in Equity in accounting?",
+        "a": "To report a company's financial position",
+        "b": "To show the changes in equity",
+        "c": "To present the company's cash flows",
+        "d": "To report changes in equity over a period",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following accounts is a contra account?",
+        "a": "Accounts Payable",
+        "b": "Accumulated Depreciation",
+        "c": "Prepaid Expenses",
+        "d": "Inventory",
+        "r": "b"
+    },
+    {
+        "q": "If a company collects $500 in cash from a customer for services to be provided in the future, how would this transaction affect the accounting equation?",
+        "a": "Increase Assets",
+        "b": "Decrease Liabilities",
+        "c": "Increase Revenue",
+        "d": "Decrease Equity",
+        "r": "a"
+    },
+    {
+        "q": "The revenue recognition principle requires that revenue should be recorded:",
+        "a": "When cash is received",
+        "b": "When the product is delivered",
+        "c": "When services are rendered",
+        "d": "When the customer is billed",
+        "r": "c"
+    },
+    {
+        "q": "Which financial statement shows the net cash provided by operating, investing, and financing activities?",
+        "a": "Balance Sheet",
+        "b": "Income Statement",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Retained Earnings",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of the Cash Flow Statement in accounting?",
+        "a": "To report a company's financial position",
+        "b": "To show the changes in equity",
+        "c": "To present the company's cash flows",
+        "d": "To report the cash inflows and outflows",
+        "r": "d"
+    },
+    {
+        "q": "A company receives $3,000 in cash for services provideHow does this transaction affect the accounting equation?",
+        "a": "Increase Assets",
+        "b": "Decrease Liabilities",
+        "c": "Increase Revenue",
+        "d": "Increase Equity",
+        "r": "a"
+    },
+    {
+        "q": "Which accounting principle requires companies to report assets at their historical cost?",
+        "a": "Materiality",
+        "b": "Consistency",
+        "c": "Historical Cost",
+        "d": "Going Concern",
+        "r": "c"
+    },
+    {
+        "q": "If a company purchases equipment for $2,000 on credit, how does this transaction affect the accounting equation?",
+        "a": "Increase Assets",
+        "b": "Increase Liabilities",
+        "c": "Decrease Assets",
+        "d": "Decrease Equity",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following accounts is an example of a current asset?",
+        "a": "Buildings",
+        "b": "Prepaid Rent",
+        "c": "Accounts Payable",
+        "d": "Cash",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the Retained Earnings account in accounting?",
+        "a": "To report a company's financial position",
+        "b": "To show the changes in equity",
+        "c": "To present the company's cash flows",
+        "d": "To report the company's profitability",
+        "r": "d"
+    },
+    {
+        "q": "Under the accrual basis of accounting, when are expenses recognized?",
+        "a": "When cash is paid",
+        "b": "When they are incurred",
+        "c": "When they are approved",
+        "d": "When the product is sold",
+        "r": "b"
+    },
+    {
+        "q": "Which financial statement shows the financial performance of a company for a specific period?",
+        "a": "Balance Sheet",
+        "b": "Income Statement",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Retained Earnings",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the Income Summary account in accounting?",
+        "a": "To report a company's financial position",
+        "b": "To show the changes in equity",
+        "c": "To close temporary accounts at year-end",
+        "d": "To report changes in retained earnings",
+        "r": "c"
+    },
+    {
+        "q": "A company pays $1,000 cash for insurance coverage for the next six months. How would this transaction affect the accounting equation?",
+        "a": "Decrease Assets",
+        "b": "Decrease Liabilities",
+        "c": "Increase Expenses",
+        "d": "Decrease Equity",
+        "r": "a"
+    },
+    {
+        "q": "Which accounting principle requires companies to record expenses when incurred?",
+        "a": "Materiality",
+        "b": "Consistency",
+        "c": "Matching",
+        "d": "Going Concern",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of accounting?",
+        "a": "Recording financial transactions",
+        "b": "Preparing financial statements",
+        "c": "Forecasting future business trends",
+        "d": "Conducting market research",
+        "r": "a"
+    },
+    {
+        "q": "Which accounting principle deals with",
+        "a": "Going Concern",
+        "b": "Matching Principle",
+        "c": "Materiality",
+        "d": "Consistency",
+        "r": "b"
+    },
+    {
+        "q": "Which financial statement shows the",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Changes in Equity",
+        "r": "a"
+    },
+    {
+        "q": "Which account type is shown on the",
+        "a": "Asset",
+        "b": "Liability",
+        "c": "Equity",
+        "d": "Revenue",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula for calculating",
+        "a": "Current Ratio = Current Assets / Current",
+        "b": "Quick Ratio = (Current Assets - Inventory)",
+        "c": "Debt-to-Equity Ratio = Total Debt / Total",
+        "d": "Return on Assets (RO = Net Income /",
+        "r": "a"
+    },
+    {
+        "q": "Which accounting concept states that",
+        "a": "Going Concern",
+        "b": "Consistency",
+        "c": "Materiality",
+        "d": "Conservatism",
+        "r": "d"
+    },
+    {
+        "q": "What is the main purpose of the Income",
+        "a": "To determine the company's ownership",
+        "b": "To analyze the company's profitability",
+        "c": "To show the company's financial position",
+        "d": "To assess the company's cash flows",
+        "r": "b"
+    },
+    {
+        "q": "Which financial statement provides",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Changes in Equity",
+        "r": "c"
+    },
+    {
+        "q": "What does the term \"GAAP\" stand for?",
+        "a": "Generally Accepted Accounting Principles",
+        "b": "Generally Applied Accounting Procedures",
+        "c": "Generally Acknowledged Auditing Procedures",
+        "d": "Generally Authorized Accounting",
+        "r": "a"
+    },
+    {
+        "q": "What type of account represents the",
+        "a": "Revenue",
+        "b": "Expense",
+        "c": "Asset",
+        "d": "Liability",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the statement",
+        "a": "To show the company's profit or loss",
+        "b": "To report the company's financial position",
+        "c": "To disclose the company's cash inflows",
+        "d": "To summarize changes in equity",
+        "r": "a"
+    },
+    {
+        "q": "Which accounting principle requires",
+        "a": "Going Concern",
+        "b": "Materiality",
+        "c": "Conservatism",
+        "d": "Consistency",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of the",
+        "a": "To analyze the company's cash flows",
+        "b": "To show the company's financial position",
+        "c": "To report the company's profit or loss",
+        "d": "To disclose the company's equity",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of an intangible asset?",
+        "a": "goodwill",
+        "b": "cash",
+        "c": "inventory",
+        "d": "equipment",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of financial accounting?",
+        "a": "to record day-to-day expenses",
+        "b": "to predict future stock prices",
+        "c": "to manage human resources",
+        "d": "to provide financial information to external users",
+        "r": "d"
+    },
+    {
+        "q": "Which financial statement shows a company's revenues and expenses over a period of time?",
+        "a": "balance sheet",
+        "b": "income statement",
+        "c": "cash flow statement",
+        "d": "statement of retained earnings",
+        "r": "b"
+    },
+    {
+        "q": "What is the accounting equation?",
+        "a": "Assets = Liabilities + Owner's Equity",
+        "b": "Assets = Liabilities - Owner's Equity",
+        "c": "Assets = Liabilities * Owner's Equity",
+        "d": "Assets = Liabilities / Owner's Equity",
+        "r": "a"
+    },
+    {
+        "q": "If a company pays $500 cash for office supplies, which accounts are affected?",
+        "a": "Cash and Office Supplies",
+        "b": "Office Supplies and Accounts Payable",
+        "c": "Cash and Accounts Receivable",
+        "d": "Office Supplies and Equipment",
+        "r": "a"
+    },
+    {
+        "q": "Which accounting principle states that expenses should be recognized in the same period as the revenues they helped generate?",
+        "a": "Matching Principle",
+        "b": "Revenue Recognition Principle",
+        "c": "Historical Cost Principle",
+        "d": "Conservatism Principle",
+        "r": "a"
+    },
+    {
+        "q": "What type of account is \"Accounts Payable\"?",
+        "a": "Asset",
+        "b": "Liability",
+        "c": "Equity",
+        "d": "Revenue",
+        "r": "b"
+    },
+    {
+        "q": "A company's net income is calculated as:",
+        "a": "Total Revenues - Total Expenses",
+        "b": "Total Assets - Total Liabilities",
+        "c": "Total Revenues + Total Expenses",
+        "d": "Total Liabilities - Total Assets",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of closing entries in accounting?",
+        "a": "To close the company's bank accounts",
+        "b": "To prepare financial statements",
+        "c": "To transfer net income to retained earnings",
+        "d": "To record daily transactions",
+        "r": "c"
+    },
+    {
+        "q": "Which financial statement shows the financial position of a company at a specific point in time?",
+        "a": "Cash Flow Statement",
+        "b": "Balance Sheet",
+        "c": "Income Statement",
+        "d": "Statement of Retained Earnings",
+        "r": "b"
+    },
+    {
+        "q": "When preparing financial statements, which principle states that assets should be recorded at their original cost?",
+        "a": "Conservatism Principle",
+        "b": "Cost Principle",
+        "c": "Revenue Recognition Principle",
+        "d": "Going Concern Principle",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula to calculate the current ratio?",
+        "a": "Current Assets / Current Liabilities",
+        "b": "Current Assets - Current Liabilities",
+        "c": "Current Assets * Current Liabilities",
+        "d": "Current Assets + Current Liabilities",
+        "r": "a"
+    },
+    {
+        "q": "If total assets are $100,000 and total liabilities are $40,000, what is the owner's equity?",
+        "a": "$60,000",
+        "b": "$140,000",
+        "c": "$40,000",
+        "d": "$100,000",
+        "r": "a"
+    },
+    {
+        "q": "Under the accrual basis of accounting, when are revenues recognized?",
+        "a": "When cash is received",
+        "b": "When goods are sold",
+        "c": "When an invoice is sent",
+        "d": "When they are earned",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the post-closing trial balance?",
+        "a": "To check for errors in the accounting records",
+        "b": "To prepare financial statements",
+        "c": "To record adjusting entries",
+        "d": "To record closing entries",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement reports changes in equity during a specific period?",
+        "a": "Income Statement",
+        "b": "Statement of Retained Earnings",
+        "c": "Cash Flow Statement",
+        "d": "Balance Sheet",
+        "r": "b"
+    },
+    {
+        "q": "If total liabilities are $50,000 and owner's equity is $30,000, what are the total assets?",
+        "a": "$50,000",
+        "b": "$80,000",
+        "c": "$20,000",
+        "d": "$30,000",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the statement of cash flows?",
+        "a": "To show the company's cash position",
+        "b": "To report revenues and expenses",
+        "c": "To reconcile net income with cash flows",
+        "d": "To summarize changes in equity",
+        "r": "a"
+    },
+    {
+        "q": "When a company purchases inventory on credit, which accounts are affected?",
+        "a": "Inventory and Cash",
+        "b": "Inventory and Accounts Payable",
+        "c": "Cash and Accounts Receivable",
+        "d": "Inventory and Equipment",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula for calculating the debt-to-equity ratio?",
+        "a": "Total Liabilities / Owner's Equity",
+        "b": "Total Liabilities - Owner's Equity",
+        "c": "Total Liabilities * Owner's Equity",
+        "d": "Total Liabilities + Owner's Equity",
+        "r": "a"
+    },
+    {
+        "q": "Under the cash basis of accounting, when are expenses recognized?",
+        "a": "When cash is paid",
+        "b": "When goods are sold",
+        "c": "When an invoice is sent",
+        "d": "When they are earned",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the trial balance in accounting?",
+        "a": "To check for errors in the accounting records",
+        "b": "To prepare financial statements",
+        "c": "To record adjusting entries",
+        "d": "To record closing entries",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement shows the change in cash during a period?",
+        "a": "Cash Flow Statement",
+        "b": "Balance Sheet",
+        "c": "Income Statement",
+        "d": "Statement of Retained Earnings",
+        "r": "a"
+    },
+    {
+        "q": "If total assets are $500,000 and owner's equity is $200,000, what are the total liabilities?",
+        "a": "$300,000",
+        "b": "$700,000",
+        "c": "$200,000",
+        "d": "$500,000",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of adjusting entries in accounting?",
+        "a": "To close the company's bank accounts",
+        "b": "To prepare financial statements",
+        "c": "To transfer net income to retained earnings",
+        "d": "To record daily transactions",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula to calculate the quick ratio?",
+        "a": "(Current Assets - Inventory) / Current Liabilities",
+        "b": "(Current Assets - Current Liabilities) / Inventory",
+        "c": "(Current Assets + Inventory) / Current Liabilities",
+        "d": "(Current Assets - Inventory) * Current Liabilities",
+        "r": "a"
+    },
+    {
+        "q": "Under the accrual basis of accounting, when are expenses recognized?",
+        "a": "When cash is paid",
+        "b": "When goods are sold",
+        "c": "When an invoice is sent",
+        "d": "When they are incurred",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the adjusted trial balance in accounting?",
+        "a": "To check for errors in the accounting records",
+        "b": "To prepare financial statements",
+        "c": "To record adjusting entries",
+        "d": "To record closing entries",
+        "r": "b"
+    },
+    {
+        "q": "Which financial statement reports the cash inflows and outflows from operating, investing, and financing activities?",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Statement of Retained Earnings",
+        "d": "Cash Flow Statement",
+        "r": "d"
+    },
+    {
+        "q": "If total liabilities are $80,000 and owner's equity is $120,000, what are the total assets?",
+        "a": "$80,000",
+        "b": "$40,000",
+        "c": "$200,000",
+        "d": "$120,000",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of the statement of retained earnings?",
+        "a": "To show the company's cash position",
+        "b": "To report revenues and expenses",
+        "c": "To reconcile net income with cash flows",
+        "d": "To summarize changes in equity",
+        "r": "d"
+    },
+    {
+        "q": "When a company pays rent in advance, which accounts are affected?",
+        "a": "Prepaid Rent and Cash",
+        "b": "Rent Expense and Cash",
+        "c": "Prepaid Rent and Accounts Payable",
+        "d": "Rent Expense and Equipment",
+        "r": "a"
+    },
+    {
+        "q": "Which accounting principle states that assets should be recorded at their market value?",
+        "a": "Conservatism Principle",
+        "b": "Cost Principle",
+        "c": "Revenue Recognition Principle",
+        "d": "Fair Value Principle",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is NOT a characteristic of managerial accounting?",
+        "a": "Emphasizes historical financial data",
+        "b": "Utilizes both financial and non-financial data",
+        "c": "Provides information for internal decision-making",
+        "d": "Aims to help managers plan, control, and evaluate activities",
+        "r": "a"
+    },
+    {
+        "q": "The main purpose of cost accounting is to:",
+        "a": "Determine the selling price of products",
+        "b": "Allocate costs to products and services",
+        "c": "Track financial transactions",
+        "d": "Prepare financial statements",
+        "r": "b"
+    },
+    {
+        "q": "Direct materials and direct labor are examples of:",
+        "a": "Indirect costs",
+        "b": "Variable costs",
+        "c": "Fixed costs",
+        "d": "Prime costs",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of a period cost?",
+        "a": "Depreciation of factory equipment",
+        "b": "Direct materials used in production",
+        "c": "Direct labor costs",
+        "d": "Sales commission expenses",
+        "r": "d"
+    },
+    {
+        "q": "The formula to calculate the predetermined overhead rate is:",
+        "a": "Estimated total manufacturing overhead / Actual activity level",
+        "b": "Estimated total manufacturing overhead / Estimated activity level",
+        "c": "Actual total manufacturing overhead / Estimated activity level",
+        "d": "Actual total manufacturing overhead / Actual activity level",
+        "r": "b"
+    },
+    {
+        "q": "Under absorption costing, fixed manufacturing overhead is treated as a __________ cost.",
+        "a": "Product cost",
+        "b": "Period cost",
+        "c": "Variable cost",
+        "d": "Sunk cost",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a variable cost?",
+        "a": "Rent expense",
+        "b": "Depreciation expense",
+        "c": "Direct materials cost",
+        "d": "Property taxes",
+        "r": "c"
+    },
+    {
+        "q": "A cost that remains constant in total but varies per unit with changes in activity level is called:",
+        "a": "Variable cost",
+        "b": "Fixed cost",
+        "c": "Mixed cost",
+        "d": "Step cost",
+        "r": "b"
+    },
+    {
+        "q": "The cost of goods sold for a merchandising company includes:",
+        "a": "Beginning finished goods inventory and cost of goods manufactured",
+        "b": "Ending finished goods inventory and cost of goods manufactured",
+        "c": "Beginning finished goods inventory and ending finished goods inventory",
+        "d": "Beginning finished goods inventory and purchases",
+        "r": "d"
+    },
+    {
+        "q": "The contribution margin per unit is calculated as:",
+        "a": "Selling price - Variable cost per unit",
+        "b": "Selling price - Total cost per unit",
+        "c": "Variable cost per unit - Selling price",
+        "d": "Total cost per unit - Selling price",
+        "r": "a"
+    },
+    {
+        "q": "Cost of goods manufactured can be calculated using the following formula:",
+        "a": "Beginning work in process inventory + Total manufacturing costs - Ending work in process inventory",
+        "b": "Beginning work in process inventory - Total manufacturing costs + Ending work in process inventory",
+        "c": "Beginning work in process inventory + Total manufacturing costs + Ending work in process inventory",
+        "d": "Beginning work in process inventory - Total manufacturing costs - Ending work in process inventory",
+        "r": "a"
+    },
+    {
+        "q": "The contribution margin ratio is calculated as:",
+        "a": "Contribution margin per unit / Selling price per unit",
+        "b": "Contribution margin per unit / Total cost per unit",
+        "c": "Contribution margin per unit / Variable cost per unit",
+        "d": "Contribution margin per unit / Total manufacturing cost per unit",
+        "r": "a"
+    },
+    {
+        "q": "The primary goal of cost management is to:",
+        "a": "Reduce costs",
+        "b": "Increase revenues",
+        "c": "Improve customer satisfaction",
+        "d": "Maximize profit",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following statements about job order costing is true?",
+        "a": "It is used by process manufacturing companies",
+        "b": "Costs are accumulated by individual jobs or orders",
+        "c": "Only direct materials are included in the cost record",
+        "d": "It is a costing method used exclusively in service industries",
+        "r": "b"
+    },
+    {
+        "q": "When actual overhead costs are greater than applied overhead costs, it results in:",
+        "a": "Underapplied overhead",
+        "b": "Overapplied overhead",
+        "c": "Zero applied overhead",
+        "d": "Overhead variance",
+        "r": "b"
+    },
+    {
+        "q": "Relevant costs are those costs that:",
+        "a": "Are incurred in the past",
+        "b": "Will be incurred in the future",
+        "c": "Do not vary with activity levels",
+        "d": "Do not differ among alternative courses of action",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a step in the budgetary control process?",
+        "a": "Developing long-term financial plans",
+        "b": "Preparing financial statements",
+        "c": "Measuring actual performance",
+        "d": "Implementing corrective actions",
+        "r": "c"
+    },
+    {
+        "q": "A company has total revenues of $200,000, variable costs of $100,000, and fixed costs of $60,000.",
+        "a": "$100,000",
+        "b": "$60,000",
+        "c": "$40,000",
+        "d": "$140,000",
+        "r": "d"
+    },
+    {
+        "q": "Cost behavior analysis is essential for:",
+        "a": "Preparing financial statements",
+        "b": "Setting prices of products and services",
+        "c": "Reporting financial performance",
+        "d": "Allocating costs to departments",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a sunk cost?",
+        "a": "The cost of raw materials that will be used in the next production run",
+        "b": "The cost of research and development for a new product",
+        "c": "The cost of training for new employees",
+        "d": "The cost of a machine purchased three years ago that is no longer used",
+        "r": "d"
+    },
+    {
+        "q": "An increase in the level of activity will generally result in:",
+        "a": "A decrease in fixed costs per unit",
+        "b": "An increase in total variable costs",
+        "c": "A decrease in total fixed costs",
+        "d": "No change in total costs",
+        "r": "b"
+    },
+    {
+        "q": "Incremental analysis is used to:",
+        "a": "Evaluate the financial performance of a company",
+        "b": "Make decisions by considering the potential impact of a change on costs and revenues",
+        "c": "Allocate overhead costs to products",
+        "d": "Prepare financial statements",
+        "r": "b"
+    },
+    {
+        "q": "What is the break-even point in units if the fixed costs are $10,000, the selling price per unit is $50, and the variable cost per unit is $30?",
+        "a": "200 units",
+        "b": "500 units",
+        "c": "333 units",
+        "d": "1,000 units",
+        "r": "a"
+    },
+    {
+        "q": "The margin of safety is calculated as:",
+        "a": "Actual sales revenue - Break-even sales revenue",
+        "b": "Break-even sales revenue - Actual sales revenue",
+        "c": "Target sales revenue - Actual sales revenue",
+        "d": "Actual sales revenue - Target sales revenue",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following costs is an example of an opportunity cost?",
+        "a": "The cost of raw materials used in production",
+        "b": "The cost of machinery used in the manufacturing process",
+        "c": "The cost of hiring a new employee",
+        "d": "The cost of a new product development project",
+        "r": "d"
+    },
+    {
+        "q": "A cost that can be easily and directly traced to a specific cost object is called a:",
+        "a": "Direct cost",
+        "b": "Indirect cost",
+        "c": "Variable cost",
+        "d": "Sunk cost",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a financial budget?",
+        "a": "Sales budget",
+        "b": "Production budget",
+        "c": "Cash budget",
+        "d": "Manufacturing overhead budget",
+        "r": "c"
+    },
+    {
+        "q": "An unfavorable variance occurs when:",
+        "a": "Actual costs are less than budgeted costs",
+        "b": "Actual revenues are less than budgeted revenues",
+        "c": "Actual costs are greater than budgeted costs",
+        "d": "Actual revenues are greater than budgeted revenues",
+        "r": "c"
+    },
+    {
+        "q": "The fixed overhead volume variance measures the effect of:",
+        "a": "Changes in the selling price on profit",
+        "b": "Changes in the level of activity on fixed overhead costs",
+        "c": "Changes in variable costs on profit",
+        "d": "Changes in the level of activity on variable costs",
+        "r": "b"
+    },
+    {
+        "q": "A company sold 1,000 units of a product and incurred a variable cost of $8 per unit and a total cost of $12 per unit (variable cost plus fixed cost). What is the total fixed cost incurred by the company?",
+        "a": "$1,000",
+        "b": "$4,000",
+        "c": "$8,000",
+        "d": "$12,000",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following statements is true about cost-volume-profit (CVP) analysis?",
+        "a": "Fixed costs per unit increase as activity levels increase",
+        "b": "Variable costs per unit increase as activity levels increase",
+        "c": "Total costs remain constant at all activity levels",
+        "d": "Total costs change proportionately with changes in activity levels",
+        "r": "c"
+    },
+    {
+        "q": "The cost of goods available for sale is calculated as:",
+        "a": "Beginning finished goods inventory + Cost of goods sold",
+        "b": "Beginning finished goods inventory + Cost of goods manufactured",
+        "c": "Beginning work in process inventory + Cost of goods manufactured",
+        "d": "Ending finished goods inventory + Cost of goods sold",
+        "r": "b"
+    },
+    {
+        "q": "What financial statement reports a company's revenues and expenses?",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Cash Flow Statement",
+        "d": "Statement of Retained Earnings",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a long-term liability?",
+        "a": "Notes Payable",
+        "b": "Accounts Receivable",
+        "c": "Prepaid Expenses",
+        "d": "Accounts Payable",
+        "r": "a"
+    },
+    {
+        "q": "What category do assets like machinery and equipment fall into?",
+        "a": "Current Assets",
+        "b": "Long-term Assets",
+        "c": "Current Liabilities",
+        "d": "Long-term Liabilities",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula for calculating Net Income?",
+        "a": "Revenues - Expenses",
+        "b": "Assets - Liabilities",
+        "c": "Assets + Liabilities",
+        "d": "Revenues + Expenses",
+        "r": "a"
+    },
+    {
+        "q": "If a company's expenses exceed its revenues, what will be the result?",
+        "a": "Net Loss",
+        "b": "Net Income",
+        "c": "No effect",
+        "d": "Cannot determine",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a current liability?",
+        "a": "Accounts Receivable",
+        "b": "Bonds Payable",
+        "c": "Mortgage Payable",
+        "d": "Prepaid Rent",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the Income Statement?",
+        "a": "To show the financial position of a company",
+        "b": "To show the revenues and expenses of a company",
+        "c": "To show the changes in equity of a company",
+        "d": "To show the cash flows of a company",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following represents an increase in owner's equity?",
+        "a": "Net Loss",
+        "b": "Additional Investment",
+        "c": "Withdrawal of Cash",
+        "d": "Decrease in Liabilities",
+        "r": "b"
+    },
+    {
+        "q": "What financial statement reflects the inflow and outflow of cash during a period?",
+        "a": "Cash Flow Statement",
+        "b": "Income Statement",
+        "c": "Balance Sheet",
+        "d": "Statement of Retained Earnings",
+        "r": "a"
+    },
+    {
+        "q": "When a company pays off a portion of its long-term debt, what happens to its total liabilities?",
+        "a": "Decreases",
+        "b": "Increases",
+        "c": "Remains unchanged",
+        "d": "Cannot determine",
+        "r": "a"
+    },
+    {
+        "q": "Which accounting principle requires expenses to be recorded in the same period as the related revenues?",
+        "a": "Matching Principle",
+        "b": "Cost Principle",
+        "c": "Revenue Recognition Principle",
+        "d": "Conservatism Principle",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for calculating Gross Profit?",
+        "a": "Revenues - Expenses",
+        "b": "Revenues - Cost of Goods Sold",
+        "c": "Net Income - Taxes",
+        "d": "Net Income - Dividends",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a long-term asset?",
+        "a": "Inventory",
+        "b": "Accounts Receivable",
+        "c": "Land",
+        "d": "Prepaid Rent",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of the Balance Sheet?",
+        "a": "To show the financial position of a company",
+        "b": "To show the revenues and expenses of a company",
+        "c": "To show the changes in equity of a company",
+        "d": "To show the cash flows of a company",
+        "r": "a"
+    },
+    {
+        "q": "Which accounting principle states that assets should be recorded at their original cost?",
+        "a": "Cost Principle",
+        "b": "Matching Principle",
+        "c": "Revenue Recognition Principle",
+        "d": "Conservatism Principle",
+        "r": "a"
+    },
+    {
+        "q": "What financial statement shows the net increase or decrease in retained earnings?",
+        "a": "Statement of Retained Earnings",
+        "b": "Income Statement",
+        "c": "Cash Flow Statement",
+        "d": "Balance Sheet",
+        "r": "a"
+    },
+    {
+        "q": "What does the Current Ratio measure?",
+        "a": "A company's liquidity",
+        "b": "A company's profitability",
+        "c": "A company's solvency",
+        "d": "A company's efficiency",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is considered a non-current liability?",
+        "a": "Accounts Payable",
+        "b": "Notes Payable",
+        "c": "Accounts Receivable",
+        "d": "Salaries Payable",
+        "r": "b"
+    },
+    {
+        "q": "Which financial statement shows the overall profitability of a company?",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Retained Earnings",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for calculating Total Liabilities?",
+        "a": "Current Assets - Current Liabilities",
+        "b": "Total Assets - Equity",
+        "c": "Current Assets + Non-current Assets",
+        "d": "Total Assets - Total Equity",
+        "r": "d"
+    },
+    {
+        "q": "If a company's revenues are $100,000 and its expenses are $80,000, what is its Net Income?",
+        "a": "$20,000",
+        "b": "$180,000",
+        "c": "$100,000",
+        "d": "$80,000",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the Balance Sheet?",
+        "a": "To show the financial position of a company",
+        "b": "To show the revenues and expenses of a company",
+        "c": "To show the changes in equity of a company",
+        "d": "To show the cash flows of a company",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of a cash flow statement?",
+        "a": "To assess a company's profitability",
+        "b": "To evaluate a company's financial position",
+        "c": "To present a summary of cash inflows and outflows",
+        "d": "To calculate a company's market share",
+        "r": "c"
+    },
+    {
+        "q": "Which financial statement provides information about cash flows from operating activities?",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Cash Flow Statement",
+        "d": "Statement of Retained Earnings",
+        "r": "c"
+    },
+    {
+        "q": "Which activity in the cash flow statement involves the acquisition and disposal of long-term assets?",
+        "a": "Investing Activities",
+        "b": "Financing Activities",
+        "c": "Operating Activities",
+        "d": "Non-Cash Activities",
+        "r": "a"
+    },
+    {
+        "q": "An increase in accounts receivable would result in which type of cash flow?",
+        "a": "Cash Inflow",
+        "b": "Cash Outflow",
+        "c": "No effect on cash flow",
+        "d": "Cannot be determined",
+        "r": "b"
+    },
+    {
+        "q": "Which category of cash flows includes interest paid on loans and dividends paid to shareholders?",
+        "a": "Investing Activities",
+        "b": "Operating Activities",
+        "c": "Financing Activities",
+        "d": "Non-Cash Activities",
+        "r": "c"
+    },
+    {
+        "q": "If a company's cash flow from operating activities is negative, what does it indicate?",
+        "a": "The company is in a strong financial position",
+        "b": "The company is profitable",
+        "c": "The company is experiencing cash flow problems",
+        "d": "The company is not generating revenue effectively",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula to calculate the cash flow from operating activities using the indirect method?",
+        "a": "Net Income + Non-cash Expenses - Non-cash Revenues",
+        "b": "Net Income + Operating Expenses - Operating Revenues",
+        "c": "Net Income + Cash Expenses - Cash Revenues",
+        "d": "Net Income + Cash Inflows - Cash Outflows",
+        "r": "a"
+    },
+    {
+        "q": "How are dividends received from investments classified in the cash flow statement?",
+        "a": "Cash Flow from Operating Activities",
+        "b": "Cash Flow from Investing Activities",
+        "c": "Cash Flow from Financing Activities",
+        "d": "Cash Flow from Non-Cash Activities",
+        "r": "b"
+    },
+    {
+        "q": "Which type of cash flow involves the acquisition and sale of trading securities?",
+        "a": "Investing Activities",
+        "b": "Financing Activities",
+        "c": "Operating Activities",
+        "d": "Non-Cash Activities",
+        "r": "a"
+    },
+    {
+        "q": "An increase in accounts payable would result in which type of cash flow?",
+        "a": "Cash Inflow",
+        "b": "Cash Outflow",
+        "c": "No effect on cash flow",
+        "d": "Cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "What does a positive cash flow from financing activities indicate?",
+        "a": "The company is profitable",
+        "b": "The company is experiencing cash flow problems",
+        "c": "The company is raising capital through debt or equity",
+        "d": "The company is investing in long-term assets",
+        "r": "c"
+    },
+    {
+        "q": "Under which method of preparing the cash flow statement, interest received is classified as an operating activity?",
+        "a": "Direct Method",
+        "b": "Indirect Method",
+        "c": "Both methods",
+        "d": "None of the above",
+        "r": "a"
+    },
+    {
+        "q": "Which category of cash flows includes the purchase of inventory and payment of salaries?",
+        "a": "Operating Activities",
+        "b": "Investing Activities",
+        "c": "Financing Activities",
+        "d": "Non-Cash Activities",
+        "r": "a"
+    },
+    {
+        "q": "How are changes in cash flow due to foreign exchange rates reported in the cash flow statement?",
+        "a": "As a separate line item within operating activities",
+        "b": "As a separate section within the financing activities",
+        "c": "As a separate section within the investing activities",
+        "d": "As a separate section within the non-cash activities",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula to calculate the cash flow from financing activities?",
+        "a": "Net Income + Net Financing Cash Flows",
+        "b": "Net Income + Net Investing Cash Flows",
+        "c": "Net Income + Net Operating Cash Flows",
+        "d": "Net Income + Net Cash Flows",
+        "r": "d"
+    },
+    {
+        "q": "What does a negative cash flow from investing activities indicate?",
+        "a": "The company is profitable",
+        "b": "The company is experiencing cash flow problems",
+        "c": "The company is divesting its long-term assets",
+        "d": "The company is not generating revenue effectively",
+        "r": "b"
+    },
+    {
+        "q": "Under which method of preparing the cash flow statement, interest paid is classified as an operating activity?",
+        "a": "Direct Method",
+        "b": "Indirect Method",
+        "c": "Both methods",
+        "d": "None of the above",
+        "r": "b"
+    },
+    {
+        "q": "Which type of cash flow involves the issuance and repurchase of the company's own stock?",
+        "a": "Financing Activities",
+        "b": "Investing Activities",
+        "c": "Operating Activities",
+        "d": "Non-Cash Activities",
+        "r": "a"
+    },
+    {
+        "q": "An increase in prepaid expenses would result in which type of cash flow?",
+        "a": "Cash Inflow",
+        "b": "Cash Outflow",
+        "c": "No effect on cash flow",
+        "d": "Cannot be determined",
+        "r": "c"
+    },
+    {
+        "q": "What does a negative cash flow from financing activities indicate?",
+        "a": "The company is profitable",
+        "b": "The company is experiencing cash flow problems",
+        "c": "The company is raising capital through debt or equity",
+        "d": "The company is investing in long-term assets",
+        "r": "b"
+    },
+    {
+        "q": "Under which method of preparing the cash flow statement, dividends paid is classified as an operating activity?",
+        "a": "Direct Method",
+        "b": "Indirect Method",
+        "c": "Both methods",
+        "d": "None of the above",
+        "r": "b"
+    },
+    {
+        "q": "Which category of cash flows includes the issuance and repayment of long-term debt?",
+        "a": "Operating Activities",
+        "b": "Investing Activities",
+        "c": "Financing Activities",
+        "d": "Non-Cash Activities",
+        "r": "c"
+    },
+    {
+        "q": "How are changes in cash flow due to changes in fair value reported in the cash flow statement?",
+        "a": "As a separate line item within operating activities",
+        "b": "As a separate section within the financing activities",
+        "c": "As a separate section within the investing activities",
+        "d": "As a separate section within the non-cash activities",
+        "r": "d"
+    },
+    {
+        "q": "What is the formula to calculate the cash flow from investing activities using the indirect method?",
+        "a": "Net Income + Non-cash Expenses - Non-cash Revenues",
+        "b": "Net Income + Operating Expenses - Operating Revenues",
+        "c": "Net Income + Cash Expenses - Cash Revenues",
+        "d": "Net Income + Cash Inflows - Cash Outflows",
+        "r": "d"
+    },
+    {
+        "q": "Which type of cash flow involves the purchase and sale of property, plant, and equipment?",
+        "a": "Investing Activities",
+        "b": "Financing Activities",
+        "c": "Operating Activities",
+        "d": "Non-Cash Activities",
+        "r": "a"
+    },
+    {
+        "q": "An increase in inventory would result in which type of cash flow?",
+        "a": "Cash Inflow",
+        "b": "Cash Outflow",
+        "c": "No effect on cash flow",
+        "d": "Cannot be determined",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary difference between a merchandising business and a service business?",
+        "a": "The method of accounting used",
+        "b": "The type of products sold",
+        "c": "The way they market their products",
+        "d": "The nature of their revenue",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a characteristic of a merchandising business?",
+        "a": "Provides intangible services",
+        "b": "Sells goods to consumers",
+        "c": "Offers professional advice",
+        "d": "Charges for time spent on projects",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the cost of goods sold (COGS) account?",
+        "a": "To record the cost of merchandise sold",
+        "b": "To track operating expenses",
+        "c": "To calculate net income",
+        "d": "To record sales revenue",
+        "r": "a"
+    },
+    {
+        "q": "In a perpetual inventory system, when is the cost of goods sold recorded?",
+        "a": "At the end of the accounting period",
+        "b": "At the time of purchase",
+        "c": "At the time of sale",
+        "d": "At the end of the fiscal year",
+        "r": "c"
+    },
+    {
+        "q": "Which inventory costing method assumes that the first items purchased are the first ones sold?",
+        "a": "LIFO",
+        "b": "FIFO",
+        "c": "Weighted Average",
+        "d": "Specific Identification",
+        "r": "b"
+    },
+    {
+        "q": "Under the perpetual inventory system, which accounts are updated at the time of each sale?",
+        "a": "Inventory and Cost of Goods Sold",
+        "b": "Cost of Goods Sold and Accounts Payable",
+        "c": "Accounts Receivable and Sales Revenue",
+        "d": "Sales Revenue and Inventory",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not an operating expense for a merchandising business?",
+        "a": "Advertising expenses",
+        "b": "Cost of goods sold",
+        "c": "Utilities expenses",
+        "d": "Salaries and wages",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula to calculate Gross Profit?",
+        "a": "Sales Revenue - Cost of Goods Sold",
+        "b": "Sales Revenue - Operating Expenses",
+        "c": "Net Income - Operating Expenses",
+        "d": "Net Income - Cost of Goods Sold",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement reports the net income or net loss for a specific period?",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Retained Earnings",
+        "r": "a"
+    },
+    {
+        "q": "Which method assumes that the first items purchased are the first to be sold?",
+        "a": "First-In, First-Out (FIFO)",
+        "b": "Last-In, First-Out (LIFO)",
+        "c": "Weighted Average Cost Method (WACM)",
+        "d": "Specific Identification Method",
+        "r": "a"
+    },
+    {
+        "q": "Under FIFO, what happens to the cost of goods sold in times of inflation?",
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "It remains the same",
+        "d": "It is not affected",
+        "r": "a"
+    },
+    {
+        "q": "LIFO is banned by the International Financial Reporting Standards (IFRS).",
+        "a": "FALSE",
+        "b": "TRUE",
+        "c": "-",
+        "d": "-",
+        "r": "b"
+    },
+    {
+        "q": "What happens to the inventory value under the LIFO method during periods of inflation?",
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains the same",
+        "d": "Cannot be determined",
+        "r": "b"
+    },
+    {
+        "q": "Which method calculates the average cost of all units in stock and assigns it to both ending inventory and cost of goods sold?",
+        "a": "Weighted Average Cost Method (WACM)",
+        "b": "First-In, First-Out (FIFO)",
+        "c": "Last-In, First-Out (LIFO)",
+        "d": "Specific Identification Method",
+        "r": "a"
+    },
+    {
+        "q": "Which inventory costing method assumes that the last items purchased are the first to be sold?",
+        "a": "Last-In, First-Out (LIFO)",
+        "b": "First-In, First-Out (FIFO)",
+        "c": "Weighted Average Cost Method (WACM)",
+        "d": "Specific Identification Method",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the cost of goods sold under LIFO during periods of rising prices?",
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains the same",
+        "d": "Cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "The FIFO method is more suitable for companies dealing with perishable goods.",
+        "a": "FALSE",
+        "b": "TRUE",
+        "c": "-",
+        "d": "-",
+        "r": "b"
+    },
+    {
+        "q": "Which inventory costing method is not acceptable under International Financial Reporting Standards (IFRS)?",
+        "a": "LIFO",
+        "b": "Weighted Average Cost Method (WACM)",
+        "c": "Specific Identification Method",
+        "d": "FIFO",
+        "r": "a"
+    },
+    {
+        "q": "The specific identification method is commonly used when dealing with homogeneous products.",
+        "a": "FALSE",
+        "b": "TRUE",
+        "c": "-",
+        "d": "-",
+        "r": "b"
+    },
+    {
+        "q": "What is the main advantage of using the LIFO method?",
+        "a": "Reduced tax liability",
+        "b": "Reduced risk of obsolescence",
+        "c": "Simplicity in calculations",
+        "d": "Increased liquidity",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the cost of goods sold under the weighted average cost method during periods of rising prices?",
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains the same",
+        "d": "Cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "Which inventory valuation method is based on the assumption that the cost of goods sold comes from the latest purchases?",
+        "a": "LIFO",
+        "b": "FIFO",
+        "c": "Weighted Average Cost Method (WACM)",
+        "d": "Specific Identification Method",
+        "r": "a"
+    },
+    {
+        "q": "Under the weighted average cost method, how is the average cost per unit calculated?",
+        "a": "Total cost of goods available for sale ÷ Total units available for sale",
+        "b": "Total units purchased ÷ Total cost of goods available for sale",
+        "c": "Total units available for sale ÷ Total cost of goods purchased",
+        "d": "Total cost of goods available for sale ÷ Total units purchased",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the ending inventory value under the LIFO method during periods of inflation?",
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains the same",
+        "d": "Cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "The FIFO method assumes that the first items purchased are the first to be sold.",
+        "a": "FALSE",
+        "b": "TRUE",
+        "c": "-",
+        "d": "-",
+        "r": "b"
+    },
+    {
+        "q": "Which inventory costing method is based on the specific cost incurred for each item in stock?",
+        "a": "Specific Identification Method",
+        "b": "First-In, First-Out (FIFO)",
+        "c": "Last-In, First-Out (LIFO)",
+        "d": "Weighted Average Cost Method (WACM)",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the cost of goods sold under FIFO during periods of inflation?",
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains the same",
+        "d": "Cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "Which method is more suitable for companies that want to match current costs with current revenue?",
+        "a": "Weighted Average Cost Method (WACM)",
+        "b": "Last-In, First-Out (LIFO)",
+        "c": "Specific Identification Method",
+        "d": "First-In, First-Out (FIFO)",
+        "r": "a"
+    },
+    {
+        "q": "The specific identification method is commonly used when dealing with unique and costly items.",
+        "a": "FALSE",
+        "b": "TRUE",
+        "c": "-",
+        "d": "-",
+        "r": "b"
+    },
+    {
+        "q": "What happens to the ending inventory value under the weighted average cost method during periods of inflation?",
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains the same",
+        "d": "Cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "Under LIFO, what happens to the ending inventory value during periods of inflation?",
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains the same",
+        "d": "Cannot be determined",
+        "r": "b"
+    },
+    {
+        "q": "Which inventory costing method is allowed under both Generally Accepted Accounting Principles (GAAP) and International Financial Reporting Standards (IFRS)?",
+        "a": "FIFO",
+        "b": "LIFO",
+        "c": "Specific Identification Method",
+        "d": "Weighted Average Cost Method (WACM)",
+        "r": "a"
+    },
+    {
+        "q": "What are accounts receivable?",
+        "a": "Goods or services provided by a company",
+        "b": "Amounts owed by customers for goods or services",
+        "c": "Cash received from customers",
+        "d": "Amounts owed by suppliers for goods or services",
+        "r": "b"
+    },
+    {
+        "q": "Which accounting principle relates to receivables?",
+        "a": "Matching principle",
+        "b": "Revenue recognition principle",
+        "c": "Historical cost principle",
+        "d": "Materiality principle",
+        "r": "b"
+    },
+    {
+        "q": "What is the typical term for accounts receivable?",
+        "a": "30 days",
+        "b": "60 days",
+        "c": "90 days",
+        "d": "120 days",
+        "r": "a"
+    },
+    {
+        "q": "How are bad debts usually recorded?",
+        "a": "As an asset",
+        "b": "As an expense",
+        "c": "As a liability",
+        "d": "As revenue",
+        "r": "b"
+    },
+    {
+        "q": "When do companies usually write off bad debts?",
+        "a": "When they are uncollectible",
+        "b": "When they become due",
+        "c": "When they reach a certain age",
+        "d": "When they are recorded",
+        "r": "a"
+    },
+    {
+        "q": "What method estimates bad debts as a percentage?",
+        "a": "Direct write-off method",
+        "b": "Allowance method",
+        "c": "FIFO method",
+        "d": "LIFO method",
+        "r": "b"
+    },
+    {
+        "q": "How does the allowance method handle bad debts?",
+        "a": "Records bad debts directly",
+        "b": "Records bad debts in a contra account",
+        "c": "Records bad debts as liabilities",
+        "d": "Records bad debts as revenue",
+        "r": "b"
+    },
+    {
+        "q": "What is the journal entry for writing off bad debt?",
+        "a": "Debit Accounts Receivable, Credit Cash",
+        "b": "Debit Bad Debt Expense, Credit Accounts Receivable",
+        "c": "Debit Cash, Credit Accounts Receivable",
+        "d": "Debit Accounts Receivable, Credit Bad Debt Expense",
+        "r": "b"
+    },
+    {
+        "q": "What does the receivables turnover ratio measure?",
+        "a": "A company's ability to pay its debts",
+        "b": "A company's ability to sell inventory",
+        "c": "A company's ability to collect cash",
+        "d": "A company's ability to generate revenue",
+        "r": "c"
+    },
+    {
+        "q": "A high receivables turnover ratio indicates...",
+        "a": "Inefficient credit management",
+        "b": "Efficient credit management",
+        "c": "Low profitability",
+        "d": "Low liquidity",
+        "r": "b"
+    },
+    {
+        "q": "How is the receivables turnover ratio calculated?",
+        "a": "Credit Sales / Average Accounts Receivable",
+        "b": "Net Sales / Average Accounts Receivable",
+        "c": "Total Sales / Ending Accounts Receivable",
+        "d": "Total Sales / Average Accounts Receivable",
+        "r": "b"
+    },
+    {
+        "q": "What is the average collection period formula?",
+        "a": "365 / Receivables Turnover Ratio",
+        "b": "Receivables Turnover Ratio / 365",
+        "c": "Receivables Turnover Ratio * 365",
+        "d": "Receivables Turnover Ratio + 365",
+        "r": "a"
+    },
+    {
+        "q": "A shorter collection period is...",
+        "a": "More favorable for the company",
+        "b": "Less favorable for the company",
+        "c": "Irrelevant for the company",
+        "d": "Equal to the industry average",
+        "r": "a"
+    },
+    {
+        "q": "What is the accounts payable turnover ratio?",
+        "a": "Measures a company's liquidity",
+        "b": "Measures a company's solvency",
+        "c": "Measures how quickly a company pays its suppliers",
+        "d": "Measures a company's profitability",
+        "r": "c"
+    },
+    {
+        "q": "How is the accounts payable turnover ratio calc...",
+        "a": "Total Purchases / Average Accounts Payable",
+        "b": "Total Purchases / Ending Accounts Payable",
+        "c": "Total Sales / Average Accounts Payable",
+        "d": "Total Sales / Ending Accounts Payable",
+        "r": "a"
+    },
+    {
+        "q": "A high accounts payable turnover ratio may indi...",
+        "a": "Slow payment of suppliers",
+        "b": "Fast payment of suppliers",
+        "c": "Low liquidity",
+        "d": "High profitability",
+        "r": "b"
+    },
+    {
+        "q": "Which accounting principle relates to payables?",
+        "a": "Historical cost principle",
+        "b": "Materiality principle",
+        "c": "Revenue recognition principle",
+        "d": "Matching principle",
+        "r": "d"
+    },
+    {
+        "q": "What is the typical term for accounts payable?",
+        "a": "30 days",
+        "b": "60 days",
+        "c": "90 days",
+        "d": "120 days",
+        "r": "c"
+    },
+    {
+        "q": "What method is commonly used to estimate uncoll...",
+        "a": "FIFO method",
+        "b": "LIFO method",
+        "c": "Allowance method",
+        "d": "Direct write-off method",
+        "r": "c"
+    },
+    {
+        "q": "How are trade discounts recorded?",
+        "a": "As a liability",
+        "b": "As revenue",
+        "c": "As a contra revenue account",
+        "d": "As an expense",
+        "r": "c"
+    },
+    {
+        "q": "What is the effect of a trade discount on the p...",
+        "a": "Increases the net sales amount",
+        "b": "Decreases the net sales amount",
+        "c": "Increases the gross profit amount",
+        "d": "Decreases the gross profit amount",
+        "r": "b"
+    },
+    {
+        "q": "What does the creditor's ledger represent?",
+        "a": "A list of customers who owe the company money",
+        "b": "A list of suppliers to whom the company owes money",
+        "c": "A list of the company's equity accounts",
+        "d": "A list of company assets",
+        "r": "b"
+    },
+    {
+        "q": "When using the gross method, what does a purcha...",
+        "a": "Increases accounts payable",
+        "b": "Decreases accounts payable",
+        "c": "Increases accounts receivable",
+        "d": "Decreases accounts receivable",
+        "r": "b"
+    },
+    {
+        "q": "What is the definition of 'Long-Term Assets'?",
+        "a": "Assets that are held for a short period",
+        "b": "Assets that are held for a long period",
+        "c": "Assets that are intangible",
+        "d": "Assets that are held by shareholders",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a long-term asset?",
+        "a": "Inventory",
+        "b": "Accounts Receivable",
+        "c": "Land and Buildings",
+        "d": "Prepaid Expenses",
+        "r": "c"
+    },
+    {
+        "q": "The cost of a long-term asset is usually recorded in which account?",
+        "a": "Accumulated Depreciation",
+        "b": "Retained Earnings",
+        "c": "Accounts Payable",
+        "d": "Property, Plant, and Equipment",
+        "r": "d"
+    },
+    {
+        "q": "Which depreciation method charges a fixed amount of depreciation each year?",
+        "a": "Straight-line Depreciation",
+        "b": "Double Declining Balance Depreciation",
+        "c": "Units of Production Depreciation",
+        "d": "Sum-of-the-Years'-Digits Depreciation",
+        "r": "a"
+    },
+    {
+        "q": "An asset's book value is calculated as:",
+        "a": "Cost minus Accumulated Depreciation",
+        "b": "Cost plus Accumulated Depreciation",
+        "c": "Cost divided by Accumulated Depreciation",
+        "d": "Cost multiplied by Accumulated Depreciation",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a long-term tangible asset?",
+        "a": "Machinery",
+        "b": "Land",
+        "c": "Copyrights",
+        "d": "Buildings",
+        "r": "c"
+    },
+    {
+        "q": "Goodwill is an example of which type of asset?",
+        "a": "Long-term tangible asset",
+        "b": "Long-term intangible asset",
+        "c": "Current asset",
+        "d": "Short-term asset",
+        "r": "b"
+    },
+    {
+        "q": "How are intangible assets typically reported on the balance sheet?",
+        "a": "At historical cost",
+        "b": "At fair market value",
+        "c": "At fair market value or historical cost, whichever is lower",
+        "d": "At the seller's original price minus depreciation",
+        "r": "c"
+    },
+    {
+        "q": "A company purchased a patent for $100,000. The useful life of the patent is 10 years. What is the annual amortization expense using the straight-line method?",
+        "a": "$10,000",
+        "b": "$20,000",
+        "c": "$30,000",
+        "d": "$40,000",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a natural resource asset?",
+        "a": "Copyrights",
+        "b": "Trademarks",
+        "c": "Oil reserves",
+        "d": "Goodwill",
+        "r": "c"
+    },
+    {
+        "q": "Under which section of the financial statements are long-term assets typically disclosed?",
+        "a": "Cash Flows from Operating Activities",
+        "b": "Cash Flows from Investing Activities",
+        "c": "Cash Flows from Financing Activities",
+        "d": "Notes to Financial Statements",
+        "r": "b"
+    },
+    {
+        "q": "How are long-term assets usually presented on the balance sheet?",
+        "a": "In alphabetical order",
+        "b": "In descending order of age",
+        "c": "In ascending order of age",
+        "d": "In order of their acquisition",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a characteristic of tangible assets?",
+        "a": "Lack of physical existence",
+        "b": "Fixed monetary value",
+        "c": "Short useful life",
+        "d": "Can be seen and touched",
+        "r": "d"
+    },
+    {
+        "q": "When accounting for long-term assets, what is the purpose of depreciation?",
+        "a": "To increase the asset's value",
+        "b": "To match the cost of the asset with its benefits",
+        "c": "To adjust for inflation",
+        "d": "To calculate the asset's fair market value",
+        "r": "b"
+    },
+    {
+        "q": "What is depreciation?",
+        "a": "An increase in the value of an asset",
+        "b": "A decrease in the value of an asset",
+        "c": "An equal exchange of assets",
+        "d": "A transfer of assets to another company",
+        "r": "b"
+    },
+    {
+        "q": "Which method of depreciation allocates a fixed amount to depreciation each year?",
+        "a": "Straight-line depreciation",
+        "b": "Declining balance method",
+        "c": "Units of production method",
+        "d": "Sum-of-the-years' digits method",
+        "r": "a"
+    },
+    {
+        "q": "Amortization is commonly used for what type of assets?",
+        "a": "Land",
+        "b": "Inventory",
+        "c": "Intangible assets",
+        "d": "Cash",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula for calculating straight-line depreciation?",
+        "a": "(Cost - Residual Value) / Useful Life",
+        "b": "(Cost * Residual Value) / Useful Life",
+        "c": "Cost * Useful Life",
+        "d": "(Cost + Residual Value) / Useful Life",
+        "r": "a"
+    },
+    {
+        "q": "The declining balance method of depreciation",
+        "a": "Results in constant depreciation expense each year",
+        "b": "Front-loads the depreciation expense",
+        "c": "Is the same as the straight-line method",
+        "d": "Is not commonly used in accounting",
+        "r": "b"
+    },
+    {
+        "q": "Which depreciation method considers the usage of an asset to calculate depreciation?",
+        "a": "Straight-line depreciation",
+        "b": "Declining balance method",
+        "c": "Units of production method",
+        "d": "Sum-of-the-years' digits method",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of using salvage value in depreciation calculations?",
+        "a": "To determine the asset's original cost",
+        "b": "To calculate total depreciation expense",
+        "c": "To estimate the asset's fair market value",
+        "d": "To assess the asset's remaining value",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an intangible asset commonly subject to amortization?",
+        "a": "Buildings",
+        "b": "Patents",
+        "c": "Land",
+        "d": "Inventory",
+        "r": "b"
+    },
+    {
+        "q": "When using the units of production method, depreciation expense is based on",
+        "a": "Asset's useful life in years",
+        "b": "Total units of production",
+        "c": "Residual value of the asset",
+        "d": "Salvage value of the asset",
+        "r": "b"
+    },
+    {
+        "q": "The sum-of-the-years' digits method results in",
+        "a": "Lower depreciation expenses in the early years",
+        "b": "Lower depreciation expenses in the later years",
+        "c": "Equal depreciation expenses throughout",
+        "d": "No depreciation expenses",
+        "r": "a"
+    },
+    {
+        "q": "What is the main purpose of depreciation in accounting?",
+        "a": "To decrease the asset's value to zero",
+        "b": "To allocate the asset's cost over its useful life",
+        "c": "To increase the asset's value",
+        "d": "To record the asset's purchase date",
+        "r": "b"
+    },
+    {
+        "q": "Which depreciation method is considered the simplest and most commonly used?",
+        "a": "Units of production method",
+        "b": "Declining balance method",
+        "c": "Straight-line depreciation",
+        "d": "Sum-of-the-years' digits method",
+        "r": "c"
+    },
+    {
+        "q": "What happens to the depreciation expense when using the double-declining balance method?",
+        "a": "It remains constant over the years",
+        "b": "It increases each year",
+        "c": "It decreases each year",
+        "d": "It is highest in the first year",
+        "r": "b"
+    },
+    {
+        "q": "Amortization expense is reported on the financial statements as",
+        "a": "A liability",
+        "b": "An expense",
+        "c": "An asset",
+        "d": "An equity",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of an intangible asset subject to amortization?",
+        "a": "Buildings",
+        "b": "Land",
+        "c": "Copyrights",
+        "d": "Cash",
+        "r": "c"
+    },
+    {
+        "q": "The units of production method is most suitable for assets that",
+        "a": "Have a significant salvage value",
+        "b": "Are used at a constant rate",
+        "c": "Are difficult to track usage",
+        "d": "Have a short useful life",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula for the declining balance depreciation method?",
+        "a": "(Cost * Residual Value) / Useful Life",
+        "b": "(Cost - Residual Value) / Useful Life",
+        "c": "Cost * Useful Life",
+        "d": "(Cost + Residual Value) / Useful Life",
+        "r": "b"
+    },
+    {
+        "q": "Which depreciation method considers the asset's usage rather than time in determining depreciation?",
+        "a": "Straight-line depreciation",
+        "b": "Declining balance method",
+        "c": "Units of production method",
+        "d": "Sum-of-the-years' digits method",
+        "r": "c"
+    },
+    {
+        "q": "What is the main purpose of amortization in accounting?",
+        "a": "To allocate the cost of an asset over its useful life",
+        "b": "To decrease the asset's value to zero",
+        "c": "To increase the asset's value",
+        "d": "To record the asset's purchase date",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following depreciation methods usually results in higher depreciation expenses in the early years?",
+        "a": "Straight-line depreciation",
+        "b": "Declining balance method",
+        "c": "Units of production method",
+        "d": "Sum-of-the-years' digits method",
+        "r": "d"
+    },
+    {
+        "q": "The sum-of-the-years' digits method is also known as",
+        "a": "The accelerated depreciation method",
+        "b": "The equal depreciation method",
+        "c": "The constant depreciation method",
+        "d": "The non-depreciation method",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for calculating the book value of an asset?",
+        "a": "Cost - Residual Value",
+        "b": "Cost * Residual Value",
+        "c": "Cost / Residual Value",
+        "d": "Cost + Residual Value",
+        "r": "a"
+    },
+    {
+        "q": "Under the units of production method, depreciation expense is based on",
+        "a": "Asset's useful life in years",
+        "b": "Total units of production",
+        "c": "Residual value of the asset",
+        "d": "Salvage value of the asset",
+        "r": "b"
+    },
+    {
+        "q": "The declining balance method of depreciation is also known as",
+        "a": "The straight-line method",
+        "b": "The constant depreciation method",
+        "c": "The non-depreciation method",
+        "d": "The accelerated depreciation method",
+        "r": "d"
+    },
+    {
+        "q": "What is the formula for calculating amortization expense?",
+        "a": "(Cost - Residual Value) / Useful Life",
+        "b": "(Cost * Residual Value) / Useful Life",
+        "c": "Cost * Useful Life",
+        "d": "(Cost + Residual Value) / Useful Life",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a tangible asset subject to depreciation?",
+        "a": "Patents",
+        "b": "Copyrights",
+        "c": "Buildings",
+        "d": "Trademarks",
+        "r": "c"
+    },
+    {
+        "q": "When using the double-declining balance method, what happens to depreciation expenses over time?",
+        "a": "They remain constant each year",
+        "b": "They decrease each year",
+        "c": "They increase each year",
+        "d": "They fluctuate randomly",
+        "r": "c"
+    },
+    {
+        "q": "The purpose of calculating depreciation is to",
+        "a": "Increase the value of the asset",
+        "b": "Allocate the asset's cost over time",
+        "c": "Identify the fair market value of the asset",
+        "d": "Record the asset's purchase date",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of a tangible asset subject to depreciation?",
+        "a": "Goodwill",
+        "b": "Patents",
+        "c": "Machinery",
+        "d": "Copyrights",
+        "r": "c"
+    },
+    {
+        "q": "The declining balance method of depreciation is most suitable for",
+        "a": "Assets with a long useful life",
+        "b": "Assets with a short useful life",
+        "c": "Assets with a significant salvage value",
+        "d": "Assets with no residual value",
+        "r": "a"
+    },
+    {
+        "q": "The units of production method calculates depreciation based on",
+        "a": "Time",
+        "b": "Units of production",
+        "c": "Salvage value",
+        "d": "Purchase price",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of using the residual value in depreciation calculations?",
+        "a": "To determine the asset's original cost",
+        "b": "To calculate total depreciation expense",
+        "c": "To estimate the asset's fair market value",
+        "d": "To assess the asset's remaining value",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of an intangible asset commonly subject to amortization?",
+        "a": "Buildings",
+        "b": "Land",
+        "c": "Patents",
+        "d": "Inventory",
+        "r": "c"
+    },
+    {
+        "q": "The straight-line depreciation method",
+        "a": "Front-loads the depreciation expense",
+        "b": "Allocates a fixed amount to depreciation each year",
+        "c": "Results in higher depreciation expenses in later years",
+        "d": "Is the same as the declining balance method",
+        "r": "b"
+    },
+    {
+        "q": "Which depreciation method results in a decreasing depreciation expense over time?",
+        "a": "Straight-line depreciation",
+        "b": "Declining balance method",
+        "c": "Units of production method",
+        "d": "Sum-of-the-years' digits method",
+        "r": "b"
+    },
+    {
+        "q": "What does the double-declining balance method involve?",
+        "a": "Allocating equal depreciation expense each year",
+        "b": "Front-loading the depreciation expense",
+        "c": "Increasing depreciation expense over time",
+        "d": "Applying a fixed depreciation rate",
+        "r": "b"
+    },
+    {
+        "q": "When using the sum-of-the-years' digits method, what happens to the depreciation expense over time?",
+        "a": "It remains constant each year",
+        "b": "It decreases each year",
+        "c": "It increases each year",
+        "d": "It fluctuates randomly",
+        "r": "b"
+    },
+    {
+        "q": "The units of production method is most appropriate for an asset whose usage",
+        "a": "Is easy to track",
+        "b": "Fluctuates each year",
+        "c": "Remains constant over time",
+        "d": "Cannot be measured",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula for calculating the depreciation expense using the units of production method?",
+        "a": "(Cost - Residual Value) / Useful Life * Units Produced",
+        "b": "(Cost * Residual Value) / Useful Life * Units Produced",
+        "c": "Cost * Useful Life * Units Produced",
+        "d": "(Cost + Residual Value) / Useful Life * Units Produced",
+        "r": "a"
+    },
+    {
+        "q": "Which depreciation method considers the asset's time-based decline in value?",
+        "a": "Straight-line depreciation",
+        "b": "Declining balance method",
+        "c": "Units of production method",
+        "d": "Sum-of-the-years' digits method",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary difference between depreciation and amortization?",
+        "a": "The type of assets they apply to",
+        "b": "The depreciation methods used",
+        "c": "The calculation formula",
+        "d": "The time period of application",
+        "r": "a"
+    },
+    {
+        "q": "The declining balance method of depreciation",
+        "a": "Is also known as the accelerated depreciation method",
+        "b": "Results in equal depreciation expenses each year",
+        "c": "Allocates a fixed amount to depreciation each year",
+        "d": "Is the same as the straight-line method",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of calculating amortization in accounting?",
+        "a": "To decrease the asset's value to zero",
+        "b": "To allocate the asset's cost over its useful life",
+        "c": "To increase the asset's value",
+        "d": "To record the asset's purchase date",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a current liability?",
+        "a": "Accounts Payable",
+        "b": "Long-term Loan",
+        "c": "Prepaid Rent",
+        "d": "Retained Earnings",
+        "r": "a"
+    },
+    {
+        "q": "A company issued bonds with a face value of $100,000 and a stated interest rate of 5%. The bond pays interest semi-annually. What is the annual interest expense?",
+        "a": "$5,000",
+        "b": "$2,500",
+        "c": "$10,000",
+        "d": "$7,500",
+        "r": "b"
+    },
+    {
+        "q": "How are dividends to be paid classified in the financial statements?",
+        "a": "As a liability",
+        "b": "As an equity",
+        "c": "As an expense",
+        "d": "As an asset",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for calculating the Debt-to-Equity ratio?",
+        "a": "Total Debt / Total Equity",
+        "b": "Total Debt - Total Equity",
+        "c": "Total Debt * Total Equity",
+        "d": "Total Debt + Total Equity",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following represents an \"Unearned Revenue\"?",
+        "a": "Advance payments received from customers",
+        "b": "Amounts owed to suppliers",
+        "c": "Cash in hand",
+        "d": "Inventory on hand",
+        "r": "a"
+    },
+    {
+        "q": "When a company purchases inventory on credit, which accounts are affected?",
+        "a": "Inventory and Accounts Payable",
+        "b": "Cash and Inventory",
+        "c": "Inventory and Cash",
+        "d": "Accounts Receivable and Inventory",
+        "r": "a"
+    },
+    {
+        "q": "If a company issues a bond at a premium, what does it mean?",
+        "a": "The bond is sold above its face value",
+        "b": "The bond is sold below its face value",
+        "c": "The bond pays no interest",
+        "d": "The bond is not backed by any collateral",
+        "r": "a"
+    },
+    {
+        "q": "What is the journal entry to record the issuance of common stock for cash?",
+        "a": "Cash (Dr) / Common Stock (Cr)",
+        "b": "Common Stock (Dr) / Cash (Cr)",
+        "c": "Retained Earnings (Dr) / Common Stock (Cr)",
+        "d": "Common Stock (Dr) / Retained Earnings (Cr)",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a long-term liability?",
+        "a": "Mortgage payable",
+        "b": "Accounts Payable",
+        "c": "Salaries payable",
+        "d": "Bank loan payable",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement reports a company's liabilities and equity at a specific point in time?",
+        "a": "Balance Sheet",
+        "b": "Income Statement",
+        "c": "Cash Flow Statement",
+        "d": "Statement of Retained Earnings",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the total liabilities of a company when it pays off a short-term loan?",
+        "a": "Total liabilities decrease",
+        "b": "Total liabilities increase",
+        "c": "Total liabilities remain unchanged",
+        "d": "Total liabilities decrease by half",
+        "r": "a"
+    },
+    {
+        "q": "How are bonds payable classified on the balance sheet?",
+        "a": "Long-term liability",
+        "b": "Current liability",
+        "c": "Equity",
+        "d": "Short-term liability",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of issuing bonds?",
+        "a": "To borrow money",
+        "b": "To sell ownership in the company",
+        "c": "To pay dividends to shareholders",
+        "d": "To reduce taxes",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of an operating liability?",
+        "a": "Accounts Payable",
+        "b": "Bonds Payable",
+        "c": "Common Stock",
+        "d": "Prepaid Rent",
+        "r": "a"
+    },
+    {
+        "q": "What is the journal entry to record the payment of an account payable?",
+        "a": "Accounts Payable (Dr) / Cash (Cr)",
+        "b": "Cash (Dr) / Accounts Payable (Cr)",
+        "c": "Cash (Dr) / Inventory (Cr)",
+        "d": "Inventory (Dr) / Cash (Cr)",
+        "r": "a"
+    },
+    {
+        "q": "When preparing a balance sheet, how are liabilities usually listed?",
+        "a": "In order of maturity",
+        "b": "In order of liquidity",
+        "c": "In alphabetical order",
+        "d": "In order of magnitude",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is considered an equity account?",
+        "a": "Common Stock",
+        "b": "Accounts Receivable",
+        "c": "Prepaid Expenses",
+        "d": "Accumulated Depreciation",
+        "r": "a"
+    },
+    {
+        "q": "A company borrows $50,000 from the bank. How will this transaction affect the accounting equation?",
+        "a": "Increase in assets and liabilities",
+        "b": "Increase in assets and decrease in equity",
+        "c": "Increase in assets and decrease in liabilities",
+        "d": "Increase in equity and decrease in liabilities",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula to calculate the working capital?",
+        "a": "Current Assets - Current Liabilities",
+        "b": "Current Assets + Current Liabilities",
+        "c": "Total Assets - Total Liabilities",
+        "d": "Total Equity - Total Liabilities",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement provides information about a company's revenues and expenses over a specific period?",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Retained Earnings",
+        "r": "a"
+    },
+    {
+        "q": "If a company issues a bond at a discount, what does it mean?",
+        "a": "The bond is sold below its face value",
+        "b": "The bond is sold above its face value",
+        "c": "The bond pays no interest",
+        "d": "The bond is backed by collateral",
+        "r": "a"
+    },
+    {
+        "q": "What is the journal entry to record the payment of a dividend to shareholders?",
+        "a": "Retained Earnings (Dr) / Cash (Cr)",
+        "b": "Dividends Payable (Dr) / Cash (Cr)",
+        "c": "Cash (Dr) / Common Stock (Cr)",
+        "d": "Common Stock (Dr) / Cash (Cr)",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following represents \"Accrued Liabilities\"?",
+        "a": "Unpaid salaries to employees",
+        "b": "Cash on hand",
+        "c": "Equipment purchased",
+        "d": "Prepaid insurance",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the accounting equation when a company pays its accounts payable?",
+        "a": "Assets decrease and liabilities decrease",
+        "b": "Assets increase and liabilities increase",
+        "c": "Assets decrease and equity decreases",
+        "d": "Assets increase and equity increases",
+        "r": "a"
+    },
+    {
+        "q": "How is the par value of common stock determined?",
+        "a": "At the time of incorporation",
+        "b": "Based on the company's financial performance",
+        "c": "Based on the market value of the stock",
+        "d": "By the board of directors",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement shows the changes in a company's retained earnings over a specific period?",
+        "a": "Statement of Retained Earnings",
+        "b": "Income Statement",
+        "c": "Cash Flow Statement",
+        "d": "Balance Sheet",
+        "r": "a"
+    },
+    {
+        "q": "What is the journal entry to record the payment of interest on a loan?",
+        "a": "Interest Expense (Dr) / Cash (Cr)",
+        "b": "Cash (Dr) / Interest Expense (Cr)",
+        "c": "Loan Payable (Dr) / Cash (Cr)",
+        "d": "Cash (Dr) / Loan Payable (Cr)",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a contingent liability?",
+        "a": "Lawsuit against the company",
+        "b": "Accounts Payable",
+        "c": "Cash in hand",
+        "d": "Inventory on hand",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula for calculating the Debt Ratio?",
+        "a": "Total Debt / Total Assets",
+        "b": "Total Debt - Total Assets",
+        "c": "Total Debt * Total Assets",
+        "d": "Total Debt + Total Assets",
+        "r": "a"
+    },
+    {
+        "q": "How are dividends to be paid classified in the financial statements?",
+        "a": "As an equity",
+        "b": "As an asset",
+        "c": "As a liability",
+        "d": "As an expense",
+        "r": "a"
+    },
+    {
+        "q": "If a company issues bonds with a stated interest rate of 6% and the market interest rate is 7%, the bonds will be issued at a",
+        "a": "Discount",
+        "b": "Premium",
+        "c": "Par value",
+        "d": "Face value",
+        "r": "a"
+    },
+    {
+        "q": "What is the journal entry to record the issuance of bonds payable?",
+        "a": "Cash (Dr) / Bonds Payable (Cr)",
+        "b": "Bonds Payable (Dr) / Cash (Cr)",
+        "c": "Common Stock (Dr) / Bonds Payable (Cr)",
+        "d": "Bonds Payable (Dr) / Common Stock (Cr)",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a current liability?",
+        "a": "Short-term bank loan",
+        "b": "Long-term debt",
+        "c": "Accounts Receivable",
+        "d": "Land held for investment",
+        "r": "a"
+    },
+    {
+        "q": "How is the Debt-to-Equity ratio interpreted?",
+        "a": "It shows the proportion of debt relative to equity",
+        "b": "It shows the proportion of equity relative to debt",
+        "c": "It shows the proportion of liabilities relative to equity",
+        "d": "It shows the proportion of equity relative to assets",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of issuing common stock?",
+        "a": "To raise capital for the company",
+        "b": "To reduce the number of shareholders",
+        "c": "To pay off short-term debt",
+        "d": "To increase the company's expenses",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a non-current liability?",
+        "a": "Bonds Payable",
+        "b": "Accounts Payable",
+        "c": "Salaries Payable",
+        "d": "Bank Overdraft",
+        "r": "a"
+    },
+    {
+        "q": "When a company records an expense on account, which accounts are affected?",
+        "a": "Expense and Accounts Payable",
+        "b": "Cash and Inventory",
+        "c": "Expense and Cash",
+        "d": "Accounts Receivable and Expense",
+        "r": "a"
+    },
+    {
+        "q": "If a company repurchases its own shares of common stock, how will this transaction affect the accounting equation?",
+        "a": "Decrease in assets and decrease in equity",
+        "b": "Increase in assets and decrease in liabilities",
+        "c": "Increase in assets and increase in equity",
+        "d": "Decrease in assets and increase in liabilities",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula to calculate the Quick Ratio (Acid-Test Ratio)?",
+        "a": "(Current Assets - Inventory) / Current Liabilities",
+        "b": "(Current Assets + Inventory) / Current Liabilities",
+        "c": "(Total Assets - Total Liabilities) / Total Assets",
+        "d": "(Current Assets - Current Liabilities) / Total Assets",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement reports a company's cash inflows and outflows during a specific period?",
+        "a": "Statement of Cash Flows",
+        "b": "Income Statement",
+        "c": "Balance Sheet",
+        "d": "Statement of Retained Earnings",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the total liabilities of a company when it pays off a long-term loan?",
+        "a": "Total liabilities decrease",
+        "b": "Total liabilities increase",
+        "c": "Total liabilities remain unchanged",
+        "d": "Total liabilities increase by half",
+        "r": "a"
+    },
+    {
+        "q": "How are common stock and retained earnings related?",
+        "a": "Retained earnings is part of stockholders' equity",
+        "b": "Common stock is part of retained earnings",
+        "c": "Common stock is a current liability",
+        "d": "Retained earnings is an operating expense",
+        "r": "a"
+    },
+    {
+        "q": "What is the journal entry to record the accrual of interest on a loan?",
+        "a": "Interest Expense (Dr) / Interest Payable (Cr)",
+        "b": "Interest Payable (Dr) / Interest Expense (Cr)",
+        "c": "Loan Payable (Dr) / Cash (Cr)",
+        "d": "Cash (Dr) / Loan Payable (Cr)",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is considered a long-term investment?",
+        "a": "Investment in Bonds",
+        "b": "Cash on hand",
+        "c": "Equipment",
+        "d": "Accounts Payable",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula to calculate the Return on Equity (ROE)?",
+        "a": "Net Income / Average Shareholders' Equity",
+        "b": "Net Income - Average Shareholders' Equity",
+        "c": "Net Income * Average Shareholders' Equity",
+        "d": "Net Income + Average Shareholders' Equity",
+        "r": "a"
+    },
+    {
+        "q": "What happens to the accounting equation when a company issues common stock for cash?",
+        "a": "Assets and equity increase",
+        "b": "Assets and liabilities increase",
+        "c": "Assets and equity decrease",
+        "d": "Assets and liabilities decrease",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following represents \"Deferred Revenue\"?",
+        "a": "Advance payments received from customers",
+        "b": "Amounts owed to suppliers",
+        "c": "Cash in hand",
+        "d": "Inventory on hand",
+        "r": "a"
+    },
+    {
+        "q": "How are dividends to be paid classified in the financial statements?",
+        "a": "As an equity",
+        "b": "As a liability",
+        "c": "As an asset",
+        "d": "As an expense",
+        "r": "a"
+    },
+    {
+        "q": "If a company issues bonds with a stated interest rate of 8% and the market interest rate is 6%, the bonds will be issued at a",
+        "a": "Premium",
+        "b": "Discount",
+        "c": "Par value",
+        "d": "Face value",
+        "r": "a"
+    },
+    {
+        "q": "What is the basic accounting principle in partnerships?",
+        "a": "Separate Legal Existence",
+        "b": "Cost Principle",
+        "c": "Matching Principle",
+        "d": "Going Concern Principle",
+        "r": "d"
+    },
+    {
+        "q": "What is the main purpose of a partnership agreement?",
+        "a": "To determine the division of profits",
+        "b": "To limit the liability of partners",
+        "c": "To create a separate legal entity",
+        "d": "To appoint a managing partner",
+        "r": "a"
+    },
+    {
+        "q": "Which type of partner invests only capital in the business?",
+        "a": "Active partner",
+        "b": "Limited partner",
+        "c": "Nominal partner",
+        "d": "Sleeping partner",
+        "r": "b"
+    },
+    {
+        "q": "What is the liability of a limited partner in a partnership?",
+        "a": "Limited to their capital contribution",
+        "b": "Unlimited liability",
+        "c": "Limited to their share of profits",
+        "d": "Limited to their share of losses",
+        "r": "a"
+    },
+    {
+        "q": "When is a partnership considered dissolved?",
+        "a": "Death of a partner",
+        "b": "Retirement of a partner",
+        "c": "Admission of a new partner",
+        "d": "All of the above",
+        "r": "d"
+    },
+    {
+        "q": "What is the formula for calculating the interest on drawings?",
+        "a": "(Interest Rate x Drawings) / 12",
+        "b": "(Drawings x Interest Rate) / 100",
+        "c": "(Drawings x Interest Rate) / 12",
+        "d": "(Interest Rate x Drawings) / 100",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of the revaluation account?",
+        "a": "To record changes in the market value",
+        "b": "To distribute profits",
+        "c": "To account for depreciation",
+        "d": "To record drawings",
+        "r": "a"
+    },
+    {
+        "q": "In a partnership, where are the capital accounts maintained?",
+        "a": "In the balance sheet",
+        "b": "In the profit and loss account",
+        "c": "In the cash book",
+        "d": "In the trading account",
+        "r": "a"
+    },
+    {
+        "q": "Which account is credited when a partner's loan is taken over by the firm?",
+        "a": "Partner's Loan Account",
+        "b": "Partner's Current Account",
+        "c": "Partner's Capital Account",
+        "d": "Partner's Drawings Account",
+        "r": "c"
+    },
+    {
+        "q": "What is the maximum number of partners allowed in a partnership firm?",
+        "a": "10",
+        "b": "20",
+        "c": "50",
+        "d": "No Limit",
+        "r": "d"
+    },
+    {
+        "q": "What is the effect of the revaluation of assets in a partnership?",
+        "a": "Decrease the partner's capital accounts",
+        "b": "Increase the partner's capital accounts",
+        "c": "Increase the firm's profit",
+        "d": "Decrease the firm's profit",
+        "r": "b"
+    },
+    {
+        "q": "In which account are the salaries of partners recorded?",
+        "a": "Salary Account",
+        "b": "Partner's Current Account",
+        "c": "Partner's Capital Account",
+        "d": "Profit and Loss Account",
+        "r": "b"
+    },
+    {
+        "q": "What is the treatment for interest on drawings in a partnership?",
+        "a": "It is credited to the partner's current account",
+        "b": "It is credited to the partner's capital account",
+        "c": "It is debited to the partner's current account",
+        "d": "It is debited to the partner's capital account",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of the partner's current account?",
+        "a": "To record all the business transactions",
+        "b": "To determine the division of profits",
+        "c": "To track personal expenses",
+        "d": "To record drawings",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula for calculating the interest on capital?",
+        "a": "(Interest Rate x Capital) / 100",
+        "b": "(Capital x Interest Rate) / 12",
+        "c": "(Capital x Interest Rate) / 100",
+        "d": "(Interest Rate x Capital) / 12",
+        "r": "c"
+    },
+    {
+        "q": "Which type of partnership does not have a separate legal existence?",
+        "a": "Limited Partnership",
+        "b": "General Partnership",
+        "c": "Joint Venture",
+        "d": "Limited Liability Partnership",
+        "r": "b"
+    },
+    {
+        "q": "What is the accounting treatment for interest on drawings in a partnership?",
+        "a": "It is debited to the profit and loss account",
+        "b": "It is credited to the partner's current account",
+        "c": "It is credited to the partner's capital account",
+        "d": "It is debited to the partner's current account",
+        "r": "b"
+    },
+    {
+        "q": "What is the treatment for interest on capital in a partnership?",
+        "a": "It is credited to the profit and loss account",
+        "b": "It is debited to the partner's capital account",
+        "c": "It is credited to the partner's capital account",
+        "d": "It is debited to the profit and loss account",
+        "r": "c"
+    },
+    {
+        "q": "What is the effect of the revaluation of assets in a partnership?",
+        "a": "Decrease the firm's profit",
+        "b": "Increase the partner's capital accounts",
+        "c": "Decrease the partner's capital accounts",
+        "d": "Increase the firm's profit",
+        "r": "b"
+    },
+    {
+        "q": "How are losses shared in a partnership?",
+        "a": "In the ratio of their capital contribution",
+        "b": "Equally",
+        "c": "Based on their age",
+        "d": "According to their profit ratio",
+        "r": "a"
+    },
+    {
+        "q": "When is a partnership considered dissolved?",
+        "a": "Death of a partner",
+        "b": "All of the above",
+        "c": "Admission of a new partner",
+        "d": "Retirement of a partner",
+        "r": "b"
+    },
+    {
+        "q": "In a partnership, where are the capital accounts maintained?",
+        "a": "In the profit and loss account",
+        "b": "In the balance sheet",
+        "c": "In the trading account",
+        "d": "In the cash book",
+        "r": "b"
+    },
+    {
+        "q": "What is the accounting treatment for interest on drawings in a partnership?",
+        "a": "It is credited to the partner's capital account",
+        "b": "It is debited to the partner's current account",
+        "c": "It is debited to the partner's capital account",
+        "d": "It is credited to the profit and loss account",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of the revaluation account?",
+        "a": "To record drawings",
+        "b": "To account for depreciation",
+        "c": "To record changes in the market value",
+        "d": "To distribute profits",
+        "r": "c"
+    },
+    {
+        "q": "How is goodwill distributed among partners in the absence of an agreement?",
+        "a": "In the ratio of their capital ratio",
+        "b": "According to their profit ratio",
+        "c": "Equally",
+        "d": "Based on their age",
+        "r": "c"
+    },
+    {
+        "q": "Which account is credited when a partner's loan is taken over by the firm?",
+        "a": "Partner's Drawings Account",
+        "b": "Partner's Current Account",
+        "c": "Partner's Capital Account",
+        "d": "Partner's Loan Account",
+        "r": "d"
+    },
+    {
+        "q": "What is the maximum number of partners allowed in a partnership firm?",
+        "a": "No Limit",
+        "b": "50",
+        "c": "20",
+        "d": "10",
+        "r": "a"
+    },
+    {
+        "q": "What is the accounting treatment for interest on capital in a partnership?",
+        "a": "It is debited to the partner's capital account",
+        "b": "It is credited to the partner's capital account",
+        "c": "It is credited to the profit and loss account",
+        "d": "It is debited to the profit and loss account",
+        "r": "b"
+    },
+    {
+        "q": "What is the effect of the revaluation of assets in a partnership?",
+        "a": "Decrease the partner's capital accounts",
+        "b": "Increase the firm's profit",
+        "c": "Decrease the firm's profit",
+        "d": "Increase the partner's capital accounts",
+        "r": "b"
+    },
+    {
+        "q": "In which account are the salaries of partners recorded?",
+        "a": "Profit and Loss Account",
+        "b": "Partner's Current Account",
+        "c": "Salary Account",
+        "d": "Partner's Capital Account",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary objective of financial accounting for corporations?",
+        "a": "Reporting financial information to management",
+        "b": "Determining tax liabilities for shareholders",
+        "c": "Communicating financial information to external parties",
+        "d": "Analyzing market trends and customer behavior",
+        "r": "c"
+    },
+    {
+        "q": "Which financial statement provides a snapshot of a corporation's financial position at a specific point in time?",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Statement of Retained Earnings",
+        "d": "Cash Flow Statement",
+        "r": "b"
+    },
+    {
+        "q": "When a corporation issues additional shares of common stock, what will be the effect on the company's total equity?",
+        "a": "Increase",
+        "b": "Decrease",
+        "c": "No change",
+        "d": "Cannot be determined",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used to describe the portion of a corporation's profits that are distributed to shareholders?",
+        "a": "Liabilities",
+        "b": "Retained Earnings",
+        "c": "Dividends",
+        "d": "Accounts Receivable",
+        "r": "c"
+    },
+    {
+        "q": "A corporation's income statement shows the following: Sales Revenue: $200,000, Cost of Goods Sold: $50,000, Operating Expenses: $30,000, Net Income: $80,000. What is the corporation's gross profit?",
+        "a": "$120,000",
+        "b": "$70,000",
+        "c": "$150,000",
+        "d": "$50,000",
+        "r": "b"
+    },
+    {
+        "q": "When a corporation repurchases its own shares from the market, what is it called?",
+        "a": "Share Repurchase",
+        "b": "Stock Redemption",
+        "c": "Stock Dividend",
+        "d": "Treasury Stock",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a component of stockholders' equity for a corporation?",
+        "a": "Common Stock",
+        "b": "Preferred Stock",
+        "c": "Accounts Payable",
+        "d": "Retained Earnings",
+        "r": "c"
+    },
+    {
+        "q": "A corporation pays $2,000 in dividends to its shareholders. How will this transaction affect the accounting equation?",
+        "a": "Increase in Assets",
+        "b": "Decrease in Assets",
+        "c": "Increase in Liabilities",
+        "d": "Decrease in Stockholders' Equity",
+        "r": "d"
+    },
+    {
+        "q": "What is the term used for the measure of a corporation's profitability that is calculated as net income divided by total shareholders' equity?",
+        "a": "Earnings Per Share",
+        "b": "Price-Earnings Ratio",
+        "c": "Return on Equity",
+        "d": "Dividend Yield",
+        "r": "c"
+    },
+    {
+        "q": "A corporation issued 1,000 shares of common stock at $20 per share. What is the total amount of cash received from the issuance?",
+        "a": "$2,000",
+        "b": "$10,000",
+        "c": "$20,000",
+        "d": "$200,000",
+        "r": "c"
+    },
+    {
+        "q": "When a corporation records an expense on account, which account will be credited?",
+        "a": "Cash",
+        "b": "Accounts Receivable",
+        "c": "Accounts Payable",
+        "d": "Prepaid Expenses",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following financial statements shows the revenues and expenses of a corporation for a specific period?",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Statement of Cash Flows",
+        "d": "Statement of Retained Earnings",
+        "r": "a"
+    },
+    {
+        "q": "How are dividends treated in the income statement of a corporation?",
+        "a": "They are added to revenues",
+        "b": "They are subtracted from revenues",
+        "c": "They are added to expenses",
+        "d": "They are subtracted from expenses",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an example of an intangible asset for a corporation?",
+        "a": "Land",
+        "b": "Buildings",
+        "c": "Equipment",
+        "d": "Patents",
+        "r": "d"
+    },
+    {
+        "q": "If a corporation has a current ratio of 2.5, what does this ratio indicate?",
+        "a": "The corporation is in good financial health",
+        "b": "The corporation is in poor financial health",
+        "c": "The corporation has a low liquidity position",
+        "d": "The corporation has a high liquidity position",
+        "r": "d"
+    },
+    {
+        "q": "A corporation purchases inventory for $5,000 on credit. How will this transaction affect the accounting equation?",
+        "a": "Increase in Assets",
+        "b": "Decrease in Assets",
+        "c": "Increase in Liabilities",
+        "d": "Decrease in Stockholders' Equity",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of the statement of cash flows for a corporation?",
+        "a": "To report the changes in cash during a period",
+        "b": "To report the corporation's financial position",
+        "c": "To report the corporation's revenues and expenses",
+        "d": "To report the corporation's equity transactions",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a non-operating expense for a corporation?",
+        "a": "Cost of Goods Sold",
+        "b": "Salaries and Wages",
+        "c": "Interest Expense",
+        "d": "Advertising Expense",
+        "r": "c"
+    },
+    {
+        "q": "A corporation issued 500 shares of preferred stock at $50 per share. What is the total amount of cash received from the issuance?",
+        "a": "$2,500",
+        "b": "$5,000",
+        "c": "$25,000",
+        "d": "$50,000",
+        "r": "c"
+    },
+    {
+        "q": "When a corporation makes a credit sale, which account will be debited?",
+        "a": "Cash",
+        "b": "Accounts Receivable",
+        "c": "Accounts Payable",
+        "d": "Prepaid Expenses",
+        "r": "b"
+    },
+    {
+        "q": "What is the term used to describe the value at which a corporation's stock is bought and sold in the market?",
+        "a": "Book Value",
+        "b": "Par Value",
+        "c": "Market Value",
+        "d": "Face Value",
+        "r": "c"
+    },
+    {
+        "q": "A corporation's income statement shows the following: Sales Revenue: $100,000, Cost of Goods Sold: $40,000, Operating Expenses: $20,000, Net Income: $40,000. What is the corporation's gross profit margin?",
+        "a": "40%",
+        "b": "60%",
+        "c": "20%",
+        "d": "80%",
+        "r": "a"
+    },
+    {
+        "q": "When a corporation declares a cash dividend, which account will be credited?",
+        "a": "Cash",
+        "b": "Accounts Receivable",
+        "c": "Dividends Payable",
+        "d": "Retained Earnings",
+        "r": "c"
+    },
+    {
+        "q": "What is the term used for the measure of a corporation's ability to pay its short-term obligations?",
+        "a": "Return on Investment",
+        "b": "Current Ratio",
+        "c": "Debt-to-Equity Ratio",
+        "d": "Gross Profit Margin",
+        "r": "b"
+    },
+    {
+        "q": "A corporation purchases equipment for $10,000 in cash. How will this transaction affect the accounting equation?",
+        "a": "Increase in Assets",
+        "b": "Decrease in Assets",
+        "c": "Increase in Liabilities",
+        "d": "Decrease in Stockholders' Equity",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a long-term liability for a corporation?",
+        "a": "Accounts Payable",
+        "b": "Notes Payable",
+        "c": "Salaries Payable",
+        "d": "Accounts Receivable",
+        "r": "b"
+    },
+    {
+        "q": "What is the first step in the budgeting process?",
+        "a": "gathering financial data",
+        "b": "preparing the budget",
+        "c": "analyzing budget variances",
+        "d": "setting budget goals",
+        "r": "a"
+    },
+    {
+        "q": "Which type of budgeting involves adjusting the budget based on actual performance?",
+        "a": "static budgeting",
+        "b": "flexible budgeting",
+        "c": "zero-based budgeting",
+        "d": "incremental budgeting",
+        "r": "b"
+    },
+    {
+        "q": "The difference between the actual result and the budgeted amount is called:",
+        "a": "variance",
+        "b": "incremental difference",
+        "c": "budgetary discrepancy",
+        "d": "financial deviation",
+        "r": "a"
+    },
+    {
+        "q": "A budget that outlines the expected revenues and expenses for a specific project or department is called:",
+        "a": "capital budget",
+        "b": "operating budget",
+        "c": "master budget",
+        "d": "project budget",
+        "r": "b"
+    },
+    {
+        "q": "Budget variances can be caused by:",
+        "a": "external factors",
+        "b": "budgetary constraints",
+        "c": "favorable outcomes",
+        "d": "chance occurrences",
+        "r": "a"
+    },
+    {
+        "q": "In variance analysis, a favorable variance means that the actual result is:",
+        "a": "higher than the budgeted amount",
+        "b": "lower than the budgeted amount",
+        "c": "equal to the budgeted amount",
+        "d": "within the budgeted amount",
+        "r": "b"
+    },
+    {
+        "q": "Which budgeting approach starts from scratch each time and requires justifying all expenses?",
+        "a": "static budgeting",
+        "b": "incremental budgeting",
+        "c": "flexible budgeting",
+        "d": "zero-based budgeting",
+        "r": "d"
+    },
+    {
+        "q": "The process of comparing budgeted figures to actual results is known as:",
+        "a": "budget allocation",
+        "b": "budget reconciliation",
+        "c": "budget variance analysis",
+        "d": "budget adjustment",
+        "r": "c"
+    },
+    {
+        "q": "A budget that remains unchanged regardless of the actual activity level is known as:",
+        "a": "flexible budget",
+        "b": "static budget",
+        "c": "variable budget",
+        "d": "zero-based budget",
+        "r": "b"
+    },
+    {
+        "q": "Which variance indicates that costs were higher than expected for a specific budget item?",
+        "a": "favorable variance",
+        "b": "unfavorable variance",
+        "c": "static variance",
+        "d": "actual variance",
+        "r": "b"
+    },
+    {
+        "q": "The type of budget that adjusts based on the actual activity level is called:",
+        "a": "flexible budget",
+        "b": "fixed budget",
+        "c": "variable budget",
+        "d": "zero-based budget",
+        "r": "a"
+    },
+    {
+        "q": "What is the last step in the budgeting process?",
+        "a": "comparing budgeted figures with actual results",
+        "b": "preparing the budget",
+        "c": "analyzing budget variances",
+        "d": "setting budget goals",
+        "r": "a"
+    },
+    {
+        "q": "Which type of variance occurs when the actual revenue is higher than the budgeted revenue?",
+        "a": "revenue variance",
+        "b": "favorable variance",
+        "c": "sales variance",
+        "d": "unfavorable variance",
+        "r": "b"
+    },
+    {
+        "q": "Which budgeting approach uses historical data and incremental changes?",
+        "a": "zero-based budgeting",
+        "b": "flexible budgeting",
+        "c": "incremental budgeting",
+        "d": "static budgeting",
+        "r": "c"
+    },
+    {
+        "q": "The process of determining the reasons for budget variances is called:",
+        "a": "budget adjustment",
+        "b": "budget reconciliation",
+        "c": "variance analysis",
+        "d": "budget analysis",
+        "r": "c"
+    },
+    {
+        "q": "A budget that is based on the assumption of no changes from the previous period is known as:",
+        "a": "flexible budget",
+        "b": "zero-based budget",
+        "c": "incremental budget",
+        "d": "static budget",
+        "r": "d"
+    },
+    {
+        "q": "Which variance indicates that actual expenses were lower than the budgeted expenses?",
+        "a": "unfavorable variance",
+        "b": "favorable variance",
+        "c": "expense variance",
+        "d": "cost variance",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary purpose of budgeting?",
+        "a": "to control and monitor financial performance",
+        "b": "to predict future financial results",
+        "c": "to maximize profits",
+        "d": "to reduce accounting efforts",
+        "r": "a"
+    },
+    {
+        "q": "The process of developing a detailed financial plan for the future is called:",
+        "a": "budget preparation",
+        "b": "budget evaluation",
+        "c": "budget creation",
+        "d": "budget forecasting",
+        "r": "a"
+    },
+    {
+        "q": "Which type of budgeting starts from zero and requires justification for all expenses?",
+        "a": "incremental budgeting",
+        "b": "flexible budgeting",
+        "c": "zero-based budgeting",
+        "d": "static budgeting",
+        "r": "c"
+    },
+    {
+        "q": "The process of adjusting future budgets based on past budget variances is known as:",
+        "a": "budget reconciliation",
+        "b": "variance adjustment",
+        "c": "incremental budgeting",
+        "d": "variance analysis",
+        "r": "d"
+    },
+    {
+        "q": "Which budgeting approach is most suitable for companies experiencing frequent changes?",
+        "a": "zero-based budgeting",
+        "b": "incremental budgeting",
+        "c": "static budgeting",
+        "d": "flexible budgeting",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of variance analysis?",
+        "a": "to identify deviations from the budget",
+        "b": "to create the master budget",
+        "c": "to compare budgets from prior periods",
+        "d": "to estimate future revenues",
+        "r": "a"
+    },
+    {
+        "q": "A budget that adjusts based on the actual level of activity is known as:",
+        "a": "zero-based budget",
+        "b": "fixed budget",
+        "c": "flexible budget",
+        "d": "static budget",
+        "r": "c"
+    },
+    {
+        "q": "Which type of variance occurs when the actual cost is lower than the budgeted cost?",
+        "a": "cost variance",
+        "b": "favorable variance",
+        "c": "unfavorable variance",
+        "d": "actual variance",
+        "r": "b"
+    },
+    {
+        "q": "What is the final step in the budgeting process?",
+        "a": "analyzing budget variances",
+        "b": "gathering financial data",
+        "c": "preparing the budget",
+        "d": "setting budget goals",
+        "r": "a"
+    },
+    {
+        "q": "Which budgeting approach involves starting from the previous period's budget and adjusting incrementally?",
+        "a": "static budgeting",
+        "b": "flexible budgeting",
+        "c": "incremental budgeting",
+        "d": "zero-based budgeting",
+        "r": "c"
+    },
+    {
+        "q": "The process of comparing actual financial results to the budget is called:",
+        "a": "budget allocation",
+        "b": "budget reconciliation",
+        "c": "budget variance analysis",
+        "d": "budget adjustment",
+        "r": "c"
+    },
+    {
+        "q": "A budget that remains constant regardless of the actual sales level is known as:",
+        "a": "fixed budget",
+        "b": "flexible budget",
+        "c": "variable budget",
+        "d": "static budget",
+        "r": "a"
+    },
+    {
+        "q": "Which variance indicates that actual revenues were higher than the budgeted revenues?",
+        "a": "unfavorable variance",
+        "b": "revenue variance",
+        "c": "sales variance",
+        "d": "favorable variance",
+        "r": "d"
+    },
+    {
+        "q": "Which budgeting approach involves creating a new budget from scratch?",
+        "a": "incremental budgeting",
+        "b": "zero-based budgeting",
+        "c": "flexible budgeting",
+        "d": "static budgeting",
+        "r": "b"
+    },
+    {
+        "q": "The process of investigating why budget variances occurred is known as:",
+        "a": "budget reconciliation",
+        "b": "variance analysis",
+        "c": "budget adjustment",
+        "d": "budget evaluation",
+        "r": "b"
+    },
+    {
+        "q": "A budget that is prepared for varying levels of activity is known as:",
+        "a": "zero-based budget",
+        "b": "fixed budget",
+        "c": "flexible budget",
+        "d": "static budget",
+        "r": "c"
+    },
+    {
+        "q": "Which type of variance occurs when the actual revenue is lower than the budgeted revenue?",
+        "a": "sales variance",
+        "b": "favorable variance",
+        "c": "unfavorable variance",
+        "d": "revenue variance",
+        "r": "c"
+    },
+    {
+        "q": "What is the main benefit of zero-based budgeting?",
+        "a": "It encourages cost efficiency and effectiveness",
+        "b": "It simplifies the budgeting process",
+        "c": "It is suitable for stable environments",
+        "d": "It requires minimal effort to prepare",
+        "r": "a"
+    },
+    {
+        "q": "The process of setting financial goals for a specific period is called:",
+        "a": "budget preparation",
+        "b": "budget evaluation",
+        "c": "budget creation",
+        "d": "budget forecasting",
+        "r": "d"
+    },
+    {
+        "q": "Which budgeting approach is suitable for companies with consistent operations?",
+        "a": "zero-based budgeting",
+        "b": "flexible budgeting",
+        "c": "static budgeting",
+        "d": "incremental budgeting",
+        "r": "c"
+    },
+    {
+        "q": "The process of making adjustments to future budgets based on past performance is known as:",
+        "a": "budget reconciliation",
+        "b": "variance adjustment",
+        "c": "incremental budgeting",
+        "d": "variance analysis",
+        "r": "b"
+    },
+    {
+        "q": "A budgeting approach that involves starting from the previous period's budget and making incremental changes is known as:",
+        "a": "static budgeting",
+        "b": "flexible budgeting",
+        "c": "zero-based budgeting",
+        "d": "incremental budgeting",
+        "r": "d"
+    },
+    {
+        "q": "Which variance indicates that actual expenses were higher than the budgeted expenses?",
+        "a": "favorable variance",
+        "b": "unfavorable variance",
+        "c": "expense variance",
+        "d": "cost variance",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary purpose of budgeting?",
+        "a": "to predict future financial results",
+        "b": "to control and monitor financial performance",
+        "c": "to maximize profits",
+        "d": "to reduce accounting efforts",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a method of cost allocation?",
+        "a": "direct allocation",
+        "b": "step-down allocation",
+        "c": "activity-based allocation",
+        "d": "direct tracing",
+        "r": "d"
+    },
+    {
+        "q": "In cost accounting, what does the term \"variable cost\" refer to?",
+        "a": "costs that change with production volume",
+        "b": "costs that remain constant regardless of production volume",
+        "c": "costs incurred for long-term projects",
+        "d": "costs that are difficult to trace",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula to calculate the contribution margin?",
+        "a": "Sales - Variable Costs",
+        "b": "Fixed Costs / Sales",
+        "c": "Total Costs + Sales",
+        "d": "Variable Costs + Fixed Costs",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary purpose of a cost allocation method?",
+        "a": "To distribute costs among different departments",
+        "b": "To increase overall costs",
+        "c": "To reduce fixed costs",
+        "d": "To increase variable costs",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a fixed cost?",
+        "a": "Rent",
+        "b": "Raw materials",
+        "c": "Direct labor",
+        "d": "Electricity bill",
+        "r": "a"
+    },
+    {
+        "q": "Under which costing method are costs charged to individual jobs or orders?",
+        "a": "Job costing",
+        "b": "Process costing",
+        "c": "Variable costing",
+        "d": "Standard costing",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following statements about cost behavior is true?",
+        "a": "Variable costs remain constant per unit, while fixed costs vary with activity",
+        "b": "Fixed costs remain constant per unit, while variable costs vary with activity",
+        "c": "Both fixed and variable costs remain constant per unit",
+        "d": "Both fixed and variable costs vary with activity",
+        "r": "b"
+    },
+    {
+        "q": "What is the difference between direct costs and indirect costs?",
+        "a": "Direct costs can be traced directly to a cost object, while indirect costs cannot be traced directly",
+        "b": "Indirect costs can be traced directly to a cost object, while direct costs cannot be traced directly",
+        "c": "Direct costs are always fixed, while indirect costs are always variable",
+        "d": "Indirect costs are always fixed, while direct costs are always variable",
+        "r": "a"
+    },
+    {
+        "q": "What is the break-even point?",
+        "a": "The point where total costs exceed total revenue",
+        "b": "The point where total costs equal total revenue",
+        "c": "The point where total revenue exceeds total costs",
+        "d": "The point where variable costs exceed fixed costs",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula to calculate the contribution margin ratio?",
+        "a": "Contribution Margin / Sales",
+        "b": "Sales / Contribution Margin",
+        "c": "Sales - Variable Costs",
+        "d": "Variable Costs / Sales",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a period cost?",
+        "a": "Direct labor cost",
+        "b": "Selling and marketing expenses",
+        "c": "Administrative expenses",
+        "d": "Rent",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a step in the job costing process?",
+        "a": "Allocating overhead costs to individual jobs",
+        "b": "Allocating direct materials to individual jobs",
+        "c": "Allocating direct labor to individual jobs",
+        "d": "Allocating fixed costs to individual jobs",
+        "r": "a"
+    },
+    {
+        "q": "What does the term \"cost pool\" refer to in cost accounting?",
+        "a": "A group of individual costs that are combined for allocation purposes",
+        "b": "A cost that can be traced directly to a cost object",
+        "c": "The total cost of production for a specific job",
+        "d": "The cost of materials used in production",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a characteristic of a direct cost?",
+        "a": "It varies with production volume",
+        "b": "It cannot be traced to a specific cost object",
+        "c": "It remains constant regardless of production volume",
+        "d": "It is difficult to allocate",
+        "r": "c"
+    },
+    {
+        "q": "What is the formula to calculate the predetermined overhead rate?",
+        "a": "Estimated Overhead / Estimated Activity Base",
+        "b": "Estimated Activity Base / Estimated Overhead",
+        "c": "Actual Overhead / Actual Activity Base",
+        "d": "Actual Activity Base / Actual Overhead",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a mixed cost?",
+        "a": "Electricity bill with a fixed base charge and a variable usage charge",
+        "b": "Raw materials cost that remains constant per unit",
+        "c": "Direct labor cost that varies with production volume",
+        "d": "Rent cost that varies with the number of employees",
+        "r": "a"
+    },
+    {
+        "q": "What is the main purpose of job costing?",
+        "a": "To determine the cost of manufacturing a specific product",
+        "b": "To determine the total cost of production for a period",
+        "c": "To determine the total cost of goods sold for a period",
+        "d": "To determine the cost of a specific job or order",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an example of an external cost?",
+        "a": "Costs of raw materials",
+        "b": "Costs of direct labor",
+        "c": "Costs of electricity used in production",
+        "d": "Costs of employee training",
+        "r": "d"
+    },
+    {
+        "q": "What is the formula to calculate the manufacturing overhead applied to a job?",
+        "a": "Predetermined Overhead Rate x Actual Activity Base",
+        "b": "Actual Overhead / Predetermined Overhead Rate",
+        "c": "Predetermined Overhead Rate / Actual Activity Base",
+        "d": "Actual Overhead x Predetermined Overhead Rate",
+        "r": "a"
+    },
+    {
+        "q": "What is the difference between product costs and period costs?",
+        "a": "Product costs are incurred to manufacture goods, while period costs are incurred to support the business",
+        "b": "Product costs are incurred to support the business, while period costs are incurred to manufacture goods",
+        "c": "Both product and period costs are incurred to manufacture goods",
+        "d": "Both product and period costs are incurred to support the business",
+        "r": "a"
+    },
+    {
+        "q": "Under which costing method are costs averaged over all units produced?",
+        "a": "Process costing",
+        "b": "Job costing",
+        "c": "Activity-based costing",
+        "d": "Variable costing",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of a cost allocation base?",
+        "a": "To allocate costs to different cost objects",
+        "b": "To increase fixed costs",
+        "c": "To allocate costs to different departments",
+        "d": "To allocate costs to different cost pools",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not considered a manufacturing overhead cost?",
+        "a": "Direct labor costs",
+        "b": "Factory rent",
+        "c": "Indirect materials",
+        "d": "Depreciation on factory equipment",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula to calculate the cost of goods manufactured?",
+        "a": "Total Manufacturing Costs + Beginning Work in Process Inventory - Ending Work in Process Inventory",
+        "b": "Total Manufacturing Costs - Beginning Work in Process Inventory + Ending Work in Process Inventory",
+        "c": "Total Manufacturing Costs / Beginning Work in Process Inventory + Ending Work in Process Inventory",
+        "d": "Total Manufacturing Costs x Beginning Work in Process Inventory / Ending Work in Process Inventory",
+        "r": "a"
+    },
+    {
+        "q": "What is the main advantage of activity-based costing (ABC)?",
+        "a": "It provides a more accurate allocation of overhead costs",
+        "b": "It reduces direct labor costs",
+        "c": "It increases fixed costs",
+        "d": "It provides a more accurate allocation of direct materials",
+        "r": "a"
+    },
+    {
+        "q": "What does the term \"cost driver\" refer to in activity-based costing?",
+        "a": "An activity that increases fixed costs",
+        "b": "An activity that increases variable costs",
+        "c": "An activity that has a direct relationship with the cost incurred",
+        "d": "An activity that reduces overall costs",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following statements about absorption costing is true?",
+        "a": "It includes only variable production costs in the product's cost",
+        "b": "It includes both variable and fixed production costs in the product's cost",
+        "c": "It allocates only variable costs to individual jobs",
+        "d": "It does not allocate any costs to individual jobs",
+        "r": "b"
+    },
+    {
+        "q": "What is the formula to calculate the contribution margin per unit?",
+        "a": "(Sales - Variable Costs) / Total Units Sold",
+        "b": "(Total Units Sold - Sales) / Variable Costs",
+        "c": "Sales / (Total Units Sold - Variable Costs)",
+        "d": "Variable Costs / Total Units Sold",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a limitation of traditional costing methods?",
+        "a": "Overhead costs are inaccurately allocated",
+        "b": "Direct materials costs are inaccurately allocated",
+        "c": "Direct labor costs are inaccurately allocated",
+        "d": "Fixed costs are inaccurately allocated",
+        "r": "a"
+    },
+    {
+        "q": "What is the formula to calculate the cost of goods sold?",
+        "a": "Beginning Finished Goods Inventory + Cost of Goods Manufactured - Ending Finished Goods Inventory",
+        "b": "Beginning Finished Goods Inventory - Cost of Goods Manufactured + Ending Finished Goods Inventory",
+        "c": "Beginning Finished Goods Inventory / Cost of Goods Manufactured + Ending Finished Goods Inventory",
+        "d": "Beginning Finished Goods Inventory x Cost of Goods Manufactured / Ending Finished Goods Inventory",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an example of a cost driver in activity-based costing?",
+        "a": "Machine hours",
+        "b": "Direct labor costs",
+        "c": "Direct materials costs",
+        "d": "Number of units produced",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement shows a company's",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Cash Flow Statement",
+        "d": "Statement of Retained Earnings",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary purpose of the Income",
+        "a": "To show a company's financial position",
+        "b": "To show how cash is generated and used",
+        "c": "To show a company's revenues and expenses",
+        "d": "To show the changes in retained earnings",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is NOT a component of",
+        "a": "Assets",
+        "b": "Liabilities",
+        "c": "Owner's Equity",
+        "d": "Revenues",
+        "r": "d"
+    },
+    {
+        "q": "Which financial statement provides information",
+        "a": "Income Statement",
+        "b": "Cash Flow Statement",
+        "c": "Statement of Retained Earnings",
+        "d": "Balance Sheet",
+        "r": "b"
+    },
+    {
+        "q": "What represents a company's total earnings",
+        "a": "Retained Earnings",
+        "b": "Revenues",
+        "c": "Net Income",
+        "d": "Operating Income",
+        "r": "c"
+    },
+    {
+        "q": "What represents the amount of money that",
+        "a": "Equity",
+        "b": "Liabilities",
+        "c": "Assets",
+        "d": "Revenues",
+        "r": "c"
+    },
+    {
+        "q": "What financial statement shows a company's",
+        "a": "Cash Flow Statement",
+        "b": "Income Statement",
+        "c": "Statement of Retained Earnings",
+        "d": "Balance Sheet",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a liquidity ratio?",
+        "a": "Debt-to-Equity Ratio",
+        "b": "Quick Ratio",
+        "c": "Return on Equity",
+        "d": "Gross Margin",
+        "r": "b"
+    },
+    {
+        "q": "What measures a company's ability to meet its",
+        "a": "Quick Ratio",
+        "b": "Debt-to-Equity Ratio",
+        "c": "Current Ratio",
+        "d": "Gross Margin",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an efficiency ratio?",
+        "a": "Return on Assets",
+        "b": "Return on Equity",
+        "c": "Current Ratio",
+        "d": "Gross Margin",
+        "r": "a"
+    },
+    {
+        "q": "What represents a company's total assets minus",
+        "a": "Equity",
+        "b": "Liabilities",
+        "c": "Net Income",
+        "d": "Revenues",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a solvency ratio?",
+        "a": "Return on Equity",
+        "b": "Quick Ratio",
+        "c": "Debt-to-Equity Ratio",
+        "d": "Current Ratio",
+        "r": "c"
+    },
+    {
+        "q": "What measures a company's long-term",
+        "a": "Debt-to-Equity Ratio",
+        "b": "Quick Ratio",
+        "c": "Current Ratio",
+        "d": "Return on Assets",
+        "r": "a"
+    },
+    {
+        "q": "What financial statement provides information",
+        "a": "Income Statement",
+        "b": "Cash Flow Statement",
+        "c": "Balance Sheet",
+        "d": "Statement of Retained Earnings",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a profitability",
+        "a": "Gross Margin",
+        "b": "Return on Equity",
+        "c": "Current Ratio",
+        "d": "Return on Assets",
+        "r": "c"
+    },
+    {
+        "q": "What measures a company's ability to cover its",
+        "a": "Current Ratio",
+        "b": "Quick Ratio",
+        "c": "Debt-to-Equity Ratio",
+        "d": "Gross Margin",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement reports a company's",
+        "a": "Income Statement",
+        "b": "Balance Sheet",
+        "c": "Cash Flow Statement",
+        "d": "Statement of Retained Earnings",
+        "r": "b"
+    },
+    {
+        "q": "What represents a company's net income or net",
+        "a": "Net Income",
+        "b": "Equity",
+        "c": "Liabilities",
+        "d": "Revenues",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is an activity ratio?",
+        "a": "Current Ratio",
+        "b": "Return on Assets",
+        "c": "Debt-to-Equity Ratio",
+        "d": "Inventory Turnover",
+        "r": "d"
+    },
+    {
+        "q": "What measures a company's ability to generate",
+        "a": "Return on Assets",
+        "b": "Quick Ratio",
+        "c": "Gross Margin",
+        "d": "Inventory Turnover",
+        "r": "a"
+    },
+    {
+        "q": "What represents a company's ability to pay its",
+        "a": "Return on Equity",
+        "b": "Current Ratio",
+        "c": "Quick Ratio",
+        "d": "Debt-to-Equity Ratio",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a leverage ratio?",
+        "a": "Debt-to-Equity Ratio",
+        "b": "Return on Equity",
+        "c": "Gross Margin",
+        "d": "Inventory Turnover",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement shows a company's revenues and expenses for a specific period?",
+        "a": "Income Statement (Statement of Profit and Loss)",
+        "b": "Balance Sheet (Statement of Financial Position)",
+        "c": "Cash Flow Statement",
+        "d": "Statement of Changes in Equity (Statement of Retained Earnings)",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of financial statement analysis?",
+        "a": "To determine the company's tax liability",
+        "b": "To assess the company's future stock price",
+        "c": "To evaluate a company's financial performance and position",
+        "d": "To increase the company's revenues and profits",
+        "r": "c"
+    },
+    {
+        "q": "Which financial statement shows the company's assets, liabilities, and shareholders' equity at a specific point in time?",
+        "a": "Income Statement (Statement of Profit and Loss)",
+        "b": "Balance Sheet (Statement of Financial Position)",
+        "c": "Cash Flow Statement",
+        "d": "Statement of Changes in Equity (Statement of Retained Earnings)",
+        "r": "b"
+    },
+    {
+        "q": "Which financial statement shows the flow of cash in and out of a company during a specific period?",
+        "a": "Income Statement (Statement of Profit and Loss)",
+        "b": "Balance Sheet (Statement of Financial Position)",
+        "c": "Cash Flow Statement",
+        "d": "Statement of Changes in Equity (Statement of Retained Earnings)",
+        "r": "c"
+    },
+    {
+        "q": "The formula for calculating the net income is:",
+        "a": "Net Income = Revenues - Expenses",
+        "b": "Net Income = Assets - Liabilities",
+        "c": "Net Income = Cash Inflows - Cash Outflows",
+        "d": "Net Income = Shareholders' Equity - Dividends",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement shows changes in retained earnings over a specific period?",
+        "a": "Income Statement (Statement of Profit and Loss)",
+        "b": "Balance Sheet (Statement of Financial Position)",
+        "c": "Cash Flow Statement",
+        "d": "Statement of Changes in Equity (Statement of Retained Earnings)",
+        "r": "d"
+    },
+    {
+        "q": "What does the Debt-to-Equity ratio measure?",
+        "a": "A company's ability to pay its short-term debts",
+        "b": "A company's ability to pay its long-term debts",
+        "c": "The proportion of debt and equity financing in a company",
+        "d": "The profitability of a company",
+        "r": "c"
+    },
+    {
+        "q": "Which ratio indicates a company's ability to pay its short-term obligations?",
+        "a": "Current Ratio",
+        "b": "Debt-to-Equity Ratio",
+        "c": "Return on Equity (ROE)",
+        "d": "Gross Profit Margin",
+        "r": "a"
+    },
+    {
+        "q": "The quick ratio is also known as:",
+        "a": "Acid-Test Ratio",
+        "b": "Debt Ratio",
+        "c": "Earnings per Share (EPS)",
+        "d": "Price-Earnings (P/E) Ratio",
+        "r": "a"
+    },
+    {
+        "q": "The Gross Profit Margin is calculated as:",
+        "a": "Gross Profit Margin = (Net Sales - Cost of Goods Sol/ Net Sales",
+        "b": "Gross Profit Margin = Gross Profit / Net Sales",
+        "c": "Gross Profit Margin = Net Income / Revenue",
+        "d": "Gross Profit Margin = (Net Sales - Operating Expenses) / Net Sales",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement shows the distribution of dividends and stock issuances to shareholders?",
+        "a": "Income Statement (Statement of Profit and Loss)",
+        "b": "Balance Sheet (Statement of Financial Position)",
+        "c": "Cash Flow Statement",
+        "d": "Statement of Changes in Equity (Statement of Retained Earnings)",
+        "r": "d"
+    },
+    {
+        "q": "The Return on Equity (ROE) ratio is calculated as:",
+        "a": "ROE = Net Income / Average Shareholders' Equity",
+        "b": "ROE = Net Income / Total Assets",
+        "c": "ROE = Total Debt / Total Equity",
+        "d": "ROE = Gross Profit / Total Equity",
+        "r": "a"
+    },
+    {
+        "q": "Which ratio measures a company's ability to generate profit from its resources?",
+        "a": "Return on Assets (ROA)",
+        "b": "Return on Equity (ROE)",
+        "c": "Price-Earnings (P/E) Ratio",
+        "d": "Debt Ratio",
+        "r": "a"
+    },
+    {
+        "q": "A high inventory turnover ratio indicates:",
+        "a": "Efficient inventory management",
+        "b": "Inefficient inventory management",
+        "c": "High profitability",
+        "d": "High financial leverage",
+        "r": "a"
+    },
+    {
+        "q": "Which financial statement helps in assessing a company's liquidity position?",
+        "a": "Income Statement (Statement of Profit and Loss)",
+        "b": "Balance Sheet (Statement of Financial Position)",
+        "c": "Cash Flow Statement",
+        "d": "Statement of Changes in Equity (Statement of Retained Earnings)",
+        "r": "b"
+    },
+    {
+        "q": "Which ratio is used to evaluate the efficiency of a company's use of its assets?",
+        "a": "Return on Assets (ROA)",
+        "b": "Return on Equity (ROE)",
+        "c": "Price-Earnings (P/E) Ratio",
+        "d": "Debt Ratio",
+        "r": "a"
+    },
+    {
+        "q": "What does the Debt Ratio measure?",
+        "a": "The proportion of debt and equity financing in a company",
+        "b": "A company's ability to pay its short-term debts",
+        "c": "A company's ability to pay its long-term debts",
+        "d": "The profitability of a company",
+        "r": "a"
+    },
+    {
+        "q": "The formula for calculating the Return on Assets (ROratio is:",
+        "a": "ROA = Net Income / Total Assets",
+        "b": "ROA = Net Income / Average Shareholders' Equity",
+        "c": "ROA = Total Debt / Total Equity",
+        "d": "ROA = Gross Profit / Total Assets",
+        "r": "a"
+    }
+]
