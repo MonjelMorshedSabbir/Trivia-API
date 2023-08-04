@@ -1,0 +1,5066 @@
+[
+    {
+        "q": "What is the meaning of the word \"Islam\"?",
+        "a": "submission to Allah",
+        "b": "peace",
+        "c": "worship",
+        "d": "belief",
+        "r": "a"
+    },
+    {
+        "q": "Which Prophet is considered the last Prophet in Islam?",
+        "a": "Prophet Muhammad",
+        "b": "Prophet Ibrahim",
+        "c": "Prophet Isa",
+        "d": "Prophet Musa",
+        "r": "a"
+    },
+    {
+        "q": "What is the holy book of Islam?",
+        "a": "Quran",
+        "b": "Bible",
+        "c": "Torah",
+        "d": "Psalms",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the pilgrimage that Muslims perform to Mecca?",
+        "a": "Hajj",
+        "b": "Umrah",
+        "c": "Ramadan",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "Which direction do Muslims face during prayer?",
+        "a": "Qibla",
+        "b": "North",
+        "c": "East",
+        "d": "South",
+        "r": "a"
+    },
+    {
+        "q": "What is the meaning of \"Shahada\"?",
+        "a": "declaration of faith",
+        "b": "fasting",
+        "c": "charity",
+        "d": "pilgrimage",
+        "r": "a"
+    },
+    {
+        "q": "What are the five pillars of Islam?",
+        "a": "Shahada, Salah, Zakat, Sawm, Hajj",
+        "b": "Faith, Prayer, Charity, Fasting, Pilgrimage",
+        "c": "Belief, Almsgiving, Fasting, Worship, Rituals",
+        "d": "Declaration, Meditation, Offering, Rituals, Journey",
+        "r": "a"
+    },
+    {
+        "q": "What is the meaning of \"Islam\"?",
+        "a": "submission",
+        "b": "love",
+        "c": "freedom",
+        "d": "power",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is considered the final messenger in Islam?",
+        "a": "Muhammad",
+        "b": "Jesus",
+        "c": "Moses",
+        "d": "Abraham",
+        "r": "a"
+    },
+    {
+        "q": "What is the holy book of Islam called?",
+        "a": "Quran",
+        "b": "Bible",
+        "c": "Torah",
+        "d": "Vedas",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the Islamic pilgrimage to Mecca?",
+        "a": "Hajj",
+        "b": "Umrah",
+        "c": "Eid",
+        "d": "Ramadan",
+        "r": "a"
+    },
+    {
+        "q": "In which month do Muslims fast during Ramadan?",
+        "a": "Ramadan",
+        "b": "Shawwal",
+        "c": "Dhul-Hijjah",
+        "d": "Safar",
+        "r": "a"
+    },
+    {
+        "q": "Which direction do Muslims face during their prayers?",
+        "a": "Qibla",
+        "b": "East",
+        "c": "West",
+        "d": "North",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic declaration of faith called?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Zakat",
+        "d": "Hajj",
+        "r": "a"
+    },
+    {
+        "q": "How many times a day do Muslims perform the obligatory prayers?",
+        "a": "Five times",
+        "b": "Two times",
+        "c": "Ten times",
+        "d": "Three times",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the annual Islamic charity tax?",
+        "a": "Zakat",
+        "b": "Sawm",
+        "c": "Shahada",
+        "d": "Hajj",
+        "r": "a"
+    },
+    {
+        "q": "What is the night of power and decree in Islam known as?",
+        "a": "Laylat al-Qadr",
+        "b": "Laylat al-Baraat",
+        "c": "Laylat al-Miraj",
+        "d": "Laylat al-Eid",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the Islamic month during which Muslims fast to commemorate the Battle of Badr?",
+        "a": "Shawwal",
+        "b": "Ramadan",
+        "c": "Muharram",
+        "d": "Safar",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the pilgrimage to Mecca that every able-bodied Muslim must perform once in their lifetime?",
+        "a": "Umrah",
+        "b": "Hajj",
+        "c": "Ramadan",
+        "d": "Zakat",
+        "r": "b"
+    },
+    {
+        "q": "Who was the first person to accept Islam after Prophet Muhammad (PBUH)?",
+        "a": "Abu Bakr",
+        "b": "Umar",
+        "c": "Uthman",
+        "d": "Ali",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the pre-dawn meal before fasting during Ramadan?",
+        "a": "Suhoor",
+        "b": "Iftar",
+        "c": "Salah",
+        "d": "Zakat",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic month is known as the \"Month of the Quran\"?",
+        "a": "Ramadan",
+        "b": "Dhul-Hijjah",
+        "c": "Shawwal",
+        "d": "Safar",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the Islamic month during which Muslims fast to commemorate the martyrdom of Imam Hussain (RA)?",
+        "a": "Safar",
+        "b": "Muharram",
+        "c": "Rabi' al-Awwal",
+        "d": "Rajab",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the angel of death in Islam?",
+        "a": "Izrail",
+        "b": "Jibreel",
+        "c": "Azrael",
+        "d": "Mikail",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the ritual washing performed by Muslims before their prayers?",
+        "a": "Wudu",
+        "b": "Hajj",
+        "c": "Zakat",
+        "d": "Sawm",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic month is known as the \"Month of Repentance\"?",
+        "a": "Rajab",
+        "b": "Dhul-Hijjah",
+        "c": "Shawwal",
+        "d": "Safar",
+        "r": "b"
+    },
+    {
+        "q": "What is the meaning of \"Tawheed\"?",
+        "a": "Oneness of God",
+        "b": "Pilgrimage to Mecca",
+        "c": "Fasting during Ramadan",
+        "d": "Giving charity",
+        "r": "d"
+    },
+    {
+        "q": "Which angel is responsible for delivering revelations to prophets?",
+        "a": "Jibril (Gabriel)",
+        "b": "Israfil (Raphael)",
+        "c": "Mikail (Michael)",
+        "d": "Azrael (Angel of Death)",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic term for charity or giving to those in need?",
+        "a": "Zakat",
+        "b": "Salat",
+        "c": "Hajj",
+        "d": "Shahada",
+        "r": "d"
+    },
+    {
+        "q": "Which wife of Prophet Muhammad is known as the \"Mother of Believers\"?",
+        "a": "Aisha",
+        "b": "Khadijah",
+        "c": "Hafsa",
+        "d": "Zainab",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the Islamic month of fasting?",
+        "a": "Ramadan",
+        "b": "Shawwal",
+        "c": "Dhul-Hijjah",
+        "d": "Muharram",
+        "r": "c"
+    },
+    {
+        "q": "Which city is considered the holiest in Islam?",
+        "a": "Mecca",
+        "b": "Medina",
+        "c": "Jerusalem",
+        "d": "Cairo",
+        "r": "b"
+    },
+    {
+        "q": "What does the term \"Sunnah\" refer to in Islam?",
+        "a": "The teachings and practices of Prophet Muhammad",
+        "b": "The pilgrimage to Mecca",
+        "c": "The act of fasting during Ramadan",
+        "d": "The holy book of Islam (Quran)",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the black cube-shaped structure in Mecca?",
+        "a": "Kaaba",
+        "b": "Masjid al-Nabawi (The Prophet's Mosque)",
+        "c": "Masjid al-Aqsa",
+        "d": "Dome of the Rock",
+        "r": "a"
+    },
+    {
+        "q": "What is the meaning of \"Salat\" in Islam?",
+        "a": "Prayer",
+        "b": "Charity",
+        "c": "Fasting",
+        "d": "Pilgrimage",
+        "r": "c"
+    },
+    {
+        "q": "Who was the first wife of Prophet Muhammad?",
+        "a": "Khadijah",
+        "b": "Aisha",
+        "c": "Hafsa",
+        "d": "Zaynab",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the holy city in Islam where the Prophet Muhammad was born?",
+        "a": "Mecca",
+        "b": "Medina",
+        "c": "Jerusalem",
+        "d": "Baghdad",
+        "r": "c"
+    },
+    {
+        "q": "Which Islamic month is known as the \"Month of fasting\"?",
+        "a": "Ramadan",
+        "b": "Shawwal",
+        "c": "Dhul-Hijjah",
+        "d": "Safar",
+        "r": "a"
+    },
+    {
+        "q": "How many pillars or articles of faith are there in Islam?",
+        "a": "Five",
+        "b": "Six",
+        "c": "Seven",
+        "d": "Four",
+        "r": "b"
+    },
+    {
+        "q": "Which companion of Prophet Muhammad is known for his famous sword \"Zulfiqar\"?",
+        "a": "Ali",
+        "b": "Umar",
+        "c": "Abu Bakr",
+        "d": "Uthman",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the angel who revealed the Quran to Prophet Muhammad?",
+        "a": "Jibreel",
+        "b": "Mikail",
+        "c": "Israfil",
+        "d": "Azrael",
+        "r": "b"
+    },
+    {
+        "q": "Which prophet is also mentioned in the Quran as a carpenter?",
+        "a": "Jesus",
+        "b": "Moses",
+        "c": "Abraham",
+        "d": "Joseph",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic term for charitable giving?",
+        "a": "Zakat",
+        "b": "Hajj",
+        "c": "Sawm",
+        "d": "Shahada",
+        "r": "a"
+    },
+    {
+        "q": "what is the primary source of Islamic teachings?",
+        "a": "quran",
+        "b": "hadith",
+        "c": "sunnah",
+        "d": "fiqh",
+        "r": "a"
+    },
+    {
+        "q": "who is considered the last and final prophet in Islam?",
+        "a": "muhammad",
+        "b": "jesus",
+        "c": "moses",
+        "d": "abraham",
+        "r": "a"
+    },
+    {
+        "q": "which language was the Quran originally revealed in?",
+        "a": "arabic",
+        "b": "persian",
+        "c": "urdu",
+        "d": "english",
+        "r": "a"
+    },
+    {
+        "q": "what are the sayings, actions, and approvals of the Prophet Muhammad known as?",
+        "a": "hadith",
+        "b": "sunnah",
+        "c": "fiqh",
+        "d": "tafsir",
+        "r": "a"
+    },
+    {
+        "q": "which Islamic month is considered the holiest and is observed by fasting from dawn to sunset?",
+        "a": "ramadan",
+        "b": "shawwal",
+        "c": "muharram",
+        "d": "rabi' al-awwal",
+        "r": "a"
+    },
+    {
+        "q": "what is the name for the pilgrimage to Mecca that every Muslim is required to make at least once in their lifetime?",
+        "a": "hajj",
+        "b": "umrah",
+        "c": "tawaf",
+        "d": "ziyarah",
+        "r": "a"
+    },
+    {
+        "q": "which companion of Prophet Muhammad is known as the 'Sword of Allah'?",
+        "a": "khalid bin walid",
+        "b": "ali ibn abi talib",
+        "c": "abu bakr",
+        "d": "umar ibn al-khattab",
+        "r": "a"
+    },
+    {
+        "q": "what is the first revelation of the Quran called?",
+        "a": "iqra",
+        "b": "al-fatihah",
+        "c": "al-ikhlas",
+        "d": "al-baqarah",
+        "r": "a"
+    },
+    {
+        "q": "who is the wife of Prophet Muhammad and the daughter of Abu Bakr?",
+        "a": "aisha",
+        "b": "khadijah",
+        "c": "hafsa",
+        "d": "fatimah",
+        "r": "a"
+    },
+    {
+        "q": "How many chapters (surahs) are there in the Quran?",
+        "a": "99",
+        "b": "117",
+        "c": "114",
+        "d": "87",
+        "r": "c"
+    },
+    {
+        "q": "Who was the final Prophet to whom the Quran was revealed?",
+        "a": "Muhammad",
+        "b": "Jesus",
+        "c": "Moses",
+        "d": "Abraham",
+        "r": "a"
+    },
+    {
+        "q": "In which language was the Quran revealed?",
+        "a": "Arabic",
+        "b": "Persian",
+        "c": "Urdu",
+        "d": "Hebrew",
+        "r": "a"
+    },
+    {
+        "q": "What are the sayings, actions, and approvals of Prophet Muhammad known as?",
+        "a": "Hadith",
+        "b": "Tafsir",
+        "c": "Fiqh",
+        "d": "Sunnah",
+        "r": "a"
+    },
+    {
+        "q": "Which angel brought the revelations from Allah to Prophet Muhammad?",
+        "a": "Jibreel",
+        "b": "Mikail",
+        "c": "Azrael",
+        "d": "Israfil",
+        "r": "a"
+    },
+    {
+        "q": "Which surah is known as the \"Opening\" or \"The Key\" to the Quran?",
+        "a": "Al-Fatiha",
+        "b": "Al-Baqarah",
+        "c": "Al-Anfal",
+        "d": "Al-Imran",
+        "r": "a"
+    },
+    {
+        "q": "Which surah is known as the \"Verse of the Throne\"?",
+        "a": "Ayat al-Kursi",
+        "b": "Al-Falaq",
+        "c": "An-Nas",
+        "d": "Al-Ikhlas",
+        "r": "a"
+    },
+    {
+        "q": "Which surah of the Quran is dedicated to women?",
+        "a": "An-Nisa",
+        "b": "Al-Mumtahanah",
+        "c": "Al-Ma'idah",
+        "d": "Al-Hajj",
+        "r": "a"
+    },
+    {
+        "q": "What is the name for the recitation of the Quran with proper Tajweed rules?",
+        "a": "Tajwid",
+        "b": "Tafsir",
+        "c": "Taraweeh",
+        "d": "Tazkiyah",
+        "r": "a"
+    },
+    {
+        "q": "Which book serves as the primary source of Islamic law?",
+        "a": "The Bible",
+        "b": "The Quran",
+        "c": "The Torah",
+        "d": "The Gospels",
+        "r": "b"
+    },
+    {
+        "q": "Who is the final messenger in Islam?",
+        "a": "Prophet Muhammad (PBUH)",
+        "b": "Prophet Adam (AS)",
+        "c": "Prophet Moses (AS)",
+        "d": "Prophet Jesus (AS)",
+        "r": "a"
+    },
+    {
+        "q": "What does the word \"Quran\" mean in Arabic?",
+        "a": "Holy Book",
+        "b": "Divine Revelation",
+        "c": "The Final Message",
+        "d": "Recitation",
+        "r": "d"
+    },
+    {
+        "q": "What is the significance of the Hadith in Islam?",
+        "a": "It provides the historical context of the Quran",
+        "b": "It contains the stories of the prophets",
+        "c": "It explains the principles of Islamic law",
+        "d": "It contains the poetry of early Islamic scholars",
+        "r": "c"
+    },
+    {
+        "q": "Which surah is the longest in the Quran?",
+        "a": "Surah Al-Fatiha",
+        "b": "Surah Al-Baqarah",
+        "c": "Surah Yasin",
+        "d": "Surah Al-Ikhlas",
+        "r": "b"
+    },
+    {
+        "q": "What is the meaning of the term \"Hadith\"?",
+        "a": "Revelation",
+        "b": "Miracle",
+        "c": "Tradition",
+        "d": "Obligation",
+        "r": "c"
+    },
+    {
+        "q": "Which companion of Prophet Muhammad (PBUH) is famous for narrating a large number of Hadiths?",
+        "a": "Abu Bakr (RA)",
+        "b": "Umar ibn Khattab (RA)",
+        "c": "Ali ibn Abi Talib (RA)",
+        "d": "Abu Huraira (RA)",
+        "r": "d"
+    },
+    {
+        "q": "Which Angel delivered the message of the Quran to Prophet Muhammad (PBUH)?",
+        "a": "Angel Jibreel",
+        "b": "Angel Mikail",
+        "c": "Angel Israfil",
+        "d": "Angel Azrael",
+        "r": "a"
+    },
+    {
+        "q": "How many chapters are there in the Quran?",
+        "a": "75",
+        "b": "114",
+        "c": "150",
+        "d": "200",
+        "r": "b"
+    },
+    {
+        "q": "What is the language of the Quran?",
+        "a": "Arabic",
+        "b": "English",
+        "c": "Urdu",
+        "d": "French",
+        "r": "a"
+    },
+    {
+        "q": "What is the meaning of the term \"Surah\" in Arabic?",
+        "a": "Verse",
+        "b": "Chapter",
+        "c": "Book",
+        "d": "Revelation",
+        "r": "b"
+    },
+    {
+        "q": "Which Surah of the Quran is known as \"The Opening\"?",
+        "a": "Surah Al-Ikhlas",
+        "b": "Surah Al-Baqarah",
+        "c": "Surah Al-Fatiha",
+        "d": "Surah An-Nas",
+        "r": "c"
+    },
+    {
+        "q": "What is the compilation of the Hadiths of Prophet Muhammad (PBUH) known as?",
+        "a": "Sahih Al-Bukhari",
+        "b": "Musnad Imam Ahmad",
+        "c": "Sunan Abu Dawood",
+        "d": "Riyad as-Salihin",
+        "r": "b"
+    },
+    {
+        "q": "Which Surah of the Quran is considered equivalent to one-third of the Quran?",
+        "a": "Surah Al-Falaq",
+        "b": "Surah Al-Ikhlas",
+        "c": "Surah An-Nas",
+        "d": "Surah Al-Mulk",
+        "r": "b"
+    },
+    {
+        "q": "What is the meaning of the term \"Tafsir\" in Islam?",
+        "a": "Prostration",
+        "b": "Fasting",
+        "c": "Charity",
+        "d": "Exegesis",
+        "r": "d"
+    },
+    {
+        "q": "Who was the first Caliph of Islam after the death of Prophet Muhammad (PBUH)?",
+        "a": "Umar ibn Khattab (RA)",
+        "b": "Abu Bakr (RA)",
+        "c": "Uthman ibn Affan (RA)",
+        "d": "Ali ibn Abi Talib (RA)",
+        "r": "b"
+    },
+    {
+        "q": "Which Surah of the Quran emphasizes the importance of seeking refuge in Allah from evil?",
+        "a": "Surah Al-Falaq",
+        "b": "Surah Al-Ikhlas",
+        "c": "Surah Al-Fatiha",
+        "d": "Surah An-Nas",
+        "r": "a"
+    },
+    {
+        "q": "What is the meaning of the term \"Sunnah\" in Islam?",
+        "a": "Prayer",
+        "b": "Charity",
+        "c": "Fasting",
+        "d": "Tradition",
+        "r": "d"
+    },
+    {
+        "q": "What is the name of the place where Prophet Muhammad (PBUH) received the first revelation?",
+        "a": "Makkah",
+        "b": "Madinah",
+        "c": "Jerusalem",
+        "d": "Cave of Hira",
+        "r": "d"
+    },
+    {
+        "q": "Which Surah of the Quran is known as \"The Purity\"?",
+        "a": "Surah Al-Ikhlas",
+        "b": "Surah Al-Fatiha",
+        "c": "Surah Al-Baqarah",
+        "d": "Surah Al-Mulk",
+        "r": "b"
+    },
+    {
+        "q": "What is the meaning of the term \"Fiqh\" in Islam?",
+        "a": "Understanding",
+        "b": "Faith",
+        "c": "Law",
+        "d": "Charity",
+        "r": "c"
+    },
+    {
+        "q": "Who was the wife of Prophet Muhammad (PBUH) known for her extensive knowledge and narration of Hadiths?",
+        "a": "Aisha (RA)",
+        "b": "Khadijah (RA)",
+        "c": "Fatimah (RA)",
+        "d": "Maryam (RA)",
+        "r": "a"
+    },
+    {
+        "q": "Which Surah of the Quran emphasizes the oneness of Allah and is considered equivalent to one-fourth of the Quran?",
+        "a": "Surah Al-Ikhlas",
+        "b": "Surah Al-Falaq",
+        "c": "Surah Al-Mulk",
+        "d": "Surah Al-Fatiha",
+        "r": "a"
+    },
+    {
+        "q": "What is the meaning of the term \"Ijtihad\" in Islam?",
+        "a": "Interpretation",
+        "b": "Revelation",
+        "c": "Obligation",
+        "d": "Prostration",
+        "r": "a"
+    },
+    {
+        "q": "Who was the first person to accept Islam after the Prophet Muhammad (PBUH) received the first revelation?",
+        "a": "Umar ibn Khattab (RA)",
+        "b": "Abu Bakr (RA)",
+        "c": "Uthman ibn Affan (RA)",
+        "d": "Ali ibn Abi Talib (RA)",
+        "r": "b"
+    },
+    {
+        "q": "Which Surah of the Quran is known as \"The Throne\"?",
+        "a": "Surah Al-Ikhlas",
+        "b": "Surah Al-Fatiha",
+        "c": "Surah Al-Baqarah",
+        "d": "Surah Al-Kursi",
+        "r": "d"
+    },
+    {
+        "q": "What is the meaning of the term \"Hijrah\" in Islam?",
+        "a": "Prayer",
+        "b": "Charity",
+        "c": "Migration",
+        "d": "Fasting",
+        "r": "c"
+    },
+    {
+        "q": "What is the literal meaning of the word \"Quran\"?",
+        "a": "Guidance",
+        "b": "Recitation",
+        "c": "Book",
+        "d": "Wisdom",
+        "r": "b"
+    },
+    {
+        "q": "Which language was the Quran revealed in?",
+        "a": "Arabic",
+        "b": "Persian",
+        "c": "Urdu",
+        "d": "Turkish",
+        "r": "a"
+    },
+    {
+        "q": "Who was the last Prophet and Messenger in Islam?",
+        "a": "Prophet Musa (Moses)",
+        "b": "Prophet Isa (Jesus)",
+        "c": "Prophet Muhammad",
+        "d": "Prophet Ibrahim (Abraham)",
+        "r": "c"
+    },
+    {
+        "q": "In which month was the Quran first revealed?",
+        "a": "Shawwal",
+        "b": "Ramadan",
+        "c": "Dhul-Hijjah",
+        "d": "Rabi-ul-Awwal",
+        "r": "b"
+    },
+    {
+        "q": "What is the number of chapters (Surahs) in the Quran?",
+        "a": "114",
+        "b": "99",
+        "c": "130",
+        "d": "85",
+        "r": "a"
+    },
+    {
+        "q": "How many times is the Quran recited during Taraweeh prayers in Ramadan?",
+        "a": "Once",
+        "b": "Twice",
+        "c": "Thrice",
+        "d": "Eight times",
+        "r": "b"
+    },
+    {
+        "q": "What is the term used for the sayings and actions of Prophet Muhammad?",
+        "a": "Shahada",
+        "b": "Hadith",
+        "c": "Tafsir",
+        "d": "Zakat",
+        "r": "b"
+    },
+    {
+        "q": "Which Surah of the Quran is known as the \"Mother of the Book\"?",
+        "a": "Al-Fatiha",
+        "b": "Al-Ikhlas",
+        "c": "Al-Baqarah",
+        "d": "Al-Nas",
+        "r": "c"
+    },
+    {
+        "q": "What is the name of the angel who conveyed the Quranic revelations to Prophet Muhammad?",
+        "a": "Angel Jibreel",
+        "b": "Angel Israfil",
+        "c": "Angel Mikail",
+        "d": "Angel Azrael",
+        "r": "a"
+    },
+    {
+        "q": "Which Surah of the Quran is known as the \"Verse of the Throne\"?",
+        "a": "Al-Ikhlas",
+        "b": "Al-Baqarah",
+        "c": "Al-Fatiha",
+        "d": "Ayat al-Kursi",
+        "r": "d"
+    },
+    {
+        "q": "What is the significance of the number 6666 in the Quran?",
+        "a": "It represents the total number of verses",
+        "b": "It represents the total number of chapters",
+        "c": "It represents the total number of words",
+        "d": "It represents the total number of prophets",
+        "r": "c"
+    },
+    {
+        "q": "What is the term used for the authorized chain of narrators in a hadith?",
+        "a": "Isnad",
+        "b": "Ijma'",
+        "c": "Qiyas",
+        "d": "Sunnah",
+        "r": "a"
+    },
+    {
+        "q": "Which surah of the Quran is known as \"The Purity\" or \"The Sincerity\"?",
+        "a": "Al-Ikhlas",
+        "b": "Al-Mumtahanah",
+        "c": "Al-Mumtahinah",
+        "d": "Al-Baqarah",
+        "r": "a"
+    },
+    {
+        "q": "How many times is the Quranic commandment of prayer mentioned in the Quran?",
+        "a": "More than 700",
+        "b": "Around 150",
+        "c": "Approximately 300",
+        "d": "Less than 50",
+        "r": "a"
+    },
+    {
+        "q": "What is the first pillar of Islam?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "Which pillar of Islam requires fasting during the month of Ramadan?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "c"
+    },
+    {
+        "q": "How many pillars of Islam are there?",
+        "a": "Two",
+        "b": "Four",
+        "c": "Five",
+        "d": "Six",
+        "r": "c"
+    },
+    {
+        "q": "What is the third pillar of Islam?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "d"
+    },
+    {
+        "q": "What is the meaning of \"Shahada\" in English?",
+        "a": "Fasting",
+        "b": "Charity",
+        "c": "Faith",
+        "d": "Pilgrimage",
+        "r": "c"
+    },
+    {
+        "q": "Which pillar of Islam is about giving charity to the poor?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "d"
+    },
+    {
+        "q": "In which month do Muslims perform the Hajj pilgrimage?",
+        "a": "Muharram",
+        "b": "Ramadan",
+        "c": "Dhul-Hijjah",
+        "d": "Safar",
+        "r": "c"
+    },
+    {
+        "q": "What is the Arabic term for prayer in Islam?",
+        "a": "Salat",
+        "b": "Shahada",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "What is the meaning of \"Zakat\" in English?",
+        "a": "Fasting",
+        "b": "Charity",
+        "c": "Faith",
+        "d": "Pilgrimage",
+        "r": "b"
+    },
+    {
+        "q": "Which pillar of Islam is observed during the month of Ramadan?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "c"
+    },
+    {
+        "q": "How many times a day do Muslims perform Salat (prayer)?",
+        "a": "Two",
+        "b": "Three",
+        "c": "Four",
+        "d": "Five",
+        "r": "d"
+    },
+    {
+        "q": "Which pillar of Islam involves the pilgrimage to Mecca?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Hajj",
+        "r": "d"
+    },
+    {
+        "q": "What is the Arabic term for fasting during Ramadan?",
+        "a": "Salat",
+        "b": "Shahada",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "c"
+    },
+    {
+        "q": "How many times do Muslims perform the Hajj pilgrimage in a lifetime?",
+        "a": "Once",
+        "b": "Twice",
+        "c": "Thrice",
+        "d": "Four times",
+        "r": "a"
+    },
+    {
+        "q": "What is the meaning of \"Salat\" in English?",
+        "a": "Fasting",
+        "b": "Charity",
+        "c": "Prayer",
+        "d": "Pilgrimage",
+        "r": "c"
+    },
+    {
+        "q": "Which pillar of Islam is known as the declaration of faith?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for giving charity in Islam?",
+        "a": "Salat",
+        "b": "Shahada",
+        "c": "Zakat",
+        "d": "Sawm",
+        "r": "c"
+    },
+    {
+        "q": "How long does the fasting period last each day during Ramadan?",
+        "a": "From sunrise to sunset",
+        "b": "From sunset to sunrise",
+        "c": "From dawn to sunset",
+        "d": "From sunset to midnight",
+        "r": "a"
+    },
+    {
+        "q": "Which pillar of Islam is performed five times a day?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "b"
+    },
+    {
+        "q": "What is the Arabic term for the pilgrimage to Mecca?",
+        "a": "Hajj",
+        "b": "Umrah",
+        "c": "Salat",
+        "d": "Sawm",
+        "r": "a"
+    },
+    {
+        "q": "What is the meaning of \"Sawm\" in English?",
+        "a": "Fasting",
+        "b": "Charity",
+        "c": "Prayer",
+        "d": "Pilgrimage",
+        "r": "a"
+    },
+    {
+        "q": "Which pillar of Islam is about declaring belief in the oneness of Allah?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for the minor pilgrimage in Islam?",
+        "a": "Salat",
+        "b": "Shahada",
+        "c": "Hajj",
+        "d": "Umrah",
+        "r": "d"
+    },
+    {
+        "q": "How many days is the Hajj pilgrimage usually performed?",
+        "a": "2",
+        "b": "5",
+        "c": "7",
+        "d": "10",
+        "r": "c"
+    },
+    {
+        "q": "What is the meaning of \"Umrah\" in English?",
+        "a": "Fasting",
+        "b": "Charity",
+        "c": "Faith",
+        "d": "Pilgrimage",
+        "r": "d"
+    },
+    {
+        "q": "Which pillar of Islam is considered the backbone of faith?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for the charitable giving in Islam?",
+        "a": "Salat",
+        "b": "Shahada",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "d"
+    },
+    {
+        "q": "During which month do Muslims fast from dawn to sunset?",
+        "a": "Muharram",
+        "b": "Ramadan",
+        "c": "Dhul-Hijjah",
+        "d": "Safar",
+        "r": "b"
+    },
+    {
+        "q": "What is the meaning of \"Hajj\" in English?",
+        "a": "Fasting",
+        "b": "Charity",
+        "c": "Faith",
+        "d": "Pilgrimage",
+        "r": "d"
+    },
+    {
+        "q": "Which pillar of Islam is performed during the month of Ramadan?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "c"
+    },
+    {
+        "q": "What is the Arabic term for the pilgrimage to Mecca performed outside the month of Hajj?",
+        "a": "Salat",
+        "b": "Shahada",
+        "c": "Hajj",
+        "d": "Umrah",
+        "r": "b"
+    },
+    {
+        "q": "How long does the Hajj pilgrimage usually last?",
+        "a": "2 days",
+        "b": "5 days",
+        "c": "7 days",
+        "d": "10 days",
+        "r": "c"
+    },
+    {
+        "q": "What is the meaning of \"Dhul-Hijjah\" in English?",
+        "a": "Fasting",
+        "b": "Charity",
+        "c": "Faith",
+        "d": "Pilgrimage",
+        "r": "d"
+    },
+    {
+        "q": "Which pillar of Islam is known as the \"Fasting\" pillar?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "c"
+    },
+    {
+        "q": "What is the Arabic term for the pilgrimage to Mecca performed during the Hajj month?",
+        "a": "Salat",
+        "b": "Shahada",
+        "c": "Hajj",
+        "d": "Umrah",
+        "r": "c"
+    },
+    {
+        "q": "How many days is the fasting period during Ramadan?",
+        "a": "15",
+        "b": "20",
+        "c": "25",
+        "d": "30",
+        "r": "d"
+    },
+    {
+        "q": "What is the meaning of \"Safar\" in English?",
+        "a": "Fasting",
+        "b": "Charity",
+        "c": "Faith",
+        "d": "Pilgrimage",
+        "r": "d"
+    },
+    {
+        "q": "Which pillar of Islam is about observing fasting during the month of Ramadan?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "c"
+    },
+    {
+        "q": "What is the Arabic term for the declaration of faith in Islam?",
+        "a": "Salat",
+        "b": "Shahada",
+        "c": "Zakat",
+        "d": "Sawm",
+        "r": "b"
+    },
+    {
+        "q": "How many days does the Hajj pilgrimage last?",
+        "a": "2",
+        "b": "5",
+        "c": "7",
+        "d": "10",
+        "r": "d"
+    },
+    {
+        "q": "What is the meaning of \"Ramadan\" in English?",
+        "a": "Fasting",
+        "b": "Charity",
+        "c": "Faith",
+        "d": "Pilgrimage",
+        "r": "a"
+    },
+    {
+        "q": "Which pillar of Islam is considered a physical and spiritual act of worship?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Sawm",
+        "d": "Hajj",
+        "r": "c"
+    },
+    {
+        "q": "What is the Arabic term for the voluntary charity in Islam?",
+        "a": "Salat",
+        "b": "Shahada",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "How many days is the fasting period during the Hajj pilgrimage?",
+        "a": "2",
+        "b": "5",
+        "c": "7",
+        "d": "10",
+        "r": "a"
+    },
+    {
+        "q": "What is the meaning of \"Muharram\" in English?",
+        "a": "Fasting",
+        "b": "Charity",
+        "c": "Faith",
+        "d": "Pilgrimage",
+        "r": "b"
+    },
+    {
+        "q": "What is the second pillar of Islam?",
+        "a": "Zakat",
+        "b": "Shahada",
+        "c": "Hajj",
+        "d": "Sawm",
+        "r": "b"
+    },
+    {
+        "q": "What is the fourth pillar of Islam?",
+        "a": "Hajj",
+        "b": "Shahada",
+        "c": "Sawm",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "What is the fifth pillar of Islam?",
+        "a": "Shahada",
+        "b": "Zakat",
+        "c": "Hajj",
+        "d": "Sawm",
+        "r": "c"
+    },
+    {
+        "q": "What does \"Shahada\" mean?",
+        "a": "Testimony",
+        "b": "Charity",
+        "c": "Fasting",
+        "d": "Pilgrimage",
+        "r": "a"
+    },
+    {
+        "q": "Which month is known as the \"month of fasting\" in Islam?",
+        "a": "Ramadan",
+        "b": "Shawwal",
+        "c": "Dhul-Hijjah",
+        "d": "Muharram",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the prophet who received the Quranic revelations?",
+        "a": "Muhammad",
+        "b": "Moses",
+        "c": "Jesus",
+        "d": "Abraham",
+        "r": "a"
+    },
+    {
+        "q": "How many times a day do Muslims pray?",
+        "a": "Five times",
+        "b": "Three times",
+        "c": "Seven times",
+        "d": "Ten times",
+        "r": "a"
+    },
+    {
+        "q": "What is the direction Muslims face during prayer?",
+        "a": "Qibla",
+        "b": "Kaaba",
+        "c": "Masjid",
+        "d": "Madinah",
+        "r": "a"
+    },
+    {
+        "q": "What is the pilgrimage to Mecca called?",
+        "a": "Hajj",
+        "b": "Umrah",
+        "c": "Zakat",
+        "d": "Sawm",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is considered the father of monotheism in Islam?",
+        "a": "Ibrahim",
+        "b": "Musa",
+        "c": "Isa",
+        "d": "Nuh",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet built the Kaaba?",
+        "a": "Ibrahim",
+        "b": "Ismail",
+        "c": "Musa",
+        "d": "Yusuf",
+        "r": "a"
+    },
+    {
+        "q": "Who is the first prophet in Islam?",
+        "a": "Adam",
+        "b": "Noah",
+        "c": "Moses",
+        "d": "Abraham",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known as the \"Father of Prophets\"?",
+        "a": "Abraham",
+        "b": "Moses",
+        "c": "Adam",
+        "d": "Noah",
+        "r": "a"
+    },
+    {
+        "q": "Who is the final prophet in Islam?",
+        "a": "Muhammad",
+        "b": "Jesus",
+        "c": "David",
+        "d": "Solomon",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet was known for his wisdom and ability to communicate with animals?",
+        "a": "Solomon",
+        "b": "Noah",
+        "c": "Moses",
+        "d": "David",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that built the ark to survive the great flood?",
+        "a": "Noah",
+        "b": "Abraham",
+        "c": "Lot",
+        "d": "Idris",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is also known as \"Khalilullah\" (the friend of Allah)?",
+        "a": "Abraham",
+        "b": "Moses",
+        "c": "Jesus",
+        "d": "Noah",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is associated with the revelation of the Psalms (Zabur)?",
+        "a": "David",
+        "b": "Solomon",
+        "c": "Noah",
+        "d": "Idris",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known for his miraculous staff and parting of the Red Sea?",
+        "a": "Moses",
+        "b": "Jesus",
+        "c": "Noah",
+        "d": "Idris",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that preached to the people of Thamud and 'Ad?",
+        "a": "Hud",
+        "b": "Saleh",
+        "c": "Shuaib",
+        "d": "Abraham",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known as the \"Seal of the Prophets\"?",
+        "a": "Muhammad",
+        "b": "Jesus",
+        "c": "Moses",
+        "d": "Noah",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that preached to the people of Madyan?",
+        "a": "Shuaib",
+        "b": "Hud",
+        "c": "Saleh",
+        "d": "Idris",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known for being swallowed by a giant fish (whale)?",
+        "a": "Jonah",
+        "b": "Job",
+        "c": "Aaron",
+        "d": "Ishmael",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was tested with severe afflictions but remained patient?",
+        "a": "Job",
+        "b": "Solomon",
+        "c": "Joseph",
+        "d": "Jonah",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known for his beautiful voice and recitation of the Quran?",
+        "a": "David",
+        "b": "Solomon",
+        "c": "Moses",
+        "d": "Idris",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was thrown into the fire by his people but remained unharmed?",
+        "a": "Abraham",
+        "b": "Lot",
+        "c": "Isaac",
+        "d": "Ishmael",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is associated with the revelation of the Torah (Tawrat)?",
+        "a": "Moses",
+        "b": "Jesus",
+        "c": "David",
+        "d": "Idris",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was known for his miraculous birth to a barren mother?",
+        "a": "John",
+        "b": "Jesus",
+        "c": "Joseph",
+        "d": "Jonah",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known for being raised to the heavens and will return as a messiah?",
+        "a": "Jesus",
+        "b": "Muhammad",
+        "c": "David",
+        "d": "Job",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was given the title \"Khidr\" and is associated with hidden knowledge?",
+        "a": "Idris",
+        "b": "Moses",
+        "c": "Abraham",
+        "d": "David",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is associated with the revelation of the Gospel (Injil)?",
+        "a": "Jesus",
+        "b": "Muhammad",
+        "c": "Moses",
+        "d": "John",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was known for his beautiful appearance and was pursued by a queen?",
+        "a": "Joseph",
+        "b": "Solomon",
+        "c": "Jonah",
+        "d": "Ishmael",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known for his perseverance in calling his people to worship only one God?",
+        "a": "Abraham",
+        "b": "Noah",
+        "c": "Shuaib",
+        "d": "Hud",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was thrown into a well by his brothers but later became a ruler?",
+        "a": "Joseph",
+        "b": "Jonah",
+        "c": "Job",
+        "d": "Ishmael",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is associated with the revelation of the Quran?",
+        "a": "Muhammad",
+        "b": "Jesus",
+        "c": "Moses",
+        "d": "David",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was known for his ability to interpret dreams?",
+        "a": "Joseph",
+        "b": "Solomon",
+        "c": "Moses",
+        "d": "Jesus",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known for his miraculous birth without a father?",
+        "a": "Jesus",
+        "b": "Muhammad",
+        "c": "David",
+        "d": "Solomon",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was swallowed by a whale but later freed?",
+        "a": "Jonah",
+        "b": "Moses",
+        "c": "Joseph",
+        "d": "Job",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known for his call to worship only one God and was thrown into a fire?",
+        "a": "Abraham",
+        "b": "Noah",
+        "c": "Saleh",
+        "d": "Hud",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that is known for his patience and perseverance in the face of adversity?",
+        "a": "Job",
+        "b": "Solomon",
+        "c": "David",
+        "d": "Joseph",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is associated with the revelation of the Quran and is the last messenger of Allah?",
+        "a": "Muhammad",
+        "b": "Jesus",
+        "c": "Moses",
+        "d": "Noah",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was known for his ability to cure the sick and blind?",
+        "a": "Jesus",
+        "b": "Solomon",
+        "c": "David",
+        "d": "Joseph",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known for his message of warning and his call to worship one God?",
+        "a": "Noah",
+        "b": "Muhammad",
+        "c": "Moses",
+        "d": "Abraham",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was known for his wisdom and judgment in resolving disputes?",
+        "a": "Solomon",
+        "b": "Jesus",
+        "c": "David",
+        "d": "Joseph",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is associated with the revelation of the Quran and the establishment of Islam?",
+        "a": "Muhammad",
+        "b": "Moses",
+        "c": "Jesus",
+        "d": "David",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was known for his strength and bringing down the walls of a city?",
+        "a": "Joshua",
+        "b": "Solomon",
+        "c": "David",
+        "d": "Joseph",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known for his leadership of the Israelites and receiving the Ten Commandments?",
+        "a": "Moses",
+        "b": "Muhammad",
+        "c": "Jesus",
+        "d": "Noah",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was known for his ability to speak to birds and jinn?",
+        "a": "Solomon",
+        "b": "Joseph",
+        "c": "David",
+        "d": "Moses",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is associated with the revelation of the Psalms and the Zabur?",
+        "a": "David",
+        "b": "Jesus",
+        "c": "Solomon",
+        "d": "Joseph",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was known for his eloquence and his call to worship the true God?",
+        "a": "Abraham",
+        "b": "Jonah",
+        "c": "Shuaib",
+        "d": "Hud",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known for his knowledge and wisdom in interpreting dreams and signs?",
+        "a": "Joseph",
+        "b": "Moses",
+        "c": "Jesus",
+        "d": "Solomon",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was known for his call to worship one God and was persecuted by his people?",
+        "a": "Hud",
+        "b": "Solomon",
+        "c": "Jonah",
+        "d": "Joseph",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is associated with the revelation of the Quran and the final message to humanity?",
+        "a": "Muhammad",
+        "b": "Jesus",
+        "c": "Moses",
+        "d": "Abraham",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was known for his call to worship the true God and his destruction of idols?",
+        "a": "Abraham",
+        "b": "Noah",
+        "c": "David",
+        "d": "Moses",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is known for his call to worship one God and his struggle against idolatry?",
+        "a": "Shuaib",
+        "b": "Solomon",
+        "c": "Jonah",
+        "d": "Joseph",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was known for his wisdom and his ability to interpret dreams?",
+        "a": "Joseph",
+        "b": "Jesus",
+        "c": "David",
+        "d": "Moses",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is associated with the revelation of the Quran and the guidance for all mankind?",
+        "a": "Muhammad",
+        "b": "Moses",
+        "c": "Jesus",
+        "d": "Noah",
+        "r": "a"
+    },
+    {
+        "q": "Who is the prophet that was known for his piety and righteousness in the face of adversity?",
+        "a": "Job",
+        "b": "Solomon",
+        "c": "David",
+        "d": "Joseph",
+        "r": "a"
+    },
+    {
+        "q": "The Battle of Badr took place in which year after Hijra?",
+        "a": "2 AH",
+        "b": "3 AH",
+        "c": "1 AH",
+        "d": "4 AH",
+        "r": "a"
+    },
+    {
+        "q": "Who was the last caliph of the Rashidun Caliphate?",
+        "a": "Ali",
+        "b": "Uthman",
+        "c": "Umar",
+        "d": "Abu Bakr",
+        "r": "a"
+    },
+    {
+        "q": "The Abbasid Caliphate was founded in which year?",
+        "a": "750 CE",
+        "b": "661 CE",
+        "c": "632 CE",
+        "d": "570 CE",
+        "r": "a"
+    },
+    {
+        "q": "Who was the first caliph of Islam?",
+        "a": "Umar",
+        "b": "Ali",
+        "c": "Abu Bakr",
+        "d": "Uthman",
+        "r": "c"
+    },
+    {
+        "q": "What was the capital of the Umayyad Caliphate?",
+        "a": "Cairo",
+        "b": "Damascus",
+        "c": "Baghdad",
+        "d": "Mecca",
+        "r": "b"
+    },
+    {
+        "q": "The Battle of Badr took place in which year after the Hijra?",
+        "a": "5 AH",
+        "b": "10 AH",
+        "c": "2 AH",
+        "d": "12 AH",
+        "r": "c"
+    },
+    {
+        "q": "Who was the wife of the Prophet Muhammad who was the daughter of Abu Bakr?",
+        "a": "Hafsa",
+        "b": "Aisha",
+        "c": "Zainab",
+        "d": "Khadijah",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic scholar is known as the \"Father of Islamic Jurisprudence\"?",
+        "a": "Imam Malik",
+        "b": "Imam Abu Hanifa",
+        "c": "Imam Ahmad",
+        "d": "Imam Shafi",
+        "r": "b"
+    },
+    {
+        "q": "The Abbasid Caliphate is known for its contributions to which field of knowledge?",
+        "a": "Philosophy",
+        "b": "Mathematics",
+        "c": "Science",
+        "d": "Medicine",
+        "r": "c"
+    },
+    {
+        "q": "What was the name of the treaty that was signed between the Muslims of Medina and the Jewish tribes?",
+        "a": "Treaty of Hudaybiyyah",
+        "b": "Treaty of Versailles",
+        "c": "Constitution of Medina",
+        "d": "Treaty of Aqaba",
+        "r": "a"
+    },
+    {
+        "q": "Who was the founder of the Fatimid Caliphate?",
+        "a": "Imam Hussain",
+        "b": "Imam Ali",
+        "c": "Imam Ismail",
+        "d": "Imam Hasan",
+        "r": "c"
+    },
+    {
+        "q": "The Battle of Tours in 732 CE was fought between the Muslims and which kingdom?",
+        "a": "Visigoths",
+        "b": "Franks",
+        "c": "Byzantines",
+        "d": "Persians",
+        "r": "b"
+    },
+    {
+        "q": "Who was the famous Muslim explorer and traveler from Morocco?",
+        "a": "Ibn Battuta",
+        "b": "Ibn Khaldun",
+        "c": "Al-Idrisi",
+        "d": "Al-Masudi",
+        "r": "a"
+    },
+    {
+        "q": "The Islamic Golden Age is associated with which city that became a center of learning and scholarship?",
+        "a": "Baghdad",
+        "b": "Cairo",
+        "c": "Damascus",
+        "d": "Cordoba",
+        "r": "a"
+    },
+    {
+        "q": "Who was the leader of the Turkic dynasty that ruled over the Delhi Sultanate in India?",
+        "a": "Qutb-ud-din Aibak",
+        "b": "Alauddin Khalji",
+        "c": "Muhammad bin Tughluq",
+        "d": "Babur",
+        "r": "a"
+    },
+    {
+        "q": "Which battle is considered the key turning point in the expansion of Islam into India?",
+        "a": "Battle of Panipat",
+        "b": "Battle of Uhud",
+        "c": "Battle of Talas",
+        "d": "Battle of Plassey",
+        "r": "a"
+    },
+    {
+        "q": "Who was the famous Islamic philosopher, theologian, and jurist known for his works like \"The Incoherence of the Philosophers\"?",
+        "a": "Al-Ghazali",
+        "b": "Ibn Sina",
+        "c": "Ibn Rushd",
+        "d": "Ibn Khaldun",
+        "r": "a"
+    },
+    {
+        "q": "The reign of Harun al-Rashid is often described as the pinnacle of the Abbasid Caliphate and was a prominent character in which famous literary work?",
+        "a": "One Thousand and One Nights",
+        "b": "Rubaiyat of Omar Khayyam",
+        "c": "Shahnameh",
+        "d": "Mu'allaqat",
+        "r": "a"
+    },
+    {
+        "q": "The Alhambra, a palace and fortress complex, was built during the rule of which Islamic dynasty in Spain?",
+        "a": "Nasrid dynasty",
+        "b": "Umayyad Caliphate",
+        "c": "Abbasid Caliphate",
+        "d": "Fatimid Caliphate",
+        "r": "a"
+    },
+    {
+        "q": "Which city was the capital of the Umayyad Caliphate in the Iberian Peninsula?",
+        "a": "Cordoba",
+        "b": "Granada",
+        "c": "Seville",
+        "d": "Toledo",
+        "r": "a"
+    },
+    {
+        "q": "Who was the famous female scholar of hadith and jurisprudence during the Abbasid era?",
+        "a": "Imam Shafi's mother",
+        "b": "Aisha bint Abi Bakr",
+        "c": "Fatima al-Fihri",
+        "d": "Rabia al-Adawiyya",
+        "r": "a"
+    },
+    {
+        "q": "The Great Mosque of Samarra, with its iconic spiral minaret, was constructed during the reign of which Abbasid caliph?",
+        "a": "Al-Mutawakkil",
+        "b": "Al-Ma'mun",
+        "c": "Al-Mansur",
+        "d": "Al-Mahdi",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic scholar is known for his compilation of hadith known as \"Sahih al-Bukhari\"?",
+        "a": "Imam Bukhari",
+        "b": "Imam Muslim",
+        "c": "Imam Abu Dawood",
+        "d": "Imam Tirmidhi",
+        "r": "a"
+    },
+    {
+        "q": "The Battle of Ain Jalut in 1260 CE was a significant victory for which Muslim dynasty against the Mongols?",
+        "a": "Mamluks",
+        "b": "Seljuks",
+        "c": "Fatimids",
+        "d": "Ayyubids",
+        "r": "a"
+    },
+    {
+        "q": "Who was the first Sultan of the Ottoman Empire?",
+        "a": "Osman I",
+        "b": "Mehmed II",
+        "c": "Suleiman the Magnificent",
+        "d": "Selim I",
+        "r": "a"
+    },
+    {
+        "q": "Which famous Islamic scholar and historian wrote the biographical dictionary \"Al-Siyar al-Kabir\"?",
+        "a": "Imam adh-Dhahabi",
+        "b": "Ibn Hajar al-Asqalani",
+        "c": "Ibn Khallikan",
+        "d": "Ibn Saad",
+        "r": "a"
+    },
+    {
+        "q": "The reign of which Caliph is considered the apex of the Umayyad Caliphate's territorial expansion?",
+        "a": "Abdul Malik",
+        "b": "Umar II",
+        "c": "Uthman II",
+        "d": "Yazid II",
+        "r": "a"
+    },
+    {
+        "q": "Who was the leader of the Mongol invasions that conquered much of the Muslim world, including Baghdad in 1258 CE?",
+        "a": "Hulagu Khan",
+        "b": "Genghis Khan",
+        "c": "Kublai Khan",
+        "d": "Timur",
+        "r": "a"
+    },
+    {
+        "q": "Who was the first Mughal Emperor of India?",
+        "a": "Babur",
+        "b": "Akbar",
+        "c": "Jahangir",
+        "d": "Shah Jahan",
+        "r": "a"
+    },
+    {
+        "q": "The Treaty of Hudaybiyyah was signed between the Muslims of Medina and which city-state of Mecca?",
+        "a": "Quraysh",
+        "b": "Quba",
+        "c": "Thaqif",
+        "d": "Ta'if",
+        "r": "a"
+    },
+    {
+        "q": "Who was the famous Andalusian polymath, known for his contributions to various fields such as astronomy, medicine, and philosophy?",
+        "a": "Ibn Rushd (Averroes)",
+        "b": "Ibn Khaldun",
+        "c": "Al-Biruni",
+        "d": "Al-Idrisi",
+        "r": "a"
+    },
+    {
+        "q": "The Fatimid Caliphate was founded by descendants of which Islamic figure?",
+        "a": "Fatimah",
+        "b": "Ali",
+        "c": "Umar",
+        "d": "Abu Bakr",
+        "r": "a"
+    },
+    {
+        "q": "Who was the famous Persian poet and philosopher known for his work \"Masnavi\" or \"Mathnawi\"?",
+        "a": "Rumi",
+        "b": "Hafez",
+        "c": "Saadi",
+        "d": "Omar Khayyam",
+        "r": "a"
+    },
+    {
+        "q": "The Umayyad Caliphate was overthrown in 750 CE and replaced by which dynasty?",
+        "a": "Abbasid",
+        "b": "Fatimid",
+        "c": "Uthmani",
+        "d": "Ayyubid",
+        "r": "a"
+    },
+    {
+        "q": "Who was the founder of the Ayyubid dynasty and famously known as Salahuddin al-Ayyubi?",
+        "a": "Salahuddin Ayyubi",
+        "b": "Nuruddin Zengi",
+        "c": "Al-Mansur",
+        "d": "Al-Aziz",
+        "r": "a"
+    },
+    {
+        "q": "What is the primary source of Islamic law (Sharia)?",
+        "a": "Quran",
+        "b": "Hadith",
+        "c": "Ijma",
+        "d": "Qiyas",
+        "r": "d"
+    },
+    {
+        "q": "Which Islamic school of thought relies on analogy (Qiyas) for legal reasoning?",
+        "a": "Hanafi",
+        "b": "Shafi'i",
+        "c": "Maliki",
+        "d": "Hanbali",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic school of thought considers consensus (Ijma) as a source of law?",
+        "a": "Shafi'i",
+        "b": "Hanafi",
+        "c": "Maliki",
+        "d": "Hanbali",
+        "r": "d"
+    },
+    {
+        "q": "What is the term used for the juristic consensus in Islamic law?",
+        "a": "Ijma",
+        "b": "Qiyas",
+        "c": "Istihsan",
+        "d": "Taqlid",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic legal maxim means \"certainty cannot be overruled by doubt\"?",
+        "a": "Yaqeen",
+        "b": "Istihsan",
+        "c": "Qiyas",
+        "d": "Shubhah",
+        "r": "c"
+    },
+    {
+        "q": "What is the meaning of \"Fiqh\" in Islamic law context?",
+        "a": "Understanding",
+        "b": "Charity",
+        "c": "Worship",
+        "d": "Jurisprudence",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic school of thought emphasizes the use of Hadith as a primary source of law?",
+        "a": "Hanbali",
+        "b": "Shafi'i",
+        "c": "Hanafi",
+        "d": "Maliki",
+        "r": "c"
+    },
+    {
+        "q": "Which Islamic legal term refers to a precautionary measure to avoid doubtful matters?",
+        "a": "Istihsan",
+        "b": "Taqlid",
+        "c": "Qiyas",
+        "d": "Ijma",
+        "r": "d"
+    },
+    {
+        "q": "What is the opposite of Halal in Islamic dietary laws?",
+        "a": "Haram",
+        "b": "Sunnah",
+        "c": "Makruh",
+        "d": "Mustahab",
+        "r": "d"
+    },
+    {
+        "q": "Which Islamic school of thought is predominant in Saudi Arabia?",
+        "a": "Hanbali",
+        "b": "Shafi'i",
+        "c": "Hanafi",
+        "d": "Maliki",
+        "r": "c"
+    },
+    {
+        "q": "Which Islamic legal term means \"permission\" and refers to permitted actions in Sharia?",
+        "a": "Halal",
+        "b": "Haram",
+        "c": "Sunnah",
+        "d": "Makruh",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used for the struggle or striving in the way of Allah in Islam?",
+        "a": "Ijtihad",
+        "b": "Hijra",
+        "c": "Jihad",
+        "d": "Zakat",
+        "r": "d"
+    },
+    {
+        "q": "Which Islamic school of thought is followed by the majority in Egypt?",
+        "a": "Maliki",
+        "b": "Hanbali",
+        "c": "Hanafi",
+        "d": "Shafi'i",
+        "r": "c"
+    },
+    {
+        "q": "What is the term for Islamic ruling or legal opinion issued by a qualified jurist?",
+        "a": "Fatwa",
+        "b": "Hadith",
+        "c": "Ijma",
+        "d": "Sunnah",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic legal term means \"recommended\" and refers to virtuous actions?",
+        "a": "Mustahab",
+        "b": "Makruh",
+        "c": "Halal",
+        "d": "Haram",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic school of thought is followed by the majority in Pakistan?",
+        "a": "Hanafi",
+        "b": "Shafi'i",
+        "c": "Maliki",
+        "d": "Hanbali",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used for the independent interpretation of Islamic law?",
+        "a": "Ijtihad",
+        "b": "Qiyas",
+        "c": "Taqlid",
+        "d": "Istihsan",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic legal term means \"disliked\" and refers to discouraged actions?",
+        "a": "Makruh",
+        "b": "Mustahab",
+        "c": "Halal",
+        "d": "Haram",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic school of thought is followed by the majority in India?",
+        "a": "Hanafi",
+        "b": "Maliki",
+        "c": "Shafi'i",
+        "d": "Hanbali",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used for the practice of seeking a religious ruling from a qualified scholar?",
+        "a": "Ijtihad",
+        "b": "Fatwa",
+        "c": "Taqlid",
+        "d": "Istihsan",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic legal term means \"obligatory\" and refers to required actions?",
+        "a": "Fard",
+        "b": "Sunnah",
+        "c": "Mustahab",
+        "d": "Makruh",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic school of thought is followed by the majority in Indonesia?",
+        "a": "Shafi'i",
+        "b": "Hanbali",
+        "c": "Maliki",
+        "d": "Hanafi",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used for the migration of Prophet Muhammad (PBUH) from Mecca to Medina?",
+        "a": "Hijra",
+        "b": "Jihad",
+        "c": "Zakat",
+        "d": "Ijtihad",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic legal term means \"recommended\" and refers to actions done voluntarily?",
+        "a": "Sunnah",
+        "b": "Mustahab",
+        "c": "Makruh",
+        "d": "Fard",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic school of thought is followed by the majority in Bangladesh?",
+        "a": "Hanafi",
+        "b": "Shafi'i",
+        "c": "Maliki",
+        "d": "Hanbali",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used for the charitable giving in Islam?",
+        "a": "Zakat",
+        "b": "Hajj",
+        "c": "Jihad",
+        "d": "Hijra",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic legal term means \"obligatory\" and refers to actions with the highest religious duty?",
+        "a": "Fard",
+        "b": "Sunnah",
+        "c": "Mustahab",
+        "d": "Makruh",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic school of thought is followed by the majority in Turkey?",
+        "a": "Hanafi",
+        "b": "Shafi'i",
+        "c": "Maliki",
+        "d": "Hanbali",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used for the pilgrimage to Mecca, which is an essential duty of Muslims?",
+        "a": "Hajj",
+        "b": "Jihad",
+        "c": "Zakat",
+        "d": "Ijtihad",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic legal term means \"forbidden\" and refers to prohibited actions?",
+        "a": "Haram",
+        "b": "Halal",
+        "c": "Makruh",
+        "d": "Sunnah",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic school of thought is followed by the majority in Iran?",
+        "a": "Shia",
+        "b": "Hanbali",
+        "c": "Maliki",
+        "d": "Hanafi",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used for the prophetic tradition or sayings of Prophet Muhammad (PBUH)?",
+        "a": "Hadith",
+        "b": "Fard",
+        "c": "Sunnah",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic legal term means \"recommended\" and refers to actions with a higher reward?",
+        "a": "Mustahab",
+        "b": "Makruh",
+        "c": "Halal",
+        "d": "Haram",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic school of thought is followed by the majority in Iraq?",
+        "a": "Shia",
+        "b": "Shafi'i",
+        "c": "Maliki",
+        "d": "Hanbali",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used for the divine predestination in Islamic theology?",
+        "a": "Qadr",
+        "b": "Iman",
+        "c": "Taqwa",
+        "d": "Sunnah",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic legal term means \"forbidden\" and refers to actions that are discouraged but not sinful?",
+        "a": "Makruh",
+        "b": "Haram",
+        "c": "Halal",
+        "d": "Sunnah",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used for the belief in the six articles of faith in Islam?",
+        "a": "Iman",
+        "b": "Jihad",
+        "c": "Taqwa",
+        "d": "Sunnah",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic legal term means \"innovation\" and refers to religious innovations not found in the Quran or Hadith?",
+        "a": "Bid'ah",
+        "b": "Sunnah",
+        "c": "Qiyas",
+        "d": "Istihsan",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic school of thought is followed by the majority in Afghanistan?",
+        "a": "Hanafi",
+        "b": "Maliki",
+        "c": "Shafi'i",
+        "d": "Hanbali",
+        "r": "b"
+    },
+    {
+        "q": "What is the term used for the duty of Muslims to strive in the path of Allah?",
+        "a": "Jihad",
+        "b": "Ijtihad",
+        "c": "Zakat",
+        "d": "Halal",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic school of thought is followed by the majority in Malaysia?",
+        "a": "Shafi'i",
+        "b": "Hanbali",
+        "c": "Maliki",
+        "d": "Hanafi",
+        "r": "c"
+    },
+    {
+        "q": "What is the term used for the annual Islamic pilgrimage to Mecca?",
+        "a": "Hajj",
+        "b": "Zakat",
+        "c": "Jihad",
+        "d": "Ijtihad",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic legal term means \"forbidden\" and refers to actions that are sinful?",
+        "a": "Haram",
+        "b": "Sunnah",
+        "c": "Makruh",
+        "d": "Halal",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic school of thought is followed by the majority in Nigeria?",
+        "a": "Maliki",
+        "b": "Shafi'i",
+        "c": "Hanafi",
+        "d": "Hanbali",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used for the act of charity in Islam?",
+        "a": "Zakat",
+        "b": "Ijtihad",
+        "c": "Jihad",
+        "d": "Hajj",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic school of thought is followed by the majority in Algeria?",
+        "a": "Maliki",
+        "b": "Shafi'i",
+        "c": "Hanafi",
+        "d": "Hanbali",
+        "r": "c"
+    },
+    {
+        "q": "Which quality is praised in Islam and refers to being humble and modest?",
+        "a": "Humility",
+        "b": "Pride",
+        "c": "Arrogance",
+        "d": "Deception",
+        "r": "a"
+    },
+    {
+        "q": "What is the meaning of \"Akhlaq\" in Islam?",
+        "a": "Good manners",
+        "b": "Prayer",
+        "c": "Fasting",
+        "d": "Pilgrimage",
+        "r": "c"
+    },
+    {
+        "q": "Which quality is emphasized in Islam to treat others with kindness and respect?",
+        "a": "Mercy",
+        "b": "Greed",
+        "c": "Arrogance",
+        "d": "Deception",
+        "r": "a"
+    },
+    {
+        "q": "What is the term used for modesty and decency in Islamic ethics?",
+        "a": "Hayaa",
+        "b": "Pride",
+        "c": "Envy",
+        "d": "Laziness",
+        "r": "b"
+    },
+    {
+        "q": "Which character trait is discouraged in Islam and is often associated with Satan?",
+        "a": "Arrogance",
+        "b": "Gratitude",
+        "c": "Honesty",
+        "d": "Forgiveness",
+        "r": "a"
+    },
+    {
+        "q": "What does Islam teach about lying and deceitful behavior?",
+        "a": "Forbidden",
+        "b": "Recommended",
+        "c": "Permissible",
+        "d": "Obligatory",
+        "r": "a"
+    },
+    {
+        "q": "Which quality is praised in Islam and leads to a peaceful and harmonious society?",
+        "a": "Tolerance",
+        "b": "Jealousy",
+        "c": "Hatred",
+        "d": "Revenge",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic term for showing gratitude and thankfulness to Allah?",
+        "a": "Shukr",
+        "b": "Sabr",
+        "c": "Tawakkul",
+        "d": "Tawbah",
+        "r": "a"
+    },
+    {
+        "q": "Which trait is encouraged in Islam and refers to patience and perseverance?",
+        "a": "Sabr",
+        "b": "Greed",
+        "c": "Arrogance",
+        "d": "Pride",
+        "r": "b"
+    },
+    {
+        "q": "What is the term used for unlawful sexual relations in Islamic ethics?",
+        "a": "Zina",
+        "b": "Sadaqah",
+        "c": "Jihad",
+        "d": "Riba",
+        "r": "a"
+    },
+    {
+        "q": "Which quality is considered essential in fulfilling one's obligations in Islam?",
+        "a": "Trustworthiness",
+        "b": "Envy",
+        "c": "Laziness",
+        "d": "Deception",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic term for giving charity and helping those in need?",
+        "a": "Sadaqah",
+        "b": "Riba",
+        "c": "Jihad",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "Which character trait is praised in Islam and leads to a strong sense of community?",
+        "a": "Generosity",
+        "b": "Jealousy",
+        "c": "Hatred",
+        "d": "Revenge",
+        "r": "b"
+    },
+    {
+        "q": "What is the term used for the act of seeking forgiveness from Allah in Islam?",
+        "a": "Tawbah",
+        "b": "Tawakkul",
+        "c": "Shukr",
+        "d": "Sabr",
+        "r": "a"
+    },
+    {
+        "q": "Which quality is praised in Islam and refers to showing kindness and compassion?",
+        "a": "Compassion",
+        "b": "Greed",
+        "c": "Arrogance",
+        "d": "Deception",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for putting trust and reliance on Allah's plan?",
+        "a": "Tawakkul",
+        "b": "Sabr",
+        "c": "Shukr",
+        "d": "Tawbah",
+        "r": "a"
+    },
+    {
+        "q": "Which character trait is discouraged in Islam and leads to division among people?",
+        "a": "Jealousy",
+        "b": "Generosity",
+        "c": "Hatred",
+        "d": "Forgiveness",
+        "r": "a"
+    },
+    {
+        "q": "What does Islam teach about backbiting and speaking ill of others?",
+        "a": "Forbidden",
+        "b": "Recommended",
+        "c": "Permissible",
+        "d": "Obligatory",
+        "r": "a"
+    },
+    {
+        "q": "Which quality is praised in Islam and refers to being content and grateful?",
+        "a": "Contentment",
+        "b": "Greed",
+        "c": "Arrogance",
+        "d": "Deception",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for the act of struggling or striving in the path of Allah?",
+        "a": "Jihad",
+        "b": "Tawbah",
+        "c": "Shukr",
+        "d": "Sabr",
+        "r": "a"
+    },
+    {
+        "q": "Which character trait is encouraged in Islam and leads to inner peace and tranquility?",
+        "a": "Forgiveness",
+        "b": "Generosity",
+        "c": "Hatred",
+        "d": "Revenge",
+        "r": "b"
+    },
+    {
+        "q": "What does Islam teach about cheating and dishonesty in dealings?",
+        "a": "Forbidden",
+        "b": "Recommended",
+        "c": "Permissible",
+        "d": "Obligatory",
+        "r": "a"
+    },
+    {
+        "q": "Which quality is praised in Islam and refers to being patient during difficult times?",
+        "a": "Patience",
+        "b": "Greed",
+        "c": "Arrogance",
+        "d": "Deception",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for repenting and seeking Allah's forgiveness?",
+        "a": "Tawbah",
+        "b": "Sadaqah",
+        "c": "Jihad",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "Which character trait is discouraged in Islam and is often associated with envy?",
+        "a": "Envy",
+        "b": "Generosity",
+        "c": "Gratitude",
+        "d": "Forgiveness",
+        "r": "b"
+    },
+    {
+        "q": "What does Islam teach about gossip and spreading rumors?",
+        "a": "Forbidden",
+        "b": "Recommended",
+        "c": "Permissible",
+        "d": "Obligatory",
+        "r": "a"
+    },
+    {
+        "q": "Which quality is praised in Islam and refers to being trustworthy and reliable?",
+        "a": "Honesty",
+        "b": "Greed",
+        "c": "Arrogance",
+        "d": "Deception",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for the act of voluntary charitable giving?",
+        "a": "Sadaqah",
+        "b": "Riba",
+        "c": "Jihad",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "Which character trait is encouraged in Islam and leads to a sense of selflessness?",
+        "a": "Altruism",
+        "b": "Jealousy",
+        "c": "Hatred",
+        "d": "Revenge",
+        "r": "b"
+    },
+    {
+        "q": "What does Islam teach about arrogance and pride?",
+        "a": "Discouraged",
+        "b": "Recommended",
+        "c": "Permissible",
+        "d": "Obligatory",
+        "r": "a"
+    },
+    {
+        "q": "Which quality is praised in Islam and refers to showing love and affection to others?",
+        "a": "Love",
+        "b": "Greed",
+        "c": "Arrogance",
+        "d": "Deception",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for the act of seeking closeness to Allah through worship?",
+        "a": "Ibadah",
+        "b": "Tawakkul",
+        "c": "Shukr",
+        "d": "Tawbah",
+        "r": "a"
+    },
+    {
+        "q": "Which character trait is discouraged in Islam and is often associated with laziness?",
+        "a": "Laziness",
+        "b": "Generosity",
+        "c": "Gratitude",
+        "d": "Forgiveness",
+        "r": "b"
+    },
+    {
+        "q": "What does Islam teach about envy and coveting others' possessions?",
+        "a": "Forbidden",
+        "b": "Recommended",
+        "c": "Permissible",
+        "d": "Obligatory",
+        "r": "a"
+    },
+    {
+        "q": "Which quality is praised in Islam and refers to being just and fair?",
+        "a": "Justice",
+        "b": "Greed",
+        "c": "Arrogance",
+        "d": "Deception",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for the act of seeking Allah's help and guidance?",
+        "a": "Istikhara",
+        "b": "Sabr",
+        "c": "Shukr",
+        "d": "Tawbah",
+        "r": "a"
+    },
+    {
+        "q": "Which character trait is encouraged in Islam and leads to a harmonious society?",
+        "a": "Generosity",
+        "b": "Jealousy",
+        "c": "Hatred",
+        "d": "Revenge",
+        "r": "b"
+    },
+    {
+        "q": "What does Islam teach about arrogance and looking down upon others?",
+        "a": "Forbidden",
+        "b": "Recommended",
+        "c": "Permissible",
+        "d": "Obligatory",
+        "r": "a"
+    },
+    {
+        "q": "Which quality is praised in Islam and refers to being honest and truthful?",
+        "a": "Truthfulness",
+        "b": "Greed",
+        "c": "Arrogance",
+        "d": "Deception",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for the act of giving one-fifth of one's wealth to charity?",
+        "a": "Khums",
+        "b": "Tawakkul",
+        "c": "Shukr",
+        "d": "Tawbah",
+        "r": "a"
+    },
+    {
+        "q": "Which character trait is discouraged in Islam and is often associated with greed?",
+        "a": "Greed",
+        "b": "Generosity",
+        "c": "Gratitude",
+        "d": "Forgiveness",
+        "r": "b"
+    },
+    {
+        "q": "What does Islam teach about wastefulness and extravagance?",
+        "a": "Discouraged",
+        "b": "Recommended",
+        "c": "Permissible",
+        "d": "Obligatory",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet is considered the seal of the prophets in Islam?",
+        "a": "Adam",
+        "b": "Muhammad",
+        "c": "Moses",
+        "d": "Jesus",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the holy book of Islam?",
+        "a": "Bible",
+        "b": "Quran",
+        "c": "Torah",
+        "d": "Vedas",
+        "r": "b"
+    },
+    {
+        "q": "Which city is the holiest site in Islam, a place of pilgrimage for Muslims?",
+        "a": "Istanbul",
+        "b": "Mecca",
+        "c": "Medina",
+        "d": "Cairo",
+        "r": "c"
+    },
+    {
+        "q": "In which month do Muslims fast from sunrise to sunset?",
+        "a": "Ramadan",
+        "b": "Shawwal",
+        "c": "Dhul-Hijjah",
+        "d": "Safar",
+        "r": "a"
+    },
+    {
+        "q": "Which mosque in Jerusalem is the third holiest site in Islam?",
+        "a": "Al-Aqsa Mosque",
+        "b": "Dome of the Rock",
+        "c": "Hagia Sophia",
+        "d": "Blue Mosque",
+        "r": "a"
+    },
+    {
+        "q": "Which prophet built the Kaaba, the sacred structure in Mecca?",
+        "a": "Ibrahim (Abraham)",
+        "b": "Musa (Moses)",
+        "c": "Isa (Jesus)",
+        "d": "Dawud (David)",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the pilgrimage that every Muslim must perform once in their lifetime?",
+        "a": "Zakat",
+        "b": "Hajj",
+        "c": "Shahada",
+        "d": "Sawm",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic month marks the end of the Hajj pilgrimage?",
+        "a": "Shawwal",
+        "b": "Dhul-Hijjah",
+        "c": "Safar",
+        "d": "Rabi' al-Thani",
+        "r": "b"
+    },
+    {
+        "q": "Which companion of Prophet Muhammad (PBUH) is known as the \"Sword of Allah\"?",
+        "a": "Uthman",
+        "b": "Ali",
+        "c": "Abu Bakr",
+        "d": "Umar",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic month is associated with fasting to commemorate the Battle of Badr?",
+        "a": "Shawwal",
+        "b": "Ramadan",
+        "c": "Muharram",
+        "d": "Safar",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the Islamic law derived from the Quran and Hadith?",
+        "a": "Zakat",
+        "b": "Fiqh",
+        "c": "Jihad",
+        "d": "Sunnah",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic caliphate period is considered the \"Golden Age\" of Islamic civilization?",
+        "a": "Umayyad",
+        "b": "Abbasid",
+        "c": "Rashidun",
+        "d": "Fatimid",
+        "r": "b"
+    },
+    {
+        "q": "Which companion of Prophet Muhammad (PBUH) is known as the \"Mother of Believers\"?",
+        "a": "Khadijah",
+        "b": "Aisha",
+        "c": "Fatimah",
+        "d": "Maryam",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic month marks the beginning of the Islamic lunar calendar?",
+        "a": "Shawwal",
+        "b": "Dhul-Hijjah",
+        "c": "Muharram",
+        "d": "Rajab",
+        "r": "c"
+    },
+    {
+        "q": "What is the Arabic term for giving charity or alms to the poor in Islam?",
+        "a": "Zakat",
+        "b": "Hajj",
+        "c": "Sawm",
+        "d": "Sadaqah",
+        "r": "d"
+    },
+    {
+        "q": "Which Islamic scholar is known as the \"Father of Modern Chemistry\"?",
+        "a": "Al-Kindi",
+        "b": "Ibn Sina (Avicenna)",
+        "c": "Ibn al-Haytham (Alhazen)",
+        "d": "Jabir ibn Hayyan",
+        "r": "d"
+    },
+    {
+        "q": "Which city served as the capital of the Islamic caliphate during the Umayyad dynasty?",
+        "a": "Damascus",
+        "b": "Baghdad",
+        "c": "Cairo",
+        "d": "Cordoba",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the holy city in Saudi Arabia, the birthplace of Prophet Muhammad (PBUH)?",
+        "a": "Istanbul",
+        "b": "Mecca",
+        "c": "Medina",
+        "d": "Cairo",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic caliphate was known for its contributions to mathematics and science?",
+        "a": "Abbasid",
+        "b": "Umayyad",
+        "c": "Fatimid",
+        "d": "Rashidun",
+        "r": "a"
+    },
+    {
+        "q": "Who was the wife of Prophet Muhammad (PBUH) known for her extensive knowledge of Hadith?",
+        "a": "Khadijah",
+        "b": "Aisha",
+        "c": "Fatimah",
+        "d": "Hafsa",
+        "r": "b"
+    },
+    {
+        "q": "In which Islamic month is the Night of Decree (Laylat al-Qadr) observed?",
+        "a": "Shawwal",
+        "b": "Ramadan",
+        "c": "Dhul-Hijjah",
+        "d": "Safar",
+        "r": "b"
+    },
+    {
+        "q": "What is the Arabic term for the Islamic concept of struggle or striving in the way of Allah?",
+        "a": "Zakat",
+        "b": "Sawm",
+        "c": "Shahada",
+        "d": "Jihad",
+        "r": "d"
+    },
+    {
+        "q": "Which Islamic caliphate was known for its advancement in art, science, and architecture?",
+        "a": "Umayyad",
+        "b": "Abbasid",
+        "c": "Fatimid",
+        "d": "Rashidun",
+        "r": "b"
+    },
+    {
+        "q": "Who was the first caliph of Islam after the passing of Prophet Muhammad (PBUH)?",
+        "a": "Uthman",
+        "b": "Ali",
+        "c": "Abu Bakr",
+        "d": "Umar",
+        "r": "c"
+    },
+    {
+        "q": "In which Islamic month is the festival of Eid al-Adha celebrated?",
+        "a": "Shawwal",
+        "b": "Ramadan",
+        "c": "Dhul-Hijjah",
+        "d": "Safar",
+        "r": "c"
+    },
+    {
+        "q": "What is the Arabic term for the spiritual practice of fasting during Ramadan?",
+        "a": "Zakat",
+        "b": "Sawm",
+        "c": "Hajj",
+        "d": "Shahada",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic caliphate period saw the translation of Greek texts into Arabic?",
+        "a": "Umayyad",
+        "b": "Abbasid",
+        "c": "Rashidun",
+        "d": "Fatimid",
+        "r": "b"
+    },
+    {
+        "q": "Who was the cousin and son-in-law of Prophet Muhammad (PBUH) and the fourth caliph of Islam?",
+        "a": "Uthman",
+        "b": "Ali",
+        "c": "Abu Bakr",
+        "d": "Umar",
+        "r": "b"
+    },
+    {
+        "q": "In which Islamic month is the festival of Eid al-Fitr celebrated?",
+        "a": "Shawwal",
+        "b": "Ramadan",
+        "c": "Dhul-Hijjah",
+        "d": "Safar",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic caliphate was known for its contributions to medicine and medical sciences?",
+        "a": "Abbasid",
+        "b": "Umayyad",
+        "c": "Fatimid",
+        "d": "Rashidun",
+        "r": "a"
+    },
+    {
+        "q": "Who was the first wife of Prophet Muhammad (PBUH)?",
+        "a": "Khadijah",
+        "b": "Aisha",
+        "c": "Fatimah",
+        "d": "Hafsa",
+        "r": "a"
+    },
+    {
+        "q": "In which Islamic month do Muslims commemorate the Battle of Karbala and observe Ashura?",
+        "a": "Shawwal",
+        "b": "Ramadan",
+        "c": "Muharram",
+        "d": "Safar",
+        "r": "c"
+    },
+    {
+        "q": "What is the Arabic term for the call to prayer in Islam?",
+        "a": "Zakat",
+        "b": "Adhan",
+        "c": "Sawm",
+        "d": "Shahada",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic caliphate period is known for the establishment of a library and House of Wisdom in Baghdad?",
+        "a": "Umayyad",
+        "b": "Abbasid",
+        "c": "Rashidun",
+        "d": "Fatimid",
+        "r": "b"
+    },
+    {
+        "q": "What is the Arabic term for the pilgrimage to Mecca performed by Muslims who are physically and financially able?",
+        "a": "Zakat",
+        "b": "Hajj",
+        "c": "Sawm",
+        "d": "Shahada",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic caliphate was known for its advancements in astronomy and navigation?",
+        "a": "Abbasid",
+        "b": "Umayyad",
+        "c": "Fatimid",
+        "d": "Rashidun",
+        "r": "a"
+    },
+    {
+        "q": "Who was the wife of Prophet Muhammad (PBUH) known for her piety and devotion to charity?",
+        "a": "Khadijah",
+        "b": "Aisha",
+        "c": "Fatimah",
+        "d": "Hafsa",
+        "r": "a"
+    },
+    {
+        "q": "In which Islamic month do Muslims fast for six days as recommended after Ramadan?",
+        "a": "Shawwal",
+        "b": "Ramadan",
+        "c": "Dhul-Hijjah",
+        "d": "Safar",
+        "r": "a"
+    },
+    {
+        "q": "What is the characteristic feature of Islamic calligraphy?",
+        "a": "Geometric patterns",
+        "b": "Human figures",
+        "c": "Landscapes",
+        "d": "Floral designs",
+        "r": "a"
+    },
+    {
+        "q": "Which architectural style is characterized by pointed arches and ribbed vaults?",
+        "a": "Gothic",
+        "b": "Baroque",
+        "c": "Renaissance",
+        "d": "Islamic",
+        "r": "d"
+    },
+    {
+        "q": "What is the focal point of a mosque, indicating the direction of prayer?",
+        "a": "Mihrab",
+        "b": "Minaret",
+        "c": "Minbar",
+        "d": "Sahn",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic art form involves intricate geometric designs often used in tiling?",
+        "a": "Zillij",
+        "b": "Fresco",
+        "c": "Mosaic",
+        "d": "Stained glass",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic architecture, what is the tower from which the call to prayer is made?",
+        "a": "Minaret",
+        "b": "Dome",
+        "c": "Qibla",
+        "d": "Hypostyle hall",
+        "r": "a"
+    },
+    {
+        "q": "Which ancient structure in Mecca is the focal point of the Hajj pilgrimage?",
+        "a": "Kaaba",
+        "b": "Alhambra",
+        "c": "Taj Mahal",
+        "d": "Dome of the Rock",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the central courtyard of a traditional Islamic mosque?",
+        "a": "Sahn",
+        "b": "Iwan",
+        "c": "Haram",
+        "d": "Souq",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic architectural element is a semi-circular niche in the wall of a mosque?",
+        "a": "Mihrab",
+        "b": "Qibla",
+        "c": "Maqsura",
+        "d": "Mashrabiya",
+        "r": "a"
+    },
+    {
+        "q": "What is the main purpose of Islamic art?",
+        "a": "To display wealth and opulence",
+        "b": "To express individual creativity",
+        "c": "To depict religious themes",
+        "d": "To imitate the art of ancient civilizations",
+        "r": "c"
+    },
+    {
+        "q": "Which Islamic architectural feature is a pointed arch that spans an opening?",
+        "a": "Mihrab",
+        "b": "Qibla",
+        "c": "Minaret",
+        "d": "Dome",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the building where Muslims gather for communal prayer?",
+        "a": "Madrasa",
+        "b": "Minbar",
+        "c": "Masjid",
+        "d": "Souk",
+        "r": "c"
+    },
+    {
+        "q": "In Islamic calligraphy, what is the use of decorative elements to embellish the text?",
+        "a": "Tazhib",
+        "b": "Qalam",
+        "c": "Diwani",
+        "d": "Kufic",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a famous example of Islamic geometric patterns?",
+        "a": "Alhambra",
+        "b": "Hagia Sophia",
+        "c": "Taj Mahal",
+        "d": "Pyramids",
+        "r": "a"
+    },
+    {
+        "q": "What type of art form involves intricate designs using colorful tiles?",
+        "a": "Marquetry",
+        "b": "Tessellation",
+        "c": "Filigree",
+        "d": "Mosaic",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following materials is commonly used in Islamic pottery?",
+        "a": "Porcelain",
+        "b": "Earthenware",
+        "c": "Glass",
+        "d": "Bone China",
+        "r": "b"
+    },
+    {
+        "q": "What is the name of the tower from which the call to prayer is made?",
+        "a": "Maqsurah",
+        "b": "Madrasa",
+        "c": "Minaret",
+        "d": "Minbar",
+        "r": "c"
+    },
+    {
+        "q": "The Great Mosque of Mecca is also known as:",
+        "a": "Masjid al-Haram",
+        "b": "Al-Aqsa Mosque",
+        "c": "Blue Mosque",
+        "d": "Dome of the Rock",
+        "r": "a"
+    },
+    {
+        "q": "What is the direction that a mihrab indicates?",
+        "a": "Towards the Kaaba",
+        "b": "Towards the Prophet's mosque",
+        "c": "Towards Jerusalem",
+        "d": "Towards the Golden Dome",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic art form involves the use of small pieces of colored stone or glass to create images or patterns?",
+        "a": "Stucco",
+        "b": "Calligraphy",
+        "c": "Tessellation",
+        "d": "Mosaic",
+        "r": "d"
+    },
+    {
+        "q": "The Taj Mahal, a famous Islamic architecture, is located in which country?",
+        "a": "India",
+        "b": "Iran",
+        "c": "Turkey",
+        "d": "Egypt",
+        "r": "a"
+    },
+    {
+        "q": "What does the term \"Arabesque\" refer to in Islamic art?",
+        "a": "Geometric patterns",
+        "b": "Floral patterns",
+        "c": "Calligraphic inscriptions",
+        "d": "Human figures",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic city is known for its distinctive blue and white ceramic tiles?",
+        "a": "Fes",
+        "b": "Cairo",
+        "c": "Isfahan",
+        "d": "Istanbul",
+        "r": "c"
+    },
+    {
+        "q": "The Dome of the Rock is an example of Islamic architecture located in:",
+        "a": "Jerusalem",
+        "b": "Mecca",
+        "c": "Medina",
+        "d": "Baghdad",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic name for the niche in a mosque indicating the direction of prayer?",
+        "a": "Mihrab",
+        "b": "Minbar",
+        "c": "Minaret",
+        "d": "Qibla",
+        "r": "a"
+    },
+    {
+        "q": "The Alhambra palace is located in which modern-day country?",
+        "a": "Spain",
+        "b": "Morocco",
+        "c": "Egypt",
+        "d": "Tunisia",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic art form often features intricate designs with repetitive geometric patterns?",
+        "a": "Filigree",
+        "b": "Calligraphy",
+        "c": "Tessellation",
+        "d": "Stained Glass",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of a minbar in a mosque?",
+        "a": "To hold copies of the Quran",
+        "b": "To display religious artifacts",
+        "c": "To store prayer mats",
+        "d": "To deliver sermons",
+        "r": "d"
+    },
+    {
+        "q": "The Blue Mosque, or Sultan Ahmed Mosque, is located in which city?",
+        "a": "Istanbul",
+        "b": "Cairo",
+        "c": "Damascus",
+        "d": "Marrakech",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the ornamental writing used in Islamic calligraphy?",
+        "a": "Kufic",
+        "b": "Naskh",
+        "c": "Thuluth",
+        "d": "Diwani",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a famous example of Islamic art and architecture in Spain?",
+        "a": "Topkapi Palace",
+        "b": "Mezquita of Cordoba",
+        "c": "Hagia Sophia",
+        "d": "The Parthenon",
+        "r": "b"
+    },
+    {
+        "q": "Which of the Five Pillars of Islam is represented by Islamic calligraphy in mosques?",
+        "a": "Shahada",
+        "b": "Salat",
+        "c": "Zakat",
+        "d": "Hajj",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of a minaret in a mosque?",
+        "a": "To store the Quran",
+        "b": "To call Muslims to prayer",
+        "c": "To house the Imam's office",
+        "d": "To perform ablution",
+        "r": "b"
+    },
+    {
+        "q": "The city of Isfahan in Iran is known for its beautiful Islamic:",
+        "a": "Carpets",
+        "b": "Pottery",
+        "c": "Stained Glass",
+        "d": "Illumination",
+        "r": "c"
+    },
+    {
+        "q": "What type of Islamic architecture consists of a large central dome and four smaller domes?",
+        "a": "Iwan",
+        "b": "Mausoleum",
+        "c": "Mihrab",
+        "d": "Rondel",
+        "r": "b"
+    },
+    {
+        "q": "The Great Mosque of Cordoba is located in which country?",
+        "a": "Spain",
+        "b": "Algeria",
+        "c": "Tunisia",
+        "d": "Turkey",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the prayer niche in a mosque that is decorated with mosaic tiles?",
+        "a": "Sahn",
+        "b": "Qibla",
+        "c": "Mihrab",
+        "d": "Mashrabiya",
+        "r": "c"
+    },
+    {
+        "q": "The Islamic art of paper marbling is known as:",
+        "a": "Ebru",
+        "b": "Batik",
+        "c": "Gilding",
+        "d": "Weaving",
+        "r": "a"
+    },
+    {
+        "q": "The ancient city of Petra, known for its impressive architecture, is located in which present-day country?",
+        "a": "Egypt",
+        "b": "Syria",
+        "c": "Jordan",
+        "d": "Iraq",
+        "r": "c"
+    },
+    {
+        "q": "What is the primary purpose of the minarets in Islamic architecture?",
+        "a": "To enhance the mosque's acoustics",
+        "b": "To serve as lookout towers",
+        "c": "To provide ventilation",
+        "d": "To act as a sundial",
+        "r": "b"
+    },
+    {
+        "q": "The famous \"Arabian Nights\" stories have had a significant impact on the development of:",
+        "a": "Islamic calligraphy",
+        "b": "Islamic architecture",
+        "c": "Islamic literature",
+        "d": "Islamic music",
+        "r": "c"
+    },
+    {
+        "q": "The Sultan Qaboos Grand Mosque is located in which country?",
+        "a": "Oman",
+        "b": "Saudi Arabia",
+        "c": "Qatar",
+        "d": "Kuwait",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the mihrab in a mosque?",
+        "a": "To display religious texts",
+        "b": "To hold the mosque's treasures",
+        "c": "To lead the call to prayer",
+        "d": "To indicate the direction of prayer",
+        "r": "d"
+    },
+    {
+        "q": "What is the term for the courtyard in a mosque?",
+        "a": "Sahn",
+        "b": "Qibla",
+        "c": "Minbar",
+        "d": "Mihrab",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic art, what is the purpose of using arabesque patterns?",
+        "a": "To create 3D effects",
+        "b": "To represent abstract concepts",
+        "c": "To tell stories or narratives",
+        "d": "To make the artwork symmetrical",
+        "r": "b"
+    },
+    {
+        "q": "The famous Topkapi Palace was the residence of:",
+        "a": "Abbasid Caliphs",
+        "b": "Ottoman Sultans",
+        "c": "Umayyad Caliphs",
+        "d": "Fatimid Caliphs",
+        "r": "b"
+    },
+    {
+        "q": "The Dome of the Rock in Jerusalem is built on the site believed to be the:",
+        "a": "First Caliph's tomb",
+        "b": "Prophet Muhammad's birthplace",
+        "c": "Site of the Last Supper",
+        "d": "Temple of Solomon",
+        "r": "d"
+    },
+    {
+        "q": "Which Islamic art form involves the art of paper folding?",
+        "a": "Origami",
+        "b": "Filigree",
+        "c": "Khatam",
+        "d": "Marbling",
+        "r": "a"
+    },
+    {
+        "q": "The Blue Mosque in Istanbul was built during the rule of which Ottoman Sultan?",
+        "a": "Mehmed the Conqueror",
+        "b": "Suleiman the Magnificent",
+        "c": "Murad III",
+        "d": "Selim I",
+        "r": "b"
+    },
+    {
+        "q": "What is the term for the Islamic art of decorative writing using a reed pen?",
+        "a": "Nasta'liq",
+        "b": "Diwani",
+        "c": "Naskh",
+        "d": "Thuluth",
+        "r": "b"
+    },
+    {
+        "q": "The \"Iwan\" is a distinctive feature of Islamic architecture commonly found in:",
+        "a": "Mosques",
+        "b": "Palaces",
+        "c": "Caravanserais",
+        "d": "Madrasas",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary source of Islamic economic principles?",
+        "a": "The Quran",
+        "b": "The Bible",
+        "c": "The Torah",
+        "d": "The Vedas",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is considered a prohibited practice in Islamic finance?",
+        "a": "Zakat",
+        "b": "Riba (Interest)",
+        "c": "Sadaqah",
+        "d": "Waqf",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for charitable giving or voluntary almsgiving?",
+        "a": "Zakat",
+        "b": "Riba",
+        "c": "Khums",
+        "d": "Sadaqah",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is an essential feature of an Islamic financial contract?",
+        "a": "Gharar (Uncertainty)",
+        "b": "Riba (Interest)",
+        "c": "Qimar (Gambling)",
+        "d": "Halal (Permissible)",
+        "r": "d"
+    },
+    {
+        "q": "Which Islamic finance principle promotes risk-sharing between parties?",
+        "a": "Mudarabah",
+        "b": "Murabaha",
+        "c": "Istisna",
+        "d": "Ijarah",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic term for a partnership where one partner provides the capital, and the other partner contributes expertise or labor?",
+        "a": "Wakalah",
+        "b": "Murabaha",
+        "c": "Musharakah",
+        "d": "Istisna",
+        "r": "c"
+    },
+    {
+        "q": "What type of contract involves the sale of goods at a marked-up price, with payment deferred to a later date?",
+        "a": "Ijarah",
+        "b": "Istisna",
+        "c": "Murabaha",
+        "d": "Bai' al-Dayn",
+        "r": "c"
+    },
+    {
+        "q": "Which Islamic finance instrument is similar to a lease-to-own arrangement?",
+        "a": "Ijarah",
+        "b": "Bai' Bithaman Ajil",
+        "c": "Musharakah",
+        "d": "Salam",
+        "r": "b"
+    },
+    {
+        "q": "In Islamic banking, what does the term \"Takaful\" refer to?",
+        "a": "Profit-sharing system",
+        "b": "Islamic bonds",
+        "c": "Islamic insurance",
+        "d": "Islamic mutual funds",
+        "r": "c"
+    },
+    {
+        "q": "Which Islamic financial contract involves the sale of goods for deferred delivery and payment?",
+        "a": "Bai' al-Dayn",
+        "b": "Mudarabah",
+        "c": "Qard al-Hasan",
+        "d": "Salam",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is a basic principle of Islamic finance that prohibits investments in certain industries, such as alcohol and gambling?",
+        "a": "Gharar",
+        "b": "Haram",
+        "c": "Murabaha",
+        "d": "Ijarah",
+        "r": "b"
+    },
+    {
+        "q": "What does the term \"Shariah-compliant\" mean in Islamic finance?",
+        "a": "Transactions conform to ethical standards",
+        "b": "Transactions are interest-based",
+        "c": "Transactions involve excessive risk",
+        "d": "Transactions are speculative",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a mode of Islamic finance where the financier buys and owns an asset and then leases it to the client at an agreed rental price?",
+        "a": "Istisna",
+        "b": "Ijarah",
+        "c": "Murabaha",
+        "d": "Mudarabah",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for a non-obligatory charitable donation made in addition to the obligatory annual Zakat?",
+        "a": "Sadaqah",
+        "b": "Qard al-Hasan",
+        "c": "Khums",
+        "d": "Riba",
+        "r": "a"
+    },
+    {
+        "q": "Which type of partnership in Islamic finance involves two or more parties sharing both the capital and the risk in a business venture?",
+        "a": "Wakalah",
+        "b": "Murabaha",
+        "c": "Musharakah",
+        "d": "Istisna",
+        "r": "c"
+    },
+    {
+        "q": "What does the term \"Riba\" refer to in Islamic finance?",
+        "a": "Profit",
+        "b": "Interest",
+        "c": "Charity",
+        "d": "Investment",
+        "r": "b"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Qard al-Hasan\" mean?",
+        "a": "Interest-free loan",
+        "b": "Profit sharing",
+        "c": "Debt forgiveness",
+        "d": "Risk-sharing",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic finance principle refers to uncertainty and ambiguity in contractual terms?",
+        "a": "Gharar",
+        "b": "Halal",
+        "c": "Haram",
+        "d": "Musharakah",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic term for endowment or charitable trust?",
+        "a": "Waqf",
+        "b": "Zakat",
+        "c": "Ijarah",
+        "d": "Mudarabah",
+        "r": "a"
+    },
+    {
+        "q": "Which type of Islamic contract involves the sale of goods for immediate payment and deferred delivery?",
+        "a": "Bai' Bithaman Ajil",
+        "b": "Bai' Salam",
+        "c": "Istisna",
+        "d": "Ijarah",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic finance principle emphasizes fair and just business practices?",
+        "a": "Ijarah",
+        "b": "Adl",
+        "c": "Qard al-Hasan",
+        "d": "Musharakah",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of deducting a certain percentage from the value of wealth annually for charitable purposes in Islamic finance?",
+        "a": "Zakat",
+        "b": "Sadaqah",
+        "c": "Khums",
+        "d": "Riba",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Wakalah\" refer to?",
+        "a": "Agency",
+        "b": "Charity",
+        "c": "Insurance",
+        "d": "Partnership",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic finance instrument involves the sale of goods at cost plus an agreed profit margin?",
+        "a": "Bai' Salam",
+        "b": "Istisna",
+        "c": "Bai' Bithaman Ajil",
+        "d": "Murabaha",
+        "r": "d"
+    },
+    {
+        "q": "What is the Islamic term for a loan that must be repaid without any additional charge or interest?",
+        "a": "Riba",
+        "b": "Gharar",
+        "c": "Qard al-Hasan",
+        "d": "Salam",
+        "r": "c"
+    },
+    {
+        "q": "Which type of Islamic contract involves a unilateral promise by one party to buy a commodity from another party at a specified price on a future date?",
+        "a": "Bai' Salam",
+        "b": "Istisna",
+        "c": "Murabaha",
+        "d": "Mudarabah",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Bay' al-'Inah\" refer to?",
+        "a": "Selling a commodity on a deferred payment basis and then buying it back at a lower price for immediate payment",
+        "b": "Buying a commodity on credit and reselling it at a higher price for deferred payment",
+        "c": "Partnership contract with profit-sharing",
+        "d": "Lease-to-own arrangement",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is an Islamic financial institution that operates based on the principle of Mudarabah?",
+        "a": "Islamic bank",
+        "b": "Takaful company",
+        "c": "Mutual fund",
+        "d": "Stock exchange",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for a loan with no fixed repayment period and no additional charge or interest?",
+        "a": "Riba",
+        "b": "Qard al-Hasan",
+        "c": "Bai' Bithaman Ajil",
+        "d": "Salam",
+        "r": "b"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Istisna\" refer to?",
+        "a": "Selling a commodity on a deferred payment basis",
+        "b": "Selling a commodity at a marked-up price",
+        "c": "Leasing an asset at an agreed rental price",
+        "d": "Giving a gift",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic finance principle refers to lawful and permissible activities according to Islamic teachings?",
+        "a": "Riba",
+        "b": "Halal",
+        "c": "Gharar",
+        "d": "Qard al-Hasan",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for a loan extended on a goodwill basis where the borrower is only required to repay the principal amount?",
+        "a": "Riba",
+        "b": "Qard al-Hasan",
+        "c": "Bai' Bithaman Ajil",
+        "d": "Salam",
+        "r": "b"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Musharakah\" refer to?",
+        "a": "Partnership",
+        "b": "Lease",
+        "c": "Loan",
+        "d": "Charity",
+        "r": "a"
+    },
+    {
+        "q": "Which type of Islamic contract involves the sale of goods for immediate payment and possession?",
+        "a": "Bai' Salam",
+        "b": "Bai' Bithaman Ajil",
+        "c": "Istisna",
+        "d": "Murabaha",
+        "r": "a"
+    },
+    {
+        "q": "What does the term \"Haram\" refer to in Islamic finance?",
+        "a": "Forbidden",
+        "b": "Allowed",
+        "c": "Uncertain",
+        "d": "Non-profit",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Qimar\" refer to?",
+        "a": "Gambling",
+        "b": "Interest",
+        "c": "Charity",
+        "d": "Partnership",
+        "r": "a"
+    },
+    {
+        "q": "Which type of Islamic finance involves a contract of exchange for goods of different quantities or qualities?",
+        "a": "Bai' Salam",
+        "b": "Bai' Bithaman Ajil",
+        "c": "Istisna",
+        "d": "Murabaha",
+        "r": "a"
+    },
+    {
+        "q": "What does the term \"Gharar\" refer to in Islamic finance?",
+        "a": "Uncertainty",
+        "b": "Profit",
+        "c": "Charity",
+        "d": "Investment",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Bai' al-Dayn\" refer to?",
+        "a": "Debt trading",
+        "b": "Profit sharing",
+        "c": "Joint venture",
+        "d": "Lease-to-own arrangement",
+        "r": "a"
+    },
+    {
+        "q": "Which type of partnership in Islamic finance involves one party providing capital, and the other party contributing labor and management?",
+        "a": "Musharakah",
+        "b": "Mudarabah",
+        "c": "Murabaha",
+        "d": "Ijarah",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for a loan without any charge or interest that must be repaid in an equal amount?",
+        "a": "Riba",
+        "b": "Gharar",
+        "c": "Qard al-Hasan",
+        "d": "Salam",
+        "r": "c"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Ijarah\" refer to?",
+        "a": "Leasing",
+        "b": "Profit sharing",
+        "c": "Debt trading",
+        "d": "Charity",
+        "r": "a"
+    },
+    {
+        "q": "Which type of Islamic contract involves the sale of an item for immediate payment with deferred delivery?",
+        "a": "Bai' Salam",
+        "b": "Bai' Bithaman Ajil",
+        "c": "Istisna",
+        "d": "Murabaha",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic term for a gift given voluntarily, without any obligation?",
+        "a": "Sadaqah",
+        "b": "Zakat",
+        "c": "Khums",
+        "d": "Riba",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Tawarruq\" refer to?",
+        "a": "Reverse murabaha",
+        "b": "Profit sharing",
+        "c": "Charity",
+        "d": "Lease-to-own arrangement",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic finance principle encourages avoiding excessive risk and uncertainty in transactions?",
+        "a": "Gharar",
+        "b": "Musharakah",
+        "c": "Bai' Bithaman Ajil",
+        "d": "Ijarah",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic term for an interest-free loan extended for the fulfillment of basic needs?",
+        "a": "Qard al-Hasan",
+        "b": "Bai' Bithaman Ajil",
+        "c": "Salam",
+        "d": "Istisna",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Hawala\" refer to?",
+        "a": "Money exchange",
+        "b": "Profit sharing",
+        "c": "Debt trading",
+        "d": "Risk-sharing",
+        "r": "a"
+    },
+    {
+        "q": "Which type of Islamic contract involves the sale of goods at a specified price with deferred payment?",
+        "a": "Bai' Salam",
+        "b": "Bai' Bithaman Ajil",
+        "c": "Istisna",
+        "d": "Murabaha",
+        "r": "d"
+    },
+    {
+        "q": "What is the Islamic term for a contract of exchange of goods for gold and silver?",
+        "a": "Bai' Salam",
+        "b": "Bai' Bithaman Ajil",
+        "c": "Istisna",
+        "d": "Murabaha",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Qard Hasan\" refer to?",
+        "a": "Profit-sharing loan",
+        "b": "Interest-free loan",
+        "c": "Debt trading",
+        "d": "Risk-sharing",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic finance principle promotes ethical and socially responsible investments?",
+        "a": "Halal",
+        "b": "Haram",
+        "c": "Adl",
+        "d": "Riba",
+        "r": "c"
+    },
+    {
+        "q": "What is the Islamic term for a loan that must be repaid with an additional amount of the same kind?",
+        "a": "Riba",
+        "b": "Gharar",
+        "c": "Qard al-Hasan",
+        "d": "Salam",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Kafalah\" refer to?",
+        "a": "Guarantee",
+        "b": "Profit sharing",
+        "c": "Partnership",
+        "d": "Debt trading",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic finance instrument involves the sale of goods with deferred payment and delivery at a specified future date?",
+        "a": "Bai' Salam",
+        "b": "Bai' Bithaman Ajil",
+        "c": "Istisna",
+        "d": "Murabaha",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic term for an Islamic bond, where the investor receives a share of the profits?",
+        "a": "Sukuk",
+        "b": "Murabaha",
+        "c": "Musharakah",
+        "d": "Takaful",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Istijrar\" refer to?",
+        "a": "Charitable giving",
+        "b": "Bulk sale",
+        "c": "Debt trading",
+        "d": "Risk-sharing",
+        "r": "b"
+    },
+    {
+        "q": "Which Islamic finance principle promotes transparency and full disclosure in business transactions?",
+        "a": "Adl",
+        "b": "Gharar",
+        "c": "Haram",
+        "d": "Qard al-Hasan",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic term for a loan that must be repaid with an additional amount beyond the principal?",
+        "a": "Riba",
+        "b": "Gharar",
+        "c": "Qard al-Hasan",
+        "d": "Salam",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Tazir\" refer to?",
+        "a": "Charity",
+        "b": "Probate",
+        "c": "Penalty",
+        "d": "Investment",
+        "r": "c"
+    },
+    {
+        "q": "Which type of Islamic contract involves the sale of goods with deferred payment and delivery?",
+        "a": "Bai' Salam",
+        "b": "Bai' Bithaman Ajil",
+        "c": "Istisna",
+        "d": "Murabaha",
+        "r": "b"
+    },
+    {
+        "q": "What is the Islamic term for an Islamic bond that represents ownership in a tangible asset?",
+        "a": "Sukuk",
+        "b": "Murabaha",
+        "c": "Musharakah",
+        "d": "Takaful",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what does the term \"Mudarib\" refer to?",
+        "a": "Investor",
+        "b": "Guarantor",
+        "c": "Entrepreneur",
+        "d": "Debtor",
+        "r": "c"
+    },
+    {
+        "q": "Which Islamic finance principle promotes mutual cooperation and joint responsibility in financial transactions?",
+        "a": "Mudarabah",
+        "b": "Istisna",
+        "c": "Qard al-Hasan",
+        "d": "Salam",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic term for the annual almsgiving and welfare contribution?",
+        "a": "Zakat",
+        "b": "Sadaqah",
+        "c": "Khums",
+        "d": "Riba",
+        "r": "a"
+    },
+    {
+        "q": "What is the name of the first wife of Prophet Muhammad (PBUH)?",
+        "a": "Khadijah (RA)",
+        "b": "Aisha (RA)",
+        "c": "Fatimah (RA)",
+        "d": "Hafsah (RA)",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic law, what is the period of waiting for a divorced woman before she can remarry?",
+        "a": "Iddah",
+        "b": "Hijab",
+        "c": "Wudu",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "Which wife of Prophet Muhammad (PBUH) is known for her extensive knowledge and hadith narrations?",
+        "a": "Aisha (RA)",
+        "b": "Khadijah (RA)",
+        "c": "Hafsah (RA)",
+        "d": "Safiyyah (RA)",
+        "r": "a"
+    },
+    {
+        "q": "In Islam, what is the term for modesty and covering of the body?",
+        "a": "Hijab",
+        "b": "Salah",
+        "c": "Zakat",
+        "d": "Iman",
+        "r": "a"
+    },
+    {
+        "q": "Which companion of Prophet Muhammad (PBUH) is known for her business acumen and financial independence?",
+        "a": "Khadijah (RA)",
+        "b": "Aisha (RA)",
+        "c": "Fatimah (RA)",
+        "d": "Hafsah (RA)",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the optional nighttime prayer in Islam?",
+        "a": "Qiyam-ul-Lail",
+        "b": "Dhuhr",
+        "c": "Jumu'ah",
+        "d": "Eid",
+        "r": "a"
+    },
+    {
+        "q": "Which wife of Prophet Muhammad (PBUH) is known for her piety and devotion to worship?",
+        "a": "Aisha (RA)",
+        "b": "Hafsah (RA)",
+        "c": "Zaynab bint Khuzaymah (RA)",
+        "d": "Sawda bint Zam'a (RA)",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the pilgrimage to Mecca, which is an obligation for Muslims?",
+        "a": "Hajj",
+        "b": "Iman",
+        "c": "Fasting",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic history, who was the daughter of Caliph Umar ibn al-Khattab (RA) known for her wisdom?",
+        "a": "Hafsa bint Umar (RA)",
+        "b": "Umm Salamah (RA)",
+        "c": "Umm Kulthum bint Ali (RA)",
+        "d": "Asma bint Abu Bakr (RA)",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the voluntary charity given by Muslims during Ramadan?",
+        "a": "Sadaqah",
+        "b": "Zakat",
+        "c": "Fidya",
+        "d": "Fitrah",
+        "r": "a"
+    },
+    {
+        "q": "Which wife of Prophet Muhammad (PBUH) is known for her generosity and charitable actions?",
+        "a": "Zaynab bint Khuzaymah (RA)",
+        "b": "Aisha (RA)",
+        "c": "Sawda bint Zam'a (RA)",
+        "d": "Umm Salamah (RA)",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic law, what is the term for a legal will?",
+        "a": "Wasiyyah",
+        "b": "Shahada",
+        "c": "Iqamah",
+        "d": "Tawhid",
+        "r": "a"
+    },
+    {
+        "q": "Who was the first wife of the Prophet Muhammad?",
+        "a": "Aisha (RA)",
+        "b": "Khadijah (RA)",
+        "c": "Fatimah (RA)",
+        "d": "Zainab (RA)",
+        "r": "b"
+    },
+    {
+        "q": "In which city was the Prophet Muhammad born?",
+        "a": "Makkah",
+        "b": "Madinah",
+        "c": "Jerusalem",
+        "d": "Cairo",
+        "r": "a"
+    },
+    {
+        "q": "Which woman is known as the \"Mother of the Believers\"?",
+        "a": "Aisha (RA)",
+        "b": "Fatimah (RA)",
+        "c": "Khadijah (RA)",
+        "d": "Maryam (RA)",
+        "r": "c"
+    },
+    {
+        "q": "What is the age of Aisha (RA) when she married the Prophet?",
+        "a": "9 years",
+        "b": "25 years",
+        "c": "18 years",
+        "d": "20 years",
+        "r": "a"
+    },
+    {
+        "q": "In Islam, what is the reward for treating daughters with kindness?",
+        "a": "A high status in Paradise",
+        "b": "Financial gain",
+        "c": "Fame and popularity",
+        "d": "No specific reward",
+        "r": "a"
+    },
+    {
+        "q": "Who was the daughter of the Prophet Muhammad and Khadijah (RA)?",
+        "a": "Fatimah (RA)",
+        "b": "Aisha (RA)",
+        "c": "Zainab (RA)",
+        "d": "Hafsa (RA)",
+        "r": "a"
+    },
+    {
+        "q": "What is the Islamic perspective on domestic violence?",
+        "a": "It is encouraged and permissible",
+        "b": "It is forbidden and condemned",
+        "c": "It is a private matter and should be ignored",
+        "d": "It is only allowed during certain circumstances",
+        "r": "b"
+    },
+    {
+        "q": "Which woman is known for her scholarly contributions to Hadith?",
+        "a": "Aisha (RA)",
+        "b": "Khadijah (RA)",
+        "c": "Fatimah (RA)",
+        "d": "Umm Salamah (RA)",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic law, who is responsible for providing financial support to the family?",
+        "a": "The husband",
+        "b": "The wife",
+        "c": "The eldest son",
+        "d": "The father",
+        "r": "a"
+    },
+    {
+        "q": "What is the ruling on women working in Islam?",
+        "a": "Women are not allowed to work outside the home",
+        "b": "Women can work in any field they choose",
+        "c": "Women are only allowed to work in certain professions",
+        "d": "Women can work, but with restrictions",
+        "r": "c"
+    },
+    {
+        "q": "Who is known as the \"Mother of the Poor\"?",
+        "a": "Khadijah (RA)",
+        "b": "Aisha (RA)",
+        "c": "Fatimah (RA)",
+        "d": "Zainab (RA)",
+        "r": "a"
+    },
+    {
+        "q": "What is the significance of the term \"Ummah\" in Islam?",
+        "a": "The Holy Quran",
+        "b": "The Islamic community",
+        "c": "The pilgrimage to Makkah",
+        "d": "The charity given to the poor",
+        "r": "b"
+    },
+    {
+        "q": "Who was the first wife of Prophet Muhammad (peace be upon him)?",
+        "a": "Aisha",
+        "b": "Khadijah",
+        "c": "Hafsa",
+        "d": "Zainab",
+        "r": "b"
+    },
+    {
+        "q": "Which Surah in the Quran is named after a woman?",
+        "a": "Surah Maryam",
+        "b": "Surah Fatimah",
+        "c": "Surah Aisha",
+        "d": "Surah Khadijah",
+        "r": "a"
+    },
+    {
+        "q": "Who is considered the mother of the believers?",
+        "a": "Aisha",
+        "b": "Hafsa",
+        "c": "Zainab",
+        "d": "Khadijah",
+        "r": "d"
+    },
+    {
+        "q": "What is the significance of Hijab in Islam?",
+        "a": "It is a symbol of oppression",
+        "b": "It is a personal choice",
+        "c": "It is mandatory for all women",
+        "d": "It promotes modesty and piety",
+        "r": "d"
+    },
+    {
+        "q": "In Islamic inheritance laws, how much does a daughter receive compared to a son?",
+        "a": "Half of a son's share",
+        "b": "Equal share",
+        "c": "Double the share of a son",
+        "d": "One-third of a son's share",
+        "r": "a"
+    },
+    {
+        "q": "Who was the daughter of Prophet Muhammad (peace be upon him) who married Ali (may Allah be pleased with him)?",
+        "a": "Fatimah",
+        "b": "Aisha",
+        "c": "Hafsa",
+        "d": "Zainab",
+        "r": "a"
+    },
+    {
+        "q": "What is the role of women in Islamic scholarship and education?",
+        "a": "Women cannot pursue education",
+        "b": "Women can only study religious subjects",
+        "c": "Women can pursue any field of knowledge",
+        "d": "Women can only study at home",
+        "r": "c"
+    },
+    {
+        "q": "Which woman played a significant role in the preservation of hadiths (sayings of Prophet Muhammad)?",
+        "a": "Aisha",
+        "b": "Khadijah",
+        "c": "Hafsa",
+        "d": "Fatimah",
+        "r": "a"
+    },
+    {
+        "q": "In Islam, what is the purpose of marriage?",
+        "a": "Solely for procreation",
+        "b": "To form a lifelong companionship",
+        "c": "To gain financial security",
+        "d": "To increase the family's social status",
+        "r": "b"
+    },
+    {
+        "q": "What rights do women have in Islam regarding ownership and inheritance?",
+        "a": "They cannot own property",
+        "b": "They can own property and inherit wealth",
+        "c": "They can only inherit from their mothers",
+        "d": "They can only inherit from their husbands",
+        "r": "b"
+    },
+    {
+        "q": "Who was the wife of Prophet Muhammad (peace be upon him) known for her charitable activities?",
+        "a": "Khadijah",
+        "b": "Hafsa",
+        "c": "Aisha",
+        "d": "Zainab",
+        "r": "a"
+    },
+    {
+        "q": "How are women treated during Hajj (pilgrimage)?",
+        "a": "They are not allowed to perform Hajj",
+        "b": "They perform Hajj separately from men",
+        "c": "They perform Hajj together with men",
+        "d": "They perform Hajj after men",
+        "r": "c"
+    },
+    {
+        "q": "What does Islam say about the education of girls?",
+        "a": "Girls should only be educated at home",
+        "b": "Girls should receive a basic education",
+        "c": "Girls should not be educated",
+        "d": "Girls should pursue higher education",
+        "r": "b"
+    },
+    {
+        "q": "Who was the wife of Prophet Muhammad (peace be upon him) known for her poetry?",
+        "a": "Aisha",
+        "b": "Hafsa",
+        "c": "Zainab",
+        "d": "Khadijah",
+        "r": "a"
+    },
+    {
+        "q": "How does Islam promote gender equality?",
+        "a": "Islam treats men and women exactly the same",
+        "b": "Islam considers men superior to women",
+        "c": "Islam recognizes the equal worth of men and women",
+        "d": "Islam prohibits women from working",
+        "r": "c"
+    },
+    {
+        "q": "What is the concept of \"Mahram\" in Islam?",
+        "a": "It refers to women who can travel alone",
+        "b": "It refers to male relatives whom a woman can marry",
+        "c": "It refers to women who do not need to wear hijab",
+        "d": "It refers to non-Muslim women",
+        "r": "b"
+    },
+    {
+        "q": "Who was the daughter of Prophet Muhammad (peace be upon him) who married Umar (may Allah be pleased with him)?",
+        "a": "Aisha",
+        "b": "Hafsa",
+        "c": "Zainab",
+        "d": "Fatimah",
+        "r": "b"
+    },
+    {
+        "q": "What rights do women have in marriage according to Islam?",
+        "a": "They have no say in choosing a partner",
+        "b": "They have the right to consent to marriage",
+        "c": "They can only marry with their father's approval",
+        "d": "They can only marry at a young age",
+        "r": "b"
+    },
+    {
+        "q": "Who was the wife of Prophet Muhammad (peace be upon him) known for her knowledge of medicine?",
+        "a": "Khadijah",
+        "b": "Hafsa",
+        "c": "Aisha",
+        "d": "Zainab",
+        "r": "a"
+    },
+    {
+        "q": "How does Islam address domestic violence?",
+        "a": "Islam permits violence against women",
+        "b": "Islam condemns all forms of violence",
+        "c": "Islam allows men to discipline their wives",
+        "d": "Islam encourages women to fight back",
+        "r": "b"
+    },
+    {
+        "q": "Who was the wife of Prophet Muhammad (peace be upon him) known for her exceptional embroidery skills?",
+        "a": "Aisha",
+        "b": "Hafsa",
+        "c": "Zainab",
+        "d": "Khadijah",
+        "r": "d"
+    },
+    {
+        "q": "What is the concept of \"Mahr\" in Islamic marriage?",
+        "a": "It is a dowry given by the bride's family",
+        "b": "It is a gift given by the groom to the bride",
+        "c": "It is a religious ceremony performed during marriage",
+        "d": "It is a prenuptial agreement",
+        "r": "b"
+    },
+    {
+        "q": "How does Islam view motherhood?",
+        "a": "Motherhood is considered a burden",
+        "b": "Motherhood is not significant in Islam",
+        "c": "Motherhood is highly respected and honored",
+        "d": "Motherhood is discouraged",
+        "r": "c"
+    },
+    {
+        "q": "Who was the wife of Prophet Muhammad (peace be upon him) known for her skilled archery?",
+        "a": "Khadijah",
+        "b": "Hafsa",
+        "c": "Aisha",
+        "d": "Zainab",
+        "r": "c"
+    },
+    {
+        "q": "In Islamic law, what is the punishment for adultery?",
+        "a": "Imprisonment",
+        "b": "Public humiliation",
+        "c": "Flogging",
+        "d": "Execution",
+        "r": "d"
+    },
+    {
+        "q": "What role did women play in early Islamic battles?",
+        "a": "They were only spectators",
+        "b": "They actively participated in battles",
+        "c": "They provided medical aid and support",
+        "d": "They were not involved in any way",
+        "r": "c"
+    },
+    {
+        "q": "Who was the wife of Prophet Muhammad (peace be upon him) known for her wisdom and counsel?",
+        "a": "Aisha",
+        "b": "Hafsa",
+        "c": "Zainab",
+        "d": "Khadijah",
+        "r": "d"
+    },
+    {
+        "q": "How does Islam view divorce?",
+        "a": "Divorce is highly discouraged",
+        "b": "Divorce is a simple and easy process",
+        "c": "Divorce is permissible but discouraged",
+        "d": "Divorce is forbidden",
+        "r": "c"
+    },
+    {
+        "q": "What is the concept of \"Wali\" in Islamic marriage?",
+        "a": "It refers to the marriage contract",
+        "b": "It refers to the guardian of the bride",
+        "c": "It refers to the wedding ceremony",
+        "d": "It refers to the pre-marital counseling",
+        "r": "b"
+    },
+    {
+        "q": "Who was the wife of Prophet Muhammad (peace be upon him) known for her generosity?",
+        "a": "Khadijah",
+        "b": "Hafsa",
+        "c": "Aisha",
+        "d": "Zainab",
+        "r": "a"
+    },
+    {
+        "q": "How does Islam protect the rights of widows?",
+        "a": "Widows have no rights",
+        "b": "Widows have the right to remarry immediately",
+        "c": "Widows have the right to inherit from their deceased husband",
+        "d": "Widows can only remarry with their father's approval",
+        "r": "c"
+    },
+    {
+        "q": "What is the importance of the \"Hijab\" in Islam?",
+        "a": "It is a cultural practice with no religious significance",
+        "b": "It is a form of oppression for women",
+        "c": "It is a symbol of modesty and dignity",
+        "d": "It is a symbol of rebellion against society",
+        "r": "c"
+    },
+    {
+        "q": "Who is known for his groundbreaking work in algebra and his book \"Al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala\"?",
+        "a": "Al-Khwarizmi",
+        "b": "Ibn Sina (Avicenna)",
+        "c": "Al-Razi (Rhazes)",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim scientist is known as the \"Father of Optics\" and wrote the book \"Kitab al-Manazir\"?",
+        "a": "Ibn al-Haytham (Alhazen)",
+        "b": "Al-Biruni",
+        "c": "Al-Kindi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Who is credited with introducing the Indian numerals (0-9) to the Islamic world?",
+        "a": "Al-Khwarizmi",
+        "b": "Al-Battani (Albategnius)",
+        "c": "Al-Razi (Rhazes)",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim scholar and physician wrote the famous medical encyclopedia \"Kitab al-Hawi\" (The Comprehensive Book)?",
+        "a": "Al-Razi (Rhazes)",
+        "b": "Ibn al-Haytham (Alhazen)",
+        "c": "Al-Khwarizmi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim polymath is known as the \"Second Teacher\" (after Aristotle) and wrote the book \"The Book of Animals\"?",
+        "a": "Al-Jahiz",
+        "b": "Ibn al-Haytham (Alhazen)",
+        "c": "Al-Khwarizmi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Who is considered the \"Father of Chemistry\" and wrote the book \"Kitab al-Kimya\" (The Book of the Chemistry)?",
+        "a": "Jabir ibn Hayyan (Geber)",
+        "b": "Al-Battani (Albategnius)",
+        "c": "Al-Razi (Rhazes)",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim scientist and astronomer accurately determined the solar year and compiled the \"Zij al-Sindhind\"?",
+        "a": "Al-Battani (Albategnius)",
+        "b": "Ibn al-Haytham (Alhazen)",
+        "c": "Al-Khwarizmi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Who is known as the \"Father of Geodesy\" and accurately measured the circumference of the Earth?",
+        "a": "Al-Biruni",
+        "b": "Al-Battani (Albategnius)",
+        "c": "Al-Razi (Rhazes)",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim philosopher and polymath wrote the book \"Al-Madina al-Fadila\" (The Virtuous City)?",
+        "a": "Al-Farabi",
+        "b": "Al-Battani (Albategnius)",
+        "c": "Al-Razi (Rhazes)",
+        "d": "Al-Jahiz",
+        "r": "a"
+    },
+    {
+        "q": "Who is known for his contributions to trigonometry and wrote the book \"Kitab al-Jami fi al-Hisab al-Hindi\"?",
+        "a": "Al-Battani (Albategnius)",
+        "b": "Ibn al-Haytham (Alhazen)",
+        "c": "Al-Khwarizmi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim scientist is known as \"The Father of Anatomy\" and wrote the book \"Kitab al-Tasrif\"?",
+        "a": "Al-Zahrawi (Albucasis)",
+        "b": "Al-Biruni",
+        "c": "Al-Kindi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Who is considered one of the greatest astronomers of the Islamic Golden Age and wrote the \"Almagest\"?",
+        "a": "Ptolemy (Almagest)",
+        "b": "Al-Battani (Albategnius)",
+        "c": "Al-Razi (Rhazes)",
+        "d": "Al-Farabi",
+        "r": "b"
+    },
+    {
+        "q": "Which Muslim scholar and polymath wrote the book \"Kitab al-Hayawan\" (The Book of Animals)?",
+        "a": "Al-Jahiz",
+        "b": "Ibn al-Haytham (Alhazen)",
+        "c": "Al-Khwarizmi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Who is known as the \"Father of Medicine\" and wrote the famous medical book \"Canon of Medicine\"?",
+        "a": "Ibn Sina (Avicenna)",
+        "b": "Al-Biruni",
+        "c": "Al-Kindi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim scientist is known for his contributions to astronomy and wrote \"De Magnete\"?",
+        "a": "Ibn al-Shatir",
+        "b": "Al-Battani (Albategnius)",
+        "c": "Al-Razi (Rhazes)",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Who is credited with developing the decimal point notation and solving polynomial equations?",
+        "a": "Al-Khwarizmi",
+        "b": "Al-Biruni",
+        "c": "Al-Kindi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim scholar and philosopher wrote the book \"Tahafut al-Falasifah\" (The Incoherence of the Philosophers)?",
+        "a": "Al-Ghazali",
+        "b": "Ibn al-Haytham (Alhazen)",
+        "c": "Al-Khwarizmi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Who is known for his contributions to botany and wrote the book \"Kitab al-Jami fi al-Adwiya al-Mufrada\"?",
+        "a": "Ibn al-Baitar",
+        "b": "Al-Biruni",
+        "c": "Al-Kindi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim scientist and mathematician wrote the book \"Al-Maqala fi Hisab al-Jabr wa al-Muqabala\"?",
+        "a": "Al-Khwarizmi",
+        "b": "Ibn al-Haytham (Alhazen)",
+        "c": "Al-Farabi",
+        "d": "Al-Razi (Rhazes)",
+        "r": "a"
+    },
+    {
+        "q": "Who is known for his work in optics and the discovery of the camera obscura phenomenon?",
+        "a": "Ibn al-Haytham (Alhazen)",
+        "b": "Al-Battani (Albategnius)",
+        "c": "Al-Khwarizmi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the device invented by Al-Jazari that is considered an early form of mechanical computer?",
+        "a": "The Elephant Clock",
+        "b": "The Astrolabe",
+        "c": "The Water Clock",
+        "d": "The Camera Obscura",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim scientist is known for his contributions to geography and wrote the book \"Kitab al-Masalik wal-Mamalik\"?",
+        "a": "Al-Idrisi",
+        "b": "Al-Biruni",
+        "c": "Al-Kindi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Who is credited with developing the method of extracting essential oils through distillation?",
+        "a": "Ibn Sina (Avicenna)",
+        "b": "Al-Zahrawi (Albucasis)",
+        "c": "Al-Kindi",
+        "d": "Al-Farabi",
+        "r": "b"
+    },
+    {
+        "q": "Which Muslim philosopher and scientist wrote the book \"Hayy ibn Yaqzan\" (The Self-Taught Philosopher)?",
+        "a": "Ibn Tufail",
+        "b": "Ibn al-Haytham (Alhazen)",
+        "c": "Al-Khwarizmi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the large astronomical instrument invented by Al-Biruni to determine the Earth's circumference?",
+        "a": "Qibla Instrument",
+        "b": "Astrolabe",
+        "c": "Quadrant",
+        "d": "Spherical Astrolabe",
+        "r": "a"
+    },
+    {
+        "q": "Who is known for his contributions to music theory and wrote the book \"Kitab al-Musiqi al-Kabir\"?",
+        "a": "Al-Farabi",
+        "b": "Al-Battani (Albategnius)",
+        "c": "Al-Razi (Rhazes)",
+        "d": "Al-Jahiz",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim scholar and geographer wrote the encyclopedic work \"Nuzhat al-Mushtaq\"?",
+        "a": "Al-Sharif al-Idrisi",
+        "b": "Al-Biruni",
+        "c": "Al-Kindi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Who is known for his work on light reflection and refraction and wrote the book \"Kitab al-Manazir\"?",
+        "a": "Ibn al-Haytham (Alhazen)",
+        "b": "Al-Battani (Albategnius)",
+        "c": "Al-Khwarizmi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the cylindrical projection map invented by Al-Idrisi?",
+        "a": "Al-Idrisi Projection",
+        "b": "Mercator Projection",
+        "c": "Polar Projection",
+        "d": "Robinson Projection",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim scientist is known for his work on algebraic equations and quadratic equations?",
+        "a": "Al-Khwarizmi",
+        "b": "Ibn al-Haytham (Alhazen)",
+        "c": "Al-Battani (Albategnius)",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Who is known for his contributions to meteorology and wrote the book \"Kitab al-Maulid\"?",
+        "a": "Al-Battani (Albategnius)",
+        "b": "Ibn al-Haytham (Alhazen)",
+        "c": "Al-Khwarizmi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the cylindrical device invented by Al-Jazari to lift water and drive machinery?",
+        "a": "Siphon",
+        "b": "Spherical Astrolabe",
+        "c": "Elephant Clock",
+        "d": "Water Wheel",
+        "r": "d"
+    },
+    {
+        "q": "Which Muslim scholar and historian wrote the book \"Tarikh ibn Khalid\"?",
+        "a": "Ibn Khaldoon",
+        "b": "Al-Biruni",
+        "c": "Al-Kindi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Who is known as the \"Father of Surgery\" and wrote the book \"Kitab al-Tasrif\"?",
+        "a": "Al-Zahrawi (Albucasis)",
+        "b": "Al-Biruni",
+        "c": "Al-Kindi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim scientist is known for his contributions to astronomy and wrote \"Al-Zij al-Sabi\"?",
+        "a": "Al-Battani (Albategnius)",
+        "b": "Ibn al-Haytham (Alhazen)",
+        "c": "Al-Khwarizmi",
+        "d": "Al-Farabi",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the equatorial sundial invented by Al-Khwarizmi?",
+        "a": "Quadrant Sundial",
+        "b": "Water Clock",
+        "c": "Astrolabe",
+        "d": "Spherical Astrolabe",
+        "r": "a"
+    },
+    {
+        "q": "Which Muslim scientist and mathematician wrote the book \"Al-Maqala fi Hisab al-Jabr wal-Muqabala\"?",
+        "a": "Al-Khwarizmi",
+        "b": "Ibn al-Haytham (Alhazen)",
+        "c": "Al-Farabi",
+        "d": "Al-Razi (Rhazes)",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the dialogue and cooperation between different religious traditions?",
+        "a": "Interfaith Dialogue",
+        "b": "Ecumenism",
+        "c": "Intolerance",
+        "d": "Evangelism",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle emphasizes peaceful coexistence and dialogue with people of other faiths?",
+        "a": "Tolerance",
+        "b": "Jihad",
+        "c": "Takfir",
+        "d": "Shahada",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the belief in one God shared by Judaism, Christianity, and Islam?",
+        "a": "Monotheism",
+        "b": "Polytheism",
+        "c": "Atheism",
+        "d": "Agnosticism",
+        "r": "a"
+    },
+    {
+        "q": "Which concept in Islam refers to seeking the common ground and shared values with people of other faiths?",
+        "a": "Aqlimiyah",
+        "b": "Ijtihad",
+        "c": "Tawhid",
+        "d": "Maqasid",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the mutual recognition and acceptance of religious differences?",
+        "a": "Pluralism",
+        "b": "Fundamentalism",
+        "c": "Exclusivism",
+        "d": "Evangelism",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic value promotes kindness and compassion towards people of different faiths?",
+        "a": "Rahmah",
+        "b": "Barakah",
+        "c": "Fitrah",
+        "d": "Qiyamah",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the meeting or discussion between representatives of different religions?",
+        "a": "Interreligious Encounter",
+        "b": "Confrontation",
+        "c": "Dispute",
+        "d": "Separatism",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic concept refers to the religious freedom and the absence of coercion in matters of faith?",
+        "a": "Ikhtiyar",
+        "b": "Ijma",
+        "c": "Ikrah",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the belief in the existence of many gods and goddesses?",
+        "a": "Polytheism",
+        "b": "Monotheism",
+        "c": "Agnosticism",
+        "d": "Atheism",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic value encourages respect for religious symbols and places of worship of other faiths?",
+        "a": "Ihsan",
+        "b": "Iman",
+        "c": "Adab",
+        "d": "Akhlaq",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the effort to promote understanding and cooperation between different religions?",
+        "a": "Interreligious Cooperation",
+        "b": "Conversion",
+        "c": "Excommunication",
+        "d": "Sectarianism",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle encourages seeking knowledge and wisdom from various sources?",
+        "a": "Ijtihad",
+        "b": "Jihad",
+        "c": "Tawhid",
+        "d": "Qiyamah",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the organized efforts to spread religious beliefs and practices?",
+        "a": "Evangelism",
+        "b": "Tolerance",
+        "c": "Pluralism",
+        "d": "Secularism",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic value emphasizes the importance of justice and fairness in dealing with people of other faiths?",
+        "a": "Adl",
+        "b": "Fitrah",
+        "c": "Rahmah",
+        "d": "Akhlaq",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the process of finding common solutions to shared challenges through interfaith cooperation?",
+        "a": "Problem-Solving Dialogues",
+        "b": "Debates",
+        "c": "Controversies",
+        "d": "Disputes",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle advocates for the protection of religious freedom for all people?",
+        "a": "Ikhtiyar",
+        "b": "Ikrah",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the belief in the existence of God but with uncertainty about the nature of God?",
+        "a": "Agnosticism",
+        "b": "Atheism",
+        "c": "Monotheism",
+        "d": "Polytheism",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic value promotes humility and modesty in interactions with people of different faiths?",
+        "a": "Khushu",
+        "b": "Ihsan",
+        "c": "Tawakkul",
+        "d": "Adab",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the act of excluding or dismissing followers of certain religious beliefs?",
+        "a": "Exclusivism",
+        "b": "Pluralism",
+        "c": "Tolerance",
+        "d": "Ecumenism",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic concept refers to the consensus of Islamic scholars on certain matters?",
+        "a": "Ijma",
+        "b": "Ijtihad",
+        "c": "Takfir",
+        "d": "Shahada",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the belief that there is no God or divine being?",
+        "a": "Atheism",
+        "b": "Monotheism",
+        "c": "Polytheism",
+        "d": "Agnosticism",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic value promotes hospitality and kindness towards people of different faiths?",
+        "a": "Sadaqah",
+        "b": "Iman",
+        "c": "Ihsan",
+        "d": "Fitrah",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the belief that one's own religion is the only true and valid faith?",
+        "a": "Exclusivism",
+        "b": "Pluralism",
+        "c": "Tolerance",
+        "d": "Universalism",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic concept refers to the independent reasoning and interpretation of Islamic teachings?",
+        "a": "Ijtihad",
+        "b": "Ijma",
+        "c": "Takfir",
+        "d": "Shahada",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the belief that all religions are equally valid paths to the divine?",
+        "a": "Universalism",
+        "b": "Exclusivism",
+        "c": "Pluralism",
+        "d": "Evangelism",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic value promotes peaceful coexistence and non-violence towards people of different faiths?",
+        "a": "Salaam",
+        "b": "Jihad",
+        "c": "Barakah",
+        "d": "Qiyamah",
+        "r": "a"
+    },
+    {
+        "q": "What is the term for the open and respectful exchange of ideas between followers of different religions?",
+        "a": "Dialogue",
+        "b": "Debate",
+        "c": "Conflict",
+        "d": "Confrontation",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle encourages seeking knowledge and understanding from people of other faiths?",
+        "a": "Taqwa",
+        "b": "Ijtihad",
+        "c": "Tawakkul",
+        "d": "Tolerance",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic value promotes empathy and compassion towards people of different faiths?",
+        "a": "Empathy",
+        "b": "Iman",
+        "c": "Ihsan",
+        "d": "Fitrah",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for the concept of struggle or striving in the path of Allah?",
+        "a": "Jihad",
+        "b": "Ijma",
+        "c": "Taqwa",
+        "d": "Sunnah",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle emphasizes justice and fairness in financial transactions?",
+        "a": "Adl",
+        "b": "Ijma",
+        "c": "Taqwa",
+        "d": "Sunnah",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what is the term for the practice of profit-sharing between the investor and entrepreneur?",
+        "a": "Musharakah",
+        "b": "Ijma",
+        "c": "Taqwa",
+        "d": "Sunnah",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for the belief in the oneness of Allah and monotheism?",
+        "a": "Tawhid",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle refers to following the actions and sayings of Prophet Muhammad (PBUH)?",
+        "a": "Sunnah",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what is the term for the prohibition of charging or paying interest?",
+        "a": "Riba",
+        "b": "Ijma",
+        "c": "Taqwa",
+        "d": "Sunnah",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for the practice of Islamic legal reasoning and interpretation?",
+        "a": "Ijtihad",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle emphasizes the importance of moderation and avoiding extremes?",
+        "a": "Wasatiyyah",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what is the term for the contract of leasing or renting assets?",
+        "a": "Ijarah",
+        "b": "Riba",
+        "c": "Musharakah",
+        "d": "Zakat",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for the belief in the Day of Judgment and the afterlife?",
+        "a": "Akhirah",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle refers to the act of declaring faith in Islam?",
+        "a": "Shahada",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what is the term for the practice of giving a charitable offering?",
+        "a": "Zakat",
+        "b": "Riba",
+        "c": "Mudarabah",
+        "d": "Sadaqah",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what is the term for the practice of making a non-binding offer?",
+        "a": "Ijabah",
+        "b": "Riba",
+        "c": "Zakat",
+        "d": "Mudarabah",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for the pilgrimage to Mecca performed outside of the Hajj season?",
+        "a": "Umrah",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle refers to the belief in the angels and the unseen world?",
+        "a": "Malaikah",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what is the term for the practice of deferred sale with a disclosed markup?",
+        "a": "Murabahah",
+        "b": "Riba",
+        "c": "Zakat",
+        "d": "Musharakah",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for the act of charity or voluntary giving in Islam?",
+        "a": "Sadaqah",
+        "b": "Jihad",
+        "c": "Taqwa",
+        "d": "Ijma",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle refers to the concept of faith and belief in Allah and His messengers?",
+        "a": "Iman",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what is the term for the practice of partnership and profit-sharing?",
+        "a": "Musharakah",
+        "b": "Riba",
+        "c": "Zakat",
+        "d": "Mudarabah",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for the practice of reciting the Quran with proper pronunciation?",
+        "a": "Tajwid",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle refers to the concept of charity and social welfare?",
+        "a": "Zakat",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what is the term for the practice of guaranteed profit with a fixed return?",
+        "a": "Mudarabah",
+        "b": "Riba",
+        "c": "Zakat",
+        "d": "Murabahah",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for the act of striving to improve oneself and society?",
+        "a": "Jihad",
+        "b": "Ijma",
+        "c": "Taqwa",
+        "d": "Ihsan",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle refers to the act of fasting during the month of Ramadan?",
+        "a": "Sawm",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what is the term for the practice of financial compensation for breach of contract?",
+        "a": "Kaffarah",
+        "b": "Riba",
+        "c": "Zakat",
+        "d": "Mudarabah",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for the belief in predestination and divine destiny?",
+        "a": "Qadar",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle refers to the concept of lawful and unlawful in Islam?",
+        "a": "Halal",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "In Islamic finance, what is the term for the practice of voluntary charitable giving?",
+        "a": "Sadaqah",
+        "b": "Riba",
+        "c": "Zakat",
+        "d": "Mudarabah",
+        "r": "a"
+    },
+    {
+        "q": "What is the Arabic term for the act of pilgrimage to Mecca, which is one of the Five Pillars of Islam?",
+        "a": "Hajj",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    },
+    {
+        "q": "Which Islamic principle refers to the concept of sincerity and devotion in worship?",
+        "a": "Ikhlas",
+        "b": "Jihad",
+        "c": "Ijma",
+        "d": "Taqwa",
+        "r": "a"
+    }
+]
