@@ -1,0 +1,2218 @@
+[
+    {
+        "q": "What is a variable in programming?",
+        "a": "A statement that performs a specific task",
+        "b": "A container for storing data",
+        "c": "A loop that executes code multiple times",
+        "d": "A condition that controls program flow",
+        "r": "b"
+    },
+    {
+        "q": "Which data type is used to store whole numbers?",
+        "a": "float",
+        "b": "char",
+        "c": "int",
+        "d": "string",
+        "r": "c"
+    },
+    {
+        "q": "Which programming language is known for its versatility and portability?",
+        "a": "Python",
+        "b": "JavaScript",
+        "c": "C++",
+        "d": "HTML",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of finding and fixing errors in a program called?",
+        "a": "Debugging",
+        "b": "Compiling",
+        "c": "Executing",
+        "d": "Syntaxing",
+        "r": "a"
+    },
+    {
+        "q": "In Python, how do you indicate a block of code under a control structure?",
+        "a": "Using indentation",
+        "b": "Using braces",
+        "c": "Using semicolons",
+        "d": "Using quotation marks",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'if' statement in programming?",
+        "a": "To repeat a block of code multiple times",
+        "b": "To check if a condition is true",
+        "c": "To define a function",
+        "d": "To declare a variable",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a programming paradigm?",
+        "a": "Procedural",
+        "b": "Object-oriented",
+        "c": "Functional",
+        "d": "Algorithmic",
+        "r": "d"
+    },
+    {
+        "q": "What is a function in programming?",
+        "a": "A named data structure",
+        "b": "A type of loop",
+        "c": "A collection of data",
+        "d": "A block of reusable code",
+        "r": "d"
+    },
+    {
+        "q": "Which loop is guaranteed to execute at least once?",
+        "a": "for",
+        "b": "while",
+        "c": "do-while",
+        "d": "repeat-until",
+        "r": "c"
+    },
+    {
+        "q": "What is the correct way to comment a single line in Python?",
+        "a": "/* This is a comment */",
+        "b": "// This is a comment",
+        "c": "# This is a comment",
+        "d": "<!-- This is a comment -->",
+        "r": "c"
+    },
+    {
+        "q": "Which data structure follows the Last In, First Out (LIFO) principle?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Array",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the 'else' statement in programming?",
+        "a": "To define a new variable",
+        "b": "To execute code if a condition is false",
+        "c": "To initialize a loop",
+        "d": "To import libraries",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is NOT a Python built-in data type?",
+        "a": "int",
+        "b": "list",
+        "c": "set",
+        "d": "dictionary",
+        "r": "d"
+    },
+    {
+        "q": "What is the output of the following Python code snippet?",
+        "a": "10",
+        "b": "20",
+        "c": "30",
+        "d": "40",
+        "r": "a"
+    },
+    {
+        "q": "In programming, what is an algorithm?",
+        "a": "A step-by-step recipe for performing a task",
+        "b": "A function that performs a specific task",
+        "c": "A variable used for storing data",
+        "d": "A statement that controls program flow",
+        "r": "a"
+    },
+    {
+        "q": "Which operator is used for exponentiation in Python?",
+        "a": "**",
+        "b": "^^",
+        "c": "//",
+        "d": "%%",
+        "r": "a"
+    },
+    {
+        "q": "What does the following code snippet do?",
+        "a": "Defines a class named 'Person'",
+        "b": "Creates a new instance of the 'Person' class",
+        "c": "Defines a method called 'Person'",
+        "d": "Prints the 'Person' class",
+        "r": "a"
+    },
+    {
+        "q": "Which keyword is used to declare a function in Python?",
+        "a": "func",
+        "b": "method",
+        "c": "def",
+        "d": "define",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a valid variable name in Python?",
+        "a": "my-variable",
+        "b": "123variable",
+        "c": "_my_variable",
+        "d": "2myVariable",
+        "r": "c"
+    },
+    {
+        "q": "What is the basic concept of programming?",
+        "a": "Logic",
+        "b": "Syntax",
+        "c": "Variable",
+        "d": "Algorithm",
+        "r": "b"
+    },
+    {
+        "q": "Which programming language is known as the 'mother of all languages'?",
+        "a": "C",
+        "b": "Python",
+        "c": "Fortran",
+        "d": "COBOL",
+        "r": "c"
+    },
+    {
+        "q": "Which data type is used to store whole numbers in Python?",
+        "a": "int",
+        "b": "float",
+        "c": "char",
+        "d": "string",
+        "r": "a"
+    },
+    {
+        "q": "What is the result of 10 + 5 * 2?",
+        "a": "30",
+        "b": "20",
+        "c": "25",
+        "d": "15",
+        "r": "c"
+    },
+    {
+        "q": "Which operator is used to perform exponentiation in Python?",
+        "a": "^",
+        "b": "**",
+        "c": "//",
+        "d": "&",
+        "r": "b"
+    },
+    {
+        "q": "What will be the output of the following code? \\n print(\"Hello, \" + \"World!\")",
+        "a": "Hello, World!",
+        "b": "Hello,",
+        "c": "World!",
+        "d": "Error: Invalid syntax",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a programming language?",
+        "a": "HTML",
+        "b": "Java",
+        "c": "JavaScript",
+        "d": "C++",
+        "r": "a"
+    },
+    {
+        "q": "The process of finding and fixing errors in a program is known as:",
+        "a": "Debugging",
+        "b": "Compiling",
+        "c": "Executing",
+        "d": "Interpreting",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is a valid variable name in Python?",
+        "a": "myVar",
+        "b": "123Var",
+        "c": "my_var",
+        "d": "2var",
+        "r": "c"
+    },
+    {
+        "q": "What does the 'if' statement do in programming?",
+        "a": "Executes a block of code repeatedly",
+        "b": "Checks for a specific condition",
+        "c": "Declares a variable",
+        "d": "Performs mathematical operations",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a programming paradigm?",
+        "a": "Object-oriented",
+        "b": "Imperative",
+        "c": "Functional",
+        "d": "Integrated",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the 'else' statement?",
+        "a": "To end the program",
+        "b": "To handle errors",
+        "c": "To execute code when the 'if' condition is false",
+        "d": "To define a function",
+        "r": "c"
+    },
+    {
+        "q": "What is the result of the expression: 20 % 3?",
+        "a": "7",
+        "b": "2",
+        "c": "6",
+        "d": "1",
+        "r": "b"
+    },
+    {
+        "q": "What is a loop in programming?",
+        "a": "A syntax error",
+        "b": "A section of code that is executed repeatedly",
+        "c": "A logical error",
+        "d": "A comment",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a Python keyword?",
+        "a": "var",
+        "b": "for",
+        "c": "printf",
+        "d": "while",
+        "r": "b"
+    },
+    {
+        "q": "Which type of loop will always execute at least once?",
+        "a": "for loop",
+        "b": "do-while loop",
+        "c": "while loop",
+        "d": "if loop",
+        "r": "b"
+    },
+    {
+        "q": "What does the 'print()' function do in Python?",
+        "a": "Accepts user input",
+        "b": "Displays output on the screen",
+        "c": "Declares a variable",
+        "d": "Performs addition",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a Python IDE?",
+        "a": "PyCharm",
+        "b": "Visual Studio Code",
+        "c": "Sublime Text",
+        "d": "Chrome",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a Python data structure?",
+        "a": "List",
+        "b": "Array",
+        "c": "Tuple",
+        "d": "Dictionary",
+        "r": "b"
+    },
+    {
+        "q": "What will the following code output? \\n print(3 > 1 and 5 < 10)",
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "1",
+        "d": "0",
+        "r": "a"
+    },
+    {
+        "q": "What is the correct way to start a Python 'for' loop?",
+        "a": "for i in range(10) :",
+        "b": "for i = 1 to 10 :",
+        "c": "for i = 1; i <= 10; i++ :",
+        "d": "for i in 1...10 :",
+        "r": "a"
+    },
+    {
+        "q": "Which function can be used to get the length of a string in Python?",
+        "a": "length()",
+        "b": "len()",
+        "c": "size()",
+        "d": "count()",
+        "r": "b"
+    },
+    {
+        "q": "Which operator is used for concatenation in Python?",
+        "a": " =+",
+        "b": "-",
+        "c": "*",
+        "d": "/",
+        "r": "a"
+    },
+    {
+        "q": "What is the output of the following code? \\n print(\"Programming\"[-3])",
+        "a": "r",
+        "b": "o",
+        "c": "m",
+        "d": "a",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a logical operator in Python?",
+        "a": "and",
+        "b": "or",
+        "c": "not",
+        "d": "xor",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of 'elif' in Python?",
+        "a": "To convert a value to a string",
+        "b": "To check multiple conditions",
+        "c": "To define a function",
+        "d": "To display a message",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is used to represent comments in Python?",
+        "a": "//",
+        "b": "/*",
+        "c": "#",
+        "d": "<!--",
+        "r": "c"
+    },
+    {
+        "q": "What is the result of the expression: 10 / 3?",
+        "a": "3",
+        "b": "3.33",
+        "c": "3",
+        "d": "3.333",
+        "r": "c"
+    },
+    {
+        "q": "What will the following code output? \\n print(\"Hello\"[::-1])",
+        "a": "Hello",
+        "b": "olleH",
+        "c": "loleH",
+        "d": "elloH",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a comparison operator in Python?",
+        "a": " ==",
+        "b": "><",
+        "c": "<=",
+        "d": "!=",
+        "r": "b"
+    },
+    {
+        "q": "What is the correct way to define a function in Python?",
+        "a": "function my_function():",
+        "b": "function my_function",
+        "c": "def my_function()",
+        "d": "def my_function():",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a Python standard library?",
+        "a": "math",
+        "b": "os",
+        "c": "string",
+        "d": "standard",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the 'pass' statement in Python?",
+        "a": "To break out of a loop",
+        "b": "To execute the next iteration of a loop",
+        "c": "To define a function",
+        "d": "To skip a loop without doing anything",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a valid Python comment?",
+        "a": "// This is a comment",
+        "b": "# This is a comment",
+        "c": "/* This is a comment */",
+        "d": "\"This is a comment\"",
+        "r": "a"
+    },
+    {
+        "q": "What is the output of the following code? \\n x = 5 \\n y = 10 \\n print(\"x > y\")",
+        "a": "x > y",
+        "b": "FALSE",
+        "c": "5 > 10",
+        "d": "Error: Invalid syntax",
+        "r": "c"
+    },
+    {
+        "q": "Which function can be used to convert a string to an integer in Python?",
+        "a": "toInt()",
+        "b": "int()",
+        "c": "parse()",
+        "d": "strToInt()",
+        "r": "b"
+    },
+    {
+        "q": "What will the following code output? \\n print(2 * 3 ** 2)",
+        "a": "18",
+        "b": "12",
+        "c": "36",
+        "d": "9",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a valid Python variable name?",
+        "a": "my_var",
+        "b": "_variable",
+        "c": "123_var",
+        "d": "2variable",
+        "r": "c"
+    },
+    {
+        "q": "What does the 'while' loop do in programming?",
+        "a": "Executes a block of code repeatedly",
+        "b": "Checks for a specific condition",
+        "c": "Declares a variable",
+        "d": "Performs mathematical operations",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is used to read user input in Python?",
+        "a": "input()",
+        "b": "read()",
+        "c": "get()",
+        "d": "scanf()",
+        "r": "a"
+    },
+    {
+        "q": "What will the following code output? \\n x = 5 \\n y = 10 \\n print(x == y)",
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "5 == 10",
+        "d": "Error: Invalid syntax",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a correct way to create a Python list?",
+        "a": "my_list = [1, 2, 3]",
+        "b": "my_list = {1, 2, 3}",
+        "c": "my_list = (1, 2, 3)",
+        "d": "my_list = \"1, 2, 3\"",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'for' loop in programming?",
+        "a": "To execute a block of code repeatedly",
+        "b": "To check a condition",
+        "c": "To define a function",
+        "d": "To print output",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a valid Python data type?",
+        "a": "int",
+        "b": "float",
+        "c": "boolean",
+        "d": "double",
+        "r": "d"
+    },
+    {
+        "q": "What will the following code output? \\n print(\"Programming\"[2:7])",
+        "a": "Program",
+        "b": "Programming",
+        "c": "gram",
+        "d": "ogra",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a loop in Python?",
+        "a": "for loop",
+        "b": "while loop",
+        "c": "do-while loop",
+        "d": "if loop",
+        "r": "d"
+    },
+    {
+        "q": "What is the correct way to end a Python 'while' loop?",
+        "a": "end",
+        "b": "exit",
+        "c": "break",
+        "d": "continue",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is a correct way to add comments in Python?",
+        "a": "/* This is a comment */",
+        "b": "// This is a comment",
+        "c": "# This is a comment",
+        "d": "<!-- This is a comment -->",
+        "r": "c"
+    },
+    {
+        "q": "What will the following code output? \\n x = 5 \\n y = 10 \\n print(x != y)",
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "5 != 10",
+        "d": "Error: Invalid syntax",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is used to perform subtraction in Python?",
+        "a": "-",
+        "b": "*",
+        "c": " =+",
+        "d": "/",
+        "r": "a"
+    },
+    {
+        "q": "What does the 'input()' function return in Python?",
+        "a": "User input",
+        "b": "Integer value",
+        "c": "Boolean value",
+        "d": "String value",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a valid Python keyword?",
+        "a": "if",
+        "b": "else",
+        "c": "then",
+        "d": "in",
+        "r": "c"
+    },
+    {
+        "q": "What will the following code output? \\n print(\"Python\"[1])",
+        "a": "P",
+        "b": "y",
+        "c": "h",
+        "d": "t",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a programming concept?",
+        "a": "Variables",
+        "b": "Functions",
+        "c": "Objects",
+        "d": "Websites",
+        "r": "d"
+    },
+    {
+        "q": "What is the correct way to create a Python dictionary?",
+        "a": "my_dict = {1: 'one', 2: 'two'}",
+        "b": "my_dict = [1: 'one', 2: 'two']",
+        "c": "my_dict = (1: 'one', 2: 'two')",
+        "d": "my_dict = 'one': 1, 'two': 2",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'range()' function in Python?",
+        "a": "To generate a sequence of numbers",
+        "b": "To calculate the sum of numbers",
+        "c": "To define a function",
+        "d": "To find the average of numbers",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is used to perform division in Python?",
+        "a": "%",
+        "b": "^",
+        "c": "*",
+        "d": "/",
+        "r": "d"
+    },
+    {
+        "q": "What will the following code output? \\n x = 5 \\n y = 10 \\n print(x > y)",
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "5 > 10",
+        "d": "Error: Invalid syntax",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a valid Python data type?",
+        "a": "list",
+        "b": "set",
+        "c": "array",
+        "d": "tuple",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of the 'break' statement in Python?",
+        "a": "To end a loop",
+        "b": "To continue to the next iteration of a loop",
+        "c": "To define a function",
+        "d": "To skip a loop without doing anything",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is used to perform multiplication in Python?",
+        "a": "*",
+        "b": "%",
+        "c": "-",
+        "d": " =+",
+        "r": "a"
+    },
+    {
+        "q": "What does the 'len()' function do in Python?",
+        "a": "Returns the length of a string",
+        "b": "Converts a value to a string",
+        "c": "Declares a variable",
+        "d": "Performs division",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a valid Python comment?",
+        "a": "# This is a comment",
+        "b": "/* This is a comment */",
+        "c": "// This is a comment",
+        "d": "\"This is a comment\"",
+        "r": "d"
+    },
+    {
+        "q": "What is the output of the following code? \\n x = 5 \\n y = 10 \\n print(x < y)",
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "5 < 10",
+        "d": "Error: Invalid syntax",
+        "r": "a"
+    },
+    {
+        "q": "Which function can be used to convert a string to a float in Python?",
+        "a": "float()",
+        "b": "toFloat()",
+        "c": "parse()",
+        "d": "strToFloat()",
+        "r": "a"
+    },
+    {
+        "q": "What will the following code output? \\n print(\"Python\"[1:4])",
+        "a": "Pyt",
+        "b": "Python",
+        "c": "yth",
+        "d": "thon",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a comparison operator in Python?",
+        "a": " =",
+        "b": " ==",
+        "c": "<=",
+        "d": ">=",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a valid variable name?",
+        "a": "_myVar",
+        "b": "123Var",
+        "c": "var_1",
+        "d": "var$",
+        "r": "b"
+    },
+    {
+        "q": "What data type is used to store whole numbers?",
+        "a": "integer",
+        "b": "float",
+        "c": "string",
+        "d": "boolean",
+        "r": "a"
+    },
+    {
+        "q": "Which data type is used to store characters?",
+        "a": "char",
+        "b": "string",
+        "c": "int",
+        "d": "bool",
+        "r": "b"
+    },
+    {
+        "q": "What will be the value of x after the following code?",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a primitive data type?",
+        "a": "double",
+        "b": "char",
+        "c": "array",
+        "d": "long",
+        "r": "c"
+    },
+    {
+        "q": "What is the value of the expression: 5 + 7 * 2?",
+        "a": "24",
+        "b": "19",
+        "c": "26",
+        "d": "17",
+        "r": "c"
+    },
+    {
+        "q": "Which operator is used to find the remainder?",
+        "a": "%",
+        "b": "/",
+        "c": "^",
+        "d": "*",
+        "r": "a"
+    },
+    {
+        "q": "What data type would you use to store the price?",
+        "a": "double",
+        "b": "string",
+        "c": "bool",
+        "d": "int",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is the correct way to declare an empty array in Python?",
+        "a": "arr = []",
+        "b": "arr = {}",
+        "c": "arr = ()",
+        "d": "arr = null",
+        "r": "a"
+    },
+    {
+        "q": "What is the output of the following code?<br>int num = 5;<br>print(\"Number: \" + num);",
+        "a": "Number: 5",
+        "b": "Number: \"5\"",
+        "c": "Number: 0",
+        "d": "Error",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a valid string declaration in Java?",
+        "a": "String name = \"John\";",
+        "b": "String name = 'John';",
+        "c": "String name = new String(\"John\");",
+        "d": "String name = \"\";",
+        "r": "b"
+    },
+    {
+        "q": "What is the value of x after the following code?<br>int x = 10;<br>x++;<br>x += 5;<br>x--;",
+        "a": "6",
+        "b": "16",
+        "c": "11",
+        "d": "9",
+        "r": "c"
+    },
+    {
+        "q": "Which data type is used to store true or false values?",
+        "a": "boolean",
+        "b": "int",
+        "c": "char",
+        "d": "double",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of x after the following code?<br>int x = 5;<br>x = x + 3;<br>x = x * 2;",
+        "a": "16",
+        "b": "13",
+        "c": "14",
+        "d": "11",
+        "r": "d"
+    },
+    {
+        "q": "Which operator is used to compare two values for equality?",
+        "a": "#ERROR!",
+        "b": "!=",
+        "c": "><",
+        "d": "<=",
+        "r": "a"
+    },
+    {
+        "q": "What is the correct way to declare a constant variable in C++?",
+        "a": "const int x = 5;",
+        "b": "final int x = 5;",
+        "c": "int constant x = 5;",
+        "d": "constant int x = 5;",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of y after the following code?<br>int x = 5;<br>int y = x++ + 2;<br>",
+        "a": "5",
+        "b": "7",
+        "c": "8",
+        "d": "6",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is not a valid data type in Python?",
+        "a": "list",
+        "b": "tuple",
+        "c": "dictionary",
+        "d": "array",
+        "r": "d"
+    },
+    {
+        "q": "What is the value of x after the following code?<br>int x = 7;<br>int y = 2;<br>x = x / y;",
+        "a": "3",
+        "b": "3.5",
+        "c": "3",
+        "d": "2",
+        "r": "a"
+    },
+    {
+        "q": "What data type is used to store a sequence of characters in Python?",
+        "a": "string",
+        "b": "char",
+        "c": "array",
+        "d": "tuple",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a valid way to declare a variable in JavaScript?",
+        "a": "var x = 5;",
+        "b": "int x = 5;",
+        "c": "let x = 5;",
+        "d": "const x = 5;",
+        "r": "b"
+    },
+    {
+        "q": "What is the output of the following code?<br>int num = 7;<br>print(\"Number: \" + num);",
+        "a": "Number: 7",
+        "b": "Number: \"7\"",
+        "c": "Number: 0",
+        "d": "Error",
+        "r": "d"
+    },
+    {
+        "q": "Which data type is used to store decimal numbers?",
+        "a": "double",
+        "b": "float",
+        "c": "int",
+        "d": "char",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of x after the following code?<br>int x = 10;<br>int y = 3;<br>int z = x / y;",
+        "a": "3",
+        "b": "3.33",
+        "c": "3",
+        "d": "3.5",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is the correct way to declare a variable in Python?",
+        "a": "x = 5",
+        "b": "int x = 5",
+        "c": "var x = 5",
+        "d": "variable x = 5",
+        "r": "a"
+    },
+    {
+        "q": "What is the value of x after the following code?<br>int x = 5;<br>x += 3;<br>x *= 2;",
+        "a": "10",
+        "b": "16",
+        "c": "13",
+        "d": "11",
+        "r": "a"
+    },
+    {
+        "q": "What will be the output of the following code?<br>int x = 5;<br>int y = 3;<br>System.out.println(x + y + \" Hello\");",
+        "a": "8 Hello",
+        "b": "35 Hello",
+        "c": "53 Hello",
+        "d": "53Hello",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is not a valid way to declare a variable in C#?",
+        "a": "int x = 5;",
+        "b": "var x = 5;",
+        "c": "float x = 5;",
+        "d": "double x = 5;",
+        "r": "c"
+    },
+    {
+        "q": "What is the value of y after the following code?<br>int x = 5;<br>int y = ++x + 2;<br>",
+        "a": "5",
+        "b": "7",
+        "c": "8",
+        "d": "6",
+        "r": "c"
+    },
+    {
+        "q": "Which data type is used to store a single character in C++?",
+        "a": "char",
+        "b": "string",
+        "c": "character",
+        "d": "chr",
+        "r": "a"
+    },
+    {
+        "q": "What is the correct way to declare a constant variable in Java?",
+        "a": "const int x = 5;",
+        "b": "final int x = 5;",
+        "c": "int constant x = 5;",
+        "d": "constant int x = 5;",
+        "r": "b"
+    },
+    {
+        "q": "What is the value of x after the following code?<br>int x = 7;<br>x++;<br>x -= 3;<br>",
+        "a": "3",
+        "b": "4",
+        "c": "7",
+        "d": "6",
+        "r": "d"
+    },
+    {
+        "q": "Which of the following is not a valid string declaration in C++?",
+        "a": "string name = \"John\";",
+        "b": "string name = 'John';",
+        "c": "string name(\"John\");",
+        "d": "string name = \"\";",
+        "r": "b"
+    },
+    {
+        "q": "What is the output of the following code?<br>int num = 7;<br>cout << \"Number: \" << num;",
+        "a": "Number: 7",
+        "b": "Number: \"7\"",
+        "c": "Number: 0",
+        "d": "Error",
+        "r": "d"
+    },
+    {
+        "q": "Which statement is used to perform a single action only if a certain condition is true?",
+        "a": "if",
+        "b": "for",
+        "c": "switch",
+        "d": "while",
+        "r": "a"
+    },
+    {
+        "q": "What is the symbol used to represent the \"not equal\" comparison in most programming languages?",
+        "a": "!=",
+        "b": " ==",
+        "c": "<>",
+        "d": " =/=",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is not a type of conditional statement?",
+        "a": "if-else",
+        "b": "if-else-if",
+        "c": "if-elseif-else",
+        "d": "while-if-else",
+        "r": "c"
+    },
+    {
+        "q": "In Python, what is the keyword used to define the beginning of an if statement?",
+        "a": "then",
+        "b": "when",
+        "c": "start",
+        "d": "if",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of a loop?",
+        "a": "To repeat a block of code",
+        "b": "To terminate the program",
+        "c": "To print variables on the screen",
+        "d": "To hide the code from the user",
+        "r": "a"
+    },
+    {
+        "q": "Which loop executes the code at least once?",
+        "a": "for loop",
+        "b": "while loop",
+        "c": "do-while loop",
+        "d": "if statement",
+        "r": "c"
+    },
+    {
+        "q": "What keyword is used to exit a loop prematurely?",
+        "a": "continue",
+        "b": "end",
+        "c": "break",
+        "d": "finish",
+        "r": "c"
+    },
+    {
+        "q": "How many times will a \"for\" loop run if the condition is false initially?",
+        "a": "0",
+        "b": "1",
+        "c": "Infinite",
+        "d": "10",
+        "r": "a"
+    },
+    {
+        "q": "What is the syntax of a \"while\" loop in Python?",
+        "a": "while (condition) { ... }",
+        "b": "for i in range(5): ...",
+        "c": "while condition: ...",
+        "d": "loop (condition) { ... }",
+        "r": "c"
+    },
+    {
+        "q": "The \"range()\" function is commonly used with which loop?",
+        "a": "for loop",
+        "b": "while loop",
+        "c": "do-while loop",
+        "d": "if statement",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the \"range()\" function?",
+        "a": "To generate a sequence of numbers",
+        "b": "To repeat a block of code",
+        "c": "To iterate over a list",
+        "d": "To check for a condition",
+        "r": "a"
+    },
+    {
+        "q": "What will be the output of the following code? \\n for i in range(3): \\n print(i)",
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "r": "a"
+    },
+    {
+        "q": "What will be the output of the following code? \\n for i in range(2, 6): \\n print(i)",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "6",
+        "r": "c"
+    },
+    {
+        "q": "What is the correct way to write an infinite loop in Python?",
+        "a": "while (True): \\n # code here",
+        "b": "for i in range(1, 10): \\n # code here",
+        "c": "while i <= 5: \\n # code here",
+        "d": "do { ... } while (True);",
+        "r": "a"
+    },
+    {
+        "q": "What does the \"pass\" statement do in Python?",
+        "a": "Exits the loop",
+        "b": "Creates an infinite loop",
+        "c": "Continues to the next iteration",
+        "d": "Does nothing",
+        "r": "d"
+    },
+    {
+        "q": "What will be the output of the following code? \\n num = 5 \\n while num > 0: \\n print(num) \\n num -= 1",
+        "a": "0",
+        "b": "1",
+        "c": "4",
+        "d": "5",
+        "r": "d"
+    },
+    {
+        "q": "How can you stop an infinite loop from running in Python?",
+        "a": "Press Ctrl + C",
+        "b": "Close the Python IDE",
+        "c": "Change the loop condition",
+        "d": "Use the \"break\" statement",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the \"else\" clause in a loop?",
+        "a": "It is executed if the loop condition is True",
+        "b": "It is executed if the loop condition is False",
+        "c": "It is executed after every iteration",
+        "d": "It is executed at the beginning of the loop",
+        "r": "b"
+    },
+    {
+        "q": "What will be the output of the following code? \\n for i in range(3): \\n print(i) \\n else: \\n print(\"Loop finished\")",
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "Loop finished",
+        "r": "d"
+    },
+    {
+        "q": "How can you skip the current iteration and move to the next iteration in a loop?",
+        "a": "return",
+        "b": "pass",
+        "c": "break",
+        "d": "continue",
+        "r": "d"
+    },
+    {
+        "q": "What is the correct way to write a \"do-while\" loop in Python?",
+        "a": "while (condition) { ... }",
+        "b": "do { ... } while (condition);",
+        "c": "do { ... }",
+        "d": "while (True) { ... }",
+        "r": "c"
+    },
+    {
+        "q": "What will be the output of the following code? \\n for i in range(5): \\n if i == 2: \\n continue \\n print(i)",
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the \"enumerate()\" function in a loop?",
+        "a": "To create a numbered list",
+        "b": "To repeat a block of code",
+        "c": "To iterate over a list",
+        "d": "To track the index of the current item",
+        "r": "c"
+    },
+    {
+        "q": "How can you terminate a loop prematurely when a certain condition is met?",
+        "a": "end",
+        "b": "stop",
+        "c": "exit",
+        "d": "break",
+        "r": "d"
+    },
+    {
+        "q": "What will be the output of the following code? \\n for i in range(1, 6): \\n if i % 2 == 0: \\n break \\n print(i)",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "5",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the \"zip()\" function in a loop?",
+        "a": "To create a zip file",
+        "b": "To combine two or more lists",
+        "c": "To iterate over a list",
+        "d": "To check if a file exists",
+        "r": "b"
+    },
+    {
+        "q": "How can you reverse a loop in Python?",
+        "a": "By using the \"reverse()\" function",
+        "b": "By using the \"reversed()\" function",
+        "c": "By setting a negative step value",
+        "d": "By using the \"flip()\" function",
+        "r": "b"
+    },
+    {
+        "q": "What is a function in programming?",
+        "a": "A named block of code that performs a specific task",
+        "b": "A data type that stores multiple values",
+        "c": "A keyword used for loops",
+        "d": "A way to define variables",
+        "r": "b"
+    },
+    {
+        "q": "Which keyword is commonly used to define a function in most programming languages?",
+        "a": "func",
+        "b": "def",
+        "c": "function",
+        "d": "define",
+        "r": "b"
+    },
+    {
+        "q": "What is the process of passing data to a function called?",
+        "a": "Transfer",
+        "b": "Conversion",
+        "c": "Assignment",
+        "d": "Parameterization",
+        "r": "d"
+    },
+    {
+        "q": "What is the output of a function called?",
+        "a": "Result",
+        "b": "Response",
+        "c": "Outcome",
+        "d": "Output",
+        "r": "d"
+    },
+    {
+        "q": "How is a function called or invoked in programming?",
+        "a": "Using the keyword 'run'",
+        "b": "Using the keyword 'call'",
+        "c": "Using the keyword 'do'",
+        "d": "Using the keyword 'execute'",
+        "r": "b"
+    },
+    {
+        "q": "What is the term used to describe functions calling themselves?",
+        "a": "Reiteration",
+        "b": "Repeating",
+        "c": "Recursion",
+        "d": "Looping",
+        "r": "c"
+    },
+    {
+        "q": "What is a method in object-oriented programming?",
+        "a": "A function that doesn't belong to any object",
+        "b": "A function that belongs to an object",
+        "c": "A function that belongs to the main program",
+        "d": "A function that returns a value",
+        "r": "b"
+    },
+    {
+        "q": "In Python, how are functions organized into groups of code?",
+        "a": "Packages",
+        "b": "Classes",
+        "c": "Modules",
+        "d": "Libraries",
+        "r": "c"
+    },
+    {
+        "q": "Which keyword is used to return a value from a function in Python?",
+        "a": "return",
+        "b": "yield",
+        "c": "output",
+        "d": "result",
+        "r": "a"
+    },
+    {
+        "q": "What is a parameter in the context of functions?",
+        "a": "A value returned by a function",
+        "b": "A variable used inside a function",
+        "c": "A value passed to a function when it is called",
+        "d": "A special type of data",
+        "r": "c"
+    },
+    {
+        "q": "In Python, how are arguments passed to a function?",
+        "a": "By reference",
+        "b": "By value",
+        "c": "By object",
+        "d": "By pointer",
+        "r": "b"
+    },
+    {
+        "q": "What is a default parameter in a function?",
+        "a": "A parameter with no value assigned",
+        "b": "A parameter set by the user when calling the function",
+        "c": "A parameter that has a predefined value in the function definition",
+        "d": "A parameter that is automatically passed to every function",
+        "r": "c"
+    },
+    {
+        "q": "What will be the output of the following code snippet?",
+        "a": "3",
+        "b": "5",
+        "c": "8",
+        "d": "The code will produce an error",
+        "r": "c"
+    },
+    {
+        "q": "What is the purpose of the 'pass' statement in Python functions?",
+        "a": "To terminate the function",
+        "b": "To skip the function and move to the next one",
+        "c": "To create an empty function",
+        "d": "To print a message on the screen",
+        "r": "c"
+    },
+    {
+        "q": "What is the difference between a function and a method in programming?",
+        "a": "Functions can be called directly, while methods require an object to call them",
+        "b": "Functions can have default parameters, while methods cannot",
+        "c": "Functions can return multiple values, while methods can return only one value",
+        "d": "There is no difference; the terms can be used interchangeably",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is NOT a benefit of using functions in programming?",
+        "a": "Reusability of code",
+        "b": "Improved readability and organization of code",
+        "c": "Reduced risk of errors in the program",
+        "d": "Functions can execute faster than methods",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the 'lambda' function in Python?",
+        "a": "To create anonymous functions",
+        "b": "To define functions with a large number of parameters",
+        "c": "To create functions that don't return any value",
+        "d": "To create functions with default parameters",
+        "r": "a"
+    },
+    {
+        "q": "What is a docstring in Python functions?",
+        "a": "A special keyword used to mark a function as important",
+        "b": "A string containing documentation for the function",
+        "c": "A string used as a default parameter in the function",
+        "d": "A way to declare a function as private",
+        "r": "b"
+    },
+    {
+        "q": "What will be the output of the following code snippet?",
+        "a": "Hello, John",
+        "b": "Hello, name",
+        "c": "John",
+        "d": "The code will produce an error",
+        "r": "a"
+    },
+    {
+        "q": "What is the scope of a variable defined inside a function?",
+        "a": "Local to the function, it cannot be accessed outside the function",
+        "b": "Global to the program, it can be accessed anywhere in the program",
+        "c": "Local to the module, it can be accessed by any function in the same module",
+        "d": "Local to the class, it can be accessed by any method in the same class",
+        "r": "a"
+    },
+    {
+        "q": "In Python, can a function return multiple values simultaneously?",
+        "a": "Yes",
+        "b": "No",
+        "c": "Only if the function is a method",
+        "d": "Only if the function is defined inside a class",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'map' function in Python?",
+        "a": "To apply a function to each element of an iterable",
+        "b": "To create maps and charts",
+        "c": "To create dictionaries with key-value pairs",
+        "d": "To find the maximum value in a list",
+        "r": "a"
+    },
+    {
+        "q": "What will be the output of the following code snippet?",
+        "a": "[1, 4, 9, 16]",
+        "b": "[2, 4, 6, 8]",
+        "c": "[1, 8, 27, 64]",
+        "d": "The code will produce an error",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'filter' function in Python?",
+        "a": "To filter out unwanted elements from a list",
+        "b": "To check if a variable is of a certain data type",
+        "c": "To remove duplicates from a list",
+        "d": "To convert elements of a list into strings",
+        "r": "a"
+    },
+    {
+        "q": "What will be the output of the following code snippet?",
+        "a": "[2, 4, 6]",
+        "b": "[1, 3, 5]",
+        "c": "[2, 4, 6]",
+        "d": "The code will produce an error",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'reduce' function in Python?",
+        "a": "To reduce a list to a single value through a specified function",
+        "b": "To reduce the size of a list",
+        "c": "To concatenate strings",
+        "d": "To apply a function to all elements of a list",
+        "r": "a"
+    },
+    {
+        "q": "What will be the output of the following code snippet?",
+        "a": "15",
+        "b": "120",
+        "c": "[1, 2, 3, 4, 5]",
+        "d": "The code will produce an error",
+        "r": "a"
+    },
+    {
+        "q": "What is a recursive function in programming?",
+        "a": "A function that calls itself",
+        "b": "A function that takes multiple arguments",
+        "c": "A function that returns multiple values",
+        "d": "A function that executes in a loop",
+        "r": "a"
+    },
+    {
+        "q": "In Python, how is recursion controlled?",
+        "a": "Using the 'recursive' keyword",
+        "b": "By limiting the number of times the function calls itself",
+        "c": "By using a 'for' loop",
+        "d": "By using a 'while' loop",
+        "r": "b"
+    },
+    {
+        "q": "What will be the output of the following code snippet?",
+        "a": "120",
+        "b": "15",
+        "c": "5",
+        "d": "The code will produce an error",
+        "r": "a"
+    },
+    {
+        "q": "What is a function in programming?",
+        "a": "A variable that stores multiple values",
+        "b": "A collection of objects",
+        "c": "A block of organized and reusable code",
+        "d": "A data type in Python",
+        "r": "c"
+    },
+    {
+        "q": "Which keyword is used to define a function in Python?",
+        "a": "define",
+        "b": "def",
+        "c": "function",
+        "d": "func",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of a return statement in a function?",
+        "a": "It ends the function's execution prematurely.",
+        "b": "It displays a message to the user.",
+        "c": "It allows the function to return a value to the caller.",
+        "d": "It restarts the function from the beginning.",
+        "r": "c"
+    },
+    {
+        "q": "In Python, can a function have multiple return statements?",
+        "a": "Yes, but only if the function has no parameters.",
+        "b": "No, a function can have only one return statement.",
+        "c": "Yes, a function can have multiple return statements.",
+        "d": "Yes, but only if the function returns a list.",
+        "r": "c"
+    },
+    {
+        "q": "What is a method in Python?",
+        "a": "A function that is defined inside a class",
+        "b": "A function that is defined outside a class",
+        "c": "A built-in function in Python",
+        "d": "A function that returns multiple values",
+        "r": "a"
+    },
+    {
+        "q": "How is a method called in Python?",
+        "a": "By using the keyword \"method\" followed by the method name",
+        "b": "By using the dot notation on an object followed by the method name",
+        "c": "By passing the method name as a parameter to another function",
+        "d": "By using the \"call\" keyword followed by the method name",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the \"self\" parameter in a method definition?",
+        "a": "It refers to the current instance of the class and allows access to its attributes and methods.",
+        "b": "It is a keyword used to define the scope of the method.",
+        "c": "It allows the method to return a value to the caller.",
+        "d": "It is used to create a new instance of the class.",
+        "r": "a"
+    },
+    {
+        "q": "Which of the following is the correct syntax to define a method in a class?",
+        "a": "method methodName():",
+        "b": "def methodName():",
+        "c": "methodName():",
+        "d": "function methodName():",
+        "r": "b"
+    },
+    {
+        "q": "What is the primary difference between a function and a method in Python?",
+        "a": "Functions can be called on objects, while methods cannot.",
+        "b": "Functions are defined inside classes, while methods are defined outside classes.",
+        "c": "Methods are built-in functions, while functions are user-defined.",
+        "d": "Methods are called with the \"call\" keyword, while functions are called using parentheses.",
+        "r": "a"
+    },
+    {
+        "q": "Which built-in function can be used to find the length of a string in Python?",
+        "a": "length()",
+        "b": "strlength()",
+        "c": "len()",
+        "d": "size()",
+        "r": "c"
+    },
+    {
+        "q": "What is the output of the following code? def add_numbers(a, b): return a + b result = add_numbers(3, 7) print(result)",
+        "a": "10",
+        "b": "21",
+        "c": "3",
+        "d": "7",
+        "r": "a"
+    },
+    {
+        "q": "What will happen if a function does not have a return statement?",
+        "a": "The function will raise an error.",
+        "b": "The function will return None.",
+        "c": "The function will return 0.",
+        "d": "The function will return an empty string.",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of default parameters in a function?",
+        "a": "They allow the function to return a value without using the return keyword.",
+        "b": "They provide a way to specify optional arguments for a function.",
+        "c": "They prevent the function from being called with more than a certain number of arguments.",
+        "d": "They allow the function to have multiple return statements.",
+        "r": "b"
+    },
+    {
+        "q": "Which of the following is a valid way to call a function with default parameters?",
+        "a": "functionName(default_value)",
+        "b": "functionName()",
+        "c": "functionName(default_value=10)",
+        "d": "functionName(10, default_value)",
+        "r": "c"
+    },
+    {
+        "q": "What is the output of the following code? def multiply(a, b=2): return a * b result1 = multiply(3) result2 = multiply(4, 5) print(result1, result2)",
+        "a": "6 10",
+        "b": "3 20",
+        "c": "6 20",
+        "d": "3 5",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of a recursive function?",
+        "a": "A function that calls another function within it.",
+        "b": "A function that uses a loop to iterate through a list.",
+        "c": "A function that returns the sum of all elements in a list.",
+        "d": "A function that calls itself to solve a smaller instance of the problem.",
+        "r": "d"
+    },
+    {
+        "q": "What is the base case in a recursive function?",
+        "a": "The first element of the list.",
+        "b": "The condition that stops the recursion and returns a value without making further recursive calls.",
+        "c": "The last element of the list.",
+        "d": "The sum of all elements in the list.",
+        "r": "b"
+    },
+    {
+        "q": "What will happen if a recursive function does not have a base case?",
+        "a": "The function will raise a syntax error.",
+        "b": "The function will run indefinitely and may cause a stack overflow.",
+        "c": "The function will return None.",
+        "d": "The function will return an empty list.",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the \"pass\" keyword in Python?",
+        "a": "It is used to terminate a loop prematurely.",
+        "b": "It is used to add a blank line in the output.",
+        "c": "It is used as a placeholder for code that will be added later.",
+        "d": "It is used to skip the current iteration of a loop.",
+        "r": "c"
+    },
+    {
+        "q": "Which of the following is an example of a built-in function in Python?",
+        "a": "sort()",
+        "b": "append()",
+        "c": "print()",
+        "d": "reverse()",
+        "r": "c"
+    },
+    {
+        "q": "What is the output of the following code? numbers = [1, 2, 3, 4, 5] def double_list(lst): for i in range(len(lst)): lst[i] *= 2 double_list(numbers) print(numbers)",
+        "a": "[1, 2, 3, 4, 5]",
+        "b": "[2, 4, 6, 8, 10]",
+        "c": "[1, 4, 9, 16, 25]",
+        "d": "[2, 4, 3, 6, 10]",
+        "r": "b"
+    },
+    {
+        "q": "What will happen if you try to modify a global variable inside a function?",
+        "a": "The function will raise an error.",
+        "b": "The function will modify the variable, but it will not affect the global scope.",
+        "c": "The function will raise a syntax error.",
+        "d": "The function will modify the variable in the global scope.",
+        "r": "d"
+    },
+    {
+        "q": "What is an array in programming?",
+        "a": "A data structure that stores key-value pairs",
+        "b": "A data structure that stores a collection of elements",
+        "c": "A single variable that can store multiple values",
+        "d": "A data type in Python",
+        "r": "b"
+    },
+    {
+        "q": "Which data structure is best suited for a fixed-size collection of elements?",
+        "a": "Array",
+        "b": "List",
+        "c": "Set",
+        "d": "Dictionary",
+        "r": "a"
+    },
+    {
+        "q": "How is the index of the first element represented in an array?",
+        "a": "0",
+        "b": "1",
+        "c": "-1",
+        "d": "None",
+        "r": "a"
+    },
+    {
+        "q": "What is an array in programming?",
+        "a": "A collection of elements with different data types",
+        "b": "A collection of elements with the same data type",
+        "c": "A function that returns multiple values",
+        "d": "A keyword used for loops",
+        "r": "b"
+    },
+    {
+        "q": "Which data structure is best suited to store a collection of elements that need to be accessed by their index?",
+        "a": "List",
+        "b": "Dictionary",
+        "c": "Set",
+        "d": "Tuple",
+        "r": "a"
+    },
+    {
+        "q": "How are arrays and lists different from each other in programming?",
+        "a": "Arrays can store elements of different data types, while lists cannot",
+        "b": "Lists can be resized dynamically, while arrays have a fixed size",
+        "c": "Arrays can be accessed by index, while lists cannot",
+        "d": "Lists are more efficient in terms of memory usage",
+        "r": "c"
+    },
+    {
+        "q": "In Python, how are arrays and lists represented?",
+        "a": "As arrays",
+        "b": "As lists",
+        "c": "As tuples",
+        "d": "As dictionaries",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the 'len()' function in Python?",
+        "a": "To find the maximum value in an array",
+        "b": "To get the last element of a list",
+        "c": "To calculate the length of an array or list",
+        "d": "To check if a value exists in a list",
+        "r": "c"
+    },
+    {
+        "q": "What is the process of accessing an element from an array or list called?",
+        "a": "Indexing",
+        "b": "Iteration",
+        "c": "Enumeration",
+        "d": "Appending",
+        "r": "a"
+    },
+    {
+        "q": "In Python, how are arrays and lists initialized?",
+        "a": "Using the 'array()' and 'list()' functions",
+        "b": "Using square brackets with elements inside",
+        "c": "Using the 'initialize()' keyword",
+        "d": "Using the 'create()' function",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the 'append()' method in Python lists?",
+        "a": "To add an element to the beginning of the list",
+        "b": "To remove the last element from the list",
+        "c": "To extend the list with another list",
+        "d": "To add an element to the end of the list",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the 'insert()' method in Python lists?",
+        "a": "To add an element at a specific index in the list",
+        "b": "To remove an element from the list at a specific index",
+        "c": "To reverse the order of elements in the list",
+        "d": "To sort the list in ascending order",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'remove()' method in Python lists?",
+        "a": "To remove the last element from the list",
+        "b": "To remove the element with a specific value",
+        "c": "To remove the first occurrence of an element",
+        "d": "To clear all elements from the list",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the 'pop()' method in Python lists?",
+        "a": "To remove the last element from the list",
+        "b": "To remove the element at a specific index",
+        "c": "To insert an element at the beginning of the list",
+        "d": "To reverse the order of elements in the list",
+        "r": "b"
+    },
+    {
+        "q": "What is the purpose of the 'extend()' method in Python lists?",
+        "a": "To add an element to the end of the list",
+        "b": "To add multiple elements to the end of the list",
+        "c": "To remove the last element from the list",
+        "d": "To concatenate two lists",
+        "r": "b"
+    },
+    {
+        "q": "What is Object-Oriented Programming (OOP)?",
+        "a": "A programming style that focuses on objects",
+        "b": "A type of programming only used in web development",
+        "c": "A programming paradigm based on functions",
+        "d": "A method to create databases",
+        "r": "a"
+    },
+    {
+        "q": "What is an object in OOP?",
+        "a": "A data type that stores multiple values",
+        "b": "An instance of a class",
+        "c": "A reserved keyword in programming",
+        "d": "A way to represent loops in code",
+        "r": "b"
+    },
+    {
+        "q": "What is a class in OOP?",
+        "a": "A data type that represents a collection of objects",
+        "b": "A function that returns a value",
+        "c": "A way to import modules in Python",
+        "d": "A blueprint for creating objects",
+        "r": "d"
+    },
+    {
+        "q": "In OOP, what is the process of creating an object from a class called?",
+        "a": "Inheritance",
+        "b": "Abstraction",
+        "c": "Encapsulation",
+        "d": "Instantiation",
+        "r": "d"
+    },
+    {
+        "q": "Which OOP principle allows a class to inherit properties and methods from another class?",
+        "a": "Encapsulation",
+        "b": "Abstraction",
+        "c": "Polymorphism",
+        "d": "Inheritance",
+        "r": "d"
+    },
+    {
+        "q": "What is encapsulation in OOP?",
+        "a": "A way to create objects from a class",
+        "b": "A way to hide the internal implementation details of an object",
+        "c": "A way to use the same method for different purposes",
+        "d": "A way to group data and functions together",
+        "r": "b"
+    },
+    {
+        "q": "Which OOP principle allows a class to have multiple methods with the same name but different parameters?",
+        "a": "Abstraction",
+        "b": "Encapsulation",
+        "c": "Inheritance",
+        "d": "Polymorphism",
+        "r": "d"
+    },
+    {
+        "q": "What is polymorphism in OOP?",
+        "a": "A way to create objects from a class",
+        "b": "A way to hide the internal implementation details of an object",
+        "c": "A way to use the same method for different purposes",
+        "d": "A way to group data and functions together",
+        "r": "d"
+    },
+    {
+        "q": "In OOP, what is the process of hiding the internal implementation details of an object called?",
+        "a": "Encapsulation",
+        "b": "Abstraction",
+        "c": "Polymorphism",
+        "d": "Inheritance",
+        "r": "a"
+    },
+    {
+        "q": "What is inheritance in OOP?",
+        "a": "A way to create objects from a class",
+        "b": "A way to hide the internal implementation details of an object",
+        "c": "A way to use the same method for different purposes",
+        "d": "A way to reuse properties and methods from a parent class",
+        "r": "d"
+    },
+    {
+        "q": "What is a constructor in OOP?",
+        "a": "A method that creates objects of a class",
+        "b": "A method used to delete objects",
+        "c": "A way to import classes in Python",
+        "d": "A method that returns a value",
+        "r": "a"
+    },
+    {
+        "q": "In Python, what is the naming convention for a constructor?",
+        "a": "create()",
+        "b": "make_object()",
+        "c": "init()",
+        "d": "initialize()",
+        "r": "c"
+    },
+    {
+        "q": "What is a destructor in OOP?",
+        "a": "A method that creates objects of a class",
+        "b": "A method used to delete objects",
+        "c": "A way to import classes in Python",
+        "d": "A method that returns a value",
+        "r": "b"
+    },
+    {
+        "q": "In Python, what is the naming convention for a destructor?",
+        "a": "delete()",
+        "b": "destroy()",
+        "c": "del()",
+        "d": "remove()",
+        "r": "c"
+    },
+    {
+        "q": "What is a superclass in OOP?",
+        "a": "A class that has no subclasses",
+        "b": "A class that has multiple subclasses",
+        "c": "A class that has only one method",
+        "d": "A class that inherits from another class",
+        "r": "d"
+    },
+    {
+        "q": "What is an abstract class in OOP?",
+        "a": "A class that cannot be instantiated",
+        "b": "A class that contains only abstract methods",
+        "c": "A class that cannot have methods",
+        "d": "A class with private properties",
+        "r": "b"
+    },
+    {
+        "q": "Which OOP principle promotes the reusability of code?",
+        "a": "Encapsulation",
+        "b": "Abstraction",
+        "c": "Inheritance",
+        "d": "Polymorphism",
+        "r": "c"
+    },
+    {
+        "q": "What is method overloading in OOP?",
+        "a": "Creating multiple methods with the same name but different parameters",
+        "b": "Creating multiple methods with the same name and same parameters",
+        "c": "Creating multiple methods with the same parameters but different names",
+        "d": "Creating multiple methods with the same name but different return types",
+        "r": "a"
+    },
+    {
+        "q": "What is method overriding in OOP?",
+        "a": "Creating multiple methods with the same name but different parameters",
+        "b": "Creating multiple methods with the same name and same parameters",
+        "c": "Creating multiple methods with the same parameters but different names",
+        "d": "Redefining a method in a subclass with the same name as in the superclass",
+        "r": "d"
+    },
+    {
+        "q": "What is file handling in programming?",
+        "a": "A way to handle errors in a program",
+        "b": "A method to create new files",
+        "c": "A technique to organize code",
+        "d": "A way to read, write, and manipulate files",
+        "r": "d"
+    },
+    {
+        "q": "How can you open a file in Python for reading?",
+        "a": "read_file()",
+        "b": "open('filename', 'r')",
+        "c": "read('filename')",
+        "d": "open_file('filename')",
+        "r": "b"
+    },
+    {
+        "q": "What is the mode used to open a file for writing in Python?",
+        "a": "w",
+        "b": "r",
+        "c": "wr",
+        "d": "write",
+        "r": "a"
+    },
+    {
+        "q": "Which mode in Python allows you to read and write to a file simultaneously?",
+        "a": "rb+",
+        "b": "rw+",
+        "c": "rwb+",
+        "d": "r+",
+        "r": "d"
+    },
+    {
+        "q": "What will be the output if a file is opened in 'a' mode, and the file does not exist?",
+        "a": "An error will be raised",
+        "b": "A new file with the specified name will be created",
+        "c": "The program will wait for user input",
+        "d": "The file will be opened in read mode",
+        "r": "b"
+    },
+    {
+        "q": "How do you close a file in Python after performing file operations?",
+        "a": "close()",
+        "b": "exit()",
+        "c": "stop()",
+        "d": "file.close()",
+        "r": "d"
+    },
+    {
+        "q": "What method is used to read the entire contents of a file in Python?",
+        "a": "read()",
+        "b": "read_all()",
+        "c": "read_file()",
+        "d": "file_contents()",
+        "r": "a"
+    },
+    {
+        "q": "How do you write data to a file in Python?",
+        "a": "write_data()",
+        "b": "append()",
+        "c": "write()",
+        "d": "add()",
+        "r": "c"
+    },
+    {
+        "q": "In Python, how do you move the file cursor to the beginning of a file?",
+        "a": "move_to_start()",
+        "b": "move_cursor(0)",
+        "c": "cursor_start()",
+        "d": "seek(0)",
+        "r": "d"
+    },
+    {
+        "q": "What is the purpose of the 'with' statement in Python file handling?",
+        "a": "To open a file in write mode",
+        "b": "To create a new file",
+        "c": "To automatically close the file after usage",
+        "d": "To read the contents of a file",
+        "r": "c"
+    },
+    {
+        "q": "What is Exception Handling in programming?",
+        "a": "A way to handle errors in a program",
+        "b": "A method to create new exceptions",
+        "c": "A technique to organize code",
+        "d": "A way to read and write files",
+        "r": "a"
+    },
+    {
+        "q": "How can you handle exceptions in Python?",
+        "a": "Using the try and catch blocks",
+        "b": "By ignoring them",
+        "c": "Using the print statement",
+        "d": "By commenting out the code causing the exception",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'except' keyword in Python?",
+        "a": "To define a new exception",
+        "b": "To handle specific exceptions",
+        "c": "To raise an exception",
+        "d": "To terminate the program",
+        "r": "b"
+    },
+    {
+        "q": "What will happen if an exception is not caught in Python?",
+        "a": "The program will terminate",
+        "b": "The program will continue to run",
+        "c": "The program will enter an infinite loop",
+        "d": "The program will print an error message and continue to run",
+        "r": "a"
+    },
+    {
+        "q": "How do you raise a custom exception in Python?",
+        "a": "Using the raise keyword",
+        "b": "By using the try block",
+        "c": "Using the except keyword",
+        "d": "By using the assert statement",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'finally' block in Python exception handling?",
+        "a": "To handle exceptions",
+        "b": "To define new exceptions",
+        "c": "To always execute the code in it",
+        "d": "To ignore exceptions",
+        "r": "c"
+    },
+    {
+        "q": "How can you handle multiple exceptions in Python?",
+        "a": "By using multiple 'try' blocks",
+        "b": "By using the 'else' block",
+        "c": "By using the 'finally' block",
+        "d": "By using the 'except' block with multiple exception types",
+        "r": "d"
+    },
+    {
+        "q": "What are data structures in programming?",
+        "a": "A way to store data in a program",
+        "b": "Techniques for sorting data",
+        "c": "A technique to organize code",
+        "d": "A way to read and write files",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure is used to store elements in a last-in-first-out (LIFO) order?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Array",
+        "d": "Linked List",
+        "r": "b"
+    },
+    {
+        "q": "Which data structure is used to store elements in a first-in-first-out (FIFO) order?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Array",
+        "d": "Linked List",
+        "r": "a"
+    },
+    {
+        "q": "What is the time complexity of inserting an element at the end of an array?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(log n)",
+        "d": "O(n log n)",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure is used to implement a priority queue?",
+        "a": "Stack",
+        "b": "Queue",
+        "c": "Linked List",
+        "d": "Heap",
+        "r": "d"
+    },
+    {
+        "q": "What is the time complexity of searching for an element in a sorted array using binary search?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n log n)",
+        "r": "b"
+    },
+    {
+        "q": "Which data structure is used to implement the First-In-First-Out (FIFO) property?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Heap",
+        "r": "a"
+    },
+    {
+        "q": "What is the time complexity of deleting an element from the end of an array?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(log n)",
+        "d": "O(n log n)",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure is used to implement a hash table?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Hash Map",
+        "r": "d"
+    },
+    {
+        "q": "What is the time complexity of searching for an element in a hash table?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n log n)",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure is used to store a collection of elements in key-value pairs?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Dictionary",
+        "r": "d"
+    },
+    {
+        "q": "What is the time complexity of inserting an element at the beginning of a linked list?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(log n)",
+        "d": "O(n log n)",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure is used to implement a Breadth-First Search (BFS) algorithm?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Heap",
+        "r": "a"
+    },
+    {
+        "q": "What is the time complexity of searching for an element in a linked list?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(log n)",
+        "d": "O(n log n)",
+        "r": "b"
+    },
+    {
+        "q": "Which data structure is used to implement a Depth-First Search (DFS) algorithm?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Heap",
+        "r": "b"
+    },
+    {
+        "q": "What is the time complexity of deleting an element from the beginning of a linked list?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(log n)",
+        "d": "O(n log n)",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure is used to implement the LIFO property?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Heap",
+        "r": "b"
+    },
+    {
+        "q": "What is the time complexity of searching for an element in a binary search tree?",
+        "a": "O(1)",
+        "b": "O(log n)",
+        "c": "O(n)",
+        "d": "O(n log n)",
+        "r": "b"
+    },
+    {
+        "q": "Which data structure is used to implement a graph?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Graph",
+        "r": "d"
+    },
+    {
+        "q": "What is the time complexity of inserting an element in the middle of a doubly linked list?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(log n)",
+        "d": "O(n log n)",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure is used to implement a Depth-First Search (DFS) algorithm recursively?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Heap",
+        "r": "b"
+    },
+    {
+        "q": "What is the time complexity of deleting an element from the middle of a doubly linked list?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(log n)",
+        "d": "O(n log n)",
+        "r": "a"
+    },
+    {
+        "q": "Which data structure is used to implement a Breadth-First Search (BFS) algorithm iteratively?",
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Linked List",
+        "d": "Heap",
+        "r": "a"
+    },
+    {
+        "q": "What are conditional statements in programming?",
+        "a": "A way to execute code sequentially",
+        "b": "A method to create new conditions",
+        "c": "A technique to organize code",
+        "d": "A way to make decisions based on certain conditions",
+        "r": "d"
+    },
+    {
+        "q": "How do you represent a condition in Python?",
+        "a": "Using the 'if' statement",
+        "b": "Using the 'when' statement",
+        "c": "Using the 'condition' keyword",
+        "d": "Using the 'decision' statement",
+        "r": "a"
+    },
+    {
+        "q": "What is the purpose of the 'if' statement in Python?",
+        "a": "To create loops",
+        "b": "To handle exceptions",
+        "c": "To define new variables",
+        "d": "To execute code based on a condition",
+        "r": "d"
+    },
+    {
+        "q": "How can you create multiple conditions in Python?",
+        "a": "Using the 'and' keyword",
+        "b": "Using the 'or' keyword",
+        "c": "Using the 'multiple' keyword",
+        "d": "Using the 'if' keyword with multiple conditions",
+        "r": "b"
+    }
+]
