@@ -1,0 +1,1792 @@
+[
+    {
+        "q": "nc`12=nc6 হলে n এর মান কত?",
+        "a": "12",
+        "b": "14",
+        "c": "16",
+        "d": "18",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "বার্ষিক শতকরা 10% হারে 1000 টাকার 2 বছর পর সরল ও চক্রবৃদ্ধির মুনাফার পার্থক্য কত?",
+        "a": "11 টাকা",
+        "b": "11.5 টাকা",
+        "c": "12 টাকা",
+        "d": "10 টাকা",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "দুইটি সংখ্যার অনুপাত 7: 5 এবং তাদের ল.সা.গু 140 হলে সংখ্যা দুইটির গ.সা.গু কত?",
+        "a": "4",
+        "b": "12",
+        "c": "6",
+        "d": "9",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "2x2+5x+3<0 এর সমাধান কোনটি?",
+        "a": "−3/2<x<−1",
+        "b": "−3/2<x<1",
+        "c": "−3/2≤x≤1",
+        "d": "−3/2<x≤1",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "c={x:x ঋণাত্মক পূর্ণসংখ্যা এবং x2<18}; c সেটের উপাদানগুলো হবে_",
+        "a": "1,2,3,5",
+        "b": "1,3,5,7",
+        "c": "2,4,6,8",
+        "d": "Try your self",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৮ সেমি. এবং প্রস্থ ১০ সেমি. আয়তক্ষেত্রের দৈর্ঘ্য বৃদ্ধি করে ২৫ সেমি. করা হলো। আয়তক্ষেত্রটির প্রস্থ কত হলে ক্ষেত্রফল অপরিবর্তিত থাকবে?",
+        "a": "৭.২ সেমি",
+        "b": "৭.৩ সেমি",
+        "c": "৭ সেমি",
+        "d": "৭.১ সেমি",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "যদি ৯×৭=৩৫৪৫ এবং ৪×৩=১৫২০ হয় তবে, ৬×৮=?",
+        "a": "৩০৪০",
+        "b": "৫০৪০",
+        "c": "৪০৩০",
+        "d": "৬০৫০",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "একজন লোক A অবস্থান থেকে হেঁটে ডান দিকে ১০ ফুট, অত:পর বামদিকে ২০ ফুট , তারপর বামদিকে ২০ ফুট এবং সবশেষে বামদিকে ২০ ফুট গিয়ে B অবস্থানে পৌঁছাল। A ও B এর মধ্যকার দূরত্ব কত ফুট?",
+        "a": "৩০ ফুট",
+        "b": "৪০ ফুট",
+        "c": "১০ ফুট",
+        "d": "২০ ফুট",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "কোন উপসর্গটি ভিন্নার্থে প্রযুক্ত?",
+        "a": "উপনেতা",
+        "b": "উপভোগ",
+        "c": "উপগ্রহ",
+        "d": "উপসাগর",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "রবীন্দ্রনাথ ঠাকুর রচিত কৌতুক নাটক হচ্ছে:",
+        "a": "বৈকুণ্ঠের খাতা",
+        "b": "জামাই বারিক",
+        "c": "বিবাহ-বিভ্রাট",
+        "d": "হিতে বিপরীত",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "মীর মশাররফ হোসেন রচিত গ্রন্থ হচ্ছে:",
+        "a": "গাজী মিয়াঁর বস্তানী",
+        "b": "আলালের ঘরের দুলাল",
+        "c": "হুতোম প্যাঁচার নক্সা",
+        "d": "কলিকাতা কমলালয়",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "বেদান্তগ্রন্থ' ও দেদান্তসার' কার রচনা?",
+        "a": "রাজা রামমোহন রায়",
+        "b": "গোলকনাথ শর্মা",
+        "c": "রামরাম বসু",
+        "d": "মৃত্যুঞ্জয় বিদ্যালঙ্কার",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "মুক্তিযুদ্ধভিত্তিক উপন্যাস 'আগুনের পরশমণি' কার রচনা?",
+        "a": "আমজাদ হোসেন",
+        "b": "হুমায়ূন আহমেদ",
+        "c": "শওকত ওসমান",
+        "d": "সৈয়দ শামসুল হক",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "জীবন থেকে নেয়া ' চলচ্চিত্রটির পরিচালক কে?",
+        "a": "আমজাদ হোসেন",
+        "b": "আলমগীর",
+        "c": "জহির রায়হান",
+        "d": "সুভাষ দত্ত",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "খনার বচন' -এর মূলভাব কি?",
+        "a": "লৌকিক প্রণয়সঙ্গীত",
+        "b": "শুদ্ধ জীবনযাপন রীতি",
+        "c": "সামাজিক মঙ্গলবোধ",
+        "d": "রাষ্ট্র পরিচালনা নীতি",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "দুরবস্থা' শব্দটি সন্ধি বিচ্ছেদ করা হলে নিচের কোনটি পাওয়া যায়?",
+        "a": "দুঃ + অবস্থা",
+        "b": "দূর + বস্থা",
+        "c": "দুর + বস্থা",
+        "d": "দুর + অবস্থা",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "নিচের কোনটি যৌগিক কালের উদাহরণ নয়?",
+        "a": "করছিলাম",
+        "b": "করেছি",
+        "c": "করছি",
+        "d": "করব",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "জীবনানন্দ দাশকে 'নির্জনতম কবি' বলে আখ্যায়িত করেন কে?",
+        "a": "বিষ্ণু দে",
+        "b": "বুদ্ধদেব বসু",
+        "c": "রবীন্দ্রনাথ ঠাকুর",
+        "d": "সৈয়দ শামসুল হক",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "তাম্বুলিক' শব্দের সমার্থক নয় কোনটি?",
+        "a": "তামসিক",
+        "b": "বারুই",
+        "c": "পান-ব্যবসায়ী",
+        "d": "পর্ণকার",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "সরল' শব্দের বিপরীতার্থক নয় নিচের কোনটি?",
+        "a": "বক্র",
+        "b": "গরল",
+        "c": "কুটিল",
+        "d": "জটিল",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "বেগম রোকেয়া সাখাওয়াত হোসেন রচিত গ্রন্থ কোনটি?",
+        "a": "পদ্মমণি",
+        "b": "পদ্মাবতী",
+        "c": "পদ্মগোখরা",
+        "d": "পদ্মরাগ",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "বিভক্তহীন নাম - শব্দকে কী বলে?",
+        "a": "প্রাতিপাদিক",
+        "b": "নাম -পদ",
+        "c": "মৌলিক শব্দ",
+        "d": "কৃদন্ত শব্দ",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "তুমি তো ভারি সুন্দর ছবি আঁক। ' _ বাক্যটিতে কোন প্রকারের অব্যয় পদ ব্যবহৃত হয়েছে ?",
+        "a": "অনন্বয়ী অব্যয়",
+        "b": "অনুকার অব্যয়",
+        "c": "পদান্বয়ী অব্যয়",
+        "d": "অনুসর্গ অব্যয়",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "কোনটি অপাদান কারক?",
+        "a": "গৃহহীনে গৃহ দাও",
+        "b": "জিজ্ঞাসিব জনে জনে",
+        "c": "ট্রেন স্টেশন ছেড়েছে",
+        "d": "বনে বাঘ আছে",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "বাঁধন হারা' কাজী নজরুল ইসলামের কোন ধরনের রচনা?",
+        "a": "ভ্রমণ কাহিনী",
+        "b": "উপন্যাস",
+        "c": "নাটক",
+        "d": "কবিতা",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "কোনটি ব্যতিহার বহুব্রীহির উদাহরণ?",
+        "a": "অজানা",
+        "b": "দোতলা",
+        "c": "আশীবিষ",
+        "d": "কানাকানি",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "আগুন' -এর সমার্থক শব্দ কোনটি?",
+        "a": "ভাতি",
+        "b": "অনল",
+        "c": "অংশ",
+        "d": "জ্যোতি",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "প্রতাপ আদিত্য কে ছিলেন?",
+        "a": "বাংলার বারো ভুঁইঞাদের একজন",
+        "b": "রাজপুত রাজা",
+        "c": "বাংলার শাসক",
+        "d": "মোগল সেনাপতি",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Hand out' - এর শুদ্ধ বাংলা পরিভাষা হচ্ছে:",
+        "a": "হস্তপত্র",
+        "b": "জ্ঞাপনপত্র",
+        "c": "তথ্যপত্র",
+        "d": "প্রচারপত্র",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "স্বাধীনতা পদক প্রাপ্ত ব্যক্তিত্ব হলেন__",
+        "a": "সতীন সরকার",
+        "b": "সৈয়দ আলী আহসান",
+        "c": "সৈয়দ শামসুল হক",
+        "d": "নিজে চেষ্টা করুন",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "সাধু ও চলিত ভাষার মূল পার্থক্য কোন পদে বেশি বেশি দেখা যায়?",
+        "a": "বিশেষ্য ও ক্রিয়া",
+        "b": "বিশেষণ ও ক্রিয়া",
+        "c": "বিশেষ্য ও বিশেষণ পদে",
+        "d": "ক্রিয়া ও সর্বনাম",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "যদি 2×3=812,4×5=1620 হয় তবে 6×7=? =?",
+        "a": "2428",
+        "b": "2442",
+        "c": "1232",
+        "d": "1214",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "|1-2x|<1 এর সমাধান _",
+        "a": "-2",
+        "b": "-1",
+        "c": "0",
+        "d": "-1",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "০.৪×০.০২×০.০৮=?",
+        "a": "০.০০০৬৪",
+        "b": "৬.৪০০০০",
+        "c": "০.৬৪০০০",
+        "d": "০.০৬৪০০",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "নিচের কোন ভগ্নাংশটি বৃহত্তম?",
+        "a": "৬/১১",
+        "b": "৮/১৪",
+        "c": "৩/৫",
+        "d": "৫/৮",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "1/√2,1,√2 .... ধারাটির কোন পদ 8√2 হবে?",
+        "a": "৯তম পদ",
+        "b": "১০ তম পদ",
+        "c": "১১ তম পদ",
+        "d": "১২ তম পদ",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "একটি দ্রব্য ১৮০ টাকায় বিক্রয় করায় ১০% ক্ষতি হলো । দ্রব্যটির ক্রয়মূল্য _",
+        "a": "২০০ টাকা",
+        "b": "২১০ টাকা",
+        "c": "১৬২ টাকা",
+        "d": "১৯৮ টাকা",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "A person who believes that laws and governments are not necessary is known as __",
+        "a": "a militant",
+        "b": "an anarchist",
+        "c": "a terrorist",
+        "d": "an extremist",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "He went to ______ hospital because he had ___ heart attack.",
+        "a": "no article , an",
+        "b": "a , an",
+        "c": "the , no article",
+        "d": "no article , a",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "The word 'florid ' indicates",
+        "a": "flour",
+        "b": "foliage",
+        "c": "floor",
+        "d": "flower",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Complete the following sentence : 'Had I known you were waiting outside, I ___",
+        "a": "had invited you to come in",
+        "b": "would invite you to come in",
+        "c": "would be inviting you to come in",
+        "d": "would have invited you to come in",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "A soporific speech is likely to __",
+        "a": "be incomprehensible",
+        "b": "appeal primarily to emotions",
+        "c": "put one to sleep",
+        "d": "stimulate action",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Select the world with right spelling __",
+        "a": "Schizophrenia",
+        "b": "Seizophrania",
+        "c": "Scizophrenia",
+        "d": "Schizophrania",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Love for the whole world is called __",
+        "a": "philanthropy",
+        "b": "misogyny",
+        "c": "benevolence",
+        "d": "misanthropy",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "when we want to mean a government by the richest class we use the term __",
+        "a": "Oligarchy",
+        "b": "Plutocracy",
+        "c": "Cryptocracy",
+        "d": "Aristocracy",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Hospitals __ the sick.",
+        "a": "operate",
+        "b": "treat",
+        "c": "admit",
+        "d": "nurse",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "The warning of the authority falls on deaf ears. Here warning does the function of __",
+        "a": "adverb",
+        "b": "adjective",
+        "c": "verb",
+        "d": "noun",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "The word ' culinary ' is related to",
+        "a": "printing",
+        "b": "cooking",
+        "c": "dress",
+        "d": "musical instruments",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Identify the correct passive form of the sentence below : ' Do you Know them'?",
+        "a": "Are they known by you?",
+        "b": "Would they be known by you?",
+        "c": "Are they known with you ?",
+        "d": "Are they known to you?",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Panacea' means__",
+        "a": "cure-all",
+        "b": "pancreatic",
+        "c": "widespread disease",
+        "d": "gland",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "what is the plural number of 'ovum' ?",
+        "a": "ovams",
+        "b": "ovumes",
+        "c": "onums",
+        "d": "ova",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "কোন শব্দযুগলটি ভিন্ন ?",
+        "a": "False , True",
+        "b": "Sharp , Blunt",
+        "c": "Love, Affection",
+        "d": "Abundance , Scarcity",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "A christams carol' is a __ by charles Dickens .",
+        "a": "ballad",
+        "b": "sketch story",
+        "c": "historical novel",
+        "d": "short novel",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "There was a small reception following the wedding: The word 'following' in the sentence above is a/an __",
+        "a": "preposition",
+        "b": "adjective",
+        "c": "adverb",
+        "d": "noun",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "which of the following words has been formed with a prefix?",
+        "a": "amoral",
+        "b": "authentic",
+        "c": "amnesia",
+        "d": "aspersions",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "লেফটেন্যান্ট জেনারেল শব্দের সঠিক ইংরেজি বানান কোনটি?",
+        "a": "Lieaftenant",
+        "b": "Leaftenant",
+        "c": "Leiftenant",
+        "d": "Lieutenant",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "To be' or not to be that is the question ', __ is a famous soliloquy from__",
+        "a": "Macbeth",
+        "b": "King lear",
+        "c": "Othello",
+        "d": "Hamlet",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Geriatrics' is the branch of medicine concerned with the diseases and care of______",
+        "a": "newly-weds",
+        "b": "old women",
+        "c": "newborn babies",
+        "d": "old people",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "নিচের উপমাটি পূর্ণকারী শব্দ কোনটি? Finger : Hand :: Leaf :",
+        "a": "Flower",
+        "b": "Twig",
+        "c": "Tree",
+        "d": "Branch",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Cardiogenic shock may be due to :",
+        "a": "Hypovolumia",
+        "b": "Neurogenic",
+        "c": "Pump failure",
+        "d": "Infection",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Ghon Focus is situated in :",
+        "a": "Peritoneum",
+        "b": "Lung",
+        "c": "Pleura",
+        "d": "Pericardium",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Simple squamous epithelium is found in :",
+        "a": "Lining of fallopian tube",
+        "b": "Endothelium",
+        "c": "Lining of gall bladder",
+        "d": "Lining of urinary blandder",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "which of the following condition is not precancerous?",
+        "a": "Cervical dysplasia",
+        "b": "Glycogen storage disease",
+        "c": "Solar keratosis of skin",
+        "d": "Ulcerative colitis",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "In which region deep, fascia is absent ?",
+        "a": "Neck",
+        "b": "Abdominal wall",
+        "c": "Sole",
+        "d": "Face",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Non cardiac causes of atrial fibrillation is :",
+        "a": "chronic kidney disease",
+        "b": "stroke",
+        "c": "Pneumonia",
+        "d": "Chronic liver disease",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "The value of lung tidal volume is :",
+        "a": "500 ml",
+        "b": "5000 ml",
+        "c": "1500 ml",
+        "d": "2000 ml",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Mycobacterium leprae has special predilection for",
+        "a": "Schwann cells",
+        "b": "Dorsal root ganglion",
+        "c": "Epithelium",
+        "d": "Lymphatics",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "which of the following occurs during reverse transcription polymerase chain reaction?",
+        "a": "Used to amplify DNA",
+        "b": "RNA is converted to DNA",
+        "c": "Proteins are converted to DNA",
+        "d": "DNA is converted to RNA",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "DNA is found in:",
+        "a": "Chromosome",
+        "b": "Lysosome",
+        "c": "Golgi complex",
+        "d": "Ribosome",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "The drug of choice for cerebral malaria is :",
+        "a": "Oral doxycycline",
+        "b": "Combination of sulphametoxazole and pyremethamine",
+        "c": "Oral quinine",
+        "d": "Injectable artesunat",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "All are functions of epithelial tissue except :",
+        "a": "Contractility",
+        "b": "Globulin synthesis",
+        "c": "Absorption",
+        "d": "Secretion",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Causes of bilateral le swelling does not always include:",
+        "a": "Kidney failure",
+        "b": "Deep vein thrombosis",
+        "c": "Hypoprotenaenia",
+        "d": "Heat failure",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Mutable risk factor of hypertension is:",
+        "a": "sex",
+        "b": "Family history",
+        "c": "Age",
+        "d": "Smoking",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Features of fibroadenoma include :",
+        "a": "Common age after 30 years",
+        "b": "Stroma is scanty",
+        "c": "Usually multiple",
+        "d": "Rectangular in shape",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "which of the following structure passes through the aortic opening of the diaphragm?",
+        "a": "Thoracic duct",
+        "b": "Vagal trunk",
+        "c": "Azygos vein",
+        "d": "Inferior venacava",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Abnormal constituent of urine is :",
+        "a": "Disodium mono hydrogen phosphate",
+        "b": "Albumin",
+        "c": "Creatinine",
+        "d": "Urea",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Male external genital organ includes:",
+        "a": "Penis",
+        "b": "Prostate",
+        "c": "Seminal vesicle",
+        "d": "Epididymis",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Pre XDR tuberculosis means:",
+        "a": "TB resistant to isoniazid, rifampicin and ciproflozacin",
+        "b": "TB resistant to inoniazid , rifampicin and pyrazinamide",
+        "c": "T B resistant to isoniazid and rifampicin",
+        "d": "TB resostant to isoniazid and ciproflozacin",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Elastic cartilage is not found in :",
+        "a": "Auricle of ear",
+        "b": "Epiphyseal plate of bone",
+        "c": "Auditroy tube",
+        "d": "Epiglottis",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Serum sodium level is:",
+        "a": "135-145 mmol/L",
+        "b": "145-155 mmol /L",
+        "c": "130-140 mmol /L",
+        "d": "125-140 mmol /L",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "X-linked recessive disorder is :",
+        "a": "Polycystic kidnmey disease",
+        "b": "Wilson's disease",
+        "c": "Alkaptonuria",
+        "d": "Hemophilia",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "karyotype of Turner syndrom is",
+        "a": "46 XX",
+        "b": "47 XXY",
+        "c": "45 XO",
+        "d": "45 XY",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Meiosis produces:",
+        "a": "4 Haploid cells",
+        "b": "2 Haploid cells",
+        "c": "4 Diploid cells",
+        "d": "2 Diploid cells",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Extracellular matrix is more in :",
+        "a": "Muscular tissue",
+        "b": "Connective tissue",
+        "c": "Narvous tissue",
+        "d": "Epithelial tissue",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Blood group antigens are :",
+        "a": "Present in the RBC Membrane",
+        "b": "Present in the plasma",
+        "c": "present in the HB molecules",
+        "d": "Present in the dense granules of platelets",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "In progressive phase of shock :",
+        "a": "Metabolic alkalosis",
+        "b": "There is wide spread tissue hypoxia",
+        "c": "Survival is not possible",
+        "d": "complete renal shutdown",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Prednisolone 5 mg is equivalent to:",
+        "a": "Dexamethasone 2mg",
+        "b": "Dexamethasone 8mg",
+        "c": "Hydrocortisone 40mg",
+        "d": "Hydrocortisone 20mg",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "In adult, the daily loss of fluid in the feces, normally is:",
+        "a": "150 ml",
+        "b": "200 ml",
+        "c": "50ml",
+        "d": "100 ml",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "which one of the following is a source of pulmonary embolism?",
+        "a": "Deep veins of leg",
+        "b": "IIiac arterics",
+        "c": "Mesentoric vein",
+        "d": "Postal vein",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Extra pyramidal lesion causes:",
+        "a": "Cog wheel rigidity",
+        "b": "Hyper reflexion of lower limb",
+        "c": "Flacid paralysis",
+        "d": "Hyper kinesia",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Extracellular structural protein is :",
+        "a": "Tubulin",
+        "b": "Gastrin",
+        "c": "Elastin",
+        "d": "Keratin",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Main seat of peripheral resistance is",
+        "a": "Venule",
+        "b": "Capillary",
+        "c": "Arteriole",
+        "d": "Metaarteriole",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Commonest cause of hepatic cirrhosis in Bangladesh is :",
+        "a": "HCV",
+        "b": "HEV",
+        "c": "HAV",
+        "d": "HBV",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "A 60 year old gentleman has been diagnosed as vitamin B12 deficiency due to pernicious anemia . which o the following is unlikely to happen?",
+        "a": "Posterioor column involvement",
+        "b": "Optic atrophy",
+        "c": "Corticospina tract involvement",
+        "d": "Seizure",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "At which of the following is responsible for carpal tunnel syndrome/",
+        "a": "Median nerve compression",
+        "b": "Radial nerve compression",
+        "c": "Axillary nerve compression",
+        "d": "Ulnar nerve compression",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Autonomic ganglion are :",
+        "a": "Cholinergic",
+        "b": "Dopaminergic",
+        "c": "Adrenergic",
+        "d": "Noradrenergic",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Clinical toxicity occurs in all of the following micro nutrients except :",
+        "a": "Fluoride",
+        "b": "Copper",
+        "c": "Iron",
+        "d": "Iodine",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Sings of upper motor neuron lesion include all except:",
+        "a": "Loss of all reflexes",
+        "b": "Planter response extensor",
+        "c": "Weakness or paralysis of limb",
+        "d": "Hypertonia of muscles",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "which disease is the mimicking anxiety disorder?",
+        "a": "Hypoglycaemia",
+        "b": "Temporal lobe epilepsy",
+        "c": "Alcohol withdrawal",
+        "d": "Hypothyroidism",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "In infants, defecation often follows a meal . The cause of colonic contractions in the situation is :",
+        "a": "The gastrocolic reflex",
+        "b": "The enterogastric reflex .",
+        "c": "Histamine",
+        "d": "Increased circulating level of CCk",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Smooth muscle is found in :",
+        "a": "Wall of blood vessel",
+        "b": "Tongue",
+        "c": "Soft palate",
+        "d": "Diaphargm",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Medial boundary of the femoral ring is formed by:",
+        "a": "Lecunar ligament",
+        "b": "Remoral vein",
+        "c": "Pectineus muscle",
+        "d": "Inguinal ligament",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Erythrocytes fetal-is may develop when :",
+        "a": "Rh (+) mother carries Rh (+) fetus",
+        "b": "Rh (-) mother carrier Rh (-) fetus",
+        "c": "Rh (+) mother carries Rh (-) fetus",
+        "d": "Rh (-) mother carries Rh (+)",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Dermis:",
+        "a": "Contain melanocytes",
+        "b": "possess keratinocytes",
+        "c": "Is a layer of epithelial tissue",
+        "d": "Is formed by connective tissue",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Heparin is :",
+        "a": "Secreted by goblet cell",
+        "b": "Found in the bone marrow",
+        "c": "A natural articoagulant",
+        "d": "An enzyme",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "which of the following type of necrosis is seen in acute myocardial infarction?",
+        "a": "Coagulative necrosis",
+        "b": "Fat necrosis",
+        "c": "Caseous necrosis",
+        "d": "Gangrenous necrosis",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "The major patho physiologic abnormality of Dengue shock syndrome is :",
+        "a": "Plasma leakage",
+        "b": "Thrombocytopenia",
+        "c": "High haematocrit",
+        "d": "Leukopenia",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Christmas disease develops due to deficiency of clotting factor :",
+        "a": "VII",
+        "b": "IZ",
+        "c": "V",
+        "d": "VII",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Drug causing increased uric acid level is:",
+        "a": "Colchichine",
+        "b": "Levofloxacin",
+        "c": "Pyrazinamide",
+        "d": "Steroid",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Drug used in 'Scabies' is:",
+        "a": "Sulfasalazine",
+        "b": "Ivermectin",
+        "c": "Permethrin",
+        "d": "Streptomycin",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Following are the causes of vertigo except:",
+        "a": "Vestibular neuritis",
+        "b": "Bell's palsy",
+        "c": "Benign positional vertigo",
+        "d": "Acoustic neuroma",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Adult polycystic kidney disease is a condition of :",
+        "a": "Autosomal dominent trait",
+        "b": "Autonormal recessive",
+        "c": "chromosomal abnormality",
+        "d": "X-linked recssive",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Superior mesentric artery supplies blood to :",
+        "a": "Gall bladder",
+        "b": "The appendix",
+        "c": "1st part of duodenum",
+        "d": "let 1/ 3rd of transverse colon",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Rh incompatibility is:",
+        "a": "Cytotoxic",
+        "b": "Delayed hypersensitivity",
+        "c": "A topic",
+        "d": "Anaphylactic",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Urinary bladder is lined by :",
+        "a": "Columm=ner epithelium",
+        "b": "Cuboidal epithelium",
+        "c": "Squamous epithelium",
+        "d": "Transitional epithelium",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Histamin causes:",
+        "a": "Vasodilatation",
+        "b": "Bradycardia",
+        "c": "Hypertension",
+        "d": "Vasoconstriction",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Neonates may be infected with all except:",
+        "a": "Malaria",
+        "b": "Shigellosis",
+        "c": "Brucellosis",
+        "d": "Hepatitis B virus",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Detrusor muscle is a muscle of",
+        "a": "Urogenital diaphragm",
+        "b": "Urinary bladder",
+        "c": "Scrotum",
+        "d": "Spermatic cord",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "During sleep, there is fall in the circulating level of hormone except :",
+        "a": "Growth hormone",
+        "b": "Insulin",
+        "c": "Adrenaline",
+        "d": "Cortisol",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Microcytic hypochrmic anemia is found in:",
+        "a": "Thalassaemia",
+        "b": "Multiple myeloma",
+        "c": "Liver disease",
+        "d": "Infective endocarditis",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Confirmatory marker for Virimic stage of Hepatitis B virus (HBV) infection is:",
+        "a": "HBV DNA",
+        "b": "Anti-HBcgG",
+        "c": "HBsAg",
+        "d": "Anti -HBs",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "The tissue macrophage is derived from :",
+        "a": "Eosinophil",
+        "b": "Helper T cell",
+        "c": "Lymphocyte",
+        "d": "Monocyte",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "which components not present in CSF?",
+        "a": "Erythrocyte",
+        "b": "Leucocyte",
+        "c": "Glucose",
+        "d": "protein",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Ovulation occurs:",
+        "a": "During the midpart of menstruation",
+        "b": "During the midpart of menstruation",
+        "c": "During female orgasm",
+        "d": "14 days after the onset of menstruation",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Insulin increases:",
+        "a": "Glycogenesis",
+        "b": "Glucong=eogenesis",
+        "c": "Lipolysis",
+        "d": "Ketogenesis",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Medial surface of brain is supplied by:",
+        "a": "Veroebrao artery",
+        "b": "porterior inferior cerebellar atery",
+        "c": "Middle cerebral arlery",
+        "d": "Anterior cerebral atery",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "clinical cyanosis is due to:",
+        "a": "Feta hemoglobin",
+        "b": "Biliverdin",
+        "c": "Adult hemoglobin",
+        "d": "Reduced hemoglobin",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Which of the following may cause hyperglycemia?",
+        "a": "ypoparathyroidism",
+        "b": "Cushing's syndrome",
+        "c": "Multiple myeloma",
+        "d": "Frusemide therapy",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Cardinal feature of atopic dermatitis is :",
+        "a": "Widespread oily skin",
+        "b": "Increased IgM level",
+        "c": "Swelling",
+        "d": "Scratching",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "BCG vaccine at birth causes :",
+        "a": "Controlled primary infection",
+        "b": "Prevention of MDR tuberculosis",
+        "c": "Prevention of primary tuberculosis",
+        "d": "Prevention of secondary tuberculosis",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "which one of the following clotting factor is called primary clotting factor?",
+        "a": "Labile factor",
+        "b": "Antehemophilic factor",
+        "c": "Fibrinogen",
+        "d": "Stable factor",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "which of the following malignancies is associated with radiation?",
+        "a": "Burkitt's lymphoma",
+        "b": "Acute lyumphoblastic leukaemia",
+        "c": "Ovarian carcinoma",
+        "d": "Maltoma",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Immediate blood transfusion reaction includes :",
+        "a": "Hypokalaemia",
+        "b": "Circulating over load",
+        "c": "Air embolism",
+        "d": "Hypercalcemia",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Which of the following crosses the ureter in the female as it approaches the uncontroversial junction?",
+        "a": "Obturator nerve",
+        "b": "Internal illiac artery",
+        "c": "ovarian artery",
+        "d": "Uterine artery",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Compared to hepatic bile , gall bladder bile contains a reduced concentration of which of the following?",
+        "a": "Protein",
+        "b": "Glucose",
+        "c": "Water",
+        "d": "Bile acids",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Parasitic infection associated with anemia is :",
+        "a": "Onchocerca volvulus",
+        "b": "Necator americanus",
+        "c": "Loa loa",
+        "d": "W. bancrofti",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "The supporting cells of nervous system is called .",
+        "a": "Ganglia",
+        "b": "Purkinjec cell",
+        "c": "Neuron",
+        "d": "Neuroglia",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Basal cell carcinoma includes:",
+        "a": "Mutation of RB gene occur",
+        "b": "Early lesions of pale translucent papules",
+        "c": "No metastasis",
+        "d": "Typically at the non sum exposure",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Plasma clearance value of glucose is :",
+        "a": "125ml /min",
+        "b": "140ml/min",
+        "c": "0ml / min",
+        "d": "75ml / min",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Milk ejection in female is caused by :",
+        "a": "Prolactin",
+        "b": "Oxytocin",
+        "c": "Oestrogen",
+        "d": "Progesterone",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "which one is false about lung?",
+        "a": "The left lung has only an o blique fissure",
+        "b": "The left lung is divided into 3 lobes",
+        "c": "Conical in shape",
+        "d": "The right lung is slightly larger than the left",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Site of absorption of vitamin B12 is :",
+        "a": "Jejunum",
+        "b": "IIeum",
+        "c": "Stomach",
+        "d": "Duodenum",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "The function of mitochondria includes :",
+        "a": "Vesicle transport",
+        "b": "Proton pump operation",
+        "c": "Anaerobic glycolysis",
+        "d": "Activation of intrinsic pathway of apoptosis",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Amout of Hb contained in late counterblast is",
+        "a": "30 pg",
+        "b": "35 pg",
+        "c": "20 pg",
+        "d": "25 pg",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Exotoxin mediated disease is :",
+        "a": "30pg",
+        "b": "35 pg",
+        "c": "20 pg",
+        "d": "25 pg",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Exotoxin mediated disease is:",
+        "a": "Kuru",
+        "b": "Nipah encephalitis",
+        "c": "Necrotizing fascitis",
+        "d": "Wegencr's gramulomatosis",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "Atherosclerosis:",
+        "a": "Is a progressive inflammatory disorder of arterial wall",
+        "b": "Involves only some blood vessels of body",
+        "c": "Begin after 40 years",
+        "d": "Charactesized by focal deposition of collgen , protein and fat",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Morphological appearance of necrosis is the result of :",
+        "a": "Mummification of cells",
+        "b": "Intra celluler alkalosis",
+        "c": "Denaturation of intracellular proteins",
+        "d": "Saponification of cells",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "The superficial inguinal ring is an opening in the :",
+        "a": "External oblique aponeurosis",
+        "b": "Fascia transversalis",
+        "c": "Internal oblique aponeurosis",
+        "d": "Conjoint tendon",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Acute heart failure may occur in",
+        "a": "Myxedema",
+        "b": "Laparomatous condition",
+        "c": "Rheumatoid arthritis",
+        "d": "Rheumatic fever",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "The rectum :",
+        "a": "Is related anteriorly to the cervix",
+        "b": "Has a venous drainage into the superior vena cava",
+        "c": "Begins infront of the 1st sacral vertebra",
+        "d": "Has a lining of stratified squamous epithelium",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Nephrotic syndrome includes:",
+        "a": "Oliguria",
+        "b": "Overt proteinuria",
+        "c": "Hematuria",
+        "d": "Hypertension",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "Which vitamin is not synthesised in body?",
+        "a": "Vit _A",
+        "b": "Biotin",
+        "c": "Vit _D",
+        "d": "Vit _ K",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Rx-39 strip test is used to diagnose:",
+        "a": "Dengue fever",
+        "b": "Tuberculosis",
+        "c": "Malaria",
+        "d": "Kala -azar",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "Causes of renal failure in multiple myeloma includes all except :",
+        "a": "Hypocalcaemia",
+        "b": "Amyloild deposition",
+        "c": "Membranous glomerulonephritis",
+        "d": "Para protein deposition",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "which of the following is a tumoros marker?",
+        "a": "CRP",
+        "b": "Ferritin",
+        "c": "PSA",
+        "d": "CS 19-9",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "নিচের কোনটি মৌলিক সংখ্যা?",
+        "a": "৪৭",
+        "b": "৮৭",
+        "c": "৯১",
+        "d": "১৪৩",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "নিচের কোনটি মৌলিক সংখ্যা?",
+        "a": "৪৭",
+        "b": "৮৭",
+        "c": "৯১",
+        "d": "১৪৩",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "ঘড়িতে ৮ টা বাজে তখন ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত ডিগ্রি হবে?",
+        "a": "৯০°",
+        "b": "৯৫°",
+        "c": "১০৫°",
+        "d": "১১০°",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "ঘড়িতে ৮ টা বাজে তখন ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত ডিগ্রি হবে?",
+        "a": "৯০°",
+        "b": "৯৫°",
+        "c": "১০৫°",
+        "d": "১১০°",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "সমুদ্রতীরে কোনটির প্রাচুর্য থাকে?",
+        "a": "নাইট্রোজেন",
+        "b": "হাইড্রোজেন",
+        "c": "অক্সিজেন",
+        "d": "ওজোন",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "মুজিবনগর সরকার কখন গঠিত হয়?",
+        "a": "১২ ই এপ্রিল , ১৯৭১",
+        "b": "১০ ই এপ্রিল, ১৯৭১",
+        "c": "১৪ ই এপ্রিল , ১৯৭১",
+        "d": "১৭ ই এপ্রিল, ১৯৭১",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "২০১৮ সালে অনুষ্ঠিত জি-সেভেন শীর্ষ সম্মেলনের পর যৌথ ঘোষণার স্বাক্ষর প্রদানে কোন দেশ বিরত ছিল?",
+        "a": "যুক্তরাষ্ট্র",
+        "b": "ফ্রান্স",
+        "c": "জার্মানি",
+        "d": "ইতালি",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "জিরোসাম গেম আন্তর্জাতিক সম্পর্কে কোন তত্ত্বের সঙ্গে সংশ্লিষ্ট?",
+        "a": "বাস্তুবাদ",
+        "b": "মার্ফ্রবাদ (মার্ক্সবাদ)",
+        "c": "গঠনবাদ",
+        "d": "উদারতাবাদ",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "ট্রাম্প-কিম শীর্ষ বৈঠকটি সিঙ্গাপুরের কোথায় অনুষ্ঠিত হয়েছিল?",
+        "a": "ইস্টানা আইল্যান্ড",
+        "b": "সেনার আয়ল্যান্ড",
+        "c": "ম্যারিনা বে",
+        "d": "সেন্তোসা",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "কোন দেশের জাতীয় সংসদ দ্বি-কক্ষ বিশিষ্ট?",
+        "a": "মিয়ানমার",
+        "b": "চীন",
+        "c": "সিঙ্গাপুর",
+        "d": "ব্রুনাই",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "বাংলাদেশের ২০১৮-‌১৯ অর্থবছরের প্রস্তাবিত বাজেটে বার্ষিক উন্নয়ন কর্মসূচির জন্য কত বরাদ্দ আছে?",
+        "a": "১,৭২,০০০ কোটি টাকা",
+        "b": "১,৭৩,০০০ কোটি টাকা",
+        "c": "১,৭০,০০০ কোটি টাকা",
+        "d": "১,৭১, ০০০ কোটি টাকা",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "বিখ্যাত 'ওয়াশিংটন কনসেনসাস ' কোন বিষয়ের সঙ্গে জড়িত ?",
+        "a": "আন্তর্জাতিক অভিবাসন নীতি",
+        "b": "নয়া উদারতাবাদী অর্থনৈতিক নীতি বাস্তবায়ন",
+        "c": "অস্ত্র নিয়ন্ত্রণ",
+        "d": "আন্তর্জাতিক সন্ত্রাসবাদ দমন",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "মুক্তিযুদ্ধের সময় নৌ-কমান্ড গঠিত হয় কোন সেক্টর নিয়ে?",
+        "a": "১০ নং সেক্টর",
+        "b": "১১ নং সেক্টর",
+        "c": "৮ নং সেক্টর",
+        "d": "৯ নং সেক্টর",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "পলাশির যুদ্ধ কবে সংঘটিত হয়েছিল?",
+        "a": "জুন ২২, ১৭৫৭",
+        "b": "জুন ২৪, ১৭৫৭",
+        "c": "জুন ২৩, ১৭৫৭",
+        "d": "জুন ২৫, ১৭৫৭",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "যুক্তরাষ্ট্রে রপ্তানি বাণিজ্যের বৃহত্তম বাজার কোথায়?",
+        "a": "ইইউ",
+        "b": "ভারত",
+        "c": "কানাডা",
+        "d": "চীন",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "আধুনিক রাষ্ট্রব্যবস্থা উদ্ভবের সময়কাল কোনটি?",
+        "a": "প্রাচীন গ্রীস সময়কাল",
+        "b": "প্রথম বিশ্বযুদ্ধ পরবর্তীকাল",
+        "c": "১৬০০-১৮০০ সাল",
+        "d": "প্রাচীন রোম শাসনকাল",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "সর্বপ্রথম কোথায় ওপেক এর সদর দপ্তর স্থাপিত হয়?",
+        "a": "জেনেভা",
+        "b": "ভিয়েনা",
+        "c": "জেদ্দা",
+        "d": "বাগদাস",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "জাতিসংঘের 'Champion of the Earth' খেতাবপ্রাপ্ত কে?",
+        "a": "হিলারি ক্লীন্টন",
+        "b": "থেরেসা মে",
+        "c": "এঞ্জেলা মার্কেল",
+        "d": "শেখ হাসিনা",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "বাংলাদেশের জিডিপিতে কৃষি খাতের (ফসল, বন , প্রাণিসম্পদ, মৎস্যসহ) অবদান কত শতাংশ ?",
+        "a": "১৪.৭৯ শতাংশ",
+        "b": "১৬ শতাংশ",
+        "c": "১২ শতাংশ",
+        "d": "১৮ শতাংশ",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "৯২ বছর বয়সী মালয়েশিয়ার প্রধানমন্ত্রী মাহাথির মোহাম্মদ-এর রাজনৈতিক জোট হচ্ছে?",
+        "a": "ইউএম এন ও",
+        "b": "বারিসান ন্যাশনাল",
+        "c": "পাটি পেরিকাতান",
+        "d": "পাকাতান -হারুপান",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "বঙ্গভঙ্গ রদ হয় কোন সালে?",
+        "a": "১৯১১ সালে",
+        "b": "১৯১২ সালে",
+        "c": "১৯০৮ সালে",
+        "d": "১৯০৯ সালে",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "জীবন থেকে নেওয়া ' চলচ্চিত্রটির পরিচালক কে?",
+        "a": "আমজাদ হোসেন",
+        "b": "আলমগীর",
+        "c": "জহির রায়হান",
+        "d": "সুভাষ দত্ত",
+        "r": "c",
+        "e": ""
+    },
+    {
+        "q": "খনার বচন' -এর মূলভাব কি?",
+        "a": "লৌকিক প্রণয়সঙ্গীত",
+        "b": "শুদ্ধ জীবনযাপন রীতি",
+        "c": "সামাজিক মঙ্গলবোধ",
+        "d": "রাষ্ট্র পরিচালনা নীতি",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "মেসোপটেমীয় সভ্যতা গড়ে উঠেছিল কোথায়?",
+        "a": "হোয়াংহো নদীর তীরে",
+        "b": "ইয়াংসিকিয়াং নদীর তীরে",
+        "c": "নীলনদের তীরে",
+        "d": "ট্রাইগ্রিস ও ইউফ্রেটিস নদীর তীরে",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "বাংলাদেশের প্রধান বিচারপতি নিয়োগ দেন কে?",
+        "a": "রাষ্ট্রপতি",
+        "b": "জাতীয় সংসদ",
+        "c": "প্রধানমন্ত্রী",
+        "d": "স্পীকার",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "বাইজেনটাইন সাম্রাজ্যের রাজধানী ছিল কোন নগরী ?",
+        "a": "লিসবন",
+        "b": "কনস্টান্টিনোপল",
+        "c": "প্যারিস",
+        "d": "ভিয়েনা",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "ফলকেটিং কোন দেশের আইন সভা?",
+        "a": "ডেনমার্ক",
+        "b": "বেলজিয়াম",
+        "c": "নরওয়ে",
+        "d": "ফিনল্যান্ড",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "Cozy Bear একটি কি?",
+        "a": "চুক্তি",
+        "b": "হ্যাকার গ্রুপ",
+        "c": "বিনোদনকেন্দ্র",
+        "d": "নদী",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "ন্যাটোর সর্বশেষ সদস্য রাষ্ট্র কোনটি?",
+        "a": "মন্টেনেগরো",
+        "b": "ফিনল্যান্ড",
+        "c": "আলবেনিয়া",
+        "d": "ক্রোয়েশিয়া",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "প্রজাতন্ত্রের নির্বাহী ক্ষমতা কার কর্তৃত্বে প্রযুক্ত হয়?",
+        "a": "প্রধানমন্ত্রী",
+        "b": "রাষ্ট্রপতি",
+        "c": "মন্ত্রী",
+        "d": "সচিব",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "ন্যাশনাল লীগ ফর ডেমোক্রেসি কোন দেশের রাজনৈতিক দল?",
+        "a": "মালয়েশিয়া",
+        "b": "মিয়ানমার",
+        "c": "ভারত",
+        "d": "থাইল্যান্ড",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "মায়া সভ্যতা বিশ্বের কোন অঞ্চলে বিরাজমান ছিল?",
+        "a": "পূর্ব এশিয়া",
+        "b": "মধ্য আমেরিকা",
+        "c": "মধ্যপ্রাচ্য",
+        "d": "পূর্ব আফ্রিকা",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "সাম্প্রতিক কাতার সংকটের সময় কোন দেশটি কাতারের সাথে কূটনৈতিক সম্পর্ক ছিন্ন করে নাই?",
+        "a": "বাহরাইন",
+        "b": "সংযুক্ত আরব আমিরাত",
+        "c": "মিশর",
+        "d": "কুয়েত",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "কোন বিদেশী পত্রিকা বঙ্গবন্ধুকে 'রাজনীতির কবি' উপাধি দিয়েছিলেন?",
+        "a": "নিউজ উইরুল (উইকস)",
+        "b": "দি ইকনমিস্ট",
+        "c": "টাইম",
+        "d": "গার্ডিয়ান",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "১৯৪৫ সালে প্রতিষ্ঠাকালীন সময়ে জাতসিংঘের মোট কতটি সদস্য রাষ্ট্র ছিল?",
+        "a": "৫০",
+        "b": "৫১",
+        "c": "৪৮",
+        "d": "৪৯",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "বাংলাদেশের সংবিধানে মোট কয়টি তফসিল আছে?",
+        "a": "৭টি",
+        "b": "৮টি",
+        "c": "৫টি",
+        "d": "৬টি",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "২০১৮ সালের বিশ্ব পরিবেশ দিবসের প্রতিপাদ্য বিষয় কোনটি?",
+        "a": "জলবায়ু উষ্ণতা প্রতিরোধ তহবিল গড়ি",
+        "b": "প্লাস্টিক দূষণকে পরাজিত করি",
+        "c": "সবুজ বিশ্ব গড়ে তুলি",
+        "d": "জলবায়ু উষ্ণতাকে রুখে দেই",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "বাংলাদেশের প্রধানমন্ত্রী হবার ন্যূনতম বয়স কত?",
+        "a": "৩৫ বছর",
+        "b": "২৫ বছর",
+        "c": "২০ বছর",
+        "d": "৩০ বছর",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "কোন সালে হিটলার জার্মান চ্যান্সেলর নিযুক্ত হন?",
+        "a": "১৯৩৩",
+        "b": "১৯৩৪",
+        "c": "১৯৩১",
+        "d": "১৯৩২",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "নির্বাহী বিভাগ থেকে বিচার বিভাগ পৃথক করার বিষয়টি সংবিধানের কোন অনুচ্ছেদে উল্লেখ রয়েছে?",
+        "a": "অনুচ্ছেদ ২৩",
+        "b": "অনুচ্ছেদ ২৪",
+        "c": "অনু্চ্ছেদ ২১",
+        "d": "অনুচ্ছেদ ২২",
+        "r": "d",
+        "e": ""
+    },
+    {
+        "q": "বাংলাদেশের ২০১৮-১৯ অর্থবছরে বাজেটে জিডিপির প্রক্ষেপিত প্রবৃদ্ধির হার কত?",
+        "a": "৭.৮০ শতাংশ",
+        "b": "৮.০০ শতাংশ",
+        "c": "৭.২৮ শতাংশ",
+        "d": "৭.৬৫ শতাংশ",
+        "r": "a",
+        "e": ""
+    },
+    {
+        "q": "সরল' শব্দের বিপরীতার্থক নয় নিচের কোনটি?",
+        "a": "বক্র",
+        "b": "গরল",
+        "c": "কুটিল",
+        "d": "জটিল",
+        "r": "b",
+        "e": ""
+    },
+    {
+        "q": "নিচের কোনটি মৌলিক সংখ্যা?",
+        "a": "৪৭",
+        "b": "৮৭",
+        "c": "৯১",
+        "d": "১৪৩",
+        "r": "a"
+    }
+]
