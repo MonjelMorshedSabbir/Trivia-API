@@ -3,42 +3,42 @@
     "q":[
         {
             "n": "Physics",
-            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132987385894948904/physics.webp",
+            "i": "https://cdn.discordapp.com/attachments/1132966713416237056/1163404146880282684/ph1.jfif",
             "fn": "Physics"
         },
         {
             "n": "Chemistry",
-            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132993664243744850/chemistry.jpg",
+            "i": "https://cdn.discordapp.com/attachments/1132966713416237056/1163404148071465031/ch3.jfif",
             "fn": "Chemistry"
         },
         {
             "n": "Biology",
-            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132987383915237407/biology.jpg",
+            "i": "https://cdn.discordapp.com/attachments/1132966713416237056/1163404147719147561/b4.jfif",
             "fn": "Biology"
         },
         {
             "n": "Mathematics",
-            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132987385613914132/math.jpg",
+            "i": "https://cdn.discordapp.com/attachments/1132966713416237056/1163404149405274122/m3.jfif",
             "fn": "Mathematics"
         },
         {
             "n": "Earth Science",
-            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132987384993173604/earth.jpg",
+            "i": "https://cdn.discordapp.com/attachments/1132966713416237056/1163404149069709403/es2.jfif",
             "fn": "EarthScience"
         },
         {
             "n": "Astronomy",
-            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132987386310172692/astronomy.jpg",
+            "i": "https://cdn.discordapp.com/attachments/1132966713416237056/1163404147354259476/as4.jfif",
             "fn": "Astronomy"
         },
         {
             "n": "Environmental Science",
-            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132987385353871430/environmental.jpg",
+            "i": "https://cdn.discordapp.com/attachments/1132966713416237056/1163404148738363443/ens1.jfif",
             "fn": "EnvironmentalScience"
         },
         {
             "n": "Computer Science",
-            "i": "https://media.discordapp.net/attachments/1132966713416237056/1132993664638005268/computer.jpg",
+            "i": "https://cdn.discordapp.com/attachments/1132966713416237056/1163404148411224105/cs1.jfif",
             "fn": "ComputerScience"
         }        
     ]
