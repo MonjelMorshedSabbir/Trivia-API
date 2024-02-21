@@ -1,12 +1,20 @@
 [
     {
-        "note":"validityMillis 0 means infinity || ",
+        "note": "validityMillis 0 means infinity || ",
         "studyKey": "SABBIRNOADS",
         "title": "",
         "message": "এড ফ্রী এক্সপেরিয়েন্স অফার্ড বাইঃ মোনজেল মোর্শেদ সাব্বির (৩০ জুন ২০২৪ পর্যন্ত)",
         "apiURL": "https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories.json",
         "ads": false,
         "validityMillis": 1719684000000
+    },
+    {
+        "studyKey": "AD-FREE-FEB",
+        "title": "",
+        "message": "",
+        "apiURL": "https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories.json",
+        "ads": false,
+        "validityMillis": 1709143200000
     },
     {
         "studyKey": "SLOW-DOWN",
