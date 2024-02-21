@@ -9,7 +9,7 @@
         "validityMillis": 1719684000000
     },
     {
-        "studyKey": "SLOWDOWN",
+        "studyKey": "SLOW-DOWN",
         "title": "Disturbing slow API",
         "message": "Developer says: This API will not respond smoothly, remove it as soon as possible!",
         "apiURL": "https://mms-studio.000webhostapp.com/Confedencial%20Folder/Trivia%20World/Fields.json",
