@@ -1,0 +1,19 @@
+[
+    {
+        "note":"validityMillis 0 means infinity || ",
+        "studyKey": "SABBIR-NO-ADS",
+        "title": "",
+        "message": "এড ফ্রী এক্সপেরিয়েন্স অফার্ড বাইঃ মোনজেল মোর্শেদ সাব্বির (ডেভেলপার)",
+        "apiURL": "https://mms-studio.000webhostapp.com/Confedencial%20Folder/Trivia%20World/Fields.json",
+        "ads": true,
+        "validityMillis": 0
+    },
+    {
+        "studyKey": "SLOW-DOWN",
+        "title": "Disturbing slow API",
+        "message": "Developer says: This API will not respond smoothly, remove it as soon as possible!",
+        "apiURL": "https://mms-studio.000webhostapp.com/Confedencial%20Folder/Trivia%20World/Fields.json",
+        "ads": true,
+        "validityMillis": 0
+    }
+]
