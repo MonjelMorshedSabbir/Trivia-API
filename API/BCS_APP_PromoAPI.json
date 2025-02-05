@@ -5,22 +5,22 @@
             "type":"",
             "title":"",
             "packageName":"",
-            "webURL":"if type == web/not_app it will get and launch || If 'type' is empty it will not added/shown in application",
+            "webURL":"if type == 'WEB'/not 'APP' it will get and launch || If 'type' is empty it will not added/shown in application",
             "logoURL":""
         },
         {
             "type":"APP",
             "title":"নিজের প্রস্তুতি যাচাই করুন ট্রিভিয়া ওয়ার্ল্ড এর মাধ্যমে",
             "packageName":"com.mrmms.triviaworld",
-            "webURL":"if type == web/not_app it will get and launch || If 'type' is empty it will not added/shown in application",
-            "logoURL":"https://play-lh.googleusercontent.com/VPN4uNVUI45CvrLGutVfDRxTSpN80z4MP_YuGZRDDzJLOw3E737FA3efFvCqTs0DkZs=s48-rw"
+            "webURL":"",
+            "logoURL":"https://play-lh.googleusercontent.com/VPN4uNVUI45CvrLGutVfDRxTSpN80z4MP_YuGZRDDzJLOw3E737FA3efFvCqTs0DkZs=w240-h480-rw"
         },
         {
-            "type":"WEB",
-            "title":"Portfolio",
-            "packageName":"",
-            "webURL":"https://sabbirmms.github.io/portfolio",
-            "logoURL":""
+            "type":"APP",
+            "title":"৫০ হাজারের বেশি ভোকাবুলারি শিখুন 'Bn En: ভোকাবুলারি' তে",
+            "packageName":"com.mrmms.etobdictionary",
+            "webURL":"",
+            "logoURL":"https://play-lh.googleusercontent.com/2EShaOKibMgF71KfnrkkPtE0Dq2Tb5EmQp9uI-FgVJrtu0Xc0ZapeVh8-oxWkwgV1g=w240-h480-rw"
         }
     ]
 }
