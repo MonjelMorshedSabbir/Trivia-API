@@ -1,85 +1,85 @@
 {
-    "Main_S_URl":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/",
-    "S":[
+    "Main_S_URl": "https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/",
+    "S": [
         {
             "n": "BCS Question Bank",
-            "i": "https://i.postimg.cc/tgwtC62p/BCS-CAts.png",
+            "i": "📚",
             "fn": "BCS"
         },
         {
             "n": "Science",
-            "i": "https://i.postimg.cc/BnRvPV77/cat2-Science.jpg",
+            "i": "🔬",
             "fn": "Science"
         },
         {
             "n": "Commerce",
-            "i": "https://i.postimg.cc/8CWzRmqp/cat3-Commerce.jpg",
+            "i": "💼",
             "fn": "Commerce"
         },
         {
             "n": "Computer Science",
-            "i": "https://i.postimg.cc/85mk3Ppx/cat4-Computer-Science.jpg",
+            "i": "💻",
             "fn": "ComputerScience"
         },
         {
             "n": "Religious Studies",
-            "i": "https://i.postimg.cc/0j55qRrj/cat5-Religious-Studies.jpg",
+            "i": "🙏",
             "fn": "Religious"
         },
         {
             "n": "Politics and Government",
-            "i": "https://i.postimg.cc/qRTMjCT8/cat6-Politics-Government.jpg",
+            "i": "🏛️",
             "fn": "PoliticsAndGovernment"
         },
         {
             "n": "Global Studies",
-            "i": "https://i.postimg.cc/PJ6XX384/cat7-Global-Studies.jpg",
+            "i": "🌍",
             "fn": "GlobalStudies"
         },
         {
             "n": "History",
-            "i": "https://i.postimg.cc/qMRBbT9Z/cat8-History.png",
+            "i": "📜",
             "fn": "History"
         },
         {
             "n": "Mathematics",
-            "i": "https://i.postimg.cc/BnPS3CZT/cat9-Mathematics.jpg",
+            "i": "➗",
             "fn": "Mathematics"
         },
         {
             "n": "Language and Literature",
-            "i": "https://i.postimg.cc/VNyYkb53/cat10-Language-Literature.jpg",
+            "i": "✍️",
             "fn": "LanguageAndLiterature"
         },
         {
             "n": "Social Sciences",
-            "i": "https://i.postimg.cc/Pxyhy3Kj/cat11-Social-Science.jpg",
+            "i": "👥",
             "fn": "SocialSciences"
         },
         {
             "n": "Arts and Humanities",
-            "i": "https://i.postimg.cc/pdDPhXFy/cat12-Arts-Humanitics.jpg",
+            "i": "🎨",
             "fn": "ArtsAndHumanities"
         },
         {
             "n": "Environmental Studies",
-            "i": "https://i.postimg.cc/gJmmvFVs/cat13-Environmental-Studies.jpg",
+            "i": "🌱",
             "fn": "EnvironmentalStudies"
         },
         {
             "n": "Economics",
-            "i": "https://i.postimg.cc/gj0pTVB6/cat14-Economics.jpg",
+            "i": "💰",
             "fn": "Economics"
         },
         {
             "n": "Psychology",
-            "i": "https://i.postimg.cc/c4rZ7cnp/cat15-Phychology.jpg",
+            "i": "🧠",
             "fn": "Psychology"
         },
         {
             "n": "Health and Medicine",
-            "i": "https://i.postimg.cc/QCnDGFRY/cat16-Health-Medicine.jpg",
+            "i": "⚕️",
             "fn": "HealthAndMedicine"
         }
-    ]    
+    ]
 }

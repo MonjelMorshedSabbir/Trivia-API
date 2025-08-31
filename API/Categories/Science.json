@@ -1,45 +1,45 @@
 {
-    "Main_URL":"https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/Science/",
-    "q":[
+    "Main_URL": "https://monjelmorshedsabbir.github.io/Trivia-API/API/Categories/Science/",
+    "q": [
         {
             "n": "Physics",
-            "i": "https://i.postimg.cc/vmXr5nkN/1-1-Physics.jpg",
+            "i": "⚛️",
             "fn": "Physics"
         },
         {
             "n": "Chemistry",
-            "i": "https://i.postimg.cc/fbM73C2d/1-2-Chemistry.jpg",
+            "i": "🧪",
             "fn": "Chemistry"
         },
         {
             "n": "Biology",
-            "i": "https://i.postimg.cc/Jn2j2L13/1-3-Biology.jpg",
+            "i": "🧬",
             "fn": "Biology"
         },
         {
             "n": "Mathematics",
-            "i": "https://i.postimg.cc/23phC7LV/1-4-Mathematics.jpg",
+            "i": "➗",
             "fn": "Mathematics"
         },
         {
             "n": "Earth Science",
-            "i": "https://i.postimg.cc/FRRjpRQs/1-5-Earth-Science.jpg",
+            "i": "🌍",
             "fn": "EarthScience"
         },
         {
             "n": "Astronomy",
-            "i": "https://i.postimg.cc/WpxHDRMJ/1-6-Astronomy.jpg",
+            "i": "🔭",
             "fn": "Astronomy"
         },
         {
             "n": "Environmental Science",
-            "i": "https://i.postimg.cc/mk17x5Dv/1-7-Environmental-Science.jpg",
+            "i": "🌱",
             "fn": "EnvironmentalScience"
         },
         {
             "n": "Computer Science",
-            "i": "https://i.postimg.cc/dtdSrWBN/1-8-Computer-Science.jpg",
+            "i": "💻",
             "fn": "ComputerScience"
-        }        
+        }
     ]
 }
