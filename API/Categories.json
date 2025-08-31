@@ -4,82 +4,98 @@
         {
             "n": "BCS Question Bank",
             "i": "📚",
-            "fn": "BCS"
+            "fn": "BCS",
+            "subTitle": "10th to 46th"
         },
         {
             "n": "Science",
             "i": "🔬",
-            "fn": "Science"
+            "fn": "Science",
+            "subTitle": "Physics, Chemistry, Biology"
         },
         {
             "n": "Commerce",
             "i": "💼",
-            "fn": "Commerce"
+            "fn": "Commerce",
+            "subTitle": "Business & Trade"
         },
         {
             "n": "Computer Science",
             "i": "💻",
-            "fn": "ComputerScience"
+            "fn": "ComputerScience",
+            "subTitle": "Programming & IT"
         },
         {
             "n": "Religious Studies",
             "i": "🙏",
-            "fn": "Religious"
+            "fn": "Religious",
+            "subTitle": "Faith & Beliefs"
         },
         {
             "n": "Politics and Government",
             "i": "🏛️",
-            "fn": "PoliticsAndGovernment"
+            "fn": "PoliticsAndGovernment",
+            "subTitle": "Policy & Governance"
         },
         {
             "n": "Global Studies",
             "i": "🌍",
-            "fn": "GlobalStudies"
+            "fn": "GlobalStudies",
+            "subTitle": "World Affairs"
         },
         {
             "n": "History",
             "i": "📜",
-            "fn": "History"
+            "fn": "History",
+            "subTitle": "Past Events"
         },
         {
             "n": "Mathematics",
             "i": "➗",
-            "fn": "Mathematics"
+            "fn": "Mathematics",
+            "subTitle": "Numbers & Logic"
         },
         {
             "n": "Language and Literature",
             "i": "✍️",
-            "fn": "LanguageAndLiterature"
+            "fn": "LanguageAndLiterature",
+            "subTitle": "Books & Writings"
         },
         {
             "n": "Social Sciences",
             "i": "👥",
-            "fn": "SocialSciences"
+            "fn": "SocialSciences",
+            "subTitle": "Society & Culture"
         },
         {
             "n": "Arts and Humanities",
             "i": "🎨",
-            "fn": "ArtsAndHumanities"
+            "fn": "ArtsAndHumanities",
+            "subTitle": "Art & Philosophy"
         },
         {
             "n": "Environmental Studies",
             "i": "🌱",
-            "fn": "EnvironmentalStudies"
+            "fn": "EnvironmentalStudies",
+            "subTitle": "Nature & Ecology"
         },
         {
             "n": "Economics",
             "i": "💰",
-            "fn": "Economics"
+            "fn": "Economics",
+            "subTitle": "Money & Markets"
         },
         {
             "n": "Psychology",
             "i": "🧠",
-            "fn": "Psychology"
+            "fn": "Psychology",
+            "subTitle": "Mind & Behavior"
         },
         {
             "n": "Health and Medicine",
             "i": "⚕️",
-            "fn": "HealthAndMedicine"
+            "fn": "HealthAndMedicine",
+            "subTitle": "Wellness & Care"
         }
     ]
 }
